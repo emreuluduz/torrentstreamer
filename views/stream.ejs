@@ -1,0 +1,68 @@
+<html>
+
+<head>
+</head>
+
+<body>
+    <div id="player"></div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="/javascripts/js-cookie.js"></script>
+    <script src="https://content.jwplatform.com/libraries/6HXwejUF.js"></script>
+    <script>
+        $(document).ready(function () {
+            var player = jwplayer('player');
+            player.setup({
+                "playlist": [{
+                    "sources": [
+                        {
+                            "file": "/movies/getstream/<%= hash %>",
+                            "type": "video/mp4",
+                            "label": "720P"
+                        }],
+                    "tracks": [{
+                        file: '/subs/<%= slug %>/<%= slug %>.srt',
+                        kind: "subtitles",
+                        label: "Türkçe",
+                        "default": true
+                    }]
+                }],
+                height: 360,
+                width: 720,
+                skin: {
+                    name: "bekle",
+                    active: "grey",
+                    inactive: "white",
+                    background: "black"
+                }
+            });
+            jwplayer().setCaptions({ "color": "#ffffff", "backgroundColor": "#000000", "fontSize": 16 });
+
+            player.on('time', function (e) {
+                $.cookie('<%= slug %>' + '_cookie', Math.floor(e.position) + ':' + player.getDuration());
+                //console.log(Math.floor(e.position) + ':' + player.getDuration());
+            });
+
+            player.on('ready', function () {
+                var cookieData = $.cookie('<%= slug %>' + '_cookie');
+                if (cookieData) {
+                    var resumeAt = cookieData.split(':')[0],
+                        videoDur = cookieData.split(':')[1];
+                    if (parseInt(resumeAt) < parseInt(videoDur)) {
+                        player.seek(resumeAt);
+                        player.pause();
+                        console.log('Resuming at ' + resumeAt); //for demo purposes
+                    }
+                    else if (cookieData && !(parseInt(resumeAt) < parseInt(videoDur))) {
+                        console.log('Video ended last time! Will skip resume behavior'); //for demo purposes
+                    }
+                }
+                else {
+                    console.log('No video resume cookie detected. Refresh page.');
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
