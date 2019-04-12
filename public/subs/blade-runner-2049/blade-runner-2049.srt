@@ -1,0 +1,4577 @@
+1
+00:00:06,000 --> 00:00:12,074
+www.OpenSubtitles.org ile bugün baðlantý kurun ve ürününüzün ya da markanýzýn reklamýný burada yapýn.
+
+2
+00:00:49,347 --> 00:00:52,844
+<i>Kopyalar, Tyrell Þirketi tarafýndan,
+Dünya dýþýnda...</i>
+
+3
+00:00:52,869 --> 00:00:55,960
+<i>...kullanýlmak için üretilmiþ
+biyomühendislik ürünü insanlardýr.</i>
+
+4
+00:00:55,985 --> 00:01:00,246
+<i>Ýnsanüstü kuvvetli olmalarý, köle olarak
+çalýþtýrýlmalarýna neden olmuþtur.</i>
+
+5
+00:01:00,326 --> 00:01:03,871
+<i>Bir dizi þiddet olaylarýndan sonra...</i>
+
+6
+00:01:03,896 --> 00:01:09,077
+<i>...üretimleri yasaklanmýþ
+ve Tyrell Þirketi iflas etmiþtir.</i>
+
+7
+00:01:09,246 --> 00:01:12,912
+<i>2020'lerin ortasýnda yaþanan
+birçok ekosistemin çöküþü...</i>
+
+8
+00:01:12,937 --> 00:01:16,401
+<i>...sentetik tarýmla
+kýtlýðýn önüne geçen...</i>
+
+9
+00:01:16,426 --> 00:01:20,114
+<i>...fabrikatör Niander Wallace'ýn
+yükselmesini saðlamýþtýr.</i>
+
+10
+00:01:20,139 --> 00:01:24,287
+<i>Wallace, Tyrell Þirketi'nden
+geriye kalanlarý satýn alýp...</i>
+
+11
+00:01:24,312 --> 00:01:28,027
+<i>...itaat eden
+yeni seri Kopyalar yaratmýþtýr.</i>
+
+12
+00:01:28,538 --> 00:01:32,370
+<i>Nexus 8'ler gibi yaþam süresi kýsýtlý
+olmayan birçok eski model Kopyalar...</i>
+
+13
+00:01:32,395 --> 00:01:36,168
+<i>...hayatta kalmýþtýr. Bu Kopyalar
+avlanýp emekliye ayýrýlmaktadýrlar.</i>
+
+14
+00:01:36,193 --> 00:01:39,496
+<i>Onlarý avlayanlarýn ismi hâlâ...</i>
+
+15
+00:01:39,521 --> 00:01:45,427
+<i>...Blade Runner.</i>
+
+16
+00:01:59,664 --> 00:02:05,664
+<b>Çeviri: hasangdr & x@nder & Begüm Özdemir</b>
+
+17
+00:05:40,482 --> 00:05:42,678
+Direkt içeri girmem
+sorun olmaz umarým.
+
+18
+00:05:46,238 --> 00:05:47,904
+Ýçeri pislik taþýnmasýn diye...
+
+19
+00:05:48,580 --> 00:05:50,278
+...dikkatli davranmýþtým.
+
+20
+00:05:51,693 --> 00:05:53,026
+Pislik sorun olmaz.
+
+21
+00:05:55,370 --> 00:05:56,623
+Beklenmedik misafirler...
+
+22
+00:05:58,180 --> 00:05:59,549
+...sorun olur ama.
+
+23
+00:06:03,341 --> 00:06:04,396
+Polis misin?
+
+24
+00:06:06,472 --> 00:06:07,843
+Sapper Morton sen misin?
+
+25
+00:06:08,365 --> 00:06:11,172
+Kimlik numarasý NK68514 olan?
+
+26
+00:06:11,197 --> 00:06:12,422
+Çiftçiyim.
+
+27
+00:06:13,412 --> 00:06:14,484
+Gördüm.
+
+28
+00:06:15,460 --> 00:06:16,812
+Ne yetiþtiriyorsun?
+
+29
+00:06:24,473 --> 00:06:25,958
+Protein çiftliði burasý.
+
+30
+00:06:26,933 --> 00:06:28,060
+Wallace model.
+
+31
+00:06:30,562 --> 00:06:31,865
+Bu konu onun mu?
+
+32
+00:06:32,902 --> 00:06:34,591
+Onu kendim için yetiþtiriyorum.
+
+33
+00:06:35,639 --> 00:06:37,943
+- Sarýmsak.
+- Sarýmsak demek.
+
+34
+00:06:38,930 --> 00:06:40,192
+Tatmak ister misin?
+
+35
+00:06:41,595 --> 00:06:42,802
+Sað olasýn, almayayým.
+
+36
+00:06:45,093 --> 00:06:49,115
+Günün zor kýsmý tamamlanana kadar
+midemi boþ tutmayý yeðliyorum.
+
+37
+00:06:51,968 --> 00:06:53,560
+Ne zamandýr buradasýn?
+
+38
+00:06:53,792 --> 00:06:55,380
+2020'den beri.
+
+39
+00:06:56,602 --> 00:06:58,919
+Hep çiftçilik yapmýyordun deðil mi?
+
+40
+00:07:01,132 --> 00:07:02,302
+Çantan.
+
+41
+00:07:02,910 --> 00:07:04,794
+Koloni sýhhiyesi için.
+
+42
+00:07:05,202 --> 00:07:06,662
+Askeriye malý.
+
+43
+00:07:09,274 --> 00:07:12,125
+Neredeydin?
+Calantha mý?
+
+44
+00:07:16,466 --> 00:07:17,935
+Çetin bir yer olmalý.
+
+45
+00:07:18,728 --> 00:07:20,458
+Beni tutuklamaya mý geldin?
+
+46
+00:07:23,670 --> 00:07:25,122
+Ýçime bakmaya?
+
+47
+00:07:25,838 --> 00:07:26,919
+Bay Morton...
+
+48
+00:07:28,239 --> 00:07:30,318
+...sizi tutuklama seçeneði olsaydý...
+
+49
+00:07:34,941 --> 00:07:37,435
+...bu alternatifi seçmeyi
+çok isterdim.
+
+50
+00:07:39,047 --> 00:07:41,544
+Bir gün birinin geleceðini
+biliyordunuz kesin.
+
+51
+00:07:43,985 --> 00:07:45,872
+Ben olduðum için üzgünüm.
+
+52
+00:07:49,773 --> 00:07:50,916
+Fark etmez.
+
+53
+00:07:54,611 --> 00:07:55,369
+Þimdi...
+
+54
+00:07:56,380 --> 00:07:57,802
+...sakýncasý yoksa...
+
+55
+00:07:58,991 --> 00:08:01,910
+...yukarýya ve sola bakýn lütfen.
+
+56
+00:08:58,798 --> 00:09:00,207
+Kalkma lütfen.
+
+57
+00:09:11,687 --> 00:09:14,900
+Kendi türünü öldürmek
+nasýl bir duygu?
+
+58
+00:09:18,675 --> 00:09:21,962
+Kendi türümü emekliye ayýrmýyorum
+çünkü biz bir yere kaçmýyoruz.
+
+59
+00:09:24,047 --> 00:09:25,816
+Sadece eski modeller kaçýyor.
+
+60
+00:09:25,841 --> 00:09:30,563
+Siz yeni modeller, pislik temizlemekten
+baþka bir þey bilmiyorsunuz.
+
+61
+00:09:35,061 --> 00:09:37,750
+Çünkü daha önce hiç mucize görmediniz.
+
+62
+00:10:18,844 --> 00:10:20,823
+Her þeyin fotoðrafýný çek.
+
+63
+00:10:32,589 --> 00:10:34,623
+Yüzbaþý'ya baðlan.
+
+64
+00:10:34,648 --> 00:10:37,927
+<i>Þifreli LAPD baðlantýsý kuruluyor.</i>
+
+65
+00:10:40,559 --> 00:10:43,443
+<i>Yaralanmýþsýn.
+Parasýný vermem.</i>
+
+66
+00:10:44,349 --> 00:10:46,380
+- Yapýþtýrýrým.
+- Sonuç?
+
+67
+00:10:52,533 --> 00:10:54,473
+<i>Nexus 8'lerin son serisinden biriymiþ.</i>
+
+68
+00:10:54,575 --> 00:10:56,489
+<i>Kafaný kopartabilecek birine
+benziyor.</i>
+
+69
+00:10:57,311 --> 00:10:58,263
+<i>Kopartmaya çalýþtý.</i>
+
+70
+00:10:58,288 --> 00:11:00,435
+<i>Calantha'dan sonra
+kaçak yaþamaya baþlamýþ.</i>
+
+71
+00:11:00,630 --> 00:11:03,169
+<i>Ekibinde ilgilenmemiz gereken
+birkaç kiþi daha var.</i>
+
+72
+00:11:04,223 --> 00:11:06,107
+- Sadece o mu vardý?
+- Sadece o.
+
+73
+00:11:07,073 --> 00:11:08,762
+<i>Temel itaat testin için üsse dön.</i>
+
+74
+00:11:13,084 --> 00:11:14,357
+Bir saniye Yüzbaþým.
+
+75
+00:12:02,601 --> 00:12:04,619
+Maksimum derinliði 30 metre yap.
+
+76
+00:12:20,665 --> 00:12:21,724
+<i>Nedir o?</i>
+
+77
+00:12:27,456 --> 00:12:28,956
+<i>Kazý ekibi yolluyorum.</i>
+
+78
+00:12:30,313 --> 00:12:31,925
+<i>Fýrtýnadan önce geri dön.</i>
+
+79
+00:13:49,964 --> 00:13:53,716
+<i>Memur KD6-3.7, baþlayalým hadi.</i>
+
+80
+00:13:53,741 --> 00:13:55,204
+<i>- Hazýr mýsýn?
+- Evet, efendim.</i>
+
+81
+00:13:56,931 --> 00:13:58,243
+<i>Temel itaat verilerini söyle.</i>
+
+82
+00:13:58,416 --> 00:14:01,348
+<i>Ve koyu kýrmýzý hiçlik harekete geçti.</i>
+
+83
+00:14:03,404 --> 00:14:06,126
+<i>Bir grup hücre,
+hücrelerin içindeki hücrelerin...</i>
+
+84
+00:14:06,151 --> 00:14:09,447
+<i>...içindeki hücrelerin içindeki
+bir kök ile baðlandý.</i>
+
+85
+00:14:09,472 --> 00:14:10,891
+Amýna koyduðumunun Yaratýk'ý!
+
+86
+00:14:12,722 --> 00:14:17,219
+<i>Beyaz uzun bir kaynak olarak karanlýktan
+korkunç bir þekilde belli oluyordu.</i>
+
+87
+00:14:18,864 --> 00:14:20,157
+- Hücreler.
+- Hücreler.
+
+88
+00:14:20,182 --> 00:14:22,029
+<i>Bir kuruma gittin mi hiç?</i>
+
+89
+00:14:22,054 --> 00:14:23,279
+- Hücreler.
+- Hücreler.
+
+90
+00:14:23,304 --> 00:14:24,536
+<i>Seni hücrede mi tutuyorlar?</i>
+
+91
+00:14:24,561 --> 00:14:25,771
+- Hücreler.
+- Hücreler.
+
+92
+00:14:25,796 --> 00:14:28,763
+<i>Görevini yerine getirmediðinde
+seni küçük bir kutuya mý koyuyorlar?</i>
+
+93
+00:14:28,788 --> 00:14:29,911
+- Hücreler.
+- Hücreler.
+
+94
+00:14:29,936 --> 00:14:31,827
+- Baðlandý.
+- Baðlandý.
+
+95
+00:14:31,852 --> 00:14:33,668
+<i>Sevdiðin birinin elini tutmak
+nasýl bir duygu?</i>
+
+96
+00:14:33,693 --> 00:14:35,161
+- Baðlandý.
+- Baðlandý.
+
+97
+00:14:35,186 --> 00:14:37,026
+<i>Parmaklarýnla nasýl hissedeceðini
+öðrettiler mi?</i>
+
+98
+00:14:37,051 --> 00:14:38,396
+- Baðlandý.
+- Baðlandý.
+
+99
+00:14:38,421 --> 00:14:40,112
+<i>Kalbinin baðlanmasýný arzuluyor musun?</i>
+
+100
+00:14:40,137 --> 00:14:41,488
+- Baðlandý.
+- Baðlandý.
+
+101
+00:14:41,513 --> 00:14:43,200
+<i>Baðlanmayý düþlüyor musun?</i>
+
+102
+00:14:43,225 --> 00:14:44,069
+Baðlandý.
+
+103
+00:14:44,094 --> 00:14:45,858
+<i>Kucaðýna çocuðunu almak
+nasýl bir duygu?</i>
+
+104
+00:14:45,883 --> 00:14:47,191
+- Baðlandý.
+- Baðlandý.
+
+105
+00:14:47,216 --> 00:14:48,949
+<i>Bir yanýn eksikmiþ gibi
+hissediyor musun?</i>
+
+106
+00:14:48,974 --> 00:14:50,160
+- Baðlandý.
+- Baðlandý.
+
+107
+00:14:50,185 --> 00:14:52,855
+<i>- Hücrelerin içindekiyle baðlandý.
+- Hücrelerin içindekiyle baðlandý.</i>
+
+108
+00:14:52,880 --> 00:14:55,277
+Üç kere "Hücrelerin içindekiyle
+baðlandý." de.
+
+109
+00:14:55,302 --> 00:14:58,313
+Hücrelerin içindekiyle baðlandý.
+Hücrelerin içindekiyle baðlandý.
+
+110
+00:14:58,338 --> 00:15:00,102
+Hücrelerin içindekiyle baðlandý.
+
+111
+00:15:03,187 --> 00:15:04,154
+<i>Bitti.</i>
+
+112
+00:15:06,150 --> 00:15:07,410
+<i>Ayný K.</i>
+
+113
+00:15:08,347 --> 00:15:09,824
+<i>Bonusunu alabilirsin.</i>
+
+114
+00:15:11,455 --> 00:15:12,521
+Teþekkür ederim efendim.
+
+115
+00:15:13,062 --> 00:15:15,302
+<i>Dikkat!
+Kenara çekilin.</i>
+
+116
+00:15:16,277 --> 00:15:18,099
+<i>Dikkat!
+Kenara çekilin.</i>
+
+117
+00:15:19,318 --> 00:15:20,490
+<i>Dikkat!</i>
+
+118
+00:15:21,311 --> 00:15:24,993
+<i>Ýstediðiniz yerden istediðiniz zaman
+Dünya dýþýndaki kolonilere baðlantý kurun.</i>
+
+119
+00:15:25,018 --> 00:15:27,505
+<i>Konuþma paketi
+20. dakikada baþlýyor.</i>
+
+120
+00:15:34,054 --> 00:15:37,324
+<i>Joi, istediðiniz yere gidebilir.</i>
+
+121
+00:15:37,881 --> 00:15:41,600
+<i>Ýstediðiniz yerden istediðiniz zaman
+Dünya dýþýndaki kolonilere baðlantý kurun.</i>
+
+122
+00:15:48,293 --> 00:15:51,178
+<b>Nasýlsýn yakýþýklý teneke asker?</b>
+
+123
+00:15:51,203 --> 00:15:55,179
+<b>Bu saatte mi geliyorsun aptal þey?</b>
+
+124
+00:15:55,204 --> 00:15:56,789
+<b>Burada eþek baþý mý bekliyor?</b>
+
+125
+00:15:56,814 --> 00:15:59,233
+<b>Sahte bacaklarýný kopartýrým senin!</b>
+
+126
+00:16:08,952 --> 00:16:11,186
+<i>Amýna koyduðumunun Yaratýk'ý!</i>
+
+127
+00:16:25,203 --> 00:16:28,744
+<i>K, geldiðini duymadým.
+Erkencisin.</i>
+
+128
+00:16:28,832 --> 00:16:30,475
+Bir daha girmemi ister misin?
+
+129
+00:16:31,021 --> 00:16:33,096
+- Ellerini yýka sen.
+- Emredersiniz.
+
+130
+00:16:35,133 --> 00:16:36,531
+<i>Görüþme nasýldý?</i>
+
+131
+00:16:38,509 --> 00:16:39,914
+Her zamanki gibi.
+
+132
+00:16:40,916 --> 00:16:42,062
+Senin günün nasýldý?
+
+133
+00:16:43,963 --> 00:16:45,608
+<i>Sýkýlmaya baþladým.</i>
+
+134
+00:16:46,703 --> 00:16:50,054
+<i>Yüzde 99.9 arýndýrýlmýþ su.</i>
+
+135
+00:16:53,425 --> 00:16:55,499
+Ýþte kaza geçirdim.
+
+136
+00:16:56,360 --> 00:16:57,879
+Gömleðim yýrtýldý galiba.
+
+137
+00:16:58,786 --> 00:17:02,105
+<i>Senin için dikebilirim.
+Bir bakarým.</i>
+
+138
+00:17:08,687 --> 00:17:09,884
+Bir þeyler içmem gerek.
+
+139
+00:17:11,374 --> 00:17:14,828
+- Önce bir þeyler içmek ister misin?
+- Bana da bir bardak doldur.
+
+140
+00:17:16,606 --> 00:17:20,148
+<i>Yeni bir tarif deniyorum.
+Biraz da daha pratik yapmam gerek.</i>
+
+141
+00:17:20,314 --> 00:17:21,780
+Acele etme.
+
+142
+00:17:24,433 --> 00:17:26,538
+<i>Biraz daha terbiyelemem gerekirdi.</i>
+
+143
+00:17:26,930 --> 00:17:28,452
+<i>Kuru olmamýþtýr umarým.</i>
+
+144
+00:17:31,046 --> 00:17:35,679
+<i>Bu þarkýnýn, 1966'da Reprise Record
+tarafýndan yayýmlandýðýný biliyor muydun?</i>
+
+145
+00:17:36,300 --> 00:17:38,155
+<i>Listelerde bir numaradaydý.</i>
+
+146
+00:17:43,613 --> 00:17:47,218
+<i>Çok sürmez.
+Son dokunuþlarý yapýyorum.</i>
+
+147
+00:17:51,535 --> 00:17:55,519
+<i>Tamam, hazýr oldu.
+Hoþuna gider umarým.</i>
+
+148
+00:17:55,544 --> 00:17:57,582
+Sana acele etme demiþtim.
+
+149
+00:17:59,342 --> 00:18:00,595
+Yine de...
+
+150
+00:18:03,663 --> 00:18:06,556
+Voilà.
+Bon appétit.
+
+151
+00:18:09,146 --> 00:18:10,767
+Özledim seni caným.
+
+152
+00:18:12,886 --> 00:18:14,973
+Tatlým, çok güzel olmuþ.
+
+153
+00:18:15,169 --> 00:18:16,455
+Ayaklarýný uzat.
+
+154
+00:18:17,636 --> 00:18:18,879
+Rahatla.
+
+155
+00:18:37,570 --> 00:18:38,747
+Yorucu bir gün müydü?
+
+156
+00:18:40,840 --> 00:18:42,038
+Yorucu bir gündü.
+
+157
+00:18:43,396 --> 00:18:44,873
+Bana kitap okur musun?
+
+158
+00:18:46,569 --> 00:18:48,037
+Seni rahatlatacaktýr.
+
+159
+00:18:48,584 --> 00:18:51,396
+- O kitaptan nefret edersin.
+- Ben de okumak istemiyorum.
+
+160
+00:18:53,686 --> 00:18:54,759
+Dans edelim.
+
+161
+00:18:54,784 --> 00:18:57,290
+Dans etmek mi istiyorsun
+yoksa hediyeni açmak mý?
+
+162
+00:18:57,345 --> 00:18:58,446
+Ne hediyesi?
+
+163
+00:19:02,957 --> 00:19:03,751
+Bu.
+
+164
+00:19:04,437 --> 00:19:05,897
+Sebebi ne?
+
+165
+00:19:06,212 --> 00:19:09,962
+Yýl dönümümüz olsun.
+
+166
+00:19:10,207 --> 00:19:11,132
+Öyle mi?
+
+167
+00:19:12,710 --> 00:19:14,216
+Hayýr. Ama...
+
+168
+00:19:15,413 --> 00:19:16,876
+...öyle diyelim.
+
+169
+00:19:17,918 --> 00:19:18,678
+Tamam mý?
+
+170
+00:19:22,925 --> 00:19:24,405
+Nice senelere.
+
+171
+00:19:25,702 --> 00:19:27,053
+Bir uzatýcý.
+
+172
+00:20:10,237 --> 00:20:11,495
+Teþekkür ederim.
+
+173
+00:20:11,520 --> 00:20:15,313
+Tatlým, artýk dünyada
+istediðin yere gidebilirsin.
+
+174
+00:20:16,716 --> 00:20:18,347
+Ýlk nereye gitmek istersin?
+
+175
+00:22:32,780 --> 00:22:34,908
+Yanýndayken çok mutluyum.
+
+176
+00:22:37,513 --> 00:22:38,806
+Bunu söylemek zorunda deðilsin.
+
+177
+00:23:10,835 --> 00:23:13,853
+<i>Kazý ekibi geldi.
+Yeni bir ipucu bulduk.</i>
+
+178
+00:23:14,328 --> 00:23:15,322
+<i>Buraya gel.</i>
+
+179
+00:23:29,368 --> 00:23:33,342
+<i>Karbon deðeri: 14.6 GPH.</i>
+
+180
+00:23:53,617 --> 00:23:57,776
+<i>Kutu, Sapper Morton'a zimmetlenmiþ
+bir askeri saklama sandýðý.</i>
+
+181
+00:23:58,411 --> 00:24:00,979
+<i>Yaratýcý bir þekilde
+tabuta dönüþtürülmüþ.</i>
+
+182
+00:24:01,206 --> 00:24:02,994
+<i>Kemik kutusu olmuþ.</i>
+
+183
+00:24:03,288 --> 00:24:04,783
+<i>Saçtan baþka hiçbir þey yok.</i>
+
+184
+00:24:06,612 --> 00:24:10,646
+<i>Toprak numunelerine göre
+kadýn gömüleli 30 yýl olmuþ.</i>
+
+185
+00:24:11,462 --> 00:24:15,526
+Kemikler ayrýlýp temizlendikten sonra
+düzgün bir þekilde yerleþtirilmiþ.
+
+186
+00:24:15,714 --> 00:24:16,823
+Kadýn mý?
+
+187
+00:24:18,496 --> 00:24:19,971
+Peki ya ölüm sebebi Coco?
+
+188
+00:24:30,894 --> 00:24:34,885
+Kýrýk veya zedelenme yok.
+Ama...
+
+189
+00:24:35,309 --> 00:24:37,800
+...kalça kemiðinde çatlak var.
+
+190
+00:24:38,670 --> 00:24:41,541
+Dar doðum kanalýnýn olduðu yer.
+Bebek sýkýþmýþ olmalý.
+
+191
+00:24:41,566 --> 00:24:43,127
+Hamileymiþ demek.
+
+192
+00:24:44,747 --> 00:24:48,323
+- O öldürmemiþ mi yani?
+- Doðum yaparken ölmüþ.
+
+193
+00:24:50,236 --> 00:24:51,119
+O nedir?
+
+194
+00:24:52,831 --> 00:24:53,763
+Geri gel.
+
+195
+00:24:55,168 --> 00:24:56,080
+Yaklaþ.
+
+196
+00:24:58,037 --> 00:24:58,955
+Yaklaþ.
+
+197
+00:25:02,305 --> 00:25:03,138
+Nedir bu?
+
+198
+00:25:07,012 --> 00:25:10,291
+Ýliak kanatta bir çentik.
+
+199
+00:25:10,896 --> 00:25:14,199
+Neþter gibi sivri bir þeyle olmuþ.
+
+200
+00:25:15,306 --> 00:25:17,736
+Acil sezaryen müdahalesine benziyor.
+
+201
+00:25:18,384 --> 00:25:21,429
+Kesikler düzgün.
+Mücadele izi yok.
+
+202
+00:25:22,608 --> 00:25:24,172
+Adam savaþ sýhhiyesiydi.
+
+203
+00:25:25,453 --> 00:25:27,561
+Kadýný kurtarmaya çalýþýp
+baþarýsýz olmuþtur belki.
+
+204
+00:25:27,586 --> 00:25:29,366
+Yardýmsever birine benzemiyordu.
+
+205
+00:25:29,775 --> 00:25:31,849
+Gömme zahmetine girmiþ ama.
+
+206
+00:25:32,301 --> 00:25:34,076
+Duygusal Yaratýk'mýþ.
+
+207
+00:25:36,397 --> 00:25:37,202
+Affedersin.
+
+208
+00:25:38,264 --> 00:25:40,013
+Çocuk nerede peki?
+
+209
+00:25:41,540 --> 00:25:42,826
+Bütün araziyi taradýn mý?
+
+210
+00:25:43,486 --> 00:25:46,103
+Pislik ve kurt vardý sadece.
+Baþka ceset yoktu.
+
+211
+00:25:46,128 --> 00:25:47,451
+Belki de yemiþtir.
+
+212
+00:26:36,609 --> 00:26:38,440
+Bu mümkün deðil.
+
+213
+00:26:41,019 --> 00:26:42,573
+Kadýn, Kopya'mýþ.
+
+214
+00:26:45,475 --> 00:26:46,510
+Hamile kalmýþ.
+
+215
+00:26:56,230 --> 00:27:01,189
+Dünya, türleri ayýran bir
+duvarýn üstünde.
+
+216
+00:27:02,325 --> 00:27:05,651
+Ýki tarafa da duvar olmadýðýný söyle
+savaþa sebep olursun.
+
+217
+00:27:06,485 --> 00:27:07,697
+Ya da kýyýma.
+
+218
+00:27:11,972 --> 00:27:13,533
+Bu yüzden gördüklerin...
+
+219
+00:27:15,969 --> 00:27:17,432
+...hiç yaþanmadý.
+
+220
+00:27:19,568 --> 00:27:20,690
+Emredersin Yüzbaþým.
+
+221
+00:27:21,052 --> 00:27:23,937
+Benim iþim düzeni saðlamak.
+
+222
+00:27:24,093 --> 00:27:26,784
+Burada yaptýðýmýz bu,
+düzeni saðlýyoruz.
+
+223
+00:27:28,738 --> 00:27:29,931
+Yok olmasýný mý istiyorsunuz?
+
+224
+00:27:31,969 --> 00:27:33,440
+Her þeyi temizle.
+
+225
+00:27:33,763 --> 00:27:36,110
+- Çocuðu da mý?
+- Bütün izleri.
+
+226
+00:27:40,776 --> 00:27:42,415
+Söyleyecek bir þeyin mi var?
+
+227
+00:27:44,658 --> 00:27:47,259
+Daha önce, doðmuþ bir þeyi
+emekliye ayýrmamýþtým.
+
+228
+00:27:48,670 --> 00:27:49,923
+Fark ne?
+
+229
+00:27:54,512 --> 00:27:56,774
+Doðan bir þeyde ruh olur.
+
+230
+00:27:58,141 --> 00:27:59,547
+Hayýr mý diyorsun?
+
+231
+00:28:00,952 --> 00:28:02,970
+Böyle bir seçeneðin olduðunu
+bilmiyordum Yüzbaþým.
+
+232
+00:28:03,594 --> 00:28:04,587
+Aferin.
+
+233
+00:28:09,825 --> 00:28:11,868
+Sen o olmadan da gayet iyisin.
+
+234
+00:28:12,337 --> 00:28:13,556
+Ne olmadan Yüzbaþým?
+
+235
+00:28:14,260 --> 00:28:15,134
+Ruh.
+
+236
+00:29:02,490 --> 00:29:07,313
+<i>Siz yeni modeller, pislik temizlemekten
+baþka bir þey bilmiyorsunuz.</i>
+
+237
+00:29:09,649 --> 00:29:12,195
+<i>Çünkü daha önce hiç mucize görmediniz.</i>
+
+238
+00:29:28,693 --> 00:29:32,820
+WALLACE KORPORASYON
+DÜNYA BÝRÝMÝ
+
+239
+00:29:36,291 --> 00:29:38,718
+Eski bir seri numarasýný
+kontrol etmeye geldim.
+
+240
+00:29:43,739 --> 00:29:45,445
+Tasdikleme DNA'sý var mý?
+
+241
+00:29:46,594 --> 00:29:47,828
+Saçý var.
+
+242
+00:30:07,183 --> 00:30:08,307
+Eski modelmiþ.
+
+243
+00:30:09,471 --> 00:30:10,862
+Karartma öncesinden.
+
+244
+00:30:12,511 --> 00:30:14,260
+Zor olacak.
+
+245
+00:30:15,650 --> 00:30:19,136
+O zamandan pek bir þey kalmadý.
+Eldekiler de pek...
+
+246
+00:30:19,907 --> 00:30:21,129
+...þüpheli.
+
+247
+00:30:22,480 --> 00:30:25,026
+Ýstediðiniz kadar
+özelleþtirebilirsiniz.
+
+248
+00:30:25,828 --> 00:30:27,768
+Ýstediðiniz kadar
+insan yapabilirsiniz.
+
+249
+00:30:28,707 --> 00:30:31,822
+Ama çalýþma alanýnýz
+bir sondaj bölgesi, deðil mi?
+
+250
+00:30:32,250 --> 00:30:36,456
+Ben olsam zekaya, ek özelliklere
+veya görünüþe para harcamazdým.
+
+251
+00:30:37,357 --> 00:30:40,276
+Sipariþinize eðlence modelleri
+eklemek isterseniz baþka tabii.
+
+252
+00:30:54,408 --> 00:30:57,106
+Bu görüþmeyi baþka bir tarihe
+ertelememiz mümkün mü?
+
+253
+00:31:00,071 --> 00:31:03,457
+Herkes, Karartma yaþandýðýnda
+nerede olduðunu hatýrlar. Ya sen?
+
+254
+00:31:03,482 --> 00:31:05,392
+O benden öncesinde yaþanmýþtý.
+
+255
+00:31:06,121 --> 00:31:09,568
+Ben evde, ailemin yanýndaydým.
+10 gün karanlýk çökmüþtü.
+
+256
+00:31:09,593 --> 00:31:13,740
+Bütün makineler durmuþtu.
+Iþýklar geldiðinde ise her þey silinmiþti.
+
+257
+00:31:13,910 --> 00:31:17,545
+Resimler, dosyalar. En ufak
+veriye kadar her þey yok olmuþtu.
+
+258
+00:31:17,663 --> 00:31:20,756
+Banka kayýtlarý dahil.
+Onu pek sorun etmemiþtim.
+
+259
+00:31:20,781 --> 00:31:22,887
+Sadece kaðýtlarýn kurtulmasý komik.
+
+260
+00:31:22,912 --> 00:31:25,880
+Her þeyi sürücülerde saklýyorduk.
+Bütün her þeyi.
+
+261
+00:31:28,085 --> 00:31:31,173
+Annem hâlâ kayýp bebek
+resimlerine aðlar durur.
+
+262
+00:31:31,379 --> 00:31:34,848
+Yazýk olmuþ.
+Kesin þirin bir bebektin.
+
+263
+00:31:40,974 --> 00:31:43,473
+Çok zarar görmüþ, pek bir þey çýkmaz.
+
+264
+00:31:44,606 --> 00:31:47,236
+Yasaklama öncesi üretilen
+son nesilden birisi.
+
+265
+00:31:47,442 --> 00:31:50,837
+Standard ürün,
+Tyrell tarafýndan yapýlmýþ.
+
+266
+00:31:51,410 --> 00:31:52,236
+Ve?
+
+267
+00:31:53,115 --> 00:31:56,134
+- Sýradanmýþ.
+- Sýradan mý?
+
+268
+00:31:56,400 --> 00:31:58,684
+Bulabileceðimiz baþka þeyler
+mutlaka vardýr deðil mi?
+
+269
+00:32:06,689 --> 00:32:09,207
+Baþka müsrif bir modelin
+seri numarasý daha geri döndü.
+
+270
+00:32:10,779 --> 00:32:13,667
+30 yýllýk bir dosya nihayet kapandý.
+
+271
+00:32:14,349 --> 00:32:15,813
+Teþekkür ederim Memur Bey.
+
+272
+00:32:17,074 --> 00:32:19,079
+Buraya Bay Wallace adýna geldim.
+Benim adým Luv.
+
+273
+00:32:21,639 --> 00:32:22,852
+Ýsminizi o vermiþ.
+
+274
+00:32:23,950 --> 00:32:25,442
+Özel olmalýsýnýz.
+
+275
+00:32:26,446 --> 00:32:29,372
+Bay Wallace adýna buradayým.
+Beni takip edin.
+
+276
+00:32:35,749 --> 00:32:38,984
+Eski modeller, bütün bu piyasaya
+kötü bir þöhret verdi.
+
+277
+00:32:40,585 --> 00:32:45,063
+Bay Wallace'ýn Dünya'ya bahþettiði
+büyük bir hediye deðil mi?
+
+278
+00:32:48,360 --> 00:32:52,082
+Dünya dýþý kolonilerden, keþke
+Tyrell'i satýn almasaydý diyen kimse yok.
+
+279
+00:32:52,215 --> 00:32:54,162
+Teknolojiyi yeniden canlandýrdý.
+
+280
+00:32:55,177 --> 00:32:57,028
+Bizim yaptýklarýmýz hiç kalýr yanýnda.
+
+281
+00:33:07,530 --> 00:33:09,426
+Siz de bizim müþterimizmiþsiniz.
+
+282
+00:33:09,869 --> 00:33:11,879
+Ürünümüzden memnun musunuz?
+
+283
+00:33:12,525 --> 00:33:16,341
+Çok gerçekçi biri.
+Elinize saðlýk.
+
+284
+00:33:17,145 --> 00:33:19,646
+Burasý.
+Bütün eskiler burada.
+
+285
+00:33:19,856 --> 00:33:22,687
+Þansýnýza Bay Wallace arþivci biri.
+
+286
+00:33:35,330 --> 00:33:37,088
+Yýllardýr kimse girmedi buraya.
+
+287
+00:33:40,503 --> 00:33:41,844
+Affedersiniz.
+
+288
+00:33:53,575 --> 00:33:55,602
+Bütün verilerimiz mahvoldu.
+
+289
+00:33:55,627 --> 00:33:57,871
+Karartma yaþandýðýnda
+hepsi zarar görmüþtü.
+
+290
+00:33:58,608 --> 00:34:00,832
+Ama bazý ufak veri parçalarý kurtulmuþtu.
+
+291
+00:34:17,236 --> 00:34:18,577
+<i>Küçük bir oðlun var.</i>
+
+292
+00:34:18,602 --> 00:34:21,142
+<i>Size kelebek koleksiyonunu ve
+onlarý öldürdüðü kutuyu gösteriyor.</i>
+
+293
+00:34:21,167 --> 00:34:22,700
+<i>Onu doktora götürürdüm.</i>
+
+294
+00:34:25,689 --> 00:34:28,525
+<i>- Kolunuza eþekarýsý konuyor.
+- Öldürürüm.</i>
+
+295
+00:34:31,132 --> 00:34:34,963
+<i>Bir dergi okuyorsunuz ve tamamýyla
+çýplak bir kýzýn resmini görüyorsunuz.</i>
+
+296
+00:34:35,163 --> 00:34:38,421
+<i>Bu test, Kopya veya lezbiyen olduðumu
+öðrenmek için mi Bay Deckard?</i>
+
+297
+00:34:38,446 --> 00:34:40,141
+<i>Soruya cevap verin lütfen.</i>
+
+298
+00:34:44,192 --> 00:34:47,805
+Kadýnýn ne olduðu belirsizmiþ.
+En azýndan biri için.
+
+299
+00:34:48,047 --> 00:34:49,307
+Test videosuymuþ.
+
+300
+00:34:50,209 --> 00:34:52,088
+O zamanlar anlaþýlmasý güçtük.
+
+301
+00:34:54,133 --> 00:34:56,555
+Kadýný buluþunuzla ilgili
+sýradýþý bir durum var mýydý?
+
+302
+00:34:57,599 --> 00:34:59,678
+Resmi arama emri çýkartacak kadar?
+
+303
+00:35:02,519 --> 00:35:05,338
+Ýnsanlarýn eksi seri numaralarýna
+nasýl tepki gösterdiðini bilirsin.
+
+304
+00:35:06,205 --> 00:35:09,291
+Nereden geldiklerini bilince
+daha rahat uyuyorlar.
+
+305
+00:35:12,538 --> 00:35:13,662
+Ondan hoþlanýyormuþ.
+
+306
+00:35:15,320 --> 00:35:16,206
+Kimden?
+
+307
+00:35:17,128 --> 00:35:19,112
+Memur Deckard'tan.
+
+308
+00:35:20,603 --> 00:35:22,314
+Adamýn üstüne gidiyor.
+
+309
+00:35:26,084 --> 00:35:28,957
+Kiþisel soru sorulmasý uyarýcý oluyor.
+
+310
+00:35:29,794 --> 00:35:31,075
+Arzulanmýþ...
+
+311
+00:35:32,719 --> 00:35:33,875
+...hissettiriyor.
+
+312
+00:35:35,447 --> 00:35:37,478
+Ýþinizden memnun musunuz Memur Bey?
+
+313
+00:35:42,137 --> 00:35:44,233
+Zaman ayýrdýðýnýz için
+Bay Wallace'a teþekkürlerimi iletin.
+
+314
+00:35:56,803 --> 00:36:00,488
+Eskiden Memur Deckard ile
+birlikte çalýþmýþsýnýz.
+
+315
+00:36:01,301 --> 00:36:02,965
+Onunla ilgili neler biliyorsunuz?
+
+316
+00:36:03,815 --> 00:36:05,510
+Yalnýz çalýþmayý severdi.
+
+317
+00:36:06,965 --> 00:36:08,164
+Ben de severdim.
+
+318
+00:36:10,793 --> 00:36:13,736
+Böyle olmasý için
+birlikte çalýþtýk biz de.
+
+319
+00:36:15,220 --> 00:36:16,428
+Hepsi bu.
+
+320
+00:36:17,783 --> 00:36:19,425
+Baþka söyleyebileceðiniz bir þey var mý?
+
+321
+00:36:21,792 --> 00:36:24,143
+Bu Dünya'yý pek sevmezdi.
+
+322
+00:36:26,361 --> 00:36:27,278
+Nasýl yani?
+
+323
+00:36:30,052 --> 00:36:32,103
+Gözleri öyle söylerdi.
+
+324
+00:36:35,515 --> 00:36:37,738
+Onunla nasýl baðlantý kurabilirim?
+
+325
+00:36:38,379 --> 00:36:39,274
+Hiçbir fikrim yok.
+
+326
+00:36:41,258 --> 00:36:43,067
+Kendisi <i>nyugdiash</i>.
+
+327
+00:36:46,640 --> 00:36:47,867
+Emekliye ayrýldý.
+
+328
+00:36:49,595 --> 00:36:50,663
+Ne oldu?
+
+329
+00:36:51,050 --> 00:36:53,053
+Ýstediðini elde etmiþtir kesin.
+
+330
+00:36:55,928 --> 00:36:57,199
+Yalnýz kalmýþtýr.
+
+331
+00:37:22,531 --> 00:37:23,885
+Hoþ geldiniz efendim.
+
+332
+00:37:25,912 --> 00:37:29,041
+Sevkiyattan önce yeni modeli
+incelemek ister misiniz efendim?
+
+333
+00:37:30,533 --> 00:37:34,728
+Bir melek, Cennet'e...
+
+334
+00:37:35,457 --> 00:37:36,931
+...hediyesiz girmemelidir.
+
+335
+00:37:39,552 --> 00:37:42,845
+"Bir çocuk doðdu." diyemiyor musun?
+
+336
+00:37:53,939 --> 00:37:55,378
+Yeni model.
+
+337
+00:38:03,288 --> 00:38:05,563
+Görelim bakalým.
+
+338
+00:38:54,090 --> 00:38:57,283
+Ýlk akla gelen düþünce...
+
+339
+00:38:59,133 --> 00:39:01,142
+...korkarak...
+
+340
+00:39:02,722 --> 00:39:04,907
+...vücudu koruma eðilimidir.
+
+341
+00:39:07,278 --> 00:39:08,749
+Büyüleyici.
+
+342
+00:39:10,119 --> 00:39:12,862
+Ne olduðumuzu bile bilmeden...
+
+343
+00:39:15,166 --> 00:39:16,825
+...kaybetmekten korkarýz.
+
+344
+00:39:18,603 --> 00:39:20,140
+Doðum günün kutlu olsun.
+
+345
+00:39:29,752 --> 00:39:31,768
+Þimdi sana bir bakalým.
+
+346
+00:40:23,173 --> 00:40:25,117
+Toplumun hizmetine sunmak için...
+
+347
+00:40:26,714 --> 00:40:29,469
+...melekler yaratýyoruz.
+
+348
+00:40:30,993 --> 00:40:32,329
+Evet, eskiden...
+
+349
+00:40:32,720 --> 00:40:36,501
+...kötü melekler vardý.
+Ben artýk iyi melekler yapýyorum.
+
+350
+00:40:36,656 --> 00:40:41,032
+Bizleri, dokuz yeni dünyaya
+bu sayede götürdüm.
+
+351
+00:40:43,772 --> 00:40:45,204
+Dokuz.
+
+352
+00:40:46,960 --> 00:40:50,515
+Bir çocuk parmaklarla
+dokuza kadar sayabilir.
+
+353
+00:40:50,544 --> 00:40:53,382
+Kendi yýldýzlarýmýz olmalý.
+
+354
+00:40:53,407 --> 00:40:54,602
+Evet, efendim.
+
+355
+00:40:57,833 --> 00:41:02,962
+Uygarlýðýn her adýmý harcanabilir
+iþ gücünün üzerinde atýlmýþtýr.
+
+356
+00:41:02,987 --> 00:41:05,993
+Kölelere tahammülümüzü kaybettik.
+
+357
+00:41:06,148 --> 00:41:08,223
+Üretilmiþ olmalarý durumu deðiþtirdi.
+
+358
+00:41:11,468 --> 00:41:13,759
+Ama benim de bir sýnýrým var.
+
+359
+00:41:19,463 --> 00:41:21,555
+Çorak otlak...
+
+360
+00:41:22,641 --> 00:41:26,063
+...boþ ve tuzlu.
+
+361
+00:41:27,840 --> 00:41:29,334
+Tam buradaki.
+
+362
+00:41:31,377 --> 00:41:34,763
+Yýldýzlar arasýndaki ölü boþluk gibi.
+
+363
+00:41:36,738 --> 00:41:39,649
+Cennete karþýlýk takas etmek
+zorunda olduðumuz tohum bu mu?
+
+364
+00:41:45,036 --> 00:41:46,930
+Onlarý yavrulatamýyorum...
+
+365
+00:41:47,091 --> 00:41:49,555
+...yemin ederim denedim.
+
+366
+00:41:50,362 --> 00:41:53,563
+Þimdiye kadar üretilmiþ Kopyalardan
+daha fazlasýna ihtiyacýmýz var.
+
+367
+00:41:53,588 --> 00:41:57,126
+Milyonlarca lazým ki,
+trilyonlarca yapabilelim.
+
+368
+00:41:58,994 --> 00:42:01,907
+Cennete hücum edip
+onu geri alabiliriz.
+
+369
+00:42:14,407 --> 00:42:16,898
+Tyrell'in son numarasý...
+
+370
+00:42:17,360 --> 00:42:19,253
+...üreme.
+
+371
+00:42:19,461 --> 00:42:22,594
+Tamamlanmýþ ve kaybedilmiþ.
+
+372
+00:42:23,860 --> 00:42:26,016
+Ama bir çocuk var.
+
+373
+00:42:29,006 --> 00:42:30,415
+Onu bana getir.
+
+374
+00:42:31,196 --> 00:42:32,094
+Peki efendim.
+
+375
+00:42:40,720 --> 00:42:42,673
+Meleklerin en iyisi.
+
+376
+00:42:44,365 --> 00:42:45,959
+Öylesin deðil mi Luv?
+
+377
+00:44:04,004 --> 00:44:07,497
+Yeþil ceketli adam,
+Sapper'ý öldüren.
+
+378
+00:44:07,522 --> 00:44:09,040
+Ne bildiðini öðrenin.
+
+379
+00:44:28,642 --> 00:44:29,933
+Merhaba.
+
+380
+00:44:31,210 --> 00:44:33,308
+Selam delikanlý.
+
+381
+00:44:33,714 --> 00:44:34,973
+Yalnýz mýsýn?
+
+382
+00:44:35,954 --> 00:44:39,301
+<b>Pislik bir Blade Runner bu.
+Tanýdým.</b>
+
+383
+00:44:40,136 --> 00:44:41,394
+<b>Bu herif tehlikeli.
+Geliyor musun?</b>
+
+384
+00:44:41,419 --> 00:44:43,488
+Sorun yok.
+Siz gidin.
+
+385
+00:44:50,044 --> 00:44:51,926
+Bayana sigara uzatmak
+ister misin?
+
+386
+00:44:58,704 --> 00:45:00,598
+Gülümsemiyorsun bile.
+
+387
+00:45:03,182 --> 00:45:05,051
+Arkadaþlarýný duymadýn mý?
+
+388
+00:45:05,534 --> 00:45:07,168
+Kim olduðumu bilmiyor musun?
+
+389
+00:45:07,641 --> 00:45:08,840
+Biliyorum.
+
+390
+00:45:09,462 --> 00:45:11,371
+Pilav yiyen birisin.
+
+391
+00:45:12,638 --> 00:45:13,816
+Ne bu?
+
+392
+00:45:15,310 --> 00:45:16,488
+Aðaç.
+
+393
+00:45:17,147 --> 00:45:19,980
+Daha önce hiç aðaç görmemiþtim.
+
+394
+00:45:21,803 --> 00:45:22,863
+Güzelmiþ.
+
+395
+00:45:25,357 --> 00:45:26,566
+Ölü.
+
+396
+00:45:28,464 --> 00:45:32,945
+Ölü aðacý kim ne yapsýn?
+
+397
+00:45:40,301 --> 00:45:42,191
+Beni öldürmeyeceksin deðil mi?
+
+398
+00:45:42,216 --> 00:45:45,314
+Duruma baðlý.
+Model numaran ne?
+
+399
+00:45:45,644 --> 00:45:48,087
+Gözümü çýkarýp baksana.
+
+400
+00:45:52,824 --> 00:45:54,782
+Gerçek kýzlardan hoþlanmýyorsun demek.
+
+401
+00:45:58,189 --> 00:46:00,603
+Ben hep buralardayým.
+
+402
+00:49:40,109 --> 00:49:40,932
+Merhaba.
+
+403
+00:49:43,249 --> 00:49:44,792
+Onlarý alamazsýn.
+
+404
+00:49:45,100 --> 00:49:48,416
+Elbette alamam. Uygun baðlantý
+ve evraklar var. Hepsi burada.
+
+405
+00:49:48,441 --> 00:49:49,440
+Tutar mýsýn?
+
+406
+00:49:51,622 --> 00:49:53,615
+Al bakalým iþte burada.
+
+407
+00:50:11,013 --> 00:50:12,376
+<i>Coco ölmüþ.</i>
+
+408
+00:50:14,921 --> 00:50:16,649
+Kemikler gitmiþ.
+
+409
+00:50:17,294 --> 00:50:20,891
+Bitti. Baþlamadan bitti.
+Ne kadar sürdü ki?
+
+410
+00:50:21,981 --> 00:50:24,227
+Elinde ne var benim için?
+Bir þey yok deme sakýn.
+
+411
+00:50:25,847 --> 00:50:27,048
+Bunu buldum.
+
+412
+00:50:28,196 --> 00:50:29,251
+Çorap mý?
+
+413
+00:50:31,679 --> 00:50:33,602
+- Nerede buldun?
+- Sapper'ýn evinde.
+
+414
+00:50:33,865 --> 00:50:37,109
+- Baþka bir þey?
+- Geri kalan her þeyi yaktým.
+
+415
+00:50:37,134 --> 00:50:40,688
+Bu ne peki? Ne tarihi bu?
+Doðum tarihi mi? Ölüm tarihi mi?
+
+416
+00:50:40,797 --> 00:50:41,930
+Henüz bilmiyorum.
+
+417
+00:50:46,329 --> 00:50:49,016
+Trenin geliþini gören
+bir ben mi varým burada?
+
+418
+00:50:49,041 --> 00:50:51,462
+Bu, dünyanýn sonunu getirir K.
+
+419
+00:51:04,383 --> 00:51:06,493
+Senin türünü çok iyi tanýrým.
+
+420
+00:51:09,075 --> 00:51:10,602
+Hepsi oldukça kullanýþlý fakat...
+
+421
+00:51:11,239 --> 00:51:13,532
+...seninleyken unutuyorum bazen.
+
+422
+00:51:14,425 --> 00:51:16,860
+Ben çocukken
+senin gibilerden hiç yoktu.
+
+423
+00:51:22,949 --> 00:51:25,009
+Bir þeyler hatýrlýyor musun?
+
+424
+00:51:26,055 --> 00:51:29,204
+Benim emrim altýnda olmadan
+öncesinden anýlarýn var mý?
+
+425
+00:51:29,625 --> 00:51:31,391
+Anýlarým var ama...
+
+426
+00:51:33,554 --> 00:51:35,704
+Gerçek deðiller.
+Yerleþtirilmiþler sadece.
+
+427
+00:51:37,267 --> 00:51:40,798
+Bir tane anlatsana.
+Çocukluktan olan.
+
+428
+00:51:45,574 --> 00:51:47,618
+Hiç çocukluk yaþamadýðým
+düþünülürse...
+
+429
+00:51:47,643 --> 00:51:50,048
+...böyle hikâyeler anlatmak
+biraz garip geliyor.
+
+430
+00:51:52,351 --> 00:51:55,555
+Emrediyorum desem
+anlatman kolay olur muydu?
+
+431
+00:51:58,546 --> 00:52:00,946
+Küçükken sahip olduðum
+küçük bir oyuncak vardý.
+
+432
+00:52:01,365 --> 00:52:02,884
+Altýnda bir yazý olan...
+
+433
+00:52:04,448 --> 00:52:06,337
+...tahtadan bir at.
+
+434
+00:52:09,492 --> 00:52:13,071
+Tek hatýrladýðým bir grup çocuðun
+onu benden almaya çalýþmasý.
+
+435
+00:52:13,846 --> 00:52:15,048
+Onlardan kaçýyorum.
+
+436
+00:52:40,621 --> 00:52:42,306
+<i>Saklanacak bir yer arýyorum.</i>
+
+437
+00:52:42,331 --> 00:52:44,501
+<i>Tek yer var,
+karanlýk bir fýrýn.</i>
+
+438
+00:52:46,424 --> 00:52:49,790
+<i>Zifiri karanlýk ve
+çok korkutucu ama...</i>
+
+439
+00:52:50,123 --> 00:52:53,165
+<i>...tek sahip olduðum þey bu at,
+bu yüzden yine de giriyorum.</i>
+
+440
+00:53:06,134 --> 00:53:08,306
+<i>Sonrasýnda o çocuklar
+beni buluyorlar...</i>
+
+441
+00:53:08,439 --> 00:53:11,384
+<i>...atýn yerini bulmak için beni
+dövüyorlar ama söylemiyorum.</i>
+
+442
+00:53:17,717 --> 00:53:18,657
+Bu kadar.
+
+443
+00:53:21,766 --> 00:53:24,372
+<i>Küçük K, sahip olduðu þey için
+kavga ediyor.</i>
+
+444
+00:53:26,126 --> 00:53:27,298
+Güzel hikâyeymiþ.
+
+445
+00:53:34,249 --> 00:53:35,220
+Bana bak.
+
+446
+00:53:38,100 --> 00:53:40,611
+Hepimiz gerçek bir þeyler arýyoruz.
+
+447
+00:53:46,016 --> 00:53:47,986
+Bunu bitirirsem ne olur?
+
+448
+00:53:52,036 --> 00:53:53,907
+Ýþime geri dönmem
+gerekmiyor mu Yüzbaþým?
+
+449
+00:54:03,812 --> 00:54:05,946
+DNA veritabanýný
+kontrol ettikten sonra gel.
+
+450
+00:54:19,476 --> 00:54:22,126
+Memur KD6-3.7.
+
+451
+00:54:24,971 --> 00:54:26,142
+Ýstek:
+
+452
+00:54:26,457 --> 00:54:30,152
+DNA kayýtlarý:
+6.10.21 doðumlu çocuklar.
+
+453
+00:54:30,544 --> 00:54:32,283
+Anormal olanlarý arýyorum.
+
+454
+00:54:40,236 --> 00:54:41,908
+Satkristal yedeðin mi var?
+
+455
+00:54:41,933 --> 00:54:44,353
+<i>Bütün veriler bozulmuþtur.
+Ön çeviri yapýlamýyor.</i>
+
+456
+00:54:47,911 --> 00:54:50,431
+Tamam.
+Ham veriyi aç.
+
+457
+00:55:27,527 --> 00:55:29,619
+Ýnsaný insan yapan saf veri.
+
+458
+00:55:31,483 --> 00:55:34,073
+A ve C ve T ve G.
+
+459
+00:55:34,499 --> 00:55:38,365
+Sizin alfabeniz.
+Hepsi dört sembolden oluþuyor.
+
+460
+00:55:39,950 --> 00:55:41,451
+Ben de sadece 2 tane var.
+
+461
+00:55:45,071 --> 00:55:46,553
+1 ve 0.
+
+462
+00:55:46,895 --> 00:55:50,487
+Yarýsý kadar ama sen
+iki katý güzelsin tatlým.
+
+463
+00:55:51,588 --> 00:55:53,090
+Yüzbaþýn daha güzel deðil mi?
+
+464
+00:55:56,052 --> 00:55:57,529
+Dinliyormuþsun.
+
+465
+00:55:58,703 --> 00:55:59,748
+Olabilir.
+
+466
+00:56:01,901 --> 00:56:04,797
+Onu, gerçeði söyleyecek kadar
+sevmiyormuþsun.
+
+467
+00:56:05,479 --> 00:56:07,584
+6, 10 ve 21.
+
+468
+00:56:11,704 --> 00:56:13,318
+Söyleyecek bir þey yok.
+
+469
+00:56:14,080 --> 00:56:16,889
+Bana o hikâyeyi kaç kere anlattýn?
+
+470
+00:56:19,370 --> 00:56:20,779
+Hatýraný.
+
+471
+00:56:22,208 --> 00:56:24,483
+Altýna kazýnýn tarih.
+
+472
+00:56:24,782 --> 00:56:26,811
+6, 10 ve 21.
+
+473
+00:56:29,023 --> 00:56:30,381
+Tesadüf mü?
+
+474
+00:56:34,804 --> 00:56:37,131
+Tehlikeli bir tesadüf.
+
+475
+00:56:40,607 --> 00:56:42,951
+Özel biri olduðunu hep biliyordum.
+
+476
+00:56:44,464 --> 00:56:46,334
+Belki de bu yüzdendir.
+
+477
+00:56:51,600 --> 00:56:52,998
+Bir çocuk.
+
+478
+00:56:53,790 --> 00:56:55,904
+Kadýndan doðma.
+
+479
+00:56:57,377 --> 00:56:59,232
+Dünyaya getirilmiþ.
+
+480
+00:57:00,796 --> 00:57:02,178
+Arzu edilmiþ.
+
+481
+00:57:03,638 --> 00:57:04,967
+Sevilmiþ.
+
+482
+00:57:08,076 --> 00:57:09,889
+Eðer bu doðruysa...
+
+483
+00:57:11,458 --> 00:57:15,029
+...hayatýmýn sonuna kadar
+benim gibi biri tarafýndan kovalanýrým.
+
+484
+00:57:17,006 --> 00:57:19,084
+Birazcýk hayal kurmanýn sakýncasý yok.
+
+485
+00:57:19,942 --> 00:57:21,022
+Deðil mi?
+
+486
+00:57:22,129 --> 00:57:23,482
+Bizim gibiysen var.
+
+487
+00:57:28,939 --> 00:57:29,990
+Dur.
+
+488
+00:57:31,238 --> 00:57:34,904
+4847 ve 2181'i getir.
+Yan yana.
+
+489
+00:57:40,624 --> 00:57:42,186
+Aynýlar.
+
+490
+00:57:42,652 --> 00:57:43,897
+Çevir.
+
+491
+00:57:46,791 --> 00:57:48,404
+Bir erkek ve bir kýz.
+
+492
+00:57:50,193 --> 00:57:51,537
+Ýmkânsýz.
+
+493
+00:57:52,676 --> 00:57:53,873
+Neden?
+
+494
+00:57:54,649 --> 00:57:57,389
+<i>Ýki insan ayný DNA'ya sahip olamaz.</i>
+
+495
+00:57:59,004 --> 00:58:00,693
+Bir tanesi gerçek deðil.
+
+496
+00:58:01,254 --> 00:58:02,541
+Kopyalanmýþ.
+
+497
+00:58:07,675 --> 00:58:11,186
+Ýkisi de Morrill Cole Yetimhanesi'nde
+sisteme girilmiþ.
+
+498
+00:58:13,054 --> 00:58:14,936
+Kýzýn orada öldüðü yazýyor.
+
+499
+00:58:15,425 --> 00:58:17,014
+Genetik bozukluktan.
+
+500
+00:58:18,404 --> 00:58:20,123
+Galat Sendromu.
+
+501
+00:58:21,008 --> 00:58:22,178
+Erkek ise...
+
+502
+00:58:24,682 --> 00:58:26,061
+...ortadan kaybolmuþ.
+
+503
+00:58:28,466 --> 00:58:30,084
+Yetimhane neredeymiþ?
+
+504
+00:58:32,621 --> 00:58:34,170
+Gezintiye çýkmak ister misin?
+
+505
+00:59:24,764 --> 00:59:29,145
+LOS ANGELES KENTSEL ATIK ÝÞLEME
+SAN DIEGO BÖLGESÝ
+
+506
+00:59:50,593 --> 00:59:52,918
+<i>Ýþte geldik.</i>
+
+507
+01:00:05,819 --> 01:00:07,033
+Kemerini baðla.
+
+508
+01:01:06,748 --> 01:01:07,683
+K?
+
+509
+01:02:00,024 --> 01:02:01,424
+K?
+
+510
+01:02:03,366 --> 01:02:04,967
+K... K?
+
+511
+01:02:58,178 --> 01:02:59,650
+Geri çekilin.
+
+512
+01:03:15,270 --> 01:03:16,729
+Yeniden ateþ et.
+
+513
+01:03:16,985 --> 01:03:18,264
+Yeniden ateþ et.
+
+514
+01:03:20,381 --> 01:03:21,185
+Ateþ.
+
+515
+01:03:32,882 --> 01:03:34,796
+60 metre doðuya.
+
+516
+01:03:37,062 --> 01:03:38,070
+Ateþ.
+
+517
+01:03:40,347 --> 01:03:41,622
+Kuzeye git.
+
+518
+01:03:43,882 --> 01:03:44,911
+<i>Ateþ.</i>
+
+519
+01:03:46,120 --> 01:03:49,107
+<i>Dur.
+20 derece doðuya.</i>
+
+520
+01:03:50,897 --> 01:03:51,997
+<i>Dur.</i>
+
+521
+01:03:52,589 --> 01:03:53,833
+<i>Yaklaþ.</i>
+
+522
+01:03:55,568 --> 01:03:56,703
+<i>Daha da yaklaþ.</i>
+
+523
+01:04:00,307 --> 01:04:02,169
+Hadi ama!
+
+524
+01:04:03,440 --> 01:04:04,328
+Kalk ayaða.
+
+525
+01:04:05,314 --> 01:04:06,961
+Ýþini yap lan!
+
+526
+01:04:08,293 --> 01:04:09,797
+Çocuðu bul.
+
+527
+01:04:46,031 --> 01:04:47,455
+Arabayý gözle.
+
+528
+01:06:26,519 --> 01:06:28,148
+Her bir parçayý!
+
+529
+01:06:28,173 --> 01:06:30,813
+Yoksa gökyüzünün yere indiði
+dýþarýya atarým sizi!
+
+530
+01:06:30,838 --> 01:06:32,665
+Ateþ yaðan yere!
+
+531
+01:06:33,037 --> 01:06:34,754
+Çalýþmak için buradasýnýz.
+
+532
+01:06:34,779 --> 01:06:38,110
+Çalýþmayacaksanýz
+size ihtiyacým yok demektir!
+
+533
+01:06:38,218 --> 01:06:39,946
+Size ihtiyacým yoksa...
+
+534
+01:06:42,836 --> 01:06:43,977
+Merhaba.
+
+535
+01:06:50,829 --> 01:06:53,719
+Nikel, koloni gemileri için.
+
+536
+01:06:53,868 --> 01:06:55,430
+Ya onlar ya da biz...
+
+537
+01:06:55,455 --> 01:06:59,556
+...o haþmetli dünya dýþý
+hayatýný kazanacak!
+
+538
+01:07:00,703 --> 01:07:04,258
+Oynamalarýný teþvik ediyorum. Gerçekten.
+Onlara meþgale buluyorum...
+
+539
+01:07:04,330 --> 01:07:06,532
+...bu da onlarý uyanýk tutuyor
+anlýyor musun?
+
+540
+01:07:07,477 --> 01:07:08,852
+Ama iþe yarýyor.
+
+541
+01:07:09,766 --> 01:07:13,001
+Onlarý sahip olmaya deðer
+bir çocuk etmeye yarýyor.
+
+542
+01:07:21,909 --> 01:07:23,165
+Hadi bakalým.
+
+543
+01:07:24,862 --> 01:07:26,446
+Aklýnda nasýl bir þey var?
+
+544
+01:07:30,366 --> 01:07:33,446
+Çünkü bende her türden var.
+
+545
+01:07:36,033 --> 01:07:37,888
+- Hayýr.
+- Satýn almaya gelmedim.
+
+546
+01:07:37,913 --> 01:07:41,127
+Hayýr. Bu benim oyunum.
+Kurallara uyarým ben.
+
+547
+01:07:41,152 --> 01:07:42,788
+Hayýr. Beni...
+
+548
+01:07:43,024 --> 01:07:44,468
+Senden daha büyükler...
+
+549
+01:07:46,890 --> 01:07:48,867
+Senden daha büyükler
+beni durdurmak istedi.
+
+550
+01:07:48,892 --> 01:07:51,055
+Senden büyüklerdi hem onlar...
+
+551
+01:07:51,654 --> 01:07:53,608
+Üstelik onlar insandý!
+
+552
+01:07:55,759 --> 01:07:58,780
+30 yýl önce buraya
+küçük bir oðlan çocuðu gelmiþ.
+
+553
+01:07:59,323 --> 01:08:01,187
+Kayýtlarýna bakmam lazým.
+
+554
+01:08:02,446 --> 01:08:05,265
+Meþru yerleþtirmeleri,
+özel satýþlarý, her þeyi.
+
+555
+01:08:05,459 --> 01:08:07,251
+O kadar geçmiþ tarihli
+kayýt tutmuyoruz.
+
+556
+01:08:07,555 --> 01:08:08,757
+- Öyle mi?
+- Evet.
+
+557
+01:08:11,520 --> 01:08:14,507
+Kusura bakma yardýmcý olamam.
+
+558
+01:08:18,081 --> 01:08:19,310
+- Olamazsýn demek?
+- Olamam.
+
+559
+01:08:24,599 --> 01:08:25,710
+Bence olabilirsin.
+
+560
+01:08:28,371 --> 01:08:30,800
+Bence senin gibi birinin
+hafýzasý yerindedir.
+
+561
+01:08:31,667 --> 01:08:33,152
+Þimdi bana hatýrladýklarýný anlat...
+
+562
+01:08:33,177 --> 01:08:35,282
+...yoksa buraya bir delik açýp
+kendim bakarým.
+
+563
+01:08:44,461 --> 01:08:45,910
+Anlatacak...
+
+564
+01:08:45,935 --> 01:08:48,269
+Anlatacaktým.
+Gitmeyecektim ki.
+
+565
+01:08:50,020 --> 01:08:52,790
+Bana gülüyorlardý.
+Ne demiþtin?
+
+566
+01:09:11,757 --> 01:09:12,969
+Geliyor musun?
+
+567
+01:09:24,184 --> 01:09:25,540
+Neredeydi?
+
+568
+01:09:28,770 --> 01:09:29,977
+Tanrým.
+
+569
+01:09:35,520 --> 01:09:36,475
+Nerede, nerede bu?
+
+570
+01:09:39,499 --> 01:09:41,790
+Bulamýyorum.
+Buradaydý.
+
+571
+01:09:50,663 --> 01:09:51,642
+Gitmiþ.
+
+572
+01:09:54,429 --> 01:09:57,019
+Yýrtýlmýþ.
+Tüm yýl yýrtýlmýþ.
+
+573
+01:09:58,790 --> 01:10:00,168
+Ben yýrtmadým.
+
+574
+01:10:00,855 --> 01:10:02,251
+Ben yapmadým.
+
+575
+01:10:05,927 --> 01:10:06,687
+Ben...
+
+576
+01:10:08,175 --> 01:10:09,217
+Ben yapmadým.
+
+577
+01:14:43,432 --> 01:14:47,230
+Özel olduðunu hep söylemiþimdir.
+
+578
+01:14:51,434 --> 01:14:52,338
+Doðmuþsun.
+
+579
+01:14:53,343 --> 01:14:54,519
+Üretilmemiþsin.
+
+580
+01:14:58,604 --> 01:15:00,247
+Özenle saklamýþlar seni.
+
+581
+01:15:03,844 --> 01:15:05,667
+Gerçek bir adamsýn.
+
+582
+01:15:08,474 --> 01:15:10,864
+Gerçek bir adamýn
+gerçek bir ismi olur.
+
+583
+01:15:12,311 --> 01:15:13,190
+Joe.
+
+584
+01:15:15,489 --> 01:15:16,605
+Joe?
+
+585
+01:15:17,044 --> 01:15:19,230
+K olamayacak kadar önemlisin.
+
+586
+01:15:20,167 --> 01:15:22,073
+Annen sana isim vermiþtir.
+
+587
+01:15:25,342 --> 01:15:26,511
+Joe.
+
+588
+01:15:28,925 --> 01:15:30,800
+- Joe.
+- Dur!
+
+589
+01:15:37,663 --> 01:15:40,556
+Bir anýnýn gerçek olup olmadýðýný
+nereden öðrenirim?
+
+590
+01:15:44,415 --> 01:15:46,204
+Anýlarý kim üretiyor?
+
+591
+01:16:17,982 --> 01:16:19,671
+Dr. Ana Stelline?
+
+592
+01:16:23,553 --> 01:16:24,899
+Ziyaretçi gelmiþ!
+
+593
+01:16:27,551 --> 01:16:29,029
+Gelebilir miyim?
+
+594
+01:16:29,740 --> 01:16:31,132
+Evet.
+
+595
+01:16:32,987 --> 01:16:34,609
+Pek alýþýlmadýk da.
+
+596
+01:16:36,409 --> 01:16:40,718
+Tanýþtýðýmýza memnun oldum
+Memur KD6-3.7.
+
+597
+01:16:45,068 --> 01:16:48,750
+Kusura bakma.
+Sorunlu bir baðýþýklýk sistemim var.
+
+598
+01:16:49,348 --> 01:16:53,172
+Camýn arkasýnda olmak þartýyla
+özgür bir hayat.
+
+599
+01:16:53,859 --> 01:16:55,661
+Bu yüzden mi dünya dýþýna gitmedin?
+
+600
+01:16:55,693 --> 01:16:56,781
+Evet.
+
+601
+01:16:57,249 --> 01:17:00,875
+Ailemin geçiþ kartlarý varmýþ
+ama ben hastalanmýþým.
+
+602
+01:17:01,583 --> 01:17:02,828
+Yani...
+
+603
+01:17:03,643 --> 01:17:06,431
+...gerçekten de
+yeni bir hayat oldu benim için.
+
+604
+01:17:06,689 --> 01:17:10,358
+Beni kafesime yerleþtirip...
+
+605
+01:17:10,383 --> 01:17:13,336
+...içini de ellerinden geldiðince
+beni mutlu edecek þeylerle doldurdular.
+
+606
+01:17:13,567 --> 01:17:15,687
+Eþlik edecek biri haricinde elbette.
+
+607
+01:17:16,139 --> 01:17:17,890
+Oysa kalabalýklarý seven biriydim.
+
+608
+01:17:21,484 --> 01:17:23,203
+Nasýl yardýmcý olabilirim?
+
+609
+01:17:24,278 --> 01:17:26,710
+Bana bir davada yardýmcý
+olabilirsiniz diye düþünüyordum.
+
+610
+01:17:28,209 --> 01:17:33,836
+Uzun zamandýr yardýmcý olmam istenen
+en ilginç þey bu.
+
+611
+01:17:35,091 --> 01:17:38,477
+Sen konuþurken çalýþsam
+sorun olur mu?
+
+612
+01:17:39,148 --> 01:17:40,133
+Olmaz.
+
+613
+01:17:47,494 --> 01:17:49,828
+Her sözünü dinleyeceðime söz veriyorum.
+
+614
+01:17:56,937 --> 01:17:59,742
+Senin en iyi aný üreticisi
+olduðunu söylüyorlar.
+
+615
+01:17:59,945 --> 01:18:02,050
+Kibarlýk ediyorlarmýþ.
+
+616
+01:18:03,250 --> 01:18:05,297
+Doðum günü partilerine bayýlýrým.
+
+617
+01:18:09,190 --> 01:18:10,828
+Wallace'ta mý çalýþýyorsun?
+
+618
+01:18:11,349 --> 01:18:14,754
+Taþeron olarak.
+Tedarikçilerinden biriyim.
+
+619
+01:18:15,303 --> 01:18:19,039
+Beni satýn almayý önerdi ama ben
+özgürlüðümü bulabileceðim yeri seçtim.
+
+620
+01:18:20,814 --> 01:18:22,508
+Ýþinde neden bu kadar iyisin?
+
+621
+01:18:23,158 --> 01:18:25,687
+Anýlarýný bu kadar
+gerçekçi kýlan þey ne?
+
+622
+01:18:27,098 --> 01:18:29,997
+Her sanatçý eserine
+kendinden bir parça katar.
+
+623
+01:18:30,552 --> 01:18:34,435
+Ama ben sekiz yaþýnda
+bu steril odaya kapatýldým.
+
+624
+01:18:35,453 --> 01:18:38,718
+Dünyayý görmek istediðimde
+onu hayal etmek zorunda kaldým.
+
+625
+01:18:40,406 --> 01:18:43,172
+Hayal kurmak konusunda
+oldukça geliþtim.
+
+626
+01:18:44,972 --> 01:18:48,297
+Wallace'ýn, sorunsuz bir ürün için
+yeteneðime ihtiyacý var.
+
+627
+01:18:49,802 --> 01:18:51,937
+Bir lütuf bence.
+
+628
+01:18:53,561 --> 01:18:55,850
+Kopyalarýn oldukça zor hayatlarý var.
+
+629
+01:18:55,875 --> 01:18:58,944
+Bizim yapmak istemediklerimizi
+zorla yapýyorlar.
+
+630
+01:18:59,417 --> 01:19:00,881
+Geleceðinizle ilgili
+size yardýmcý olamam...
+
+631
+01:19:00,906 --> 01:19:05,054
+...ama geriye dönüp baktýðýnýzda
+gülümseyeceðiniz güzel anýlar verebilirim.
+
+632
+01:19:06,062 --> 01:19:08,831
+- Güzel.
+- Güzelden de öte.
+
+633
+01:19:09,039 --> 01:19:10,343
+Gerçekçi hissettiriyor.
+
+634
+01:19:10,368 --> 01:19:13,093
+Gerçekçi anýlarýn da varsa...
+
+635
+01:19:13,714 --> 01:19:15,906
+...gerçek insan tepkileri verirsin.
+
+636
+01:19:16,920 --> 01:19:18,539
+Sence de öyle deðil mi?
+
+637
+01:19:26,859 --> 01:19:28,890
+Hepsi kurgu mu yoksa...
+
+638
+01:19:29,186 --> 01:19:31,164
+...gerçek olanlardan da
+kullanýyor musun?
+
+639
+01:19:35,358 --> 01:19:38,492
+Gerçek anýlarý kullanmak
+yasa dýþýdýr Memur Bey.
+
+640
+01:19:40,334 --> 01:19:42,179
+Farký nasýl anlarýz?
+
+641
+01:19:42,565 --> 01:19:44,320
+Bir þeyin gerçekten...
+
+642
+01:19:46,219 --> 01:19:47,656
+...yaþandýðýný nasýl anlarsýn?
+
+643
+01:19:49,793 --> 01:19:52,084
+Genellikle daha fazla
+detay içerdiði sanýlýr.
+
+644
+01:19:52,694 --> 01:19:55,085
+Ama anýlar böyle deðildir.
+
+645
+01:19:56,044 --> 01:19:58,136
+Onlarý hislerimizle hatýrlarýz.
+
+646
+01:19:58,424 --> 01:20:01,508
+Gerçek olan her þey karmaþýk olmalý.
+
+647
+01:20:03,324 --> 01:20:04,820
+Sana gösterebilirim.
+
+648
+01:20:06,632 --> 01:20:07,640
+Otur.
+
+649
+01:20:26,415 --> 01:20:27,172
+Þimdi.
+
+650
+01:20:27,921 --> 01:20:30,703
+Görmemi istediðin anýný düþün.
+
+651
+01:20:31,705 --> 01:20:34,195
+Çok sýkma kendini.
+Sadece hayal et.
+
+652
+01:20:35,241 --> 01:20:36,290
+Býrak kendisi canlansýn.
+
+653
+01:21:26,885 --> 01:21:29,176
+Biri bunu gerçekten yaþamýþ, evet.
+
+654
+01:21:30,805 --> 01:21:32,304
+Gerçekleþmiþ.
+
+655
+01:21:49,144 --> 01:21:50,878
+Gerçek olduðunu biliyorum.
+
+656
+01:22:02,389 --> 01:22:03,976
+Gerçek olduðunu biliyorum.
+
+657
+01:22:07,093 --> 01:22:10,297
+Lanet olsun!
+
+658
+01:22:54,656 --> 01:22:59,118
+<i>Memur KD6-3.7.
+Yüzbaþý seni çaðýrýyor.</i>
+
+659
+01:22:59,143 --> 01:23:03,070
+<i>Tutuklusun. Silahýný atýp ellerini
+görebileceðim bir yerde tut.</i>
+
+660
+01:23:04,086 --> 01:23:05,222
+- Hücreler.
+- Hücreler.
+
+661
+01:23:05,247 --> 01:23:07,037
+<i>Bir kuruma gittin mi hiç?</i>
+
+662
+01:23:07,062 --> 01:23:08,232
+- Hücreler.
+- Hücreler.
+
+663
+01:23:08,257 --> 01:23:11,321
+<i>Görevini yerine getirmediðinde
+seni küçük bir kutuya mý koyuyorlar?</i>
+
+664
+01:23:11,346 --> 01:23:12,453
+- Hücreler.
+- Hücreler.
+
+665
+01:23:12,478 --> 01:23:13,828
+- Baðlandý.
+- Baðlandý.
+
+666
+01:23:13,853 --> 01:23:16,829
+<i>Sevdiðin birinin elini tutmak
+nasýl bir duygu?</i>
+
+667
+01:23:16,854 --> 01:23:17,953
+<i>Baðlandý.</i>
+
+668
+01:23:18,971 --> 01:23:19,633
+Baðlandý.
+
+669
+01:23:19,658 --> 01:23:21,930
+<i>- Hücrelerin içindekiyle baðlandý.
+- Hücrelerin içindekiyle baðlandý.</i>
+
+670
+01:23:21,955 --> 01:23:23,003
+<i>- Korkunç bir þekilde.
+- Korkunç bir þekilde.</i>
+
+671
+01:23:23,028 --> 01:23:25,032
+<i>Korku duymak nasýl bir þey?</i>
+
+672
+01:23:25,057 --> 01:23:26,211
+- Korkunç bir þekilde.
+- Korkunç bir þekilde.
+
+673
+01:23:26,236 --> 01:23:28,143
+<i>Diðer insanlardan ayrýþmak
+hoþuna gider mi?</i>
+
+674
+01:23:28,168 --> 01:23:29,256
+- Belli.
+- Belli.
+
+675
+01:23:29,281 --> 01:23:31,391
+- Korkunç bir þekilde belli.
+- Korkunç bir þekilde belli.
+
+676
+01:23:31,416 --> 01:23:32,458
+- Karanlýk.
+- Karanlýk.
+
+677
+01:23:32,483 --> 01:23:34,947
+<i>- Hücrelerin içindekiyle baðlandý.
+- Hücrelerin içindekiyle baðlandý.</i>
+
+678
+01:23:34,972 --> 01:23:36,119
+<i>Ýçindeki bir kök ile.</i>
+
+679
+01:23:36,784 --> 01:23:37,891
+<i>Ýçindeki bir kök ile.</i>
+
+680
+01:23:37,916 --> 01:23:40,123
+<i>- Korkunç bir þekilde belli.
+- Korkunç bir þekilde belli.</i>
+
+681
+01:23:40,148 --> 01:23:41,677
+<i>- Karanlýktan.
+- Karanlýktan.</i>
+
+682
+01:23:41,702 --> 01:23:43,397
+<i>Beyaz uzun bir kaynak olarak.</i>
+
+683
+01:23:44,672 --> 01:23:46,437
+<i>Beyaz uzun bir kaynak olarak.</i>
+
+684
+01:23:49,218 --> 01:23:51,197
+<i>Temel itaat ile alakan yok.</i>
+
+685
+01:23:57,449 --> 01:23:58,986
+Dýþarý!
+Kapýyý kapatýn.
+
+686
+01:24:00,173 --> 01:24:02,133
+Neyin var senin?
+
+687
+01:24:02,533 --> 01:24:04,578
+Seni bir davada görevlendirdim.
+
+688
+01:24:04,789 --> 01:24:07,201
+Sana bu davanýn önemini
+özellikle vurgulamýþtým...
+
+689
+01:24:07,226 --> 01:24:10,336
+...sonra da seni geliþim
+merkezinden topluyoruz.
+
+690
+01:24:12,437 --> 01:24:14,895
+Taramalar, içeriden
+kendin olmadýðýný söylüyor.
+
+691
+01:24:14,920 --> 01:24:17,022
+Temel itaat diye bir þey kalmamýþ.
+
+692
+01:24:17,047 --> 01:24:18,610
+Bu ne demek biliyor musun?
+
+693
+01:24:18,635 --> 01:24:19,859
+Çocuðu buldum.
+
+694
+01:24:24,801 --> 01:24:28,281
+Standart bir Kopya gibi hazýrlanmýþ,
+hizmet görevine yerleþtirilmiþ.
+
+695
+01:24:30,854 --> 01:24:32,625
+Kendisi bile kim olduðunu bilmiyordu.
+
+696
+01:24:35,142 --> 01:24:36,833
+- Sonra?
+- Halledildi.
+
+697
+01:24:36,858 --> 01:24:39,593
+- Halledildi ne demek?
+- Ýsteðiniz yerine getirildi.
+
+698
+01:24:41,436 --> 01:24:42,539
+Bitti.
+
+699
+01:24:50,729 --> 01:24:52,703
+Patlamak üzere olan bombayý durdurdun.
+
+700
+01:24:54,728 --> 01:24:55,820
+Ýyi iþ çýkardýn.
+
+701
+01:24:58,656 --> 01:25:00,711
+Merkezi canlý terk etmene
+yardýmcý olabilirim.
+
+702
+01:25:00,736 --> 01:25:03,148
+Ama düzelmen için
+48 saatin var.
+
+703
+01:25:03,831 --> 01:25:05,821
+Silahýný ve rozetini teslim et.
+
+704
+01:25:05,846 --> 01:25:08,609
+Bir sonraki temel itaat testinde
+ipler benim elimde olmayacak.
+
+705
+01:25:10,913 --> 01:25:11,945
+Teþekkürler Yüzbaþým.
+
+706
+01:25:44,485 --> 01:25:45,625
+Haklýydýn.
+
+707
+01:25:52,901 --> 01:25:54,536
+Her konuda haklýydýn.
+
+708
+01:25:55,695 --> 01:25:56,716
+Sessiz ol.
+
+709
+01:26:23,557 --> 01:26:26,943
+Ýlgini çekmiyor sanmýþtým, iþçi çocuk.
+
+710
+01:26:29,956 --> 01:26:31,715
+Ondan hoþlandýðýn belli oluyor.
+
+711
+01:26:34,933 --> 01:26:36,115
+Sorun deðil.
+
+712
+01:26:37,253 --> 01:26:38,444
+O gerçek.
+
+713
+01:26:40,882 --> 01:26:42,974
+Senin için gerçek olmak istiyorum.
+
+714
+01:26:44,360 --> 01:26:46,076
+Benim için gerçeksin.
+
+715
+01:26:47,461 --> 01:26:49,483
+Hanýmefendi gayet özel biri.
+
+716
+01:27:07,756 --> 01:27:08,736
+Pekala.
+
+717
+01:27:09,495 --> 01:27:10,556
+Baþlayalým hadi.
+
+718
+01:27:32,809 --> 01:27:34,204
+Þuna da bak sen.
+
+719
+01:27:34,538 --> 01:27:36,580
+Sessiz ol.
+Senkronize olmam gerek.
+
+720
+01:30:32,698 --> 01:30:35,985
+<i>Joi, istediðiniz her þey olabilir.</i>
+
+721
+01:30:37,975 --> 01:30:41,107
+<i>Joi istediðiniz her yere gidebilir.</i>
+
+722
+01:31:44,678 --> 01:31:46,170
+Bu aðaçtan yapýlmýþ.
+
+723
+01:31:46,195 --> 01:31:47,782
+Seninle iþim bitti.
+
+724
+01:31:48,813 --> 01:31:50,110
+Artýk gidebilirsin.
+
+725
+01:32:02,071 --> 01:32:05,579
+Sessiz ol.
+Senin içindeydim.
+
+726
+01:32:06,505 --> 01:32:08,610
+Düþündüðün kadar çok þey yok.
+
+727
+01:32:27,949 --> 01:32:29,087
+Kahve?
+
+728
+01:32:35,238 --> 01:32:37,217
+Yakýnda benim için gelecekler.
+
+729
+01:32:46,239 --> 01:32:50,188
+Seninle geliyorum.
+Ama bu hâlde deðil.
+
+730
+01:32:51,189 --> 01:32:55,383
+Senin için geleceklerse,
+hatýralarýma ulaþabilirler.
+
+731
+01:32:56,254 --> 01:32:58,633
+Beni panelden silmen gerek.
+
+732
+01:32:59,830 --> 01:33:01,188
+Varlýðýmý...
+
+733
+01:33:03,398 --> 01:33:04,730
+...oraya aktar.
+
+734
+01:33:07,151 --> 01:33:08,668
+Bunu yapamam.
+
+735
+01:33:10,373 --> 01:33:11,566
+Bir düþünsene.
+
+736
+01:33:12,837 --> 01:33:15,270
+Buna bir þey olursa, her þey biter.
+
+737
+01:33:16,514 --> 01:33:19,309
+- Yok olursun.
+- Evet.
+
+738
+01:33:20,869 --> 01:33:22,413
+Gerçek bir kýz gibi.
+
+739
+01:33:28,465 --> 01:33:29,652
+Lütfen.
+
+740
+01:33:33,129 --> 01:33:34,922
+Lütfen Joe.
+
+741
+01:33:35,996 --> 01:33:37,505
+Bunu istiyorum.
+
+742
+01:33:41,627 --> 01:33:43,473
+Ama tek baþýma yapamam.
+
+743
+01:34:01,437 --> 01:34:02,816
+Anteni kýr.
+
+744
+01:34:19,318 --> 01:34:21,154
+<b>Bir bakalým.</b>
+
+745
+01:34:34,808 --> 01:34:36,841
+<b>Gerçek aðaç.
+Zenginsin, dostum.</b>
+
+746
+01:34:38,100 --> 01:34:43,251
+<b>Sana gerçek bir at verebilirim.
+Gerçek bir at ister misin?</b>
+
+747
+01:34:43,276 --> 01:34:44,887
+Gerçek bir at istemiyorum.
+
+748
+01:34:45,145 --> 01:34:48,077
+<b>Hayýr, sana bir tane getirebilirim.
+Wallace'ýnkiler gibi.</b>
+
+749
+01:34:48,102 --> 01:34:49,928
+Gerçek bir at istemiyorum,
+sadece...
+
+750
+01:34:50,917 --> 01:34:53,535
+...bunun nereden geldiðini söyle.
+- Pekâlâ.
+
+751
+01:34:56,030 --> 01:34:57,934
+<b>Eski toprak gibi kokuyor.</b>
+
+752
+01:34:58,992 --> 01:35:01,317
+<b>Ama yeni yapýlmýþ.</b>
+
+753
+01:35:03,023 --> 01:35:04,755
+Reaktörden gelen radyasyon mu?
+
+754
+01:35:04,780 --> 01:35:07,325
+<b>Hayýr, daha uçucu bir þey.</b>
+
+755
+01:35:09,568 --> 01:35:10,981
+<b>Eski.
+Eski.</b>
+
+756
+01:35:12,493 --> 01:35:14,223
+Sadece kirli bomba deðil o zaman.
+
+757
+01:35:14,589 --> 01:35:18,700
+<b>Bu kadar güçlü radyasyon
+sadece tek bir yerde bulunurdu.</b>
+
+758
+01:35:22,476 --> 01:35:24,387
+Bu kadar kirli tek bir yer var.
+
+759
+01:35:26,604 --> 01:35:27,950
+Orada kimse yaþamýyor.
+
+760
+01:35:28,578 --> 01:35:33,559
+<b>Bana nereden geldiðini sordun.</b>
+
+761
+01:35:33,832 --> 01:35:37,656
+<b>Ben de sana söyledim.
+Daha ne istiyorsun?</b>
+
+762
+01:35:38,441 --> 01:35:40,512
+<b>At mý, keçi mi?</b>
+
+763
+01:35:40,637 --> 01:35:42,354
+<b>Yoksa sahte evrak mý?</b>
+
+764
+01:35:42,379 --> 01:35:45,932
+<b>Her ne istiyorsan,
+Doktor Badger senin için bulur.</b>
+
+765
+01:36:19,165 --> 01:36:20,676
+<i>Beþ numaraya geç.</i>
+
+766
+01:36:21,455 --> 01:36:23,669
+<i>Dört, 30 derece sola.</i>
+
+767
+01:36:26,156 --> 01:36:27,361
+<i>Yukarý.</i>
+
+768
+01:36:30,236 --> 01:36:32,019
+<i>120 metre yüksel.</i>
+
+769
+01:36:38,077 --> 01:36:39,980
+<i>Radyasyon ölçümü.</i>
+
+770
+01:36:40,195 --> 01:36:42,929
+RADYASYON SEVÝYESÝ: NORMAL
+
+771
+01:36:42,954 --> 01:36:44,207
+<i>Devam et.</i>
+
+772
+01:36:51,268 --> 01:36:52,229
+<i>Yukarý.</i>
+
+773
+01:36:53,143 --> 01:36:53,955
+<i>Dur.</i>
+
+774
+01:36:56,590 --> 01:37:00,392
+<i>Devam et.
+Beþe geç.</i>
+
+775
+01:37:01,543 --> 01:37:03,512
+<i>Yedi, ileri.</i>
+
+776
+01:37:08,687 --> 01:37:09,986
+<i>Altý.</i>
+
+777
+01:37:11,459 --> 01:37:12,494
+<i>Dur.</i>
+
+778
+01:37:15,532 --> 01:37:16,564
+<i>Yediye geç.</i>
+
+779
+01:37:17,753 --> 01:37:18,634
+<i>Sekiz.</i>
+
+780
+01:37:20,141 --> 01:37:21,056
+<i>Dokuz.</i>
+
+781
+01:37:25,403 --> 01:37:26,804
+Termal ölçüm.
+
+782
+01:37:34,987 --> 01:37:35,900
+Yaþam.
+
+783
+01:37:36,901 --> 01:37:38,116
+Nedir o?
+
+784
+01:37:39,170 --> 01:37:40,842
+Sanýrým þimdi öðreneceðiz.
+
+785
+01:37:51,497 --> 01:37:52,819
+Burasý çok karanlýk.
+
+786
+01:37:56,260 --> 01:37:57,397
+Onu sevdim.
+
+787
+01:37:58,663 --> 01:37:59,976
+Ýyi bir çocuk.
+
+788
+01:38:01,472 --> 01:38:02,561
+Nerede?
+
+789
+01:38:09,384 --> 01:38:10,577
+Hiçbir fikrim yok.
+
+790
+01:38:11,991 --> 01:38:14,882
+Bugün izinli.
+Etrafa bak.
+
+791
+01:38:15,057 --> 01:38:16,116
+Baktým.
+
+792
+01:38:17,772 --> 01:38:19,421
+Gidebileceði her yere baktým.
+
+793
+01:38:20,577 --> 01:38:21,765
+Çok geç kaldýn.
+
+794
+01:38:25,184 --> 01:38:26,405
+Yok oldu.
+
+795
+01:38:29,902 --> 01:38:31,140
+Onu yok etti.
+
+796
+01:38:33,882 --> 01:38:36,039
+Onunla ilgili her þeyi.
+
+797
+01:38:36,533 --> 01:38:39,304
+Tabii senin çoktan aldýðýn
+kemik dolu torba hariç.
+
+798
+01:38:44,012 --> 01:38:47,452
+Anlaþýlan bu sana yetmemiþ ki
+buradasýn.
+
+799
+01:38:55,281 --> 01:38:57,069
+Seni minik þey.
+
+800
+01:38:58,924 --> 01:39:02,210
+Yeni bir harikayla karþýlaþýnca
+öldürmeyi mi düþündün?
+
+801
+01:39:03,856 --> 01:39:06,194
+Büyük deðiþimden korktuðun için mi?
+
+802
+01:39:07,395 --> 01:39:10,327
+Rüzgârýn yönünü
+süpürgenle deðiþtiremezsin.
+
+803
+01:39:10,871 --> 01:39:12,640
+Çoktan deðiþtirdim bile.
+
+804
+01:39:14,026 --> 01:39:15,530
+Nerede o?
+
+805
+01:39:19,430 --> 01:39:20,765
+Kendinden çok eminsin.
+
+806
+01:39:22,500 --> 01:39:24,343
+Çünkü sana öyle söyledi.
+
+807
+01:39:24,953 --> 01:39:26,905
+Çünkü asla yalan söylemeyiz.
+
+808
+01:39:28,819 --> 01:39:31,358
+Bay Wallace'a ilk önce senin beni
+vurmaya çalýþtýðýný söyleyeceðim.
+
+809
+01:39:32,730 --> 01:39:34,561
+Yani seni öldürmek zorundayým.
+
+810
+01:39:39,270 --> 01:39:40,869
+Elinden geleni ardýna koyma.
+
+811
+01:39:42,407 --> 01:39:43,244
+Yüzbaþým.
+
+812
+01:40:15,821 --> 01:40:19,009
+Memur KD6-3.7 nerede?
+
+813
+01:40:25,758 --> 01:40:29,392
+DEDEKTÝF KD6-3.7
+DURUM: GÖREVDEN ALINDI
+
+814
+01:45:07,348 --> 01:45:12,033
+<i>Yanýnda bir parça peynir
+olma ihtimali...</i>
+
+815
+01:45:13,182 --> 01:45:14,604
+<i>...yoktur deðil mi, evlat?</i>
+
+816
+01:45:29,768 --> 01:45:31,002
+Define Adasý mý?
+
+817
+01:45:38,164 --> 01:45:39,600
+Okuyorsun.
+
+818
+01:45:40,786 --> 01:45:42,108
+Ne güzel.
+
+819
+01:45:43,304 --> 01:45:44,507
+Ben de okurum.
+
+820
+01:45:45,892 --> 01:45:48,975
+Artýk geceleri burada
+yapacak pek bir þey kalmadý.
+
+821
+01:45:51,819 --> 01:45:53,874
+"Geceleri caným hep...
+
+822
+01:45:54,741 --> 01:45:56,460
+...peynir çeker."
+
+823
+01:45:59,866 --> 01:46:03,225
+"Çoðunlukla kýzarmýþ."
+
+824
+01:46:06,576 --> 01:46:08,147
+Burada ne yapýyorsun?
+
+825
+01:46:11,406 --> 01:46:13,124
+Piyano sesi duydum.
+
+826
+01:46:15,051 --> 01:46:16,350
+Yalan söyleme.
+
+827
+01:46:17,796 --> 01:46:19,014
+Kaba olma.
+
+828
+01:46:21,344 --> 01:46:22,624
+Sen bir polissin.
+
+829
+01:46:24,176 --> 01:46:26,881
+- Seni tutuklamaya gelmedim.
+- Öyle mi?
+
+830
+01:46:29,864 --> 01:46:31,037
+Neden geldin?
+
+831
+01:46:33,495 --> 01:46:37,819
+- Sadece birkaç sorum var.
+- Ne sorusu?
+
+832
+01:46:55,535 --> 01:46:56,663
+Bekle.
+
+833
+01:48:22,874 --> 01:48:27,171
+<i>Aþkýmýz ayakta kalýr mý?
+Olamaz</i>
+
+834
+01:48:37,232 --> 01:48:41,561
+<i>Çünkü ben yapamam</i>
+
+835
+01:49:30,532 --> 01:49:33,646
+Bak.
+Sana zarar vermek istemiyorum.
+
+836
+01:49:33,878 --> 01:49:35,914
+Ama bunu zorlaþtýrýyorsun.
+
+837
+01:50:08,478 --> 01:50:13,978
+<i>Nehir denize doðru akarken</i>
+
+838
+01:50:15,611 --> 01:50:19,142
+<i>Hayatým bazý þeyler</i>
+
+839
+01:50:19,208 --> 01:50:24,268
+<i>Gerçekleþir
+Olmasý gerektiði gibi</i>
+
+840
+01:50:25,100 --> 01:50:26,768
+Bu þarkýyý severim.
+
+841
+01:50:26,955 --> 01:50:30,762
+<i>Al elimi</i>
+
+842
+01:50:32,554 --> 01:50:37,372
+<i>Tüm hayatýmla birlikte</i>
+
+843
+01:50:37,397 --> 01:50:40,299
+Ya buna devam ederiz
+ya da bir þeyler içeriz.
+
+844
+01:50:40,324 --> 01:50:45,397
+<i>Çünkü sana olan aþkýma</i>
+
+845
+01:50:45,985 --> 01:50:52,452
+<i>Engel olamýyorum</i>
+
+846
+01:50:53,063 --> 01:50:54,526
+Ýçkiyi tercih ederim.
+
+847
+01:51:03,022 --> 01:51:04,790
+Burasý cidden güzelmiþ.
+
+848
+01:51:05,160 --> 01:51:06,907
+Bütün þehir güzeldi.
+
+849
+01:51:07,440 --> 01:51:08,782
+Bir zamanlar.
+
+850
+01:51:10,931 --> 01:51:12,532
+Dertlerini unuturdun.
+
+851
+01:51:13,978 --> 01:51:15,719
+Bir gösteri izlerdin.
+
+852
+01:51:17,484 --> 01:51:19,235
+Kumar oynardýn.
+
+853
+01:51:21,941 --> 01:51:24,383
+Para kazanýr, para kaybederdin.
+
+854
+01:51:25,333 --> 01:51:30,591
+Para sanki þeker gibiydi.
+Viski sever misin?
+
+855
+01:51:31,080 --> 01:51:35,610
+Burada milyonlarca þiþe viskim var.
+
+856
+01:51:49,764 --> 01:51:50,464
+Al.
+
+857
+01:51:52,050 --> 01:51:53,370
+Kanýný sil.
+
+858
+01:52:06,226 --> 01:52:07,556
+O gerçek mi?
+
+859
+01:52:08,331 --> 01:52:11,322
+Bilmiyorum.
+Ona sor.
+
+860
+01:52:28,162 --> 01:52:29,273
+Bir adýn var m?
+
+861
+01:52:31,630 --> 01:52:36,625
+- Memur KD6-3.7.
+- Bu isim deðil, seri numarasý.
+
+862
+01:52:38,927 --> 01:52:39,938
+Pekâlâ.
+
+863
+01:52:42,998 --> 01:52:44,086
+Joe.
+
+864
+01:52:44,562 --> 01:52:46,203
+Ne istiyorsun, Joe?
+
+865
+01:52:47,849 --> 01:52:50,539
+- Sana birkaç sorum olacak.
+- Ne mesela?
+
+866
+01:52:57,296 --> 01:53:01,033
+Onun adý ne,
+çocuðunun annesinin adý.
+
+867
+01:53:08,213 --> 01:53:09,521
+Nasýl biriydi?
+
+868
+01:53:20,853 --> 01:53:24,074
+- Birlikte mi yaþýyordunuz?
+- Çok soru soruyorsun.
+
+869
+01:53:25,402 --> 01:53:27,438
+Ben de polistim, iyi bir polis.
+
+870
+01:53:27,855 --> 01:53:30,338
+- Önceden daha kolaydý.
+- Neden karmaþýk hâle getiriyorsun?
+
+871
+01:53:30,363 --> 01:53:32,674
+- Neden sadece sorulara cevap vermiyorsun?
+- Ne sorusu?
+
+872
+01:53:32,699 --> 01:53:35,160
+Senin böyle saçmalayacaðýný
+tahmin etmezdim.
+
+873
+01:53:36,321 --> 01:53:37,871
+Onun adý neydi?
+
+874
+01:53:51,328 --> 01:53:52,261
+Rachael.
+
+875
+01:53:57,584 --> 01:53:59,175
+Onun adý Rachael'dý.
+
+876
+01:54:03,710 --> 01:54:05,142
+Çocuða ne oldu?
+
+877
+01:54:08,534 --> 01:54:10,799
+Onu yetimhaneye kim verdi, sen mi?
+
+878
+01:54:13,969 --> 01:54:15,853
+O zamanda yoktum ben.
+
+879
+01:54:19,682 --> 01:54:21,549
+Kendi çocuðunu hiç görmedin mi?
+
+880
+01:54:24,420 --> 01:54:25,517
+Neden?
+
+881
+01:54:26,838 --> 01:54:28,814
+Çünkü plan öyleydi.
+
+882
+01:54:31,354 --> 01:54:35,488
+Onlara kayýtlarý deðiþtirmeyi,
+izlerini gizlemeyi öðrettim.
+
+883
+01:54:36,466 --> 01:54:39,155
+Herkesin bir rolü vardý,
+benimki gitmekti.
+
+884
+01:54:40,785 --> 01:54:43,221
+Sonra gerçekleþen
+Karartma her þeyi çözdü.
+
+885
+01:54:43,246 --> 01:54:45,472
+Denesem de artýk çocuðu bulamazdým.
+
+886
+01:54:45,871 --> 01:54:47,191
+Bulmak istedin mi?
+
+887
+01:54:47,660 --> 01:54:50,252
+- Pek deðil.
+- Peki neden?
+
+888
+01:54:50,277 --> 01:54:52,910
+Çünkü bizi avlýyorlardý.
+
+889
+01:54:53,308 --> 01:54:55,894
+Çocuðumuzun bulunmasýný
+istemedim.
+
+890
+01:54:56,121 --> 01:54:59,285
+Parçalara ayýrýp öldürürlerdi.
+
+891
+01:55:03,201 --> 01:55:05,988
+Bazen birini sevmek için...
+
+892
+01:55:08,115 --> 01:55:09,918
+...yabancý olman gerekir.
+
+893
+01:55:31,302 --> 01:55:32,624
+Yabancýlara.
+
+894
+01:55:50,128 --> 01:55:52,101
+<i>Saat üçü çeyrek geçiyor</i>
+
+895
+01:55:53,895 --> 01:55:55,523
+<i>Mekânda kimse yok</i>
+
+896
+01:55:57,523 --> 01:55:59,739
+<i>Ýkimizden baþka</i>
+
+897
+01:56:04,135 --> 01:56:06,718
+<i>Ýçkileri hazýrla Joe</i>
+
+898
+01:56:08,269 --> 01:56:10,278
+<i>Küçük bir hikâyem var</i>
+
+899
+01:56:13,394 --> 01:56:15,175
+<i>Bilmen gereken</i>
+
+900
+01:56:18,740 --> 01:56:20,892
+<i>Ýçiyoruz dostum</i>
+
+901
+01:56:22,810 --> 01:56:24,681
+<i>Sonuna doðru</i>
+
+902
+01:56:26,348 --> 01:56:29,446
+<i>Küçük bir anýn</i>
+
+903
+01:56:32,615 --> 01:56:35,751
+<i>Bir tane bebeðime hazýrla</i>
+
+904
+01:56:38,995 --> 01:56:41,020
+<i>Bir tane de sonrasý için</i>
+
+905
+01:57:44,815 --> 01:57:45,990
+Ne yaptýn sen?
+
+906
+01:57:46,659 --> 01:57:47,686
+Kimi getirdin?
+
+907
+01:57:49,990 --> 01:57:52,486
+- Kimseyi.
+- Öyle mi?
+
+908
+01:57:58,129 --> 01:57:59,858
+<i>Hedefe kilitlenildi.</i>
+
+909
+01:58:01,964 --> 01:58:03,654
+Burada olduðunu biliyorlar.
+
+910
+01:58:05,037 --> 01:58:06,671
+Yalnýz geldim.
+
+911
+02:00:13,802 --> 02:00:15,234
+Yaramaz köpek.
+
+912
+02:00:32,407 --> 02:00:33,707
+Dur.
+
+913
+02:00:50,042 --> 02:00:52,498
+Umarým ürünümüzden
+memnun kalmýþsýnýzdýr.
+
+914
+02:00:53,287 --> 02:00:54,686
+Seni seviyorum.
+
+915
+02:04:10,578 --> 02:04:12,822
+Seninle tanýþmak isteyen biri var.
+
+916
+02:04:14,613 --> 02:04:16,377
+Bize güvenebilirsin.
+
+917
+02:04:24,360 --> 02:04:27,337
+Þimdi bana sola, yukarý
+bak diyeceksin, deðil mi?
+
+918
+02:04:33,071 --> 02:04:34,508
+Bu Freysa.
+
+919
+02:04:35,340 --> 02:04:39,306
+- Calantha'da Sapper'le savaþtý.
+- Seni tanýyorum.
+
+920
+02:04:41,462 --> 02:04:43,657
+Çocuðu saklamasýna yardým mý ettin?
+
+921
+02:04:45,667 --> 02:04:47,094
+Ben oradaydým.
+
+922
+02:04:51,033 --> 02:04:53,204
+Bir mucizenin doðuþuna tanýk oldum.
+
+923
+02:04:54,487 --> 02:04:57,618
+Mükemmel bir surat,
+bana doðru aðlýyordu.
+
+924
+02:04:58,401 --> 02:05:00,243
+Çýlgýn gibiydi.
+
+925
+02:05:13,627 --> 02:05:14,853
+Yanýnda mýydýn?
+
+926
+02:05:17,119 --> 02:05:20,719
+- Rachael'ýn?
+- Ölürken elini tutuyordum.
+
+927
+02:05:22,408 --> 02:05:26,509
+Çocuðu sakladýk.
+Ve bu bizim sýrrýmýz oldu.
+
+928
+02:05:27,211 --> 02:05:29,470
+Bu yüzden Sapper
+onu öldürmene izin verdi.
+
+929
+02:05:30,884 --> 02:05:33,361
+O bebeðin,
+bizlerin sadece bir köle...
+
+930
+02:05:33,386 --> 02:05:37,158
+...olmadýðýmýzýn bir göstergesi
+olduðunu biliyordum.
+
+931
+02:05:38,229 --> 02:05:40,744
+Bizlerden birinin bebeði oluyorsa...
+
+932
+02:05:41,055 --> 02:05:44,073
+...biz kendimizin efendisiyizdir.
+
+933
+02:05:44,446 --> 02:05:46,587
+"Ýnsanlardan daha insan."
+
+934
+02:05:48,901 --> 02:05:53,173
+Devrim yaklaþýyor.
+Ve kendi ordumuzu kuruyoruz.
+
+935
+02:05:54,613 --> 02:05:56,805
+Halkýmýz özgür olsun istiyorum.
+
+936
+02:06:05,117 --> 02:06:08,702
+Özgür olmak istiyorsan, bize katýl.
+
+937
+02:06:14,241 --> 02:06:17,248
+Deckard, Sapper, sen, ben.
+
+938
+02:06:17,273 --> 02:06:20,907
+Hayatlarýmýzýn, yaklaþan
+fýrtýnanýn yanýnda hiçbir deðeri yok.
+
+939
+02:06:21,834 --> 02:06:26,224
+Doðru bir amaç uðruna ölmek
+yapabileceðimiz en insanca þey.
+
+940
+02:06:29,178 --> 02:06:31,047
+Wallace'ý Deckard'a sen götürdün.
+
+941
+02:06:32,084 --> 02:06:35,960
+Deckard'ýn, Wallace'ý bana
+yönlendirmesine izin veremezsin.
+
+942
+02:06:36,563 --> 02:06:38,532
+Deckard'ý öldürmelisin.
+
+943
+02:06:47,951 --> 02:06:50,743
+Deckard'ýn tek istediði
+çocuðun güvende olmasý.
+
+944
+02:06:51,650 --> 02:06:52,800
+Ve güvende.
+
+945
+02:06:55,296 --> 02:06:58,873
+Zamaný geldiðinde, onu
+dünyaya göstereceðim.
+
+946
+02:06:58,898 --> 02:07:01,885
+- Ve o kýz ordumuzu yönetecek.
+- Kýz mý?
+
+947
+02:07:02,674 --> 02:07:06,438
+Elbette.
+Rachael'ýn bir kýzý oldu.
+
+948
+02:07:08,152 --> 02:07:11,042
+Doðumunu kendi gözlerimle gördüm.
+
+949
+02:07:12,034 --> 02:07:15,210
+O giderken mavi giysilerini
+ona ben giydirdim.
+
+950
+02:07:15,235 --> 02:07:17,073
+Sakladýðýn bir erkek deðil miydi?
+
+951
+02:07:19,314 --> 02:07:22,124
+O sadece yapbozun bir parçasý.
+
+952
+02:07:39,252 --> 02:07:41,551
+Onun sen olduðunu mu sandýn?
+
+953
+02:07:45,016 --> 02:07:46,042
+Öyle sanmýþsýn.
+
+954
+02:07:47,153 --> 02:07:48,026
+Öyle sanmýþsýn.
+
+955
+02:07:51,316 --> 02:07:53,408
+Hepimiz o olmayý istedik.
+
+956
+02:07:55,068 --> 02:07:56,800
+Bu yüzden inanýyoruz.
+
+957
+02:08:13,497 --> 02:08:15,261
+<i>Biri bunu yaþamýþ, evet.</i>
+
+958
+02:08:17,777 --> 02:08:22,226
+<i>Onlara kayýtlarý deðiþtirmeyi,
+izlerini gizlemeyi öðrettim.</i>
+
+959
+02:08:22,550 --> 02:08:25,438
+<i>Doðumunu kendi gözlerimle gördüm.</i>
+
+960
+02:08:26,698 --> 02:08:30,218
+<i>O giderken mavi giysilerini
+ona ben giydirdim.</i>
+
+961
+02:08:31,156 --> 02:08:34,022
+<i>Her sanatçý eserine
+kendinden bir parça katar.</i>
+
+962
+02:09:11,919 --> 02:09:14,011
+<i>Oradaki her zaman sýçrýyor.</i>
+
+963
+02:09:15,203 --> 02:09:17,991
+<i>Yakalanýrsa ne yapacaðýný
+hiç düþünmeden.</i>
+
+964
+02:09:19,418 --> 02:09:23,929
+Ne kadar cesur olursan ol,
+gerçekleri deðiþtiremezsin.
+
+965
+02:09:28,807 --> 02:09:34,012
+Çok uzun zamandan beri
+sizinle tanýþmak istiyordum.
+
+966
+02:09:52,429 --> 02:09:54,923
+Sizi hep merak ettim, Bay Deckard.
+
+967
+02:10:00,927 --> 02:10:02,470
+Kilit bende.
+
+968
+02:10:04,342 --> 02:10:06,220
+Anahtarý buldum.
+
+969
+02:10:07,849 --> 02:10:12,525
+Arkanýzdaki kapýnýn kilitli
+kalýp kalmamasý size baðlý.
+
+970
+02:10:15,138 --> 02:10:18,735
+Yeniden üretmek için
+bir numune gerek, Bay Deckard.
+
+971
+02:10:22,374 --> 02:10:23,415
+Çocuk.
+
+972
+02:10:25,259 --> 02:10:26,630
+O çocuða ihtiyacým var.
+
+973
+02:10:28,361 --> 02:10:30,782
+Hepsine uçmayý öðretebilmek için.
+
+974
+02:10:39,200 --> 02:10:42,985
+"Ve Tanrý, Rachael'i hatýrladý.
+
+975
+02:10:45,056 --> 02:10:46,486
+Rahmine dokundu...
+
+976
+02:10:47,636 --> 02:10:49,212
+...ve hayat verdi.
+
+977
+02:10:50,380 --> 02:10:51,859
+<i>Baykuþumuzu beðendiniz mi?</i>
+
+978
+02:10:54,774 --> 02:10:56,214
+<i>Yapay mý?</i>
+
+979
+02:10:57,573 --> 02:10:59,329
+<i>Tabii ki yapay.</i>
+
+980
+02:11:01,008 --> 02:11:02,347
+<i>Pahalý bir þey olmalý.</i>
+
+981
+02:11:04,362 --> 02:11:07,198
+<i>Öyle.
+Ben Rachael.</i>
+
+982
+02:11:08,174 --> 02:11:09,073
+<i>Deckard.</i>
+
+983
+02:11:21,485 --> 02:11:23,026
+<i>Rachael'le tanýþtýðýn...</i>
+
+984
+02:11:24,579 --> 02:11:27,120
+<i>...anla þimdiki an...</i>
+
+985
+02:11:29,725 --> 02:11:31,384
+<i>...ayný mý?</i>
+
+986
+02:11:41,748 --> 02:11:47,920
+<i>Aradan geçen onca yýla raðmen hayalinde
+hâlâ Rachael'in mükemmelliði var.</i>
+
+987
+02:11:51,371 --> 02:11:53,662
+<i>Dudaklarýnýn parlaklýðý.</i>
+
+988
+02:11:53,767 --> 02:11:56,467
+<i>Nasýl da bir anda baðlanmýþtýnýz.</i>
+
+989
+02:11:59,621 --> 02:12:04,017
+O zamanlar, bu yüzden seçildiðin
+hiç aklýna gelmedi mi?
+
+990
+02:12:05,969 --> 02:12:11,415
+Her þey ona âþýk olman için
+tasarlanmýþ gibi hissettirmedi mi?
+
+991
+02:12:13,709 --> 02:12:18,994
+Tüm bunlar tek bir kusursuz
+numunenin yaratýlmasý içindi.
+
+992
+02:12:22,396 --> 02:12:25,185
+Tasarlandýðýn þey bu.
+
+993
+02:12:26,692 --> 02:12:27,830
+Âþk mýydý...
+
+994
+02:12:28,416 --> 02:12:30,791
+...yoksa matematiksel olarak
+olmasý gereken mi?
+
+995
+02:12:36,830 --> 02:12:37,689
+Evet mi?
+
+996
+02:12:39,197 --> 02:12:40,134
+Hayýr mý?
+
+997
+02:12:45,195 --> 02:12:46,939
+Gerçek ne, biliyorum.
+
+998
+02:13:11,304 --> 02:13:14,569
+Bu bilgileri kendine saklaman
+çok akýllýca.
+
+999
+02:13:14,734 --> 02:13:18,319
+Ama tüm bunlar her þeyine mal oldu.
+
+1000
+02:13:22,544 --> 02:13:24,835
+Ama bana yine de yardým edebilirsin.
+
+1001
+02:13:26,033 --> 02:13:29,220
+Onu saklamak için yardým aldýn.
+
+1002
+02:13:31,660 --> 02:13:33,148
+Nereye gittiler?
+
+1003
+02:13:35,275 --> 02:13:37,184
+Bir þey bildiðini biliyorum.
+
+1004
+02:13:38,417 --> 02:13:39,754
+Bana yardým edersen...
+
+1005
+02:13:40,792 --> 02:13:44,199
+...çok ama çok güzel þeyler
+senin olur.
+
+1006
+02:13:50,015 --> 02:13:51,809
+Senin çocuðun yok.
+
+1007
+02:13:55,512 --> 02:13:56,556
+Deðil mi?
+
+1008
+02:13:57,381 --> 02:13:59,771
+Hem de milyonlarca var.
+
+1009
+02:14:02,159 --> 02:14:05,298
+Sana acýdan baþka
+bir þey sunamaz mýyým sanýyorsun?
+
+1010
+02:14:05,641 --> 02:14:07,219
+Bildiðim kadarýyla...
+
+1011
+02:14:08,735 --> 02:14:10,001
+...acýyý seviyorsun.
+
+1012
+02:14:11,713 --> 02:14:16,150
+Acý, hislerinin gerçek olduðunu
+hatýrlatýp, sana zevk veriyor.
+
+1013
+02:14:18,174 --> 02:14:19,882
+Daha çok zevke o zaman.
+
+1014
+02:14:26,361 --> 02:14:28,036
+Sakýn korkma.
+
+1015
+02:14:43,151 --> 02:14:44,591
+Bir melek...
+
+1016
+02:14:45,979 --> 02:14:47,536
+...tekrar yapýldý...
+
+1017
+02:14:51,637 --> 02:14:52,841
+...senin için.
+
+1018
+02:15:27,287 --> 02:15:28,720
+Beni özledin mi?
+
+1019
+02:15:47,088 --> 02:15:48,600
+Beni sevmiyor musun?
+
+1020
+02:16:07,809 --> 02:16:09,508
+Onun gözleri yeþildi.
+
+1021
+02:16:26,986 --> 02:16:28,509
+Dünya dýþýnda...
+
+1022
+02:16:29,454 --> 02:16:32,241
+...seni konuþturmak için
+her þeyi yapabilirim.
+
+1023
+02:16:34,588 --> 02:16:36,890
+Sen daha acý nedir bilmiyorsun.
+
+1024
+02:16:38,858 --> 02:16:40,163
+Ama öðreneceksin.
+
+1025
+02:16:52,559 --> 02:16:54,452
+<i>Merhaba yakýþýklý.</i>
+
+1026
+02:17:11,371 --> 02:17:13,671
+<i>Ne gün ama, deðil mi?</i>
+
+1027
+02:17:17,648 --> 02:17:19,046
+Yalnýz görünüyorsun.
+
+1028
+02:17:20,608 --> 02:17:22,343
+<i>Bunu düzeltebilirim.</i>
+
+1029
+02:17:26,003 --> 02:17:28,865
+<i>Adý Joe olan iyi birine benziyorsun.</i>
+
+1030
+02:18:03,982 --> 02:18:09,300
+<i>Doðru bir amaç için ölmek,
+yapabileceðimiz en insanca þey.</i>
+
+1031
+02:18:12,205 --> 02:18:14,596
+<i>Çünkü daha önce hiç mucize görmediniz.</i>
+
+1032
+02:18:53,242 --> 02:18:56,565
+<i>Los Angeles hava sahasýna
+girmek üzeresiniz.</i>
+
+1033
+02:18:56,590 --> 02:18:58,110
+<i>Lütfen kimliðinizi onaylayýn.</i>
+
+1034
+02:18:58,135 --> 02:19:01,439
+<i>Burasý yolcu gemisi S-14-D.</i>
+
+1035
+02:19:02,116 --> 02:19:04,694
+<i>Merkez, burasý 06...</i>
+
+1036
+02:19:06,930 --> 02:19:08,624
+Nereye gidiyoruz?
+
+1037
+02:19:09,617 --> 02:19:10,799
+Eve.
+
+1038
+02:20:06,091 --> 02:20:10,022
+<i>Uyarý, motor arýzasý.
+Yedek motorlar devreye alýndý.</i>
+
+1039
+02:20:10,622 --> 02:20:12,069
+<i>Uyarý, motor arýzasý.</i>
+
+1040
+02:20:12,094 --> 02:20:14,684
+- Baþarabilir miyiz?
+- Çok alçaktayýz.
+
+1041
+02:20:15,228 --> 02:20:16,719
+Bizi geri götür.
+
+1042
+02:21:05,817 --> 02:21:07,038
+Kaldýr þunu!
+
+1043
+02:21:31,859 --> 02:21:33,221
+Kapýyý aç.
+
+1044
+02:23:26,049 --> 02:23:27,559
+En iyi benim.
+
+1045
+02:24:08,769 --> 02:24:10,380
+Dünya dýþý seni bekliyor.
+
+1046
+02:26:24,039 --> 02:26:26,394
+Joe. Joe!
+
+1047
+02:26:36,754 --> 02:26:37,920
+Joe!
+
+1048
+02:27:17,431 --> 02:27:19,380
+Orada ölmeme izin vermeliydin.
+
+1049
+02:27:20,646 --> 02:27:21,614
+Öldün.
+
+1050
+02:27:25,990 --> 02:27:27,481
+Orada boðuldun.
+
+1051
+02:27:33,623 --> 02:27:35,580
+Artýk kýzýný görebilirsin.
+
+1052
+02:29:00,939 --> 02:29:03,051
+En iyi anýlarým ona aitti.
+
+1053
+02:29:12,560 --> 02:29:13,556
+Neden?
+
+1054
+02:29:16,557 --> 02:29:17,939
+Ben senin için neyim ki?
+
+1055
+02:29:27,674 --> 02:29:29,130
+Git ve kýzýnla tanýþ.
+
+1056
+02:29:35,539 --> 02:29:36,768
+Sen iyi misin?
+
+1057
+02:32:13,447 --> 02:32:14,683
+Bir dakika.
+
+1058
+02:32:17,497 --> 02:32:18,949
+Çok güzel, deðil mi?
+
+1059
+02:32:46,236 --> 02:32:52,193
+<b>Çeviri: hasangdr & x@nder & Begüm Özdemir
+Twitter: hasangdr & xqnder & miserym</b>
+
+1060
+02:32:53,305 --> 02:32:59,681
+www.OpenSubtitles.org adresinden tüm reklamlarý kaldýrmak için bizi destekleyin ve VIP üye olun.

@@ -1,0 +1,1627 @@
+{25}{175}www.OpenSubtitles.org ile bugün baðlantý kurun |ve ürününüzün ya da markanýzýn reklamýný burada yapýn.
+{5753}{5804}Derek.
+{5938}{5986}Ne bakýyorsun?
+{5987}{6057}Dýþarda zenci bir adam var|arabaya girmiþ.
+{6058}{6114}Ne kadardýr orda?
+{6115}{6148}Bilmiyorum.
+{6149}{6180}Neler oluyor?
+{6181}{6239}Þimdi degil, tatlým. Kaç kiþiler?
+{6240}{6271}Danny, kaç kiþi?
+{6272}{6301}Bir, galiba.
+{6302}{6351}Saglam biri mi?
+{6352}{6384}Silahý var mý?
+{6385}{6426}Bilmiyorum.
+{6468}{6525}Dur bir saniye.|Neler dönüyor?
+{6526}{6583}Burda kal ve sessiz ol.
+{6584}{6643}Bir saniye bekle, Derek. Bekle.
+{6769}{6800}Tam burda kal.
+{9238}{9285}Kiþisel bir sorunum yok|onunla.
+{9286}{9337}Benimle dalga|geçme, Murray.
+{9338}{9412}Bu çocuktan nefret ediyorsun,|ve galiba nedenini biliyorum.
+{9553}{9602}Dr. Sweeney'nin ofisi.
+{9603}{9656}Annesiyle birkaç kez|çýkmýþtým.
+{9657}{9710}Üç yýl önceydi.|Hiç birþey olmadý.
+{9711}{9747}Hiç birþey. Sahi mi?
+{9748}{9824}O kagýt--|Bob, çok korkunçtu.
+{9825}{9900}Hitler'i bir tür sivil|halk kahramaný gibi göstermeye çalýþýyordu.
+{9901}{9935}Çizgiyi çekmelisin.
+{9980}{10010}- Bak dostum, eline aldýgýn
+{10029}{10098}herhangi bir kitapla|insan haklarý adýna tartýþma açabilirsin...
+{10099}{10134}tabiki açýk net bir ingilizceyle.
+{10135}{10226}Seninle çocugun bazý|hasta fikirleri taþýdýgýný...
+{10227}{10274}tartýþmýyorum...
+{10275}{10340}ama sadece þimdilik|onu býrakmaya hazýr degilim.
+{10341}{10407}-Abisi aklýna sokuyordur|bütün bunlarý.
+{10408}{10464}Sana yüzde yüz garanti veririm ki,
+{10465}{10516}abisi aklýna|sokmuyor.
+{10517}{10567}-Ýþte buna inanmasý zor.
+{10568}{10608}Ýyi bir çocuk biliyorum...
+{10609}{10675}söylemesi utanç verici ama|giderek tehlikeli oluyor.
+{10676}{10719}-Nasýl tehlikeli?
+{10720}{10763}-Aþýrý derecede.
+{10764}{10856}Bu ýrkçý politika,|"Mein Kampf" deli saçmasý...
+{10857}{10936}bu zýrvalarý ögrenmiþ,|ama ögrenmeyedebilirdi.
+{10937}{11004}Bu çocugu henüz|býrakmayacagým.
+{11425}{11456}-Sen oldugunu biliyordum.
+{11457}{11507}-Danny, gir içeri.
+{11508}{11561}Gir içeri dedim!
+{11562}{11594}Gir içeri!
+{11595}{11665}Beþ, dört, üç, iki...
+{11666}{11712}Kapat kapýyý!
+{11781}{11818}Neler oluyor, Danny?
+{11845}{11882}-Ne, neler oluyor?
+{11883}{11935}Yediðin haltlar.
+{11992}{12022}-Bilmiyorum.
+{12023}{12059}Geç otur.
+{12200}{12235}Nasýl gidiyor?
+{12293}{12328}-Ýyi.
+{12358}{12400}Evde iþler iyi mi?
+{12523}{12586}-Derek bugün çýkýyor,|degil mi?
+{12637}{12682}Evet, öyle.
+{12683}{12754}O da benim ögrencimdi.|Biliyordun, degil mi?
+{12755}{12799}Takdirnameli.
+{12800}{12890}Zeki bir ögrenciydi|senin gibi...
+{12891}{13024}ama aptallara bulaþtý,|senin gibi.
+{13025}{13076}-Beni buraya Derek'i|konuþmak için mi çagýrdýnýz?
+{13077}{13138}Ona ne olduysa|benimle bir alakasý yok.
+{13139}{13236}Bundan sonra yapacagýn|herþeyin Derek'le alakasý var.
+{13237}{13291}Söyleneni yaptým.|"A" alacak kagýt verdim.
+{13292}{13352}"Mein Kampf"?
+{13385}{13424}Seni kovmalýyým.
+{13425}{13490}Devam et. Sence |baþaramayacakmýyým?
+{13491}{13544}Hayýr. Bence sokak seni|öldürecek.
+{13545}{13594}O ýrkçý düþüncelerin|ve propagandan...
+{13595}{13645}seni dýþarda koruyamayacak.
+{13678}{13710}Yapýlacak þey þu.
+{13738}{13792}Bundan sonra tarih|ögretmenin benim.
+{13793}{13881}Güncel olaylarý tartýþacagýz.
+{13882}{13961}Burasý sýnýfýmýz olacak...
+{13962}{14038}Amerikan Tarihi X.
+{14039}{14109}Günde bir kere görüþecegiz.
+{14110}{14166}Tamam.|Ýlk ödevin...
+{14167}{14226}bana yarýna kadar yeni bir|ödev hazýrlamak.
+{14227}{14316}Hadi, Sweeney. Ýlki için|"Mein Kampf."'ý okumam bir hafta sürdü.
+{14557}{14600}Ne yapmamý istiyorsun?
+{14601}{14658}Abin.
+{14659}{14710}Aa, hadi ordan, tanrým.|Þaka yaptýgýný söyle.
+{14711}{14768}Hayýr. Þaka yapmýyorum.
+{14769}{14854}Senden Derek'i hapse|gönderen tüm olaylarý incelemeni...
+{14855}{14897}araþtýrmaný|ve analiz etmeni istiyorum.
+{14898}{14988}Tüm bu olaylar seni ve|senin bakýþ açýndan...
+{14989}{15067}günümüz Amerika'sýný|nasýl etkileyecek.
+{15068}{15160}Hayatýn ve|ailen üzerindeki etkisi.
+{15223}{15283}Ne yazmak istersen, Danny.
+{15345}{15416}Sadece ben okuyacagým.
+{15445}{15568}Ama eger yarýn sabah|masamda olmazsa...
+{15569}{15649}Venice Beach Lise'sinde|bir hayalet olursun.
+{15682}{15713}Açýk mý?
+{15737}{15787}Evet, açýk.
+{15917}{15953}Demek ögretmene|kopya çektigimi söylersin!
+{15954}{15994}Öyle olmadý mý?
+{16021}{16061}Ben hayatýmda kopya çekmedim.
+{16062}{16099}Tekmele kýçýný.
+{16100}{16129}Ben birþey söylemedim!
+{16130}{16161}Niye bana tuzak kurdun?
+{16220}{16296}Niye tekmeliyorsunuz|zavallýyý?
+{16297}{16342}Noldu, adamým?
+{16343}{16413}Neden korktun?|Birþey olmayacak.
+{16586}{16632}Ne oluyor??
+{16633}{16720}Sen de ister misin, kaltak?|Punk, neyin var senin?
+{16721}{16756}Ölmek mi istiyorsun?
+{16800}{16836}Punk-kýçlý beyaz velet.
+{16998}{17093}Þansýn var sýnýfa gitmeliyim.|Ne yapabilir ki?
+{17094}{17164}
+{17205}{17236}Þans iþte, zil çaldý.
+{17237}{17281}Beyaz veledi|halledecektim.
+{17282}{17349}Punk-kýçlý pezevenk.|Ýç bakalým onu.
+{17375}{17433}Kendin için|ayaga kalkmalýsýn.
+{17809}{17860}Tüm dosya|dazlaklarla ilgili.
+{17861}{17896}Bir tür çete mi?
+{17897}{17924}Venice Beach Çetesi.
+{17925}{18008}Aslýnda,|son günlerdeki gerginlikler...
+{18009}{18079}Bu herif C.C., degil mi?
+{18080}{18128}Evet, bu o kesinlikle.
+{18166}{18227}Bu sabah bir misafirimiz var,|kendisi de geldi.
+{18228}{18256}Günaydýn.
+{18257}{18284}Günaydýn, efendim.
+{18285}{18317}Sizi gördügüme sevindim.
+{18318}{18347}Günaydýn.
+{18348}{18396}Bu, Dr. Bob Sweeney.
+{18397}{18457}Kendisi|Venice Beach Lisesi müdürü.
+{18457}{18516}Uzun zamandýr,|çetelerle, onlara girebileceklerle...
+{18517}{18575}ilgili araþtýrmalar|yapmakta.
+{18576}{18645}Üç yýl önce, bu çocuk,|adý Derek Vinyard...
+{18646}{18696}birkaç hýrsýzý öldürmekten|hüküm giydi...
+{18697}{18750}arabasýný soymaya çalýþýyorlarmýþ.
+{18751}{18838}Bob'a göre Vinyard,|bu konularla çok yakýndan iliþkili.
+{18839}{18894}O da dazlak, degil mi?
+{18895}{18955}Daha çok|"hakiki" dazlak diyebiliriz...
+{18957}{19008}Cameron Alexander'ýn|prensiydi .
+{19009}{19072}-Kim?|-Cameron Alexander.
+{19073}{19144}Ýþte. Göz atýn.
+{19145}{19236}Cameron Alexander,|kendisi Venice Beach'in yerlisi.
+{19237}{19280}Tüm bu eyaletteki en büyük|"Beyazlarýn Gücü"
+{19281}{19340}yayýnlarýnýn yazarý,|dagýtýcýsý.
+{19341}{19415}"Beyaz Güç" isimli orkestrayý destekler,|söyleþiler yapar...
+{19416}{19489}boþ zamanlarýnda,|ýrkçý türden yazýlar yazar.
+{19490}{19557}-Sabýkasý var mý?|-Temiz.
+{19558}{19621}Birþeylerle suçlamaya ugraþtým|ama iþlemedi.
+{19622}{19686}Bana güvenin.|Hepsinin arkasýnda o var.
+{19687}{19752}Herþeyi sahildeki|evinden idare ediyor.
+{19753}{19816}Bu bölgede |Cameron Alexander ve Derek Vinyard'ýn...
+{19817}{19872}ona katýlmasýndan önce|beyaz çeteler yoktu.
+{19873}{19942}Alexander, Derek'i|parlayan prensi olarak gördü.
+{19943}{20012}Aslýnda,|Derek'i bir avuç...
+{20013}{20108}güvensiz, sinirli,|kolay kanan çocugu yönetmesi için kullandý.
+{20109}{20184}Bu çocuk Vinyard,|geçmiþi sorunlu...
+{20185}{20279}görüntülerde görebileceginiz gibi|NBC'den aldýk.
+{20438}{20499}Bu sabah, L.A. Bölgesi|itfayecilerinden Dennis Vinyard...
+{20500}{20563}yangýn için|gittigi evde þüpheli bir...
+{20564}{20608}uyuþturucu taciri tarafýndan |vurularak öldürüldü.
+{20609}{20653}Þu an Vinyard'ýn evindeyiz...
+{20654}{20700}ve tegmen Vinyard'ýn|en büyük oglu Derek...
+{20701}{20752}bizimle konuþmayý kabul|etti.
+{20753}{20833}Derek, biraz buraya|gelirsen lütfen.
+{20834}{20955}Bak, bunun zor oldugunu biliyorum,|þu an nasýl hissediyorsun?
+{20956}{21015}Sizce nasýl hissediyorum?
+{21016}{21086}-Bu tipik bir durum.|-Nasýl tipik?
+{21087}{21174}Bu ülke artýk suçlular|için cennet olmaya baþladý...
+{21175}{21209}ne bekliyordunuz ki?
+{21210}{21263}Saygýn, çok çalýþan Amerikalýlar|týpký babam gibi...
+{21264}{21335}sosyal parazitler|tarafýndan yok edilmeye baþlandý.
+{21337}{21368}Parazitler?
+{21369}{21471}Siyahlar, kahverengiler, sarýlar,|herneyse.
+{21472}{21508}Anlamýyorum.
+{21509}{21558}Babanýn ýrkçýlýk yüzünden mi|öldürüldügünü düþünüyorsun?
+{21559}{21604}Evet, ýrçýlýk yüzünden.
+{21605}{21651}Bu ülkenin tüm|sorunlarý ýrkçýlýkla iliþkili.
+{21652}{21742}Sadece suç degil.|Göçmenlik, AlDS, refah.
+{21743}{21796}Bunlarýn nedeni|siyah toplum...
+{21797}{21840}Latin toplumu,|Asyalýlar.
+{21841}{21873}Beyazlarýn yarattýgý sorunlar degil.
+{21874}{21932}Bu konular yoksullugun|neden oldugu konular degil mi?
+{21933}{22025}Hayýr. Kendi çevrelerinden|kaynaklanmýyor sadece.
+{22026}{22071}Azýnlýklar bu ülkeye|bir bok vermiyorlar.
+{22072}{22150}Buraya sömürmek için geliyorlar,|katkýda bulunmak için degil.
+{22151}{22216}Milyonlarca beyaz Avrupalý|buraya gelip yeni bir...
+{22217}{22249}nesil kurdular.
+{22250}{22308}Bu insanlarýn nesi|var böyle?
+{22309}{22357}Ortalýkta gezip|itfayeci vuruyorlar.
+{22358}{22430}Bunlarýn babanýn|cinayetiyle ilgisi nedir?
+{22431}{22488}Babam iþini yaprken|öldürüldü!
+{22489}{22547}Siktigimin zencisinin|evini söndürmeye ugraþýrken...
+{22548}{22591}aslýnda bunu|yapmasý gerekmiyordu.
+{22592}{22644}Lanet bir uyuþturucu|pisligi tarafýndan vuruldu...
+{22645}{22705}Eminim ki o pislik|iþsizlik sigortasý alýyordur.
+{22705}{22776}Derek Vinyard bu sabah|hapisten sessizce çýktý...
+{22777}{22856}üç koca yýl cezasýný|tamamladýktan sonra.
+{22857}{22923}Buraya çok ama çok dikkat|etmemiz gerekiyor.
+{22924}{22961}Eger ona birþey olursa...
+{22962}{23034}tüm bölgede iþler|çok karýþacak.
+{23035}{23066}Kontrolde tutmalýyýz.
+{23097}{23172}Venice Beach|hiç bukadar çirkinleþmemiþti.
+{23173}{23235}Eskiden|harika bir yerdi.
+{23236}{23283}Etraf çöplükten|geçilmezdi...
+{23285}{23336}ama babam bizi buraya|getirdigi zaman...
+{23337}{23396}Venice þirin,|sessiz bir yerdi.
+{23444}{23507}Yýllar geçtikçe,|cehenneme döndü.
+{23508}{23555}Çeteler veba gibidir.
+{23556}{23635}lnglewood'dan batýya dogru|önce Güney yakayý...
+{23636}{23668}sonra burayý ele geçirdiler.
+{23669}{23702}Foul yapmadým!
+{23875}{23933}Bu saçmalýklara|zamaným yok.
+{23934}{23968}Alayýnýzý...
+{23969}{23996}Ýyi misin?
+{23997}{24024}Ýyiyim.
+{24061}{24133}Hey, bana dedigin|gerzek þu mu?
+{24159}{24204}Evet, o piç.
+{24334}{24388}Evet, ahbap, bu o.
+{24609}{24653}Anasýný ...
+{24654}{24706}Derek'in olayý iþte bu|yüzden baþladý.
+{24707}{24781}Ona göre artýk beyaz çocuklar|kendi bölgelerinde artýk...
+{24782}{24842}korkmadan yürüyebileceklerdi,|ve gerçekten o ordayken...
+{24843}{24911}bunu yaptýk|tekrar bizim olmuþtu burasý.
+{24912}{24974}Topu at!
+{24975}{25013}Hadi, Curtis!
+{25014}{25061}Gezinmeyi býrak.|Pas ver.
+{25108}{25149}
+{25150}{25182}Hadi, devam.
+{25203}{25244}Þu yaban tavþanýna|bakýn.
+{25245}{25312}Fýrýldak gibi dönüyor.
+{25343}{25395}Bir halt edemiyeceksin,|piç.
+{25433}{25485}Bu senin için, yavrum!
+{25486}{25516}Sen kime--
+{25546}{25584}Sen kime "piç",|dedin?
+{25585}{25615}Sana þanslý, piç!
+{25616}{25667}Her dakika dönen-kýçýnla|çarpýþýyorum!
+{25668}{25731}Seni soluk suratlý, pastýrma beyinli|götkafa.
+{25732}{25781}100 kagýt!|alan kazanýr.
+{25841}{25901}Duydun mu?|Aç karnýný doyuracak...
+{25902}{25949}sanki gerizekalý.|Gir!
+{25992}{26022}Sekize altý, Seth.
+{26023}{26075}Fikrini istedigimde,|sorarým.
+{26076}{26137}Hadi. Bu kadar yok.|Yardým etsene.
+{26138}{26170}Koca agýzlý.
+{26171}{26221}Bu þopara gününü göstermem lazým.
+{26222}{26283}Bir bok yiyemezsin.|Sence?
+{26284}{26320}Onu yenerim.|Parayý ver.
+{26321}{26350}Kes sesini.
+{26351}{26395}Utandýrmasana bizi.
+{26589}{26639}Ben hallederim.
+{26640}{26686}Bu zýrvaya vaktim yok.
+{26687}{26715}Hey!
+{26744}{26775}Alsana bahis.
+{26802}{26874}Oyuna giriyorum.|Ayný skor...
+{26875}{26935}ama siyahlar|beyazlara karþý oynayacak.
+{27061}{27111}Ýþin adýný koy, velet.
+{27112}{27168}Para yok. Burasý için.
+{27169}{27215}Bugün için de degil. Devamlý.
+{27216}{27265}Kazanýrsanýz, gideriz...
+{27266}{27360}ama biz kazanýrsak,|kavga, dövüþ yok...
+{27361}{27432}Burda herkesin gözü önünde|hepiniz pýlýnýzý pýrtýnýzý...
+{27433}{27481}siyah kýçlarýnýzý|alýr gidersiniz.
+{27482}{27523}Hassiktir. Girelim.
+{27524}{27559}6-8. Top bizde.
+{27561}{27601}Hadi.
+{27970}{28006}Tut onu!
+{28175}{28223}Seth,|Geç defansta dur.
+{28611}{28639}Defans!
+{28833}{28888}Pas versene!|Bomboþum!
+{29258}{29291}Hadi ordan.|Resmen foul.
+{29292}{29334}Çekil ordan.|Ayagýný kaldýrdý.
+{29335}{29407}Gidiyor musun, biz hazýrýz!|Dirsek atma!
+{29408}{29464}Gidiyor musun, Adolf Hitler|anasýný s...?
+{29736}{29799}-Ýyi misin?|-Evet. Suyu versene.
+{29800}{29849}Hucum foul desene!
+{29850}{29893}Bu oyunda degil, Danny.
+{29894}{29947}O þoparlarýn yenmesine|izin veremezsin.
+{29948}{29976}Son sayý.
+{29977}{30018}Gebert onlarý. Kýçlarýný tekmele.
+{30019}{30075}Seyret.
+{31359}{31389}Bye-bye.
+{31390}{31435}Benim sahamdan siktirip gidin!
+{31436}{31465}Burasý benim!
+{31466}{31498}
+{31787}{31833}Defol!
+{31834}{31871}Benim saham!
+{32117}{32181}Derek cezaevinde ziyaretine|gelmemizi istemedi.
+{32182}{32248}Dedigine göre bu sadece|daha da zorlaþtýrýrmýþ...
+{32249}{32322}gitseydik de,|o gelmezdi zaten.
+{32323}{32390}Onsuz üç yýl,|hayret verici.
+{32452}{32513}Ve sonra bu sabah 7'de...
+{32514}{32578}onu dýþ kapýdan|aldýk.
+{32729}{32800}Sadece oturdu,|hiçbir þey söylemedi.
+{32801}{32836}Evde kalmak istedim,|ama...
+{32837}{32878}"Hayýr, kalamazsýn|sonra görüþürüz" dedi.
+{33225}{33294}Hadi.|Adamý biraz rahat býrakýn.
+{33295}{33364}Ne? Sana sarýlamayacagým|kadar büyüdün mü, sert çocuk?
+{33365}{33415}Hayýr, adamým. Sadece|etrafa alýþana kadar...
+{33416}{33460}biraz zaman istersin|diye düþündüm.
+{33461}{33491}Evet, dogru.
+{33529}{33581}Burasý eski|oturma odamýzdan küçük.
+{33582}{33623}Neler yapýyorsun? Okul nasýl?
+{33624}{33661}Ýyidir.
+{33662}{33711}Saçlarýna biþeyler|yapmalýsýn.
+{33712}{33747}Böyle gezmiyoruz.
+{33748}{33810}-Kýzlar seviyor.|-Eee, ben degil.
+{33811}{33892}Çok oldun ama.
+{33916}{33964}Dur. Bak. unuttum, adamým.
+{33995}{34048}Acaip acýttý|yaptýrýrken.
+{34049}{34096}Ne zaman yaptýrdýn?
+{34097}{34150}Bir ay oldu.
+{34151}{34192}Cameron orjinalinden yaptý.
+{34287}{34328}O mu yaptý bunu sana?
+{34472}{34499}Ne?
+{34500}{34558}Evet, merhaba. Burda.
+{34559}{34599}Derek, seni arýyorlar.
+{34600}{34656}Boþver.
+{34657}{34725}Ýçerde telefon vardý degil mi?|Ýçerden konuþacagým.
+{34920}{34992}Açtým. Evet?
+{34993}{35020}Hey.
+{35084}{35120}Ne?
+{35121}{35181}Gözlerim hayvanat bahçesindeki ...
+{35182}{35231}zaferi gördü.
+{35233}{35304}Kendimizi zenci|kanýyla yýkadýk...
+{35305}{35366}diger melezlerinkiyle de.
+{35367}{35432}Þimdi de gaz odasýna|sýrayla...
+{35433}{35483}yahudi alýyoruz, yahudi!
+{35484}{35578}Beyaz adam durma, koþ!
+{35579}{35650}Sence adamýmýz|herþeyin arkasýnda mý?
+{35687}{35723}Boþversene.
+{35725}{35776}Tamam bu gece|dikkat ederim.
+{35777}{35875}Tatlý çocuk. Bebek oglum benim.
+{35876}{35944}Tanrým, sizleri neden|bu kadar seviyorum?
+{36067}{36150}Hayýr, yapacak.|Eminim, kesinlikle yapacak.
+{36151}{36190}Ben bakarým.
+{36355}{36395}Adamý görmeye geldim.
+{36396}{36475}-Kapýya sýgabildin mi?|-Sktir!
+{36521}{36582}Naber, Dan? Nasýl gidiyor?
+{36583}{36643}-Derek nerde?|-Telefonda.
+{36644}{36724}Dýþarý çýk, seni özgür piç!|Ne cehennemdesin?
+{36725}{36804}Bekle. Bir dakka.
+{36832}{36878}Hemen çýkacagým.
+{37228}{37260}Dikkat ederim.
+{37261}{37352}Bak, hayatýmýn sonuna kadar|bu odada kalamam.
+{37353}{37396}Bekle.
+{37397}{37479}Hey. Seth denenin|ne iþi var, burda?
+{37480}{37524}Sen mi çagýrdýn?
+{37525}{37576}Hayýr. Hep gelir gider.
+{37616}{37673}Danny, bana bir dakika ver.
+{37674}{37727}Sadece bir dakika.
+{38199}{38247}Sen hala burda mýsýn, lastik?
+{38281}{38351}Bana þiþko mu diyorsun,|Seni gerzek demokrat?
+{38378}{38458}En son ne zaman gerçekten|ayaklarýný görebildin, sen?
+{38524}{38562}Buraya gel, Danny.
+{38677}{38734}Cam'in partiye|gidiyormusun, bu gece?
+{38735}{38791}Davina'nýn kýçý sýký mý?
+{38792}{38836}Sen hastasýn, adamým.
+{38837}{38910}Tamam, sakin ol.|Sana birkaç sorum var.
+{38911}{38964}Havam yok. Ödev yapmam lazým.
+{38965}{39033}Ögrendigin boklardan|birkaçýný saysana bokkafa...
+{39034}{39074}tabi silahýmý çekmeden.
+{39075}{39148}Tamam. Ölüme ve,|yýkýma...
+{39149}{39202}kaosa, pislige, açlýga inanýyorum.
+{39203}{39292}Kes þu boku, Dan. Hadi.|Duymak istediklerimi söyle.
+{39318}{39365}Annen hakkýndakileri mi|duymak istersin?
+{39366}{39435}Canýn dayak istiyor|galiba, Danny?
+{39475}{39557}Seninle konuþmuyorum, iþine bak!
+{39558}{39624}Bak, bu iþleri kendi yollarýmla|çözmeme izin ver, tamam mý?
+{39665}{39706}Ben hallederim.
+{39707}{39753}Kimden nefret ediyorsun, Danny?
+{39754}{39829}Beyaz ve protestan|olmayan herkesten.
+{39830}{39854}Niye?
+{39855}{39918}Beyaz ýrkýn geliþimini|engelemeye çalýþýyorlar.
+{39919}{39949}Bazýlarý iyi.
+{39950}{40006}Hiç biri iyi|degil, tamam mý?
+{40007}{40084}Onlarýn hepsi bir|alay hazýr-yiyici.
+{40085}{40142}Onlarý bilmiyoruz.|Onlarý bilmek istemiyoruz.
+{40143}{40172}Onlar kahrolasý düþmanlar.
+{40232}{40273}Onlarý neden|sevmiyorsun...
+{40274}{40320}anlat bana|hüküm ver.
+{40321}{40399}Bugünlerde zenci olup|kendini iyi hissedenleri igrenc buluyorum.
+{40400}{40427}Güzel.
+{40428}{40525}Hip-hop denen pislik ve buna|aldanan beyazlardan da nefret ediyorum.
+{40526}{40563}Ýyi.
+{40565}{40664}Tabitha Soren ve|onun Sionist MTV  domuzlarý...
+{40665}{40703}ve beraberlik zýrvalýklarý.
+{40704}{40779}Unutmadan boyalý konusmalarý ve|Hillary Rodham Clinton...
+{40780}{40822}Çünkü dedigi hiç bir bok|olmayacak.
+{40823}{40874}Duydugum en zýrva|hikaye.
+{40875}{40961}Senin için üzülüyorum, Danny.
+{40962}{41013}Bu dedigin pislikleriin|hiçbirine inanmýyorsun, degil mi?
+{41014}{41042}Kapa çeneni.
+{41043}{41128}Hayýr. Evden defol,|bok parçasý.
+{41129}{41195}Misafirle artýk böyle mi|konuþuluyor, dostum?
+{41196}{41248}Derek senden nefret ediyor,|ama anlamýyorsun.
+{41249}{41309}Kimden nefret ettigimi nerden|biliyorsun?
+{41310}{41391}Ölümden döndün.|Tanrý Ýsa'yý korusun.
+{41392}{41449}Tanrým, kilo vermiþsin.
+{41450}{41503}Nerdeyse kollarýmý|dolayabilecegim.
+{41504}{41602}20 kilo, adamým.|Þu saça bak. Bok gibi.
+{41603}{41678}Söyledim, düzeltmeli.
+{41679}{41729}Al ceketini.|Siktirip gidelim burdan.
+{41730}{41830}Onunla konuþmak istiyorum.|Bir saniye.
+{41831}{41948}Hey, dinle. Bugün|okulda ne haltlar yedin?
+{41949}{42025}-Her zamanki.|-Bu çocuk zehir gibi.
+{42026}{42096}"Mein Kampf" çevirisi mi|yaptýn?
+{42128}{42206}-Sweeney altýna etti.|-Yaptý, adamým.
+{42207}{42279}Senin fikrinmiydi,|yoksa Cameron'mu aklýna soktu?
+{42281}{42348}Hayýr. Ýyi olacagýný düþünmüþtüm.|Nerden ögrendin?
+{42349}{42401}Nerden ögrendigimin ne önemi var.
+{42402}{42457}Bu çocuk zehir gibi akýllý.
+{42458}{42507}Telefondaki Sweeney'miydi?
+{42508}{42552}Sweeney aradý ve söyledi.
+{42553}{42625}Tanrým, Nefret ediyorum|o pis zenciden.
+{42626}{42662}Onu gebertecegim.
+{42692}{42732}Sweeney iyi bir ögretmen.
+{42733}{42785}Sweeney güçlü konumda|bir zenci.
+{42786}{42835}Geldiði zaman ki haline bak| biz ordayken...
+{42837}{42896}bir de þimdi bak.
+{42897}{42925}Koduumun zencisi!
+{42926}{42976}-Seth, çýk dýþarý.|-Þaka mý yapýyorsun?
+{42977}{43057}Hayýr. Danny'nin odasýnda bekle.|Kardeþimle konuþmak istiyorum.
+{43058}{43126}15 dakikadýr burdayým.|Açlýktan ölüyorum.
+{43228}{43320}Gel buraya. Cidden, bak.|Unut bu ayýyý.
+{43321}{43392}Yaþamak için böcek öldürüyor.|Öyle olmak istemezsin.
+{43393}{43430}Ciddiyim. Bu hoþ degil.
+{43431}{43487}Sweeney iyi bir ögretmen.|Ondan çok þey ögrenebilirsin.
+{43488}{43564}Hayatýnýn içine etme|bu pislikler yüzünden.
+{43565}{43598}Anlamýyorsun.
+{43599}{43650}Bana  yapmamý istedigi|ödevi bir görsen.
+{43651}{43711}Anlattý bana.|Olsun boþver.
+{43713}{43778}Ne söylerse yap,|dedigim bu.
+{43779}{43828}Okulda baþýnýn derde|girmesini istemiyorum...
+{43829}{43910}Beni etkilemeye falan da,|çalýþma bu þekilde.
+{43911}{43953}Anladýn mý|dediklerimi?
+{43954}{44044}Evet, sandým ki, yani,|hoþuna gider diye düþündüm.
+{44045}{44079}Hayýr, gitmedi.
+{44138}{44171}Onu dinle.
+{44192}{44265}Evet, biliyorum.|Kötüye gidiyor.
+{44266}{44300}Üzülme.
+{44301}{44346}Bunu sonra|konuþalým.
+{44418}{44464}Çok kötü öksürüyor...
+{44464}{44528}sende tüm gün|suratýna bunu üflüyorsun.
+{44529}{44558}Býrakýyorum.
+{44559}{44641}Hey, hadi.|Seninle konuþmak istiyorum.
+{44746}{44819}Anne, iyi misin?
+{44959}{45000}Býrak þunu.
+{45001}{45078}Ona, þunu suratýna|üflemeyi kesmesini söyledim.
+{45079}{45132}Söyledigin için sagol.
+{45193}{45224}Ýyi misin?
+{45248}{45276}Ýyi misin?
+{45424}{45483}Bak, boþvermelisin.
+{45485}{45530}Biraz dinlen.
+{45531}{45582}Danny'nin ve benim odayý al,|biz kanepede yatarýz.
+{45583}{45652}Yüzyýllardýr kanepede yatarým.|Kanepe iyidir.
+{45653}{45698}Hayýr , degildir.|Berbattýr.
+{45699}{45789}Böyle yaþayamayýz.|Burdan çýkmalýyýz.
+{45841}{45892}Bende seninle gelebilir miyim?
+{45893}{45972}Evet.|Hepimiz burdan gitmeliyiz.
+{45973}{46058}-Okulu býrakýp iþe girebilirim.|-Kesinlikle hayýr!
+{46059}{46106}Bitirmelisin.|Ben birþeyler bulurum.
+{46192}{46308}Derek, lütfen biþeyler yiyebilir miyiz?|Açlýktan öldüm burda.
+{46309}{46352}Oturma odasýnda bekle.
+{46381}{46432}Onu bu evde istemiyorum.
+{46433}{46469}Biliyorum. Bak.
+{46835}{46906}O gerizekalý.|Hep gerizekalýydý.
+{46907}{46972}Yardým da edemez.|Þu ödevi yapmalýyým.
+{46973}{47028}Seni gece|bulurum.
+{47029}{47104}Cameron'da degil. Ordan uzak|durmaný istiyorum.
+{47105}{47188}-Asarlar bizi.|-Sana sonra anlatýrým.
+{47189}{47248}Sadece bu gece o partiden|uzak dur, tamam mý?
+{47249}{47276}Herneyse.
+{47277}{47364}Söz ver, o partiden|uzak duracaksýn.
+{47365}{47419}Artýk 14'ümde degilim,|tamam mý?
+{47448}{47479}
+{47526}{47550}Tanrým!
+{47697}{47737}Hadi, gidelim.
+{47776}{47808}Nereye park ettin?
+{47809}{47839}Arka tarafa.
+{49493}{49535}Evet, bütün ekip burda.
+{49569}{49638}Derek'in isim yapmasý|uzun sürmedi...
+{49639}{49690}çünkü Cameron onu|kullanmayý iyi biliyordu.
+{49691}{49723}Görünmek istemezsin, degil mi?
+{49724}{49822}Biliyorsun bunun için ölürüm,|ama dikkatli olmalýyým.
+{49823}{49870}Evet, biliyorum.
+{49886}{49932}Evin arkasýnda bulurum seni.
+{49965}{49998}Ýyi þanslar.
+{49999}{50094}Derek'i çocuklara gönderdi|özellikle kafasý bozuklara...
+{50095}{50139}tekme yemekten býkanlara...
+{50140}{50197}Siyahlar ve Meksikalý çetelere karþý.
+{50198}{50267}"Sadece serseri olma.|Birþeyin parçasý ol."
+{50268}{50336}Tamamdýr, gidelim.|Hepberaberiz.
+{50337}{50378}Herkes iþin içinde.
+{50379}{50436}Derek ne derse|yaptýlar.
+{50461}{50516}Gidelim. Sosyal olmak için|burdayýz.
+{50559}{50588}Kesin sesinizi.
+{50589}{50619}Tamam, adamým.
+{50620}{50652}Tokat mý istiyorsun?
+{50687}{50720}Devam et.
+{50721}{50783}-Curtis, o da ne öyle?|-Hadi, Derek.
+{50785}{50851}Esrar zenciler içindir.|At onu çabuk.
+{50852}{50881}Tanrý aþkýna.
+{50882}{50916}Kendine biraz saygýn olsun.
+{50952}{51046}Tamam, dinleyin.|Gözlerimizi açmalýyýz.
+{51079}{51140}Bu eyalettte þu an|2 milyon göçmen...
+{51141}{51202}sýgýntý, uykularýnda uyuyorlar.
+{51236}{51322}Burda olmak için hiçbir|hakký olmayan bu insanlar için...
+{51323}{51403}bu eyalet geçen sene|tam 3 milyar dolar harcadý.
+{51404}{51442}3 milyar dolar.
+{51443}{51551}Göçmen suçlularýn neden oldugu|zararlar ise 400 milyon dolar...
+{51552}{51642}bu sadece bilinen|çünkü göçmen bürosu...
+{51643}{51739}bu insanlarýn üzerine gitmiyor|gereksiz görüyor.
+{51788}{51846}Hükümetimiz zerre kadar|önem vermiyor.
+{51883}{51987}Sýnýr güvenligimiz içler acýsý,|adamlar...
+{51988}{52043}güney sýnýrýmýza kadar|gelip bize gülüyorlar?
+{52044}{52098}Kanunlarýmýza gülüyorlar?
+{52099}{52141}Her gece, binlercesi|binlerce parazit...
+{52142}{52212}sýnýrýmýza gelip|þarap patlatýyorlar.
+{52213}{52300}Gülmeyin.|Hiç komik degil.
+{52301}{52349}Bu sizin ve benim|hayatýmýz.
+{52383}{52433}Bu vatansever,|çalýþkan Amerikalýlarýn...
+{52434}{52479}fakirleþmesi, hayatlarýnýn|rezil olmasýyla ilgili...
+{52480}{52562}niye, çünkü kendi hükümetimiz|kendi vatandaþýmýz...
+{52563}{52618}bile olmayan bu sürüye|bizden daha çok önem veriyor.
+{52619}{52667}Özgürlük Anýtý'nda þöyle der:
+{52669}{52733}"Bana yorgunlarý,|açlarý ve fakirleri verin."
+{52734}{52798}Oysa yorgun, aç fakir olan|Amerikan halký.
+{52799}{52851}O sikktigimin kitabýný...
+{52852}{52923}kapatmadýgýmýz sürece,|kaybedenler biz olacagýz.
+{52949}{53032}Haklarýmýzý kaybediyoruz|kadere baglýlýgýmýzý kaybediyoruz.
+{53033}{53116}Buraya gelip ülkenin içine|sýçan bir alay...
+{53117}{53168}yabancý yüzünden|özgürlügümüzü kaybediyoruz.
+{53169}{53243}Ve artýk bu böyle gitmeyecek!
+{53245}{53318}Hiçbirþey yapamayacgýmýz kadar|uzaklarda olmuyor bütün bunlar.
+{53319}{53377}Burda oluyor.|Hemen yanýbaþýmýzda.
+{53378}{53428}Arkanýzdaki evde.
+{53429}{53512}Archie Miller o marketi|çocuklugumuzdan beri iþletirdi.
+{53513}{53582}Dave orda çalýþtý.|Mike da çalýþtý.
+{53583}{53640}Ýflas etti, ve þimdi|siktigiminin Korelileri satýn aldý...
+{53640}{53700}bu çocuklarý kovdu|niye kovdu peki?
+{53701}{53781}Çünkü onlarýn yerine|40 tane siktigimin kaçagýný iþe almak için.
+{53782}{53816}Bu pislik gözümüzün önünde oldu...
+{53817}{53864}ve de kimse bu konuda|birþey yapmýyor...
+{53865}{53911}Bu beni deli ediyor.
+{53963}{54009}Etrafýnýza bakýn.
+{54040}{54067}Burasý artýk|bizim çöplügümüz degil.
+{54068}{54133}Burasý bir savaþ alaný.|Artýk bir savaþ alnýndayýz.
+{54134}{54175}Karar verin.
+{54176}{54240}Siperlerimizde mi|bekleyecegiz?
+{54240}{54304}Ülkemiz elden giderken|sessiz mi kalacagýz?
+{54329}{54398}Artýk bu gidiþe bir dur mu|diyecegiz?
+{54433}{54467}Lanet, çok haklýsýnýz!
+{54769}{54832}Buraya gel!|Sýnýrdan atlayanlarý iþe...
+{54833}{54896}almanýn yasal olmadýgýný bilmiyor musun,|seni piç!
+{55082}{55117}Hey, tatlým.
+{55118}{55171}Hayýr. Buna ihtiyacýn yok.|Sana zarar vermeyecegiz.
+{55172}{55210}Lütfen, lütfen! Hayýr!
+{55281}{55310}Kodumun beyinsizi!
+{55380}{55444}-Hayýr! Lütfen!|-Bu kaltak haketti.
+{55444}{55547}Bu orospu kokuyor. Hem de|bozuk balýk gibi.
+{55548}{55582}Hadi gidiyoruz.
+{55847}{55888}Lanet!
+{55984}{56025}Siktir git,|anasýný..!
+{56201}{56239}Viva la Mexico!
+{56354}{56403}Fasulye var mý,|pis fasulyeci seni!
+{56586}{56665}Getirin buraya. Dökün|üstüne.
+{56666}{56712}Bu renk seni açtý.
+{56712}{56759}Þimdi beyaz bir kadýnýn iþini|elinden alabilirsin.
+{56760}{56807}Bundan daha iyi degil mi?
+{56808}{56847}Evet, beyaz.
+{56848}{56892}Geldigin yere dön!
+{56932}{56964}Göt deligi!
+{57011}{57038}Gidelim!
+{57039}{57076}Herkes çýksýn!
+{57077}{57113}Þimdi! Þimdi!
+{57184}{57229}Tamamdýr, gidelim!
+{57230}{57266}Hadi!
+{57267}{57304}Hadi, gidelim.
+{57428}{57508}Yeþil kart yok, iþ de yok!|Comprende?
+{57567}{57594}Hadi!
+{57595}{57643}Lanet olsun! Hadi!
+{58274}{58368}Babam ölmüþtü, ama iþler|normale dönüyordu.
+{58369}{58411}Derek iþ bulmuþtu.
+{58412}{58454}Annem biraz olsun|hayata dönmüþtü.
+{58455}{58557}Herkes kendini iyi hissediyordu,|ancak olacaklarý göremedik.
+{58558}{58600}Belki de görmeliydik.
+{58600}{58656}Komik olan|aslýnda çýkarýlan isyanlarda...
+{58656}{58719}zencilere ait dükkanlarýn|çogunlukla zarar gördügü.
+{58720}{58794}Bu aptalca, tamamen.|Kendi mekanlarýný niye dagýtsýnlar?
+{58795}{58866}Ýþte, bende onu diyorum.|Bu salakça bir hareket.
+{58867}{58918}Bu öfkenin dýþa vurumu...
+{58919}{59013}sistem tarafýndan savrulan,|itilen insanlarýn hareketi.
+{59014}{59147}Watts'da ya da 68'de|Chicago olanlar gibi.
+{59149}{59185}Ben bunu yutmam.
+{59186}{59246}Ayaklanmayý öfkenin dýþa vurumu| gibi göstermeyi.
+{59247}{59316}Bu saçamalýk.|Bu fýrsatçýlýk, hem de en kötüsü.
+{59317}{59370}Bu suçlamalardan kaçmak için|bulduklarý tek özür...
+{59371}{59415}yaptýklarý bir dükkan bulup,|yagmalamak.
+{59416}{59471}Gerçek ise bu insanlarýn| kendi ülkelerinden...
+{59472}{59519}buraya sürüldüklerinde,|içlerindeki öfkeyi yansýttýklarý...
+{59520}{59590}Bu yüzden ne kurala|ne kanuna saygýlarý var...
+{59591}{59654}toplum düzenini düþünmüyorlar...
+{59655}{59695}ya da bireysel sorumluluklarý.
+{59696}{59723}Dur bir dakika.
+{59725}{59785}Beyazlarda|beyazlara karþý suç iþliyorlar.
+{59786}{59869}Evet, ama bunlar|tüm Amerika'da bireysel suç olarak kalýyor.
+{59870}{59917}Ýstatistiklere bak,|Tanrý aþkýna.
+{59918}{59970}Üç siyah erkekten|birisi...
+{59971}{60027}ceza sisteminin içinde|bir yerde.
+{60028}{60058}Bu rastlantý mý?
+{60059}{60127}Ya da bu insanlarýn ýrksal olarak|suça yatkýnlýklarý mý var?
+{60128}{60183}Hepsi bu degil.|Ayrýca bununla gurur duyuyorlar.
+{60184}{60235}Belki de bu yargý sistemindeki|önyargýyý...
+{60236}{60264}açýklar.
+{60264}{60319}Eger suç istatistikleri hakkýnda|konuþacaksan...
+{60320}{60403}onlarý yaratan sosyal|eþitsizlikleri de göz önünde bulundurmalýsýn.
+{60404}{60454}Ýþte bundan nefret ediyorum.
+{60455}{60528}Bir þeyi alýyorsun|sonra baþka bir þeye çeviriyorsun...
+{60529}{60587}sýrf sorumlulugu|hafifletmek için...
+{60588}{60625}bu insanlarýn kendi|sorumluluklarý var.
+{60626}{60708}Bu þöyle demek gibi:|ayaklanma degil, sadece öfke.
+{60709}{60793}Bu suç degil, yoksulluk|sadece zýrvalýk.
+{60794}{60840}O mahkemede de olup biten|tamemen buydu iþte...
+{60841}{60884}media denen tamemen|olayýn etrafýnda böyle dönüp durdu...
+{60884}{60948}böylece insanlar o|polislere çullandýlar...
+{60949}{60981}onlarýn hüküm giyip|giymeyecekleri ile...
+{60982}{61058}ya da Rodney King'in kiþisel|haklarýyla ilgilenmediler.
+{61059}{61112}Rodney King de dahil|herkes görüþünü kaybetti.
+{61112}{61187}Ýtiraf ettigi|bir sürü suçunu unutttular.
+{61188}{61232}Onu göklere çýkardýlar...
+{61232}{61296}Otoyolda 120 mille giderken|onu durduran
+{61297}{61346}bir avuç polise karþý geldi...
+{61347}{61381}ve onlara saldýrdý.
+{61382}{61414}Polis memurlarýna saldýrdý.
+{61415}{61450}Noldu sonra,|yürüdü gitti.
+{61451}{61507}Va ayýnýn teki de|kamerasýný...
+{61508}{61540}otoyola çevirdi...
+{61541}{61597}böylece bizim tek gördügümüz|ona vurduklarýydý.
+{61598}{61685}Powell ve Koon'u|orasýný tekmelerken gördük...
+{61686}{61740}ve Briseno'nun onu arkadan|tekmeleyiþini...
+{61741}{61775}hem de kaç kere, degil mi?
+{61776}{61807}Ýnsanlar,|"Zavallý adam" dediler.
+{61808}{61855}Bu zavallý adam|dört tane polise saldýrdý...
+{61856}{61900}ve polisler sadece...
+{61901}{62011}kendilerini kitapta yazýldýgý gibi|koruyorlardý.
+{62012}{62063}Görüntülerde herþey|gözükmüyordu zaten.
+{62064}{62138}Sence öyle mi?|Sen uzman mýsýn?
+{62139}{62194}Murray, sen ne düþünüyorsun?
+{62235}{62328}Bence polisler sopalarýný aþýrý|ve gereksiz biçimde kullandýlar.
+{62329}{62370}Sen kimsin de aþýrý dersin?
+{62371}{62411}Bu|kendine yontmak.
+{62412}{62485}Onlar senden daha iyi þeyler|duymayý hakediyorlar.
+{62486}{62577}Biz, toplum olarak maaþlarýný|düzeni saglamalarý...
+{62578}{62631}için ödedigimiz,|polisleri korumalýyýz...
+{62632}{62684}çünkü iþleri hem çok zor|hem de tehlikeli.
+{62685}{62778}Çok az insan buna|ve otoriteye saygý duyuyor.
+{62779}{62848}Saygýdan bahsedene bakýn|--Mr. Ku Klux Klan.
+{62849}{62877}Ne?
+{62920}{62974}Koleje mi gitmek istiyorsun?|Dinle ve ögren.
+{62975}{63054}Kanunlara saygýlýyým demedim.|Polisin otoritesine katýlýrým.
+{63055}{63139}Rodney King'i tekrar sokaklara|döndüren kanunlarý tanýmam.
+{63140}{63220}Ýkincisi, organize olmayan|bir avuç çaylagýn...
+{63220}{63320}kurdugu bir çetenin üyesi de degilim|týpký KuKluxKlan gibi. Lütfen.
+{63320}{63387}O zaman kafaný kýçýndan|dýþarý çýkar.
+{63388}{63431}Can alýcý noktayý kaçýrýyorsun.
+{63432}{63493}Söyledim.|Can-alýcý nokta bile degildi.
+{63494}{63540}Öyle mi?|Nedir can-alýcý nokta?
+{63541}{63584}Tamam, þöyle düþün.
+{63584}{63644}Eger Danny o gece yolda|giderken ...
+{63645}{63675}Rodney King|çocugu biçseydi ne olurdu?
+{63676}{63726}O Rodney King deneni|býrakýr bilir miyiz?
+{63960}{63999}Kim tatlý istiyor?
+{64044}{64069}Tartýþýyoruz.
+{64070}{64127}Evet, güzel bir|tartýþmadayýz, degil mi?
+{64128}{64163}Eger Rodney King delice sürerken...
+{64164}{64211}bariyerleri aþýp|Danny'i öldürseydi...
+{64212}{64248}baþka telden|çalardýn--
+{64248}{64320}Kimseye vurdugunu görmedim,|sen de öyle.
+{64320}{64383}Kimseyi öldüremedi, Tanrýya|þükür.
+{64384}{64444}Sessiz ol, tamam mý?|Ally uyuyor.
+{64514}{64602}Eger o maymun bir çocugun üzerinden|geçseydi...
+{64603}{64680}herkes farklý|düþünecekti.
+{64680}{64757}Rodney King'e odaklanacaklardý|o memurlara degil.
+{64758}{64807}Ama onun yerine,|bir kaç polise saldýrdý...
+{64808}{64849}ve birden,|tüm Amerika tek yürek oldu...
+{64850}{64899}o siktigimin orospu çocugu|için.
+{64900}{64934}Kafayý üþütecegim.
+{64935}{65004}Aa, buraya çok takýldýk di mi,|aslýnda güçlüklerle...
+{65004}{65054}boðuþan zavallý zenci adam için|çözümler üretmeliydik.
+{65055}{65109}Onu biraz daha tembelleþtirip|tarihsel sorunlarýný...
+{65110}{65142}çözmesini ummalýydýk.
+{65143}{65203}Bu saçmalýk. Tüm bunlar|o liberal salaklar...
+{65204}{65239}tarafýndan uydurulup, sürdürülüyor.
+{65240}{65276}Herkes, ülke içerden kemirlirken|baþka baþka...
+{65276}{65325}yönlere bakýyor.
+{65326}{65412}Yani, Tanrým, Lincoln köleleri|130 yýl önce özgür býraktý.
+{65413}{65463}Peki daha gerçekten eþit|olabilmeleri ne kadar sürecek?
+{65464}{65560}Yahudiler de yaklaþýk 5000|yýldýr zulüm görüyorlar.
+{65561}{65619}Sence Anti-Semitism konusunda biraz|duygusal düþünmek...
+{65620}{65651}saçma mý?
+{65652}{65684}Unut bunu.
+{65684}{65758}Ben seninleyim. Sana tamamen|katýlýyorum bebegim.
+{65759}{65801}Bu liberal-çokbilmiþlere|ben de sinir oluyorum.
+{65802}{65854}Baþladýk gene. Buna bayýlýyorum.
+{65855}{65879}Bu harika.
+{65880}{65927}Sheriff Gates'i nasýl da|suçladýlar.
+{65928}{65991}Güya Willie Williams'a sert|davranmýþ?
+{65992}{66072}Saçmalýk. O bant tamamen Gates'den|kurtulmak için tasarlandý.
+{66073}{66153}-Kalkabilir miyim?|-Hayýr. Kesme.
+{66154}{66210}Özür dilerim. Konuþuyordum.|Ben seni dinledim.
+{66211}{66299}-Kim oldugunu sanýyorsun?|-Önemli bir noktadaydý.
+{66300}{66354}Davina, otur yerine.
+{66355}{66434}Sessiz ol! Kes sesini! Otur yerine!
+{66435}{66514}-Derek, sakin ol.|-Ona kes sesini deme!
+{66515}{66584}Koy kýçýný o sandalyeye. Hayýr.|Otur. Kapa çeneni.
+{66584}{66648}Geç! Lanet olsun! Geç!
+{66648}{66703}Kapa çeneni ve kýz arkadþýma|saygý göster.
+{66704}{66761}Derek, neyi ispata|çalýþýyorsun?
+{66762}{66802}Murray, sen karýþma!
+{66803}{66854}Nereye gittigini zannediyorsun?
+{66855}{66923}Derek, !
+{66924}{67007}Dogru hareket etmeyi|ögrenmelisin, Davina!
+{67008}{67065}Kapa o pis çeneni!
+{67066}{67095}Dur!
+{67123}{67152}Nefes alamýyor!
+{67199}{67226}Býrak gitsin!
+{67227}{67275}Özür dileyeceksin?
+{67323}{67400}Gerizekalý sakak.|Nefret ediyorum senden!
+{67636}{67690}Ne yapýyorsun?|Bu senin ailen.
+{67691}{67737}Dogru.|Benim ailem, biliyor musun?
+{67738}{67819}Sen ve senin düþündügün hiç birþey|beni ilgilendirmiyor.
+{67820}{67863}Sen ailemden degilsin.
+{67864}{67921}-Ne fark eder ki.|-Etmez mi?
+{67922}{67966}Ne yaptýgýný görmüyor muyum,|sanýyorsun?
+{67967}{68004}Burda sen annemi becermeye|çalýþýrken...
+{68005}{68065}oturup sýrýtacak mýyým,|böyle mi olacak?
+{68066}{68136}Asla olmayacak.|Siktir, unut bunu.
+{68137}{68181}Ben varken asla.
+{68182}{68231}Bu olmadan önce senin|Shylock burnunu...
+{68232}{68298}kesip kýçýna sokarým.
+{68299}{68359}Ailemin masasýna gelip|bizleri o Yahudi...
+{68360}{68438}zenci yanlýsý, hippi saçmalýklarýnla|zehirleyemezsin.
+{68522}{68593}Siktir, siktir.
+{68594}{68637}Evet, git bakalým.
+{68638}{68699}Göt deligi. Orospu çocugu seni!
+{68700}{68736}Defol evimden.
+{68856}{68909}Gördün mü bunu?|Bu "hoþgeldin" demek degil.
+{69212}{69239}Ne yaptým ben?
+{69240}{69288}Beni igrendiriyorsun.
+{69289}{69353}Sen de onu bizim masamýza, getir|saçýný, elbiseni yaptýr.
+{69354}{69407}Ne yaptým ben?
+{69408}{69455}Rezil ettin bizi.
+{69456}{69496}Sen o herifi babamým masasýna nasýl|getirirsin?
+{69497}{69574}Babamdan sonra nasýl böyle birþey|yaparsýn, hiç utanmadýn mý?
+{69575}{69656}Benim vucudumdan çýktýgýn için|senden utanýyorum!
+{69739}{69808}Git sevgiline! Koþ ona !
+{69954}{70025}Tamam.|Seninle gurur duyuyorum, bebegim.
+{70187}{70272}Çok üzgünüm, Doris.|Gerçekten üzgünüm.
+{70471}{70497}O gitti.
+{70498}{70613}O sadece babasýz bir|çocuk.
+{70614}{70704}Doris, çocuklarýnýn yaþadýgý dünyayý|bilmiyorsun.
+{70940}{70979}Hoþçakal.
+{72069}{72107}Hey, iyi misin?
+{72172}{72243}-Al bunu, gerizekalý beyinsiz!|-Hayýr. Gel buraya.
+{72244}{72281}-Siktir!|-Sakin ol.
+{72282}{72315}-Býrak beni!|-Sakin ol.
+{72316}{72346}Býrak beni, lanet olsun!
+{72347}{72400}-Siktir!|-Üzgünüm.
+{72437}{72494}Sana asla zara vermezdim.|Biliyorsun.
+{72495}{72582}Delirdim. Kontrolü kaybettim.|Sana degil.
+{72583}{72659}Üzgünüm.|Çocuklar size asla zarar vermem biliyorsunuz.
+{72660}{72723}Biliyorsunuz.|Size hiçbirþey yapmam.
+{72724}{72756}Sana inanmýyorum.
+{72757}{72813}Ben sana güveniyorum, Derek.
+{73082}{73160}Yatagýn dýþýnda ne yapýyorsun sen?|Uçak ister misin?
+{73160}{73231}-Evet.|-Kalkýyoruz.
+{73379}{73412}Hayýr, düþme.
+{73444}{73534}Anneye gitsek daha iyi.|Deli uçak seni.
+{73535}{73607}Öp anneyi. Evet.
+{73813}{73892}-Ateþin yok gibi.|-Hayýr. Göðsüm.
+{73893}{73954}-Ne yapýyorsun?|-Düþünüyorum sadece.
+{73955}{74014}Evet, olup biten çok þey var.
+{74015}{74084}Bazen bu hallere nasýl geldik|bilmiyorum.
+{74084}{74151}Birþeyler olup biterken sadece|bilmeden olmasýna izin verdim.
+{74152}{74192}Anne, tamam.
+{74288}{74335}Burasý soguk.|Hasta olmaný istemeyiz.
+{74336}{74399}Soguktan hasta olmazsýn. Mikroplar|seni hasta eder.
+{74400}{74467}Hayýr. Sigaradan hasta oluyorsun.
+{74495}{74579}Býrakmalýsýn.|Senin için iyi degil.
+{74717}{74766}Neden bana öyle|bakýyorsun?
+{74767}{74832}Ne zaman o güzel saçýnýn uzamasýna izin|vereceksin?
+{74875}{74924}Sigarayý býraktýgýn gün.
+{74997}{75035}Anlaþtýk.
+{75036}{75150}Ally'i yatýrsam iyi olacak.|Anneye iyi geceler dedin mi?
+{75151}{75202}Sonra yataga gitmelisin.|Hadi.
+{75203}{75263}-Iyi geceler, anne.|-Iyi geceler, bebegim.
+{76086}{76171}Aklýmda durmadan hep|o geceye dönüyordum.
+{76172}{76228}Olmamasý için çalýþýyordum.
+{76228}{76273}Seni bu evde istemiyorum.
+{76274}{76321}Güzel.|Sabah gidiyorum.
+{76354}{76385}Bana tasýnabilir.
+{76418}{76472}Kafamda, düþünüyordum|eger o gece...
+{76473}{76555}odasýna gitmeyip olanlarý|anlatmasaydým.
+{76587}{76615}Yat yere!
+{76648}{76680}Hayýr, Derek!
+{76719}{76777}Yardým et, anne!
+{77112}{77192}Pis zenci, yanlýs adama|çattýn. Gel buraya!
+{77192}{77219}Lanet!
+{77220}{77302}Siktigimin basket sahasýnda|haddini bildirmiþtik...
+{77303}{77344}ama siz pis maymunlar|asla mesajý almazsýnýz!
+{77384}{77440}O kamyonu, bana babam verdi|seni orospu cocugu!
+{77441}{77529}Hic itfayeci vurdun mu?|Ailesini de vurdun mu?
+{77530}{77588}Simdi sana gerçek bir ders|verecegim, orospu evladý.
+{77588}{77642}Sýctýgýmýn agzýný kaldýrýmýn|kenarýna koy.
+{77643}{77666}Sakin ol, adamým.
+{77667}{77737}Koy kaldýrýmýn kenarýna!
+{77820}{77843}Iste böyle.
+{77844}{77886}Derek, hayýr!
+{77992}{78031}Simdi iyi geceler de.
+{78338}{78362}Bokherif.
+{78509}{78593}At silahýný!|Silahý vere koy!
+{78594}{78641}Kaldýr ellerini!
+{78642}{78726}Kaldýr ellerini dedim!|Simdi dön arkaný!
+{78944}{79005}Ellerini arkanda  birleþtir!
+{79094}{79143}Derhal dizlerinin|üstüne cök!
+{80526}{80619}Tamam.
+{80665}{80692}Hadi, gidelim.
+{80740}{80808}-Hadi.|-Hayýr.
+{80986}{81024}Kapýyý açmayacak mý?
+{81025}{81087}Biri ordan bize bakýyor.|Merhaba?
+{81088}{81127}Danny, seninkiler.
+{81152}{81196}Geliyorum.
+{81512}{81583}Aç kapýyý, Danny.|Skiim donuyoruz!
+{81584}{81632}Danny, hasta olacagým!
+{81633}{81705}Hadi, Danny!
+{82439}{82472}Biraz bira alacagým.
+{82786}{82837}Hey, ne parti di mi, sisko?
+{82838}{82929}Ben sisman degilim, götkafa!|iriyim!
+{82930}{82979}Seth'in nesi var?
+{82980}{83034}Abin görmeden|icecegin kadarýný ic, Danny.
+{83035}{83063}Hassiktir, o burda!
+{83064}{83143}Evet, lanet olsun burda.|Gidin saygý gösterin.
+{83144}{83167}Defol, Seth!
+{83224}{83289}Cameron'la konuþalým, Danny.
+{83290}{83333}-Peder Vinyard?|-Nasýl gidiyor?
+{83334}{83401}Ben Jason, bu da Chris.|Kardesinin arkadaslarýyýz.
+{83402}{83468}Sen mükemmelsin, adamým!
+{83903}{83948}O kagýdý vermissindir|herhalde.
+{83949}{84016}Verdim. Koduumun Murray'i de|beni...
+{84017}{84095}Sweeney'e verdi|yenisini yazmam icin.
+{84132}{84212}Yaslý Sweeney.|Hic durmuyor.
+{84212}{84284}Su zenci olmaktan gurur|duyan tiplerden.
+{84284}{84318}Onlardan nefret ediyorum.
+{84319}{84396}Bekle bir dakka, Danny.|Gurur duymuyor.
+{84396}{84527}Hayýr. O usta bir beyin yýkayýcý,|erdemli Tom Amca.
+{84528}{84605}Adolf Hitler hakkýnda yazdýgýn|icin sucluluk duymaný istiyor.
+{84606}{84730}Bir salak zenci,|Martin Luther King hakkýnda yazmýþ...
+{84731}{84839}ya da koduumun Sezar'ý hakkýnda|tabi en yüksek notu aldýlar.
+{84840}{84889}Evet.
+{84890}{84983}Olaydaki iki yüzlülügü görüyorsun,|degil mi?
+{84984}{85007}Kesinlikle.
+{85114}{85151}Hadi, gidelim.
+{85152}{85220}Hayýr. Dinle. Bekle.
+{85221}{85268}Seni görmek istiyorum, tamam mý?
+{85269}{85342}Ama bu gece|birþeyleri halletmem gerek.
+{85388}{85451}-Tamam.|-Anladýn mý?
+{85452}{85532}Evet. Burdayým.|Hazýr oldugunda, burdayým.
+{85622}{85684}-Benim icin birsey yapar mýsýn?|-Ne istersen.
+{85685}{85733}Benimle terket burayý.
+{85734}{85795}Terketmek, nereye?
+{85796}{85889}Burayý. Herseyi terket.|Sadece benimle gel.
+{85890}{85937}Neden terketmek istiyorsun?
+{85938}{85978}Sana tapýyorlar.|Onlar icin tanrý gibisin.
+{85979}{86062}Önceden fena degildik, ama|sen bir de simdi gör.
+{86063}{86149}Hicbirini istemiyorum.|Aileminde icinde olmasýný istemiyorum.
+{86150}{86211}Yaptýgým herseyi unut,|sacmalýktý, anlýyor musun?
+{86212}{86261}Sence hersey yanlýs mýydý?
+{86262}{86331}Bebegim. Yapma, hadi.
+{86332}{86392}O zenciler hakettiklerini|buldular...
+{86393}{86450}bunu bizde biliyoruz.
+{86451}{86525}Yeni icerden cýktýgýný biliyorum,|ama sana kimse zarar vermeyecek.
+{86526}{86585}Sana kimse dokunamaz.|Burda kücük bir ordu var.
+{86586}{86648}Bir alay hayaletin|bizi tekmelemesine izin vermeyecegiz.
+{86649}{86704}Beni dinlemiyorsun.|Korkmuyorum.
+{86705}{86759}Artýk bunu istemiyorum.
+{86760}{86847}Bitirdim artýk.|Tamamen sýyrýldým.
+{86848}{86964}Bu sacmalýk, Stacey.
+{86965}{87039}Buna ihtiyacýn yok, Stacey.|Hadi, güven bana.
+{87040}{87131}Eger benimle olmak istiyorsan,|sadece bana güven. Benimle gel.
+{87132}{87162}Hadi.
+{87163}{87245}Sen cýldýrmýssýn. Sen cýldýrmýssýn.|Kesinlikle.
+{87246}{87319}Burda neler döndügünü|gözünün önüne getiremiyor musun?
+{87320}{87412}10 kat daha güclüyüz,|tamamen organizeyiz.
+{87412}{87474}Böylesini hic görmedin.
+{87475}{87519}Hepsi yanlýs. Unut.
+{87520}{87577}Bekle bir saniye.|Ne yanlýs?
+{87578}{87632}Stacey, sadece elveda de.
+{87632}{87703}Bu sen degilsin. Seni tanýrým.
+{87704}{87749}Benim hakkýmda hicbirsey|bilmiyorsun, Stacey.
+{87935}{87994}-Sen Danny'in abisi misin?|-Evet.
+{87995}{88067}Ona Lizzy'nin onu aradýgýný|söyler misin?
+{88068}{88116}Sagol.
+{88157}{88249}Zencilere, irlandalýlara|pastadan pay almalarý icin fýrsat verdik.
+{88250}{88303}Onlarý suclayamayýz.
+{88304}{88363}Elbette, onu almak icin|savasacaklar.
+{88407}{88474}ve eger biz, bu|insanlarý korkutacak olursak...
+{88475}{88571}tüm bu sürecte dogal olarak|bir kýsmý ölecek.
+{88572}{88635}Bunu da ödevine|koyacak mýsýn, Danny?
+{88636}{88701}Hey, adamým.
+{88702}{88807}Vay, bakýn kim burda.|Askerin Dönüsü.
+{88808}{88855}Burda ne ne yapýyorsun, Danny?
+{88856}{88931}Hadi, adamým.|Sadece laflýyorduk.
+{88932}{88962}Gelecegimi biliyordun.
+{88963}{89057}Býrak cocugu, Derek.|Ne zaman yatacagýný biliyor.
+{89105}{89134}Git dýsarda bekle.
+{89135}{89189}Hadi, Der.|Yanlýs birsey yapmýyorum.
+{89190}{89273}Bu kücük kýz hala|seni soruyor.
+{89274}{89316}Ölüyor, durma. Hadi.
+{89317}{89376}-Gidip bakayým bari.|-Kibar davran.
+{89376}{89424}Tamam.
+{89516}{89555}Beni tam dýsarda bekle.
+{89672}{89723}Sakin ol.
+{89724}{89783}Korkacak birþey yok.
+{89784}{89841}Güvendesin.
+{89842}{89908}Buralarda kýçýný korumana|gerek yok.
+{89942}{89990}Hadi, otur. Sakinleþ.
+{90038}{90106}Üzgünüm.|Parti biraz cabuk oldu...
+{90107}{90184}ama sadece aramýza tekrar döndügün|icin mutluyuz, Derek.
+{90185}{90235}Kendini biraz komik hissetmen|cok dogal.
+{90236}{90271}Komik hissetmiyorum, Cam.
+{90272}{90338}Sisman cocugu biraz|endiþelendirmiþsin.
+{90339}{90386}Hapishanenin aklýný karýstýrdýgýný|düsünüyor.
+{90387}{90422}Karýsþtýrdý.
+{90592}{90691}Zafer, zafer, halleluyah...
+{90692}{90803}Zafer, zafer, halleluyah...
+{90804}{90884}Beyaz adam durma koþ!
+{90885}{90961}Sen gittiginden beri|çok þey degisti.
+{90962}{91015}Örgüt hakkýnda mý konusalým?
+{91016}{91085}Internette neler yaptýgýmýzý|görene kadar bekle.
+{91086}{91133}Seattle'dan San Diego'ya kadar|tüm ceteleri bagladýk...
+{91134}{91172}beraber calýsýyorlar artýk.
+{91173}{91233}Artýk rekabet yok.|Hep birlikteler.
+{91234}{91292}Sadece tüm bunlarý yönetebilecek|bir lidere ihitiyacýmýz var.
+{91292}{91368}Burada sen devreye giriyorsun.
+{91369}{91443}O dýsardakilerin sana olan saygýlarý|cok büyük.
+{91444}{91497}Hazýr oldugunda,|gel benimle konus.
+{91498}{91588}Unut bunu.|Ben bitirdim, Cam.
+{91589}{91676}Evet,|farkýndayým o dazlakkafa veletin...
+{91677}{91762}artýk büyüdügünü görüyorum|Tanrýya sükür.
+{91763}{91804}Sacýnýn bicimini|böyle daha iyi.
+{91805}{91878}Gördün mü, dedigim bu iþte.|Artýk büyük düsünüyoruz.
+{91879}{91920}Bundan böyle bakkal dükkaný|dagýtmak--
+{91921}{91967}Beni dinlemiyorsun.|Ben býraktým.
+{91968}{92021}Bütün bu pisligi ve tabiki|senin pisligini de.
+{92022}{92063}Ben yokum.
+{92064}{92139}Neler hissettigini anlýyorum.|Zor zamanlar gecirdin.
+{92140}{92191}Bana lanet zor zamandan|bahsetme.
+{92192}{92243}-Hicbirsey bilmiyorsun.|-Ben elimden geleni yaptým.
+{92244}{92302}Hic bir bok yapmadýn.|
+{92303}{92350}2 ay yaptýn,|sonra herseyi 2 tane velede yýkýp...
+{92351}{92397}tüm bunlardan kendini sýyýrdýn.
+{92398}{92446}Bana artýk o yalanlarýný|söyleme, Cameron.
+{92488}{92571}Tamam. Bu aptalca.|Bitirdim.
+{92572}{92635}Git sakinleþ.|Yat, birþeyler yap.
+{92636}{92704}Kafaný topladýgýnda,|seninle konuþuruz.
+{92705}{92755}Ama fark etmez degil mi,|ben olmazsam, baþkasý?
+{92756}{92804}cünkü yeni mahsüller geliyor...
+{92804}{92848}nasýl olsa onlarý sürersin ortaya,|seni korkak tavuk.
+{92848}{92893}Affedersin?
+{92894}{92957}Insan avlýyorsun, Cam !|Onlarý kullanýyorsun !
+{92958}{93032}Senin sacmalýklarýn yüzünden hayatýmýn|3 yýlýný kaybettim...
+{93033}{93076}ama simdi senin icin hazýrým degil mi,|aþagýlýk yýlan!
+{93076}{93175}Derek, kolla kendini. Dikkatli ol.|Nerde oldugunu hatýrla.
+{93176}{93263}Burasý öyle istediginde girip cýkabilecegin|country-klübü degil--
+{93264}{93308}Kes sesini! Kes lanet sesini!
+{93308}{93378}Buraya sana tek birþey söylemeye geldim.|Ben yokum!
+{93379}{93424}Yokum! Danny'de yok!
+{93425}{93480}Eger ailemin yakýnýna gelirsen,|seni gebertirim.
+{93480}{93540}Affedersin amam, siktir, Derek.
+{93540}{93596}Buraya gelip, havlayarak|beni tehdit edemezsin.
+{93596}{93665}Ne bok yersen ye,|ama Danny iyi cocuk.
+{93666}{93723}Senin gibi bir korkak|amcýk degil.
+{93724}{93770}Yardýmýma ihtiyacý var,|ve bende ona verecegim.
+{93771}{93830}Eger Danny'nin yanýna yaklasýrsan...
+{93831}{93883}Sana kendi kalbini yediririm,|Cameron.
+{93884}{94024}Ben gitmeyecegim.|O gelecek.
+{94025}{94078}Ben, onun için senden daha|önemliyim.
+{94184}{94209}Bok.
+{94210}{94282}Sen ölüsün,|Vinyard.
+{94653}{94733}Hey, Cameron nerde?|Lanet olsun nerde?
+{94797}{94849}Benden uzak dur, Stacey.|Danny!
+{94850}{94897}Neden söylediklerini digerleriyle de|paylasmýyorsun...
+{94898}{94983}demin söylediklerini seni|bok parçasý pis zenci!
+{94984}{95037}Seni hain!
+{95038}{95080}Pis zenci dostu!
+{95081}{95128}Hey, Danny! Hadi!
+{95129}{95189}O bir  zenci!|Zenci! Zenci!
+{95190}{95260}Cam'i devirmis!|Ne cehenneme gidiyorsun?
+{95261}{95309}Silah! Silahý var!
+{95310}{95366}Çekil! Bas geri!
+{95404}{95449}Beni hasta ediyorsun!
+{95450}{95519}Býrak o lanet silahý!
+{95520}{95548}Vur zenciyi!
+{95549}{95641}Vur onu!|Hadi, Seth! Vur onu !
+{95642}{95696}Hain!
+{95696}{95729}Yap, Seth! Yap!
+{95805}{95848}Çekilin! Yürü!
+{95896}{95953}Çekil! Basýn geri!
+{95954}{96012}Yürü! Yürü!
+{96013}{96044}Sakin, Derek! Hey!
+{96564}{96588}Sakin, Danny!
+{96588}{96638}Kim oldugunu zannediyorsun?
+{96639}{96711}-Danny, sakinleþ.|-Kim oldugunu zannediyorsun?
+{96712}{96767}Sakin ol, Dan.
+{96768}{96817}Lanet, nefret ediyorum senden Der!
+{96818}{96867}Tamam. Anlatacagým.
+{96868}{96903}Ha?
+{96904}{96965}Hadi. Kes sunu.|Sakin ol.
+{96966}{97013}Sana ne oldu, Der?
+{97014}{97072}Sakin ol.
+{97072}{97128}Sana ne oldu, Der?
+{97323}{97387}Hadi. Hadi.
+{97462}{97514}Þimdi tam boku yedik.
+{97515}{97586}Üzgünüm. Bunlarý görmemeliydin.
+{97587}{97616}Sana gelmemeni söylemistim.
+{97617}{97680}Sktir, be.
+{97681}{97719}Hersey bok oldu.
+{97720}{97782}Biliyorum, biliyorum.
+{97783}{97845}Tanrým, olaylar böyle geliþsin|istemedim.
+{97846}{97926}Hersey bok oldu.|Bizde öyle.
+{97927}{98017}Ýstedigim bu degildi.|Sadece boka döndü.
+{98018}{98105}Cok sacma.|Kontolü kaybettim tamamen.
+{98143}{98210}Neler oluyor burda?
+{98320}{98352}Hey, bak bana.
+{98456}{98492}Artýk geri dönemem, Dan.
+{98493}{98548}Neye dönemezsin?
+{98549}{98599}Hicbirine.
+{98600}{98662}O heriflere, ceteye, o hayata.|Hepsi bitti.
+{98763}{98797}Sana ne oldu orada?
+{98986}{99036}Dizilin. Yemek sýrasý.
+{99037}{99083}Gec kalma sakýn,|seni bok parcasý!
+{99084}{99179}Yemek istiyorsanýz kalkýn!|Kalkýn! 5 dakika!
+{99180}{99236}Burasý benim evim!|Kalkýn!
+{99236}{99293}Sizin sorununuz ne,|götkafalar?
+{99294}{99371}Yürü! Gidelim!|Acýn siktigimin kapýlarýný!
+{99372}{99428}Tamam, asýn onlarý!
+{99540}{99591}5 dakika! Öne cýkýn!
+{99592}{99648}O yataklar yapýlmýþ olsa iyi olur.
+{99709}{99781}2 gün sonra, bir hafta bile|dayanacagýmý düsünmüyordum.
+{99782}{99832}Hadi, anasýný siktiklerim!
+{99833}{99889}Bugün yemek istiyor musunuz,|bok kafalar?
+{99890}{99937}Hey, sen beyaz dazlak|bok parcasý!
+{99938}{99984}Kendini özel biri mi zannediyorsun,|beyaz balýk?
+{99985}{100061}Dügmeni ilikle!|Hadi! Yürüyün!
+{100062}{100140}Gözlerime mi baktýn?|Bir daha gözlerini dikme, götkafa!
+{100140}{100202}Gebertirim seni!
+{100203}{100274}Gözüm üstünde olacak,|seni beyaz bok parçasý!
+{100317}{100389}Bir daha gözlerimin icine bakma, evlat!|Senin kafatasýný sikerim!
+{100390}{100437}Öne cýk!
+{100469}{100493}Sola dön!
+{100542}{100626}Yemek sýrasý! Gidelim!
+{100627}{100686}Hadi!|Hey, balýk, dogru yürü.
+{100687}{100743}Dümdüz yürü, siktigiminin!|Yürü!
+{100744}{100819}Hepsi yanlýs adamlardý|ben de öyle tabi...
+{100820}{100895}bayraklarý cekip bir dostun beni|görmesini bekledim.
+{102392}{102463}Bahsettigim iste surda.
+{102923}{102971}Patron.
+{102972}{103010}Gec otur.
+{103034}{103062}Memnun oldum.
+{103301}{103360}Benimle taþak geçme, tamam mý?
+{103361}{103417}Çünkü bu hapisanedeki en tehlikeli adam|benim, dostum.
+{103418}{103513}Neden biliyor musun?|Çünkü içcamasýrlarý benim kontrolümde.
+{103700}{103772}Burdan alýrýz,ve|buraya katlarýz.
+{103772}{103820}Umarým anlamýþsýndýr,|tamam mý?
+{103820}{103893}Çünkü son gönderdikleri herif|don giymiyordu...
+{103894}{103945}ayrýca donlarýn|ebatlarýný da okuyamýyordu...
+{103946}{103999}ve onlarý koklardý,|anladýn mý?
+{104000}{104057}Iki çesidimiz var--orta|ve geniþ, tamam mý?
+{104058}{104117}Tek yapman gereken ortalarý|ortalarla...
+{104118}{104157}geniþleri geniþlerle katlaman,|anladýn mý?
+{104158}{104205}Biliyorum sýkýcý bir iþ...
+{104206}{104259}Ama son sefer yaptýgýmdan|çok daha iyi.
+{104260}{104353}Ýki yýlýmý mutfakta geçirdim,|patates soyarak.
+{104354}{104424}Sen bile istemezsin,|tamam mý?
+{104424}{104472}Bu iþe atladýgýn için mutlu|olmalýsýn.
+{104473}{104542}Kimse burda ne yaptýgýna bakmaz.
+{104578}{104663}Bu arada...
+{104664}{104703}neden burdasýn?
+{104776}{104815}Büyük ihtimalle yaþlý bir kadýný|soydun, ha?
+{105097}{105152}Tamam, senin gibileri bilirim, dogru mu?
+{105153}{105210}Sert agaçkakan tipler|üstelik tavýrlý.
+{105248}{105348}Sana birþey söyliyeyim, adamým,|kýçýna dikkat etsen iyi olur..
+{105349}{105442}Çünkü burda hapiste,|sen zencisin, ben degil.
+{105536}{105623}Bir sene olmuþtu.|Hallediyor gibiydim.
+{105624}{105690}Sonra birden iþler karýþmaya|baþladý.
+{106337}{106376}Bu da ne böyle?
+{106412}{106441}Nedir bütün bunlar?
+{106442}{106531}Sadece politika, adamým.|Çýkarlar, bilirsin?
+{106568}{106639}O maymunun çýkarýna mý?
+{106664}{106724}Mitch onlarýn olan bazý ekstra|þeyleri topluyor...
+{106724}{106780}sonra burdakilere,|anladýn iþte?
+{106781}{106835}Þaka yapýyorsun, di mi?
+{106836}{106887}Hayýr.
+{106888}{106934}Bu çok saçma, adamým.
+{106935}{106975}Biri birþeyler söylemeli.
+{106976}{107015}Ne yaptýgýný zannediyor?
+{107016}{107084}Þu an ceset degilsen eger|bunu Mitch'e borçlusun.
+{107085}{107144}Biliyor musun?|Hic umrumda degil.
+{107144}{107197}Ben kendimi korurum.
+{107198}{107292}Böyle yapmamalý.|Hasta ediyor beni, adamým.
+{107293}{107359}Çok konusan var ama|dur diyen yok.
+{107424}{107516}Bence tüm bunlarý býrakýp|sakinleþmelisin.
+{107517}{107576}Artýk bu saçmalýklarýndan|sýkýldýk.
+{107576}{107661}Sil kafandan.
+{108380}{108412}Burda ne yapýyorsun, Doris?
+{108412}{108464}Yakýndaydým.
+{108465}{108532}Bak, buraya hiçbirinizin|gelmemesini söylemiþtim.
+{108532}{108608}Ne dedigin umrumda|degil, tamam mý?
+{108609}{108640}Seninle konusmalýyým.
+{109134}{109171}Peki, herkes nasýl?
+{109172}{109278}Davina harika. Nerdeyse bitirecek|okulu.
+{109279}{109410}ve Ally de yürüyor,|biraz konuþmaya baþladý.
+{109530}{109557}Danny nasýl?
+{109696}{109764}Seni göklere çýkarýyor.
+{109764}{109844}En büyük oldugunu düþünüyor.
+{109844}{109919}Cameron'a seninle övündügünü|söyleyip duruyor...
+{109920}{109967}tabi yeni arkadaþlarýna da.
+{110052}{110096}Sana benzemeye|baþladý.
+{110096}{110168}Tanrý aþkýna, endiþeli|konuþma, tamam mý?
+{110168}{110265}Eminim iyidir.|16 yaþýnda, Doris.
+{110266}{110308}Artýk kücük bir melek degil.
+{110309}{110368}Sen öyle zannet, ilk evladým|hapislerde çürürken...
+{110369}{110432}ikincisininde onun gibi ayný|delige dogru...
+{110433}{110516}gidiþini seyretmenin ne kadar acý|verdigini bilemezsin.
+{110516}{110557}Herþeyi burdan düzeltemem.
+{110558}{110604}Düzeltmeni isteyen yok.
+{110605}{110685}Tüm bunlar beni daha kötü yapýyor.|Sadece zorlaþtýrýyorsun.
+{110686}{110771}Burada bekleyen yanlýzca|sen misin, Derek?
+{110772}{110826}Burada yanlýz oldugunu mu|düsünüyorsun?
+{110827}{110871}Burada seninle olmadýgýmý mý|düsünüyorsun?
+{111173}{111208}Sktir, be.
+{111277}{111332}Hergün seni seyrediyorum|ve çarþaflarý sanki...
+{111333}{111377}bitirecekmiþ gibi atýyorsun.
+{111409}{111460}Bak, zenci,|biraz sakin olur musun?
+{111461}{111492}Lanet olsun!
+{111493}{111545}Sen nekadar hýzlý|yaparsan yap...
+{111546}{111607}onlar hala yenilerini getirmeye|devam edecekler.
+{111608}{111650}Onlarý oraya öyle fýrlatmak...
+{111651}{111701}sana kalp krizinde baþka bir|bok kazandýrmaz!
+{111702}{111744}ve ne biliyor musun?|Benim için hava hoþ!
+{111745}{111804}Ama beni de kalpten götüreceksin!
+{112009}{112059}Biliyorum, ben gerizekalý,|ahmak zenciyim, degil mi?
+{112060}{112100}Ben ne bilirim ki?
+{112149}{112235}Sadece çarþaf katlarken|deliririm, niye?
+{112236}{112307}Aslýnda,|beni delirten çarþaflar degil...
+{112308}{112356}Ne oldugunu söyliyeyim.
+{112392}{112453}Tamamdýr, evlat,|yapacagýmýz þu.
+{112454}{112499}Zencilerden nefret edecegiz.|Bugün yapacagýmýz bu.
+{112500}{112542}Birkaç zenciden nefret edecegiz.
+{112543}{112579}Bugün yapacagýmýz tek þey|oturup zencilerden nefret etmek.
+{112580}{112655}Zenci ne bilmiyor musunuz,|olsun biz gene de nefret edelim.
+{112656}{112703}Kuzenim Derek|þu an hapiste...
+{112704}{112808}bir zenciyle beraber çalýþýyor,|ona kafayý yedirtiyor.
+{113244}{113300}Gördün mü? Olay bu.
+{113324}{113355}Güzel, sakin.
+{113392}{113434}Simdi barýs icinde birbirimizi|umursamayabiliriz.
+{113525}{113591}"Ne yapýyorsun"|sonra ne dedi biliyor musunuz?
+{113592}{113658}"Bu becerecegim domuzdan daha|iyiyimis."
+{113728}{113784}Asla þakayý bitirmeme|izin vermezdi.
+{113785}{113821}Sen de onu becerirdin, di mi?
+{113869}{113941}Herneyse. Sýrtüstü yatar,|bacaklarýný açardý...
+{113994}{114090}Naber? Nasýl gidiyor?|Al bakalým.
+{114356}{114424}Meksikalýlardan alýyordu malý...
+{114424}{114475}sonra kendi adamlarýna|satýyordu.
+{114476}{114548}Hic bir boka inanmýyordu.|Hepsi öyle.
+{115164}{115241}Ne? Hadi, adamým.
+{115242}{115344}Bana öyle bakma.|Kokusunun neye benzedigini bilirsin.
+{115344}{115401}Bu kokunun sana kadýný|hatýrlatmadýgýný söyleme.
+{115459}{115492}Tanrým, o kokuyu özledim, adamým.
+{115518}{115601}Dýsarda yaptýgým is bundan|iyi degildi...
+{115602}{115653}ama en azýndan her gece|eve gidip...
+{115654}{115714}o kokunun yanýnda uzanabiliyordum,|adamým.
+{115762}{115846}Tanrým, Cok özledim.|Kadýnýn var mý?
+{115873}{115917}Evet, kadýnýn var, adamým.
+{115918}{115980}Sana bir tavsiye vereyim,|tamam mý?
+{115981}{116049}Seni ziyarete geldiginde...
+{116050}{116097}ne yaparsan yap,|ne derse desin...
+{116098}{116145}onun üzgün ayrýlmasýna|izin verme, adamým.
+{116146}{116193}Burdan sinirli bicimde|gitmesine engel ol...
+{116194}{116257}Cünkü eger olmazsan,|bütün haftayý...
+{116258}{116325}onun kendini baskasýna becerttigini|düsünerek gecirirsin...
+{116326}{116361}anladýn mý dedigimi?
+{116362}{116421}Geldiginde onunla sadece tatlý|tatlý konusmalýsýn.
+{116422}{116487}Onu rahat gönder,|tamam mý?
+{116488}{116566}cünkü onlar senin bildigin gibi düsünmezler...
+{116567}{116642}týpký tavýrlý-seks gibi.
+{116643}{116688}Ne dedigimi anlýyor musun?|Öfkeli seks.
+{116688}{116730}Duygularý, tavrý olan seks gibi.
+{116731}{116811}Sýrtüstü yatmýþsþýndýr ve herþeyi|ona býrakmýþsýndýr.
+{116812}{116851}Bütün erkekler bilir, adamým.|En iyi seks budur.
+{116852}{116920}Ýþte bu.
+{116920}{116992}O zirvededir,|önce seni cezalandýrýr.
+{116992}{117031}"Kötü cocuk mu oldun, ha?
+{117032}{117100}"Kötü cocuk oldun,|ve ben de seni cezalandýracagým.
+{117101}{117139}"üzerine koyacagým.
+{117140}{117223}"Seni hiç...|baþka...kadýnlara...bakarken...
+{117224}{117304}"yakala...mýþmýydým.|Evet, evet.
+{117304}{117343}"Eger gelirsen seni|affederim.
+{117344}{117404}"Sanýrým edebilirm. A--ff ffederim.
+{117404}{117479}"Affederim. Ýþte orasý.|Dokundugun yer.
+{117480}{117526}"O nokta. Ýþte bu. Evet.
+{117527}{117619}"Evet. Seni affed--affediyorum.|Affediyorum.
+{117620}{117683}"Seni a--a aff--|Seni a--a affediyorum!
+{117684}{117735}"Seni seviyorum!"
+{118156}{118206}Nasýl oluyorda Lakers'ýn Celtics'ten|daha büyük...
+{118207}{118250}oldugunu iddia edersin?
+{118251}{118310}Lakers parladý gitti, þans eseri.
+{118311}{118339}Deli misin?
+{118340}{118390}Ýyi bir coachla dört sene.|Celtics büyük!
+{118391}{118454}Hadi ordan, adamým.|Celtics, haa?
+{118455}{118507}Spor tarihinin en çirkin takýmý.
+{118508}{118559}Çirkinlerin en büyügü, adamým.
+{118560}{118613}Kevin McHale'a bak.
+{118614}{118680}James Worthy. O herifin kafasý|kavun gibi.
+{118681}{118713}Bir sürü kadýný vardý.
+{118714}{118779}Seninle konuþamýyorum bile.|Neden bahsettigini bilmiyorum.
+{118780}{118849}Kývýrtma.|Boston Celtics.
+{118850}{118902}-Kaç tane oldu?|-Bu kadar yeter.
+{118903}{118931}Yeter mi? Tamam.
+{119023}{119055}Tuttun mu?
+{119167}{119238}-Sayýyý karýþtýrdým.|-Boþver, adamým.
+{119239}{119299}Kim sayýyor ki?
+{119473}{119525}Tamam,|birþey bilmek istiyorum.
+{119549}{119598}Seni ne attý buraya?
+{119599}{119651}Kimseyi öldürmemissin,|ganster olmak için zayýfsýn.
+{119652}{119716}Öyle peþin hüküm verme.
+{119717}{119752}Bunlarý kullanabilirim.
+{119752}{119821}Herneyse. Hadi.|Ne yaptýn?
+{119822}{119884}Sana ne.|Utanç verici.
+{119885}{119929}Seni hiç ilgilendirmez.
+{119957}{120028}Hadi. Burda herkes utanç içinde.
+{120029}{120089}Her kim ne yaptýysa yaptý.
+{120113}{120149}Ne yaptýn?
+{120193}{120256}Bak, adamým, televizyon çaldým,|tamam mý?
+{120257}{120321}Televizyon çaldýn.|Bunun neresi utanç verici?
+{120322}{120412}Hamburgercinin yanýndaki dükkandan|televizyon çaldým.
+{120413}{120484}Kaçýyordum, dükkanýn sahibi|arkamdan bagýrýyordu.
+{120485}{120531}Bam ! 3 tane polis karþýma çýktý.
+{120532}{120615}Sana utanç verici oldugunu söyledim.|Gülüyorsun.
+{120616}{120676}Bekle bir saniye, bekle bir saniye.
+{120677}{120722}Bu çok saçma.
+{120752}{120844}Televizyon çaldýgýn için|6 sene yemezsin, hadi.
+{120844}{120927}Polis memuru kolumu tuttu...
+{120928}{120974}televizyon ayagýna düþtü|ve kýrdý.
+{120975}{121090}Ona televizyon attýgýmý söylediler.|Saldýrý. 6 Sene.
+{121091}{121189}Hadi, dogru söyle.|Sen salladýn ona degil mi.
+{121190}{121261}Dedigim gibi,|dükkandan çýktým...
+{121262}{121349}o kolumu tuttu,|ve alet ayagýna düstü.
+{121464}{121495}Hadi simdi.
+{121496}{121562}Benim icin nelerin var, ha?
+{121586}{121619}Gidiyorsun, bebek!
+{121620}{121676}Evet!|Dedigim bu iþte.
+{122600}{122631}Siktir!
+{122632}{122676}Bana bir havlu verin. Tutun onu.
+{122851}{122895}Zenci mi olmak istiyorsun,|tatlý çocuk?
+{122896}{122957}-Siktir!|-Bizde sana öyle davranýrýz.
+{122958}{123033}-Hayýr.|-Hadi.
+{123081}{123122}Hadi, ver ona !
+{123391}{123427}Siktir!
+{123523}{123582}Cok tatlýydý.
+{123583}{123611}Siktir!
+{124392}{124416}Nasýl o?
+{124444}{124500}6 dikis attýk.
+{125495}{125566}Sen ne arýyorsun burada?
+{125567}{125641}Seninle Danny hakkýnda konusacaktým, ama|simdi bosver.
+{125642}{125691}Sana bazý kitaplar getirdim.
+{125747}{125826}Ne oldu ona, ha?|Beni merakta býrakma.
+{125827}{125875}Senin bulundugun noktaya dogru hýzla ilerliyor.
+{125899}{125986}Biliyor musun? Annem|bana bundan bahsetti.
+{125987}{126051}Danny benim sorumlulugumda degil.
+{126052}{126094}Ne yapmamý bekliyorsun ki?
+{126095}{126162}Bana yardýmý olmaz.|Kendimi suclu mu hissetmeliyim?
+{126163}{126196}Hicbirsey yapmaný istemiyorum.
+{126211}{126262}Sadece gerçekten hissettiklerin|söylemeni istiyorum.
+{126263}{126310}Sence onu burda mý istiyorum?
+{126311}{126370}Yani...bilmiyorum.
+{126371}{126405}Ne hissettigimi de bilmiyorum.|Ben...
+{126460}{126510}Kafam karma karýsýk.
+{126511}{126558}Ben, iþte--bilmiyorum.
+{126559}{126652}Oturmayan birþeyler|var.
+{126653}{126707}Bu olur.
+{126731}{126795}Sen buralarda gezinip inandýgýn|þeydeki...
+{126796}{126854}delikleri görecek kadar|zekisin.
+{126855}{126900}Hey, dinle.|Kafam karýþýk dedim.
+{126901}{126953}Inanmýyorum demedim.
+{126954}{127004}Tamam. Bu yüzden iþte|fikirlerini acýk tut.
+{127005}{127064}Simdi, öfken seni tüketiyor.
+{127065}{127142}Bu öfken Tanrýnýn sana verdigi|beyni kullanmaný engelliyor.
+{127143}{127191}Tanrým. Ne, biliyor musun, adamým?|Liseden beri...
+{127192}{127236}bana ne olup bittigini anlatýp|durdun.
+{127236}{127304}Lanet olsun, icimdekileri nereden|bilebiliyorsun?
+{127305}{127400}Hayýr, Kendimi biliyorum.|Bu yeri biliyorum.
+{127401}{127448}Icinde oldugun yeri biliyorum.
+{127449}{127515}Icinde oldugum yeri nasýl bilebilirsin?
+{127516}{127568}Öyle bir durumdaydým ki...
+{127569}{127640}herkesi, herþeyi suclardým...
+{127641}{127700}cektigim|tüm sýkýntýlardan, acýlardan,...
+{127701}{127752}basýma gelenlerden ötürü...
+{127753}{127815}yakýnlarýmýn basýna gelenlerden|ötürü.
+{127816}{127859}Herkesi suclardým.
+{127860}{127944}Beyazlarý, toplumu, Tanrý'yý.
+{127945}{128021}Ancak cevap bulamadým, cünkü|yanlýs sorularý soruyordum.
+{128022}{128083}Dogru soruyu|sormalýsýn.
+{128084}{128113}Ne gibi?
+{128172}{128241}Yaptýklarým|yaþamýmý daha mi iyi bir hale getirdi?
+{128732}{128767}Bana yardým etmelisin, dostum.
+{128834}{128875}Sadece yardým et.
+{128920}{128969}Cýkar beni burdan, bilirsin?
+{129036}{129099}Dört ay sonra þartlý|cýkabilirim.
+{129140}{129187}Birseyler söyle.
+{129188}{129250}Söyledim zaten. Burdan cýkacaksýn,|ya sonra?
+{129251}{129319}Artýk ailemi üzmeyecegim.
+{129320}{129374}Herseyden mümkün oldugu kadar|uzklasacagým.
+{129375}{129417}Bu yetmez.
+{129418}{129500}Yardýmýmý istedin,|daha iyisini yapmalýsýn.
+{129501}{129561}Benimde sartlarým var.
+{129562}{129639}Running just ain't good enough.
+{130424}{130503}Siktir et. Bosver.
+{130504}{130544}Siktir et.|Býrak da zenciler becersin.
+{130580}{130612}Neyin var, D?
+{130612}{130689}Bütün o sacmalýklarda ne?
+{130719}{130788}Sen kafayý mý yedin, ha?|Cýldýrdýn mý?
+{130788}{130844}D, bak bana, adamým!
+{130844}{130907}Burda tek basýna|yapamazsýn.
+{130908}{130958}O pezevenklerin hicbirinden|korkmuyorum.
+{130959}{131009}Altý kisiydiler,|üstüme atladýlar.
+{131010}{131068}Bu bir daha olmayacak.|Umarým denerler.
+{131068}{131129}Adamým, o sert arkadaslarýndan|bahsetmiyorum!
+{131130}{131185}Onlar senin salak kýcýný|koruyorlardý!
+{131186}{131278}Onlarla milletin icinde ters düstün!|Simdi yalnýzsýn!
+{131279}{131345}Yo, adamým, bizimkilerden|bahsediyorum, tamam mý?
+{131346}{131421}Onlarda seni sikecek, sonra|kýcýný tüttürecekler!
+{131422}{131485}Neden bilmedigim birþeyi|söylemiyorsun?
+{131486}{131538}Hic mi düsünmedim|zannediyorsun?
+{131539}{131622}Benim icin gelirlerse, gelirler.|Yapacak bir seyim yok.
+{131652}{131697}Ne yapabilirim, adamým?
+{131814}{131873}Böylece basladýgým yere|dönmüstüm.
+{131874}{131923}Hergün, iste benim günüm|diyordum.
+{131952}{132024}Her zaman hücremdeyken...
+{132024}{132090}Duþ alýrken
+{132164}{132209}Sadece bir zamanlama|meselesiydi...
+{132210}{132258}harekete baþlamadan önce.
+{132286}{132338}Cabuk olmasýný ümit ediyordum.
+{133096}{133152}Ama olmadý.
+{133193}{133223}Bir anlam veremedim.
+{133224}{133272}Biliyordum bazýlarý bunun icin|cok istekliydi.
+{133272}{133321}Bir süre sonra,|kafamý önümdekilere verip...
+{133322}{133366}Sweeney'in getirdigi kitaplarý|okumaya basladým...
+{133367}{133408}
+{133458}{133545}Son altý ay, o yerde,|hayalet gibiydim.
+{133875}{133935}Noldu adamým?|Cýkýyor musun?
+{133986}{134030}Hadi, adamým.|Daha ne bekliyorsun?
+{134031}{134082}Sktir git burdan, adamým.
+{134127}{134175}Evet, bilirsin,|Þu komik hisse kapýldým.
+{134176}{134221}Öyle mi? Neymiþ o?
+{134255}{134296}Burdan tek parça olarak|cýkabilmemin...
+{134297}{134342}nedeni belki de|sensin.
+{134378}{134414}Hadi ordan, adamým!|Sktir git!
+{134415}{134462}Sence benim gibi|biri senin gibi bir manyak icin...
+{134463}{134511}kellesini koyar mý ortaya?
+{134512}{134558}Evet. Dogru.
+{134559}{134611}Gerzekçe.
+{134747}{134787}Ben de böyle düsünmüstüm.
+{134891}{134944}Sana borcluyum, adamým.
+{134945}{134997}Adamým, bana bir bok borclu degilsin,|tamam mý?
+{135069}{135093}Evet, borcluyum.
+{135337}{135384}Vakit kaybetmeden burdan çýk.
+{135385}{135443}Adamým,|cocuk oyuncagý, tamam mý?
+{135496}{135540}Biraderlerime karsý iyi ol,|tamam mý?
+{135541}{135567}Biraderler!
+{135817}{135853}Tanrým, vay be.
+{135913}{135957}Üzgünüm, Derek.
+{135981}{136033}Basýna gelenler icin.
+{136061}{136136}Ben degilim. Sanslýyým.
+{136137}{136209}Sanslý hissediyorum,|cünkü yanlýstý, Dan.
+{136265}{136308}Yanlýstý ve,|bizi tüketiyordu.
+{136309}{136356}Beni öldürecekti.
+{136357}{136406}Devamlý kendime sunu sordum:...
+{136407}{136501}Bu pisligi nasýl da yuttum,|anladýn mý?
+{136541}{136586}Cünkü kafayý yemistim.
+{136614}{136691}Ne yaptýysam o duygularý|icimden atamadým.
+{136728}{136799}Iki adam vurdum, Danny.|Onlarý öldürdüm.
+{136844}{136895}ve bu beni rahatlatmadý.
+{136924}{136956}Sadece daha da boka battýk...
+{136957}{137017}artýk kafayý yemekten|býktým, Danny.
+{137018}{137088}Bundan yoruldum.
+{137089}{137148}Ve sana ne yapacagýný|söylemiyorum.
+{137180}{137212}Gercekten.
+{137236}{137287}Ama anlamaný istiyorum...
+{137332}{137412}cünkü seni seviyorum,|ve sen benim en iyi dostumsun.
+{137462}{137508}Anladýn mý?
+{137508}{137556}Evet, anladým.
+{137640}{137672}Tamam.
+{137768}{137803}Tanrým.
+{138204}{138249}Merhaba. Hersey yolunda mý?
+{138250}{138284}Ah, hersey mükemmel.
+{138284}{138351}Iyi. Evet.|Bizim odada uyumak ister misin?
+{138352}{138399}-Hayýr. Sagol.|-Emin misin?
+{138400}{138477}Evet. Burasý iyi.|Sagol.
+{138478}{138538}Tamam. Hadi, gidelim.
+{139047}{139071}Iyi geceler.
+{140676}{140720}Duþ alacagým,|tamam mý?
+{141540}{141571}Gecmise dönmek cok zor...
+{141572}{141642}ve sevdiklerinin gerceklerini|görmek de zor.
+{141643}{141714}Eger Derek'e tüm bunlara neden|basladýgýný... 
+{141715}{141754}soracak olursanýz...
+{141755}{141823}size babamýzýn ölümüyle beraber|baþladýgýný söyleyecektir.
+{141851}{141905}Gercekte ise hersey cok,|önceleri basladý.
+{141906}{141983}Herkes aksamki oyuna|geliyor degil mi?
+{141984}{142014}Kesinlikle.
+{142015}{142054}Tamam,|Ben'in Burgercisinde saat 7'de...
+{142055}{142087}sonra gider büyük adamýn|oynunu seyrederiz.
+{142147}{142194}Oyuna hazýrladýn mý kendini?
+{142195}{142269}Herzaman hazýrým.|Ingilizce sýnavým var.
+{142270}{142326}Kalp krizi gecirecegim.|Hazýr degilim.
+{142327}{142375}Neyin var?|"B" alýrým diye mi korkuyorsun?
+{142376}{142445}O da iyiydir. Hatta B-eksi.
+{142446}{142516}Hey, gülmeyin.|Bu adam farklý.
+{142517}{142576}Dr. Sweeney.|Bu adam inanýlmaz.
+{142577}{142626}Inanýlmaz. Hic böyle bir hocam|olmadý.
+{142627}{142655}Ýki doktorasý var.
+{142656}{142743}Neden gelip bizde hocalýk yapýyor|anlamýyorum.
+{142744}{142774}Size ne okutuyor?
+{142775}{142862}"Yerli Cocuk" romanýndan sýnav olacagýz.
+{142863}{142921}"Yerli Cocuk"?|Hic duymadým.
+{142922}{142959}Ne büyük süpriz.
+{142986}{143020}Ne? Ben de okurum.
+{143049}{143129}Tatlým, okulda Tom Clancy|okutmuyorlar.
+{143169}{143212}Evet, okutmuyorlar.
+{143213}{143249}Bu "Yerli Cocuk" neyin nesi?
+{143276}{143333}Siyah bir cocugu anlatan|kitap.
+{143334}{143406}Tüm siyahlarýn kitaplarýný|okuyoruz.
+{143407}{143465}Ne bu, Siyahlarýn Tarihi Ayý mý?
+{143466}{143524}Hayýr, sadece bu adam Sweeney,|bilirsin?
+{143525}{143570}Dersin bir parcasý.
+{143729}{143767}Ne?
+{143768}{143836}Hicbirsey. Sadece...
+{143837}{143887}Simdi her yerdeler.
+{143888}{143930}Ne?
+{143969}{144036}Siyahlarýn kanuni etkinligi.
+{144037}{144156}Birkac kitap yüzünden siyahlarýn|etkinliginden söz edemezsin.
+{144183}{144226}Kitabý oku, herifin sýnavýný da gec.
+{144227}{144284}Sadece sana söyledigi her haltý|yutma.
+{144285}{144323}Aksam haberlerinde gördüklerini de|unutma...
+{144324}{144351}Biliyorum, ama ne?
+{144352}{144400}Herseyi esitlemek sacmalýgý.
+{144401}{144436}O kadar basit degil.
+{144437}{144484}Simdi bu "Yerli Cocuk" kitabý.
+{144485}{144532}Tüm diger kitaplara ne oldu ki?
+{144533}{144640}Yoksa Bay iki doktoralý onlarý|yeteri kadar iyi görmüyor mu ?
+{144641}{144700}Simdi siyahlarýn kitaplarýný bu|harika kitaplara tercih  mi|edeceksin?
+{144701}{144764}Bu ne sacmalýk?
+{144765}{144816}Bunlarý kendine sormalýsýn,|Derek.
+{144817}{144864}Resmin tamamýný görmelisin.
+{144865}{144942}Kitaplardan bahsediyoruz.|Gel istersen iþimden bahsedelim.
+{144943}{145012}Ekibimde iki tane siyah|cocuk var...
+{145013}{145072}beyazlarýn yerine iþe girmis|iki siyah cocuk...
+{145073}{145123}üstelik sýnavda onlarda daha düþük|almalarýna ragmen.
+{145124}{145204}Ne kadar da anlamsýz?
+{145205}{145291}Simdi hersey esit, ama kýcýmý|koruyan, hayatýmdan sorumlu...
+{145292}{145387}iki adam var arkamda|ama yeterince iyi degiller.
+{145388}{145431}Cünkü iþe sadece siyah olduklarý|icin alýndýlar...
+{145432}{145487}en iyi olduklarý icin degil.
+{145488}{145561}-Bu cok zýrva.|-Amerika bu mudur?
+{145562}{145611}Hayýr, Amerika en iyi olanýn|iþe alýndýgý yerdir.
+{145612}{145663}En iyisi olursun,|iþi alýrsýn.
+{145664}{145735}Bu siyahlarýn etkinligi sacmalýgý...
+{145736}{145779}Neden böyle oluyor, bilmiyorum.
+{145780}{145879}Sanki gizli bir anlasma ya da|baska seyler var.
+{145880}{145915}Ne dedigimi anladýn mý?
+{145916}{145978}Evet, anladým. Böyle oldugunu|hic düsünmemistim.
+{146015}{146067}Herseye ragmen, bu herif--bilmiyorum.
+{146068}{146118}Dr. Sweeney,|saglam geliyor...
+{146119}{146163}onu dinlememek cok zor gibi...
+{146164}{146224}ama anlattýklarý dedigin gibi...
+{146225}{146255}Sacmalýk.
+{146284}{146335}Evet. Evet, belki de.
+{146336}{146428}Hayýr. Zenci sacmalýgý.
+{146484}{146550}-Görüyorsun, degil mi?|-Evet.
+{146551}{146595}Dikkat et bunlara.
+{146596}{146667}Evet. Hayýr, ne dedigini|anladým. Yapacagým.
+{146704}{146750}Iyi cocuk.
+{146751}{146801}Seninle gurur duyorum.
+{146802}{146842}Meraklanma. Anladým.
+{149855}{149902}Ve bir dakika sonra...
+{149903}{149963}günesin dogusunu izleyecegim.
+{149964}{150019}Bunu daha önce yaptým mý,|bilmiyorum.
+{150046}{150127}Herneyse, iþleri ele alýp|yeniden baslayacagýz.
+{150128}{150209}Kolay olmayacak, ama yine hepberaberiz...
+{150210}{150260}ve kendimi iyi hissediyorum.
+{150287}{150358}Ödevim istediginiz gibi oldu mu|bilmiyorum--
+{150359}{150406}sosyal degerlere degindim...
+{150407}{150459}ya da ne istiyorsanýz ona...
+{150460}{150544}ancak sonucta, cok|tesekkürler.
+{150892}{150995}Hey. Iyi görünüyorsun.|Su haline bak.
+{151035}{151106}Evet. Þartlý-Tahliye memuru|icin giyinmeliyim.
+{151107}{151138}Kýz güzel mi?
+{151139}{151190}Kýz, Hector adýnda sisman bir adam...
+{151191}{151268}-OO. Güzel...|-Yani sansýzým.
+{151325}{151364}Biraz dolanacagým...
+{151365}{151415}sonra eski iþi mi tekrar|alabilir miyim, bakacagým.
+{151416}{151486}-Harika.|-Günaydýn.
+{151514}{151544}Davina, yardým eder misin?
+{151545}{151581}Ablan yardým edecek.
+{151605}{151647}Iyi görünüyorsun. Devir onlarý.
+{151648}{151684}Sagol.
+{151685}{151744}Hadi, tatlým. Bugün ne giymek|istersin?
+{151806}{151883}-Iyi görünüyorsun.|-Evet, kendimi salak hissediyorum.
+{151884}{151941}-Iyi görünüyorsun.|-Evet.
+{151989}{152025}Iyi hissediyor musun?
+{152093}{152168}Evet, bilirsin...
+{152169}{152216}birazcýk...
+{152217}{152275}Gidiyorum.
+{152313}{152359}Dinle...bilmiyorum--
+{152398}{152453}Bilmiyorum|burda olmam dogru mu?
+{152552}{152581}Ama burda olmak istiyorum.
+{153032}{153073}-Gazete alacagým.|-Tamam.
+{153492}{153567}-Ne istemiþtiniz?|-Elmalý kek ve büyük süt.
+{153568}{153603}Tamam. Geliyor.
+{153711}{153759}Bir kahve...
+{153760}{153823}elmalý kek,|ve büyük süt.
+{153824}{153849}Baþüstüne.
+{154090}{154157}Derek, konusmalýyýz.
+{154158}{154193}Neler oluyor?
+{154194}{154301}Cameron Alexander ve Seth Ryan|hastanedeler.
+{154302}{154337}Dün gece Ben'in Burgercisi'nin|yakýnýnda kaza gecirmisler.
+{154338}{154381}Ne kadar kötü?
+{154382}{154421}Eee, yasayacak gibiler.
+{154422}{154496}-Ayrýca þanslarý varmýþ.|-Baska birinin hayatýna kastedememisler.
+{154564}{154587}Ne?
+{154618}{154694}Eski ekibinle konuþursun belki diye|düsünmüstük--
+{154695}{154733}Hadi. Hayatta olmaz.
+{154734}{154809}Eger dinleyecekleri bir varsa|o da sensin.
+{154810}{154863}Hayýr, size söylemekten nefret ediyorum|ama ben yokum, tamam mý?
+{154864}{154912}O herifler muhtemelen benim icin|silahlanýyorlardýr.
+{154912}{154961}Senden yardýmýný istiyoruz,|Derek.
+{154962}{155007}Ona bunu yapacagýmý mý söyledin?
+{155170}{155225}Tüm bunlarýn benle artýk bir|ilgisi yok.
+{155226}{155297}Evet, var. Tüm bunlarýn|senle ilgisi var.
+{155298}{155361}Tanrým, Bana ne yapýyorsun?|Elimden geleni yapýyorum ben!
+{155362}{155427}Bunu da ailemi bunlarýn dýsýnda|tutarak yapacagým.
+{155428}{155463}Bu boktan durumu kökünden|düzeltmemi isteme!
+{155464}{155511}-Onu istemiyorum.|-Bunlar benden önce de vardý.
+{155512}{155583}Oluþmasýna sen yardým etin.|Simdi cekiliyor musun?
+{155584}{155626}Cekilirsen,|barýs marýs olmaz.
+{155627}{155703}Barýsa giden yol zordur.
+{155704}{155751}Hicbir boku degistiremem ki.
+{155752}{155827}-Degistirebilirsin.|-Hic, ama hic.
+{155828}{155915}Yani, benden ne istediginin|farkýnda mýsýn?
+{155916}{155988}Evet. Yapabilecegin bir seyi|istiyorum.
+{156024}{156079}Adamým.
+{156144}{156176}Sktir.
+{156287}{156320}Tamam.
+{156364}{156436}Ne yapacaksýn biliyor musun?|Beyaz veletlere beni vurduracaksýn.
+{156436}{156484}Süphem var.
+{156484}{156558}Sonra hepberaber güleriz, nasýl olsa|degil mi?
+{156587}{156669}Onu okula götürecegim.|Yarým saatten orda olurum.
+{156670}{156704}Hadi.
+{156704}{156796}Hey, sen. Bu sabah benim icin|birseyin var mý?
+{156796}{156826}Verecegim, Dr. Sweeney.
+{156827}{156858}-Evet, tamam.|-Tamam.
+{156972}{157020}Neler oluyor?
+{157143}{157171}Hadi, gidelim.
+{157546}{157622}Seth'e kötü olmuþ, adamým.
+{157623}{157687}Kim bilir nasýl|dagýldýlar.
+{157717}{157775}Ölmedikleri icin mutluyum.|Ama gerisi umrumda degil.
+{157811}{157846}Onlarý ziyaret etmeli miyiz?
+{157847}{157910}Hayýr. Kesinlikle olmaz.
+{157911}{157959}Sadece dýsýnda kal.
+{157960}{158054}Dinle. Gece evin etrafýnda|dolanan bir araba gördüm...
+{158055}{158098}Seth'in ordan kactýktan|sonra.
+{158099}{158174}Eger benden önce eve gelirsen,|caddeyi kontrol et.
+{158175}{158235}Hicbir sey|olmadýgýndan emin ol.
+{158259}{158309}Adamým, bu cok kötü.
+{158363}{158434}-Senin pesindeler, adamým.|-Gececek.
+{158435}{158519}Hapishaneyi hallettim,|bu cocuk oyuncagý.
+{158575}{158599}Iyi olacaksýn?
+{158724}{158751}Ne olacaksýn?
+{158752}{158834}Calýsacagým.|Kendine dikkat et, tamam mý?
+{158835}{158916}Iþler yoluna girecek.|Iþler yoluna girecek.
+{158916}{158960}Git o ödevi ver.
+{159003}{159079}Tamam. Görüsürüz.
+{159080}{159111}Gel buraya.
+{159251}{159285}Evde görüsürüz.
+{159328}{159365}Tamam?
+{159395}{159457}Evet, görüsürüz.|Iyi þanslar, oldu mu?
+{159458}{159531}-Evet.|-Görüsürüz.
+{159668}{159727}-Gec kalacagýz.|-Gitsek iyi olur.
+{159751}{159784}Tamam. Hadi.
+{160335}{160359}Hoscakal.
+{160360}{160437}Seni yakalarým.|Görüsürüz.
+{162398}{162442}Cekil, git yolumdan!
+{162443}{162485}Tamam! Býrak gitsin!
+{162546}{162572}Oh, hayýr.
+{162648}{162698}Tanrým.
+{163262}{163305}Oh, tanrým.
+{163306}{163354}Tanrým, ben ne yaptým?
+{164028}{164123}Ýþte sanýrým, size anlattýgým|herseyi ögrendigim yer burasý.
+{164124}{164168}Sonuc kýsmý, di mi?
+{164192}{164287}Ee, Sonuc kýsmýnda|toparlamaktan nefret ederim.
+{164307}{164383}Hayat o kadar kýsa ki,|icine etmeye degmez.
+{164384}{164436}Buna degmez.
+{164503}{164587}Derek hep bir alýntýyla bitirmek|gerektigini söyler.
+{164588}{164648}Baskasý mutlaka en iyisini|söylemistir...
+{164648}{164696}onlardan alýrsýn...
+{164696}{164756}onlardan calarsýn|böylece saglam bitirirsin.
+{164756}{164816}Ben de sanýrým,|seveceginiz birininkini sectim.
+{164860}{164947}"Biz düsman degiliz,|aslýnda dostuz.
+{164948}{165003}"Düsman olmamalýyýz.
+{165004}{165064}"Bizi saran tüm|hýrslarýmýza ragmen...
+{165064}{165131}"sevkate olan baglýlýgýmýzý|kaybetmemeliyiz.
+{165132}{165199}"Hafýzamýzýn gizemli yollarý...
+{165200}{165260}"icimizdeki meleklerin|kullanmalarýyla...
+{165261}{165308}"emin olun...
+{165309}{165380}"yukarýlara yükselecek"
+{165400}{165650}        Subtitles by flynn - can@flynn.tc                   
+{165675}{165825}www.OpenSubtitles.org adresinden tüm reklamlarý kaldýrmak için bizi destekleyin ve VIP üye olun.

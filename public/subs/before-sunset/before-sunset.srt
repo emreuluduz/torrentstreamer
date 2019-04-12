@@ -1,0 +1,1319 @@
+{25}{175}www.OpenSubtitles.org ile bugün baðlantý kurun ve ürününüzün ya da markanýzýn reklamýný burada yapýn.
+{2033}{2162}"GÜN BATMADAN"
+{2412}{2507}SHAKESPEARE VE ARKADAÞLAR
+{2527}{2579}YAZAR JESSE WALLACE|ROMAN OKUMA VE SORU-CEVAP
+{2579}{2663}Romanýnýz otobiyografik mi?
+{2678}{2723}Evet...
+{2730}{2795}...her þey otobiyografi deðil midir?
+{2802}{2903}Hepimiz dünyayý kendi küçük|anahtar deliðimizden görürüz.
+{2913}{2958}Ben hep Thomas Wolfe'u düþünürüm.
+{2965}{3040}Look Homeward, Angel'ýn baþýndaki...
+{3049}{3097}...o bir sayfalýk Okuyucuya Not'u |gördünüz mü?
+{3119}{3231}Yaþamlarýmýzdaki her anýn toplamý |olduðumuzu...
+{3239}{3327}...ve her yazarýn kendi|tecrübelerini kullandýðýný...
+{3332}{3368}...ve bunun kaçýnýlmaz olduðunu |söylüyor.
+{3375}{3488}Kendi hayatýma baktýðýmda, itiraf |etmeliyim ki...
+{3500}{3603}...etrafýnda hiç silahlar ya da |þiddet olmadý.
+{3613}{3704}Ne siyasi bir entrika, ne de|bir helikopter kazasý oldu.
+{3723}{3817}Ama kendi bakýþ açýmdan|hayatým heyecan doluydu.
+{3836}{3891}Bu yüzden bir kitap|yazabileceðimi düþündüm...
+{3898}{4001}...biriyle tanýþmanýn nasýl bir |þey olduðunu anlatan bir kitap.
+{4011}{4071}Yaþadýðým en heyecan|verici þeylerden biri...
+{4078}{4131}...biriyle tanýþmak, o baðý kurmaktý.
+{4138}{4231}Bunu deðerli bir þey yapabilirsem|o aný yakalayabilirsem...
+{4250}{4327}...bu bir giriþim olacaktý ya da...
+{4344}{4402}Sorunuza cevap verdim mi?
+{4418}{4473}Daha açýk olmaya çalýþayým.
+{4485}{4548}Trende tanýþýp bir gece |geçirdiðiniz...
+{4555}{4608}...genç bir Fransýz bayan var mýydý?
+{4704}{4771}Bakýn, bana göre bu...
+{4778}{4857}...aslýnda önemli deðil.|- Yani evet mi?
+{4883}{4975}Fransa'da olduðum ve kitap turnemin|son duraðý burasý olduðu için, evet.
+{4999}{5042}Teþekkür ederim.
+{5046}{5126}Bay Wallace, kitap belirsiz bir |notla bitiyor.
+{5133}{5162}Bilmiyoruz.
+{5169}{5229}Birbirlerine söz verdikleri gibi...
+{5238}{5315}...altý ay içinde tekrar|bir araya gelecekler mi?
+{5334}{5377}Söz verdikleri gibi mi?
+{5418}{5480}Bence buna nasýl cevap vereceðiniz...
+{5504}{5579}Bu iyi bir test, romantik misiniz,|töreleri küçümseyen biri mi?
+{5586}{5679}Yani siz bir araya geleceklerini|düþünüyorsunuz, deðil mi?
+{5687}{5723}Size göre bu olmayacak.|- Hayýr.
+{5727}{5773}Ümit ediyorsunuz ama emin deðilsiniz.
+{5780}{5864}Bu yüzden bu soruyu soruyorsunuz.|- Sizce bir araya gelecekler mi?
+{5874}{5922}Yani gerçek hayatta siz|tekrar bir araya geldiniz mi?
+{5958}{6001}Gerçek hayatta...?
+{6013}{6070}Bakýn, büyükbabamýn sözleriyle |söylüyorum...
+{6077}{6149}"Buna cevap verirsem, bütün ilgi |kaybolur."
+{6173}{6255}Son bir soru için daha süremiz var.
+{6264}{6303}Bir sonraki kitabýnýz ne?
+{6365}{6423}Bilmiyorum dostum. Bilmiyorum.
+{6435}{6514}Bir þey düþünüyordum...
+{6519}{6581}Hep þöyle bir kitap yazmak |istemiþtim...
+{6588}{6672}...her þey, bir tek pop þarkýsý|süresinde yaþanýyor.
+{6682}{6754}Yani üç dört dakika içinde.
+{6761}{6842}Hikaye, yani fikir þöyle;|bir adam var...
+{6852}{6914}...ve tamamen bunalýmda.
+{6921}{7017}En büyük hayali, bir aþýk olmak,|bir maceraperest olmak...
+{7025}{7089}...motosikletiyle Güney Amerika'da |dolaþmak.
+{7096}{7159}Ama bunun yerine mermer bir|masada oturmuþ ýstakoz yiyor.
+{7166}{7236}Ýyi bir iþi ve güzel bir karýsý |var...
+{7243}{7319}Ýhtiyacý olan her þeyi var.|Ama bu önemli deðil...
+{7329}{7399}...çünkü hayatýna bir anlam|katmak için savaþmak istiyor.
+{7406}{7459}Bunu yaparken yakalayacaðý|mutluluðu istiyor.
+{7466}{7518}Ýstediðini elde edip|edememek önemli deðil.
+{7526}{7605}Orada öylece oturuyor ve tam o |anda...
+{7614}{7713}...beþ yaþýndaki küçük kýzý |masaya zýplýyor.
+{7720}{7797}Ve biliyor ki aþaðý inmeli,|yoksa bir yerini incitebilir.
+{7804}{7912}Ama kýz, yazlýk bir elbise içinde|bu pop þarkýsýyla dans ediyor.
+{7931}{7976}Adam aþaðý bakýyor...
+{7984}{8041}...ve birden bire 16 yaþýnda.
+{8063}{8190}Ve lisedeki sevgilisi onu eve |getiriyor.
+{8199}{8283}Bekaretlerini kaybediyorlar,|kýz ona aþýk...
+{8288}{8379}...ve ayný þarký arabanýn|radyosunda çalýyor.
+{8391}{8458}Kýz arabanýn üstüne çýkýp|dans etmeye baþlýyor.
+{8466}{8501}Adam bu sefer onun için |endiþeleniyor.
+{8509}{8607}Kýz çok güzel, surat ifadesi|aynen kýzýnýnki gibi.
+{8619}{8669}Aslýnda belki de bu yüzden|ondan hoþlanýyor.
+{8676}{8744}Bakýn, adam bu dansý hatýrlamýyor...
+{8751}{8835}...gerçekten orada. Ýki anda da,|ayný zamanda orada.
+{8844}{8923}Bir an için yaþamý, adamý |kucaklýyor.
+{8931}{8993}Ve zamanýn bir yalan olduðunu |biliyor.
+{9051}{9108}Her þey her zaman oluyor...
+{9113}{9197}...ve her anýn içinde,|baþka bir an var...
+{9206}{9250}...her þey ayný anda oluyor.
+{9257}{9326}Neyse, böyle bir fikir iþte.
+{9362}{9417}Yazarýmýz birazdan|havaalanýna gidecek...
+{9425}{9492}...bu akþamüstü burada geldiðiniz|için hepinize teþekkür ederiz.
+{9499}{9573}Ve Bay Wallace'a bizimle olduðu|için özel olarak teþekkür ediyoruz.
+{9580}{9614}Teþekkür ederim.
+{9619}{9681}Sonraki kitabýnýzla sizi|yine burada görmek isteriz.
+{9844}{9921}Hepinize teþekkürler. Havaalanýna|gitmeden önce ne kadar zamaným var?
+{9928}{9964}7:30'da ayrýlmalýsýnýz.
+{9974}{10031}En geç 7:30'da.|- Tamam.
+{10151}{10228}Selam.|- Merhaba.
+{10295}{10357}Nasýlsýn?|- Ýyiyim, sen?
+{10403}{10468}Ýyiyim, harikayým.
+{10489}{10542}Kahve içmek ister misin?
+{10561}{10619}Uçaða yetiþmen gerektiðini|söylemedi mi?
+{10647}{10714}Evet, ama biraz vaktim var.
+{10724}{10801}Tamam.|- Tamam mý? Pekala...
+{10810}{10858}Dýþarýda buluþuruz.|Tamam.
+{10901}{10957}Affedersin. Kahve|içmeye gidiyorum.
+{10964}{11014}7:15'te dönerim.|- Bunlarý imzaladýn mý?
+{11021}{11081}Evet, imzaladým.|- Þoförün Philippe'in kartýný al...
+{11088}{11146}...geç kalýrsan onu cepten ararsýn.
+{11153}{11213}Geç kalma diye bavullarýný|arabaya koyarýz.
+{11223}{11280}Tamam, her þey için sað olun.|- Teþekkür ederim.
+{11340}{11383}Hangisi Philippe?
+{11815}{11892}Burada olduðuna inanamýyorum.|- Paris'te yaþýyorum.
+{11930}{12007}Kalmak zorunda deðilsin deðil mi?|Daha konuþman gerekmiyor mu?
+{12014}{12062}Benden sýkýldýlar.|Geceyi burada geçirdim.
+{12069}{12146}Öyle mi?|- Evet, yukarýda bir oda var.
+{12158}{12213}Nasýlsýn? Bu çok tuhaf.|- Ýyiyim.
+{12220}{12306}Seni görmek güzel.|- Seni görmek güzel.
+{12364}{12422}Bir kafeye gitmek ister misin?|- Evet.
+{12429}{12482}Tamam. Az ilerde|sevdiðim bir tane var.
+{12489}{12577}Seni orada ilk gördüðümde,|telaþlanacaðýmý sandým.
+{12587}{12628}Burada olacaðýmý|nereden bildin?
+{12635}{12736}Paris'teki en sevdiðim kitapçýdýr.|Saatlerce oturup okuyabilirsin.
+{12745}{12791}Bayýlýyorum. Pireler var ama...
+{12796}{12851}Biliyorum. Galiba dün gece|kafamda bir kedi uyudu.
+{12858}{12918}Resmini bir ay kadar|önce takvimde gördüm...
+{12925}{12968}...ve orada olacaðýný öðrendim.
+{12980}{13047}Tuhaf çünkü kitabýn hakkýnda |bir makale okudum...
+{13052}{13146}...hayal meyal tanýdýk geldi.|- Hayal meyal? Evet.
+{13158}{13246}Ama resmini görene kadar|tam anlayamamýþtým.
+{13254}{13302}Okuma fýrsatýn oldu mu?
+{13309}{13342}Evet, ben...
+{13349}{13405}Tahmin edebileceðin gibi|gerçekten çok þaþýrdým.
+{13412}{13472}Aslýna bakarsan|iki kere okumam gerekti.
+{13479}{13527}Öyle mi?|- Evet.
+{13565}{13625}Hayýr, hoþuma gitti.|Çok romantik.
+{13630}{13692}Genelde romantik hikaye|beðenmem ama bu çok iyi yazýlmýþ.
+{13700}{13769}Çok iyi yazmýþsýn. Tebrikler.|- Teþekkür ederim.
+{13781}{13824}Dur.|- Ne oldu?
+{13831}{13922}Bir yere gitmeden önce,|bir þey sormalýyým.
+{13937}{13973}Tabii. Nedir?
+{13980}{14047}Aralýk'ta Viyana'ya gittin mi?
+{14095}{14196}Sen?|- Hayýr, gidemedim. Sen?
+{14205}{14282}Bilmem gerek. Benim için önemli.|- Sen gitmediysen niye önemli ki?
+{14294}{14340}Sen gittin mi?
+{14344}{14380}Hayýr.
+{14419}{14455}Tanrýya þükür gitmemiþsin.
+{14462}{14503}Aman Tanrým.|- Çok þükür gitmemiþsin.
+{14510}{14591}Ýyi ki ikimiz de gitmemiþiz.|Birimiz yalnýz gitseydi...
+{14596}{14651}...berbat bir þey olurdu.|- Kendi kendimi üzmüþüm.
+{14661}{14750}Orada olamadýðým için berbat|hissettim ama gidemedim.
+{14757}{14810}Büyükannem öldü ve o gün gömüldü,|16 Aralýk'ta.
+{14817}{14877}Budapeþte'deki mi?|- Evet. Hatýrlýyor musun?
+{14884}{14946}Her þeyi hatýrlýyorum.|- Tabii, kitabýnda da vardý.
+{14956}{15033}Neyse, Viyana'ya|uçmak üzereydim...
+{15040}{15131}...ve ölüm haberi geldi ve|tabii cenazeye gitmem gerekti.
+{15140}{15181}Evet, bunu duyduðuma üzüldüm.
+{15186}{15272}Biliyorum. Ama sen de gitmemiþsin.
+{15280}{15337}Dur. Sen niye gitmedin?
+{15344}{15421}Ben gidebilseydim giderdim.|Planlar yaptým...
+{15431}{15483}Ýyi bir nedenin olsa iyi olur.
+{15491}{15519}Ne?
+{15570}{15603}Olamaz.
+{15622}{15668}Sen oradaydýn deðil mi?
+{15675}{15737}Olamaz, bu çok kötü.
+{15745}{15783}Gülüyorum ama yanlýþ anlama.
+{15790}{15833}Benden nefret ettin mi?|Etmiþ olmalýsýn.
+{15841}{15891}Bunca zaman benden nefret mi ettin?|- Hayýr.
+{15898}{15929}Evet, ettin.|- Hayýr.
+{15934}{15975}Ama benden þu anda|nefret edemezsin, deðil mi?
+{15982}{16054}Yani büyükann em...|- Nefret etmiyorum. Onemli deðil.
+{16064}{16124}Oraya kadar gittim|ama sen gelmedin.
+{16131}{16200}Hayatým o zamandan beri|kötüleþiyor ama sorun deðil.
+{16207}{16272}Hayýr, þaka yapýyorum.|- Böyle söyleme. Buna inanamýyorum.
+{16279}{16337}Bana çok kýzmýþ olmalýsýn.|Çok üzgünüm.
+{16344}{16402}Orada olmayý dünyadaki|her þeyden çok istedim.
+{16411}{16474}Gerçekten, yemin ediyorum...|- Bana kýzamazsýn, büyükannem...
+{16481}{16565}Biliyorum. Bunun gibi bir þey|olduðu aklýma gelmiþti zaten.
+{16569}{16617}Kesinlikle hayal kýrýklýðýna|uðramýþtým ama...
+{16625}{16711}En çok da telefonlarýmýzý|almadýðýmýza kýzdým.
+{16718}{16764}Bu çok aptalcaydý. Hiçbir|þekilde temas kuramadýk.
+{16771}{16824}Hiçbir þey yoktu.|- Soyadýný bile bilmiyordum.
+{16831}{16905}Yazmaya ve aramaya baþlarsak|romantizmin yavaþ yavaþ...
+{16910}{16991}...yok olacaðýndan korkuyorduk.|- Sana olan ilgim bitmedi.
+{17001}{17030}Hayýr, elbette bitmedi.
+{17035}{17075}Kaldýðýmýz yerden devam etmek |istedik.
+{17083}{17159}Ýkimiz de gelebilseydik|iyi olacaktý.
+{17195}{17231}Evet...
+{17246}{17320}Viyana'da ne kadar kaldýn?|- Birkaç gün.
+{17361}{17411}Baþka bir kýzla tanýþtýn mý?
+{17418}{17478}Evet, Gretchen adýnda|harika bir kýzdý.
+{17485}{17548}Aslýnda kitap ikinizin bir |bileþimi.
+{17555}{17641}Hayýr, dalga geçiyorum. Ýnanmazsýn.|Tren istasyonuna bile gittim.
+{17651}{17744}Geç kalýrsan diye otel numaramýn|olduðu notlar býraktým.
+{17749}{17811}Aptallýktý.|- Bu tarafa gidelim. Arayan oldu mu?
+{17826}{17895}Sadece müþteri arayan birkaç fahiþe.
+{17903}{17962}Korkunç bir þey, yani ne |söyleyeyim ki?
+{17967}{18001}Çok üzücü. Özür dilerim.
+{18008}{18078}Birkaç gün oralarda dolaþtým.|Sonunda eve döndüm.
+{18085}{18138}Babama iki bin dolar borçlandým...
+{18145}{18190}...beni Fransýz kadýnlarý|hakkýnda uyarmýþtý.
+{18197}{18241}Sana Fransýz kadýnlarý|hakkýnda ne söyledi?
+{18248}{18296}Hiç. Hiç Fransýz bir kadýnla |tanýþmamýþ.
+{18303}{18356}Mississippi'nin doðusundan|hiç ayrýlmamýþ.
+{18360}{18459}Neden romana "6 ay sonra Fransýz|þýllýk gelmedi" diye yazmadýn?
+{18468}{18504}Hayýr, yazdým.
+{18512}{18579}Yazdýn mý?|- Hayýr. Daha umut verici yaptým.
+{18586}{18643}Senin geldiðin uydurma|bir versiyon yazdým.
+{18651}{18708}Oh, nasýl oluyor?|- Þey...
+{18739}{18778}Ne?
+{18790}{18859}10 gün hiç durmadan|seviþiyoruz, bir kýsmý bu.
+{18866}{18931}Ýlginç. Yani Fransýz bir kaltak?|- Evet, kesinlikle.
+{18938}{18996}Daha sonra birbirlerini daha|iyi tanýmaya baþlýyorlar...
+{19003}{19049}...ve hiç anlaþamadýklarýný|anlýyorlar.
+{19056}{19133}Hoþuma gitti. Daha gerçekçi.|- Editörüm böyle düþünmedi.
+{19137}{19188}Herkes aþka inanmak istiyor.|Bu satýyor.
+{19192}{19238}Evet, kesinlikle.
+{19257}{19317}Ýþler senin için yolunda|gidiyor, deðil mi? Yani...
+{19324}{19399}Kitabýn Amerika'da bestseller.|- Küçük bir bestseller.
+{19408}{19454}Yapma.|- Tamam. Resmi olarak, evet.
+{19461}{19533}Çoðu insan Moby Dick'i okumamýþ.|Benim kitabýmý niye okusunlar?
+{19540}{19590}Ben de Moby Dick'i okumadým|ama kitabýný beðendim.
+{19598}{19650}Teþekkür ederim.|- O geceyi idealleþtirdiðini...
+{19658}{19720}...düþünsem bile|hoþuma gitti.
+{19727}{19768}Yapma, bu uydurma bir öykü.
+{19773}{19811}Yani böyle yapmazsam...|- Biliyorum.
+{19818}{19893}Bazý yerlerde beni þey yapmýþtýn...
+{19900}{20000}Yani, onu. Hayýr, beni. Neyse.
+{20010}{20080}Fazla evhamlý yapmýþsýn.|- Ama zaten biraz evhamlýsýn.
+{20089}{20163}Evhamlý olduðumu mu düþünüyorsun?|- Hayýr, dalga geçiyorum.
+{20171}{20214}Nerede yapmýþým bunu?|Böyle bir þey yapmadým.
+{20221}{20283}Belki bana öyle gelmiþtir...
+{20288}{20358}Karakterin sana dayandýrýldýðýný|bilerek bir þey okumak...
+{20365}{20427}...hem gurur verici, hem de|rahatsýz edici bir þey.
+{20437}{20470}Nasýl rahatsýz edici oluyor?
+{20475}{20573}Bilmiyorum. Baþka birinin|hafýzasýnýn bir parçasý olmak.
+{20581}{20643}Kendimi senin gözlerinden görmek.
+{20648}{20703}Kitabý yazman ne kadar sürdü?
+{20732}{20772}Aralýklý olarak, üç dört yýl kadar.
+{20777}{20849}Vay canýna, bir gece hakkýnda|yazmak için uzun bir süre.
+{20859}{20921}Evet, biliyorum.|Bir de bana sor.
+{20931}{20986}Hep beni unuttuðunu|sanýyordum.
+{20998}{21063}Hayýr, resmin beynimde|çok netti.
+{21070}{21125}Sana bir þey söylemeliyim.|- Ne?
+{21130}{21218}Çok uzun süre seninle konuþmak|istedim. Bu gerçek olamaz.
+{21228}{21269}Bence her þey...
+{21274}{21329}Ne kadar vaktimiz var?|20 dakika 30 saniye mi?
+{21336}{21389}Daha fazla var.|Seni tanýmak istiyorum.
+{21396}{21458}Neler yapýyorsun?|Nelerden hoþlanýrsýn?
+{21465}{21571}Nereden baþlayayým? Yeþil Haç'ta|çalýþýyorum. Çevreci bir örgüt.
+{21580}{21612}Nasýl bir þey?
+{21619}{21679}Farklý çevresel sorunlar|üzerinde çalýþýyoruz...
+{21684}{21744}...temiz sudan, kimyasal|silahlardan arýnmaya kadar.
+{21751}{21808}Çevre hakkýndaki|uluslar arasý yasalar.
+{21813}{21868}Onlar için ne yapýyorsun?|- Bu tarafa gidiyoruz.
+{21880}{21911}Deðiþik þeyler.
+{21919}{22007}Geçen yýl bir ara Hindistan'daydým|bir su arýtma tesisinde çalýþtým.
+{22031}{22108}Oradaki pamuk sanayi|büyük kirliliðe neden oluyor.
+{22113}{22180}Gerçekten önemli|bir þeyler yapýyorsun.
+{22189}{22269}Ben de dahil birçok insan|sadece oturup söyleniyoruz.
+{22276}{22384}Amerika'nýn dünyanýn tüm |kaynaklarýný tüketmesi...
+{22391}{22424}...ciplerin kötü bir þey|olduðu, küresel ýsýnma...
+{22432}{22508}Fransýz karþýtý Amerikalý'lardan|olmadýðýna sevindim.
+{22516}{22571}Peki bu iþe nasýl girdin?
+{22576}{22652}Hükümet için çalýþmak umuduyla,|siyasal bilimlerden mezun oldum.
+{22662}{22724}Ve bir süre çalýþtým. Korkunçtu.|- Ýyi deðil miydi?
+{22731}{22815}Hayýr. Neyse, çok sýkýlmýþtým.|Þu tarafa gidelim.
+{22822}{22875}Dünyanýn nasýl mahvedildiði |hakkýnda...
+{22880}{22933}...arkadaþlarla sonu gelmeyen|sohbetler ediyorduk.
+{22940}{22995}Sonra gerçekten|yapmak istediðim þeyin...
+{23005}{23081}...düzeltilebilecek þeyler bulmak ve|düzeltmek olduðuna karar verdim.
+{23089}{23175}Her zaman böyle harika bir þeyler|yaptýðýný düþündüm. Gerçekten.
+{23185}{23297}Sað ol. Böyle bir iþ yaptýðým için|kendimi çok þanslý hissediyorum.
+{23307}{23340}Evet.
+{23345}{23455}Ben aslýnda sýrayla her þeyin|deðiþtirilemeyecek kadar...
+{23463}{23515}...berbat olduðunu ve bazý þeylerin|iyiye gittiðini düþünüyorum.
+{23523}{23578}Ýyiye mi?|Bunu nasýl söylersin?
+{23587}{23628}Demek istediðim...
+{23633}{23717}Tuhaf geldiðini biliyorum ama|iyimser olabileceðimiz þeyler var.
+{23726}{23834}Kitabýnýn sattýðýný biliyorum,|bu harika, senin adýna seviniyorum.
+{23844}{23918}Ama sana bir haber vereyim;|Dünya þu anda felaket durumda.
+{23925}{23983}Batý'dan bakýnca her þey|iyiye gidiyor olabilir tabii.
+{23990}{24074}Sanayiyi, ucuz iþ gücü olan ve|çevre koruma yasalarý olmayan...
+{24084}{24158}...geliþmekte olan ülkelere|kaydýrýyoruz. Silah sanayi uçuyor.
+{24165}{24232}Bir yýlda önlenebilir, suyla bulaþan|hastalýklardan 5 milyon insan öldü.
+{24242}{24311}Dünya nasýl iyiye gider?|Kýzgýn deðilim.
+{24319}{24367}Ama bilmek istiyorum.|Ýlgileniyorum.
+{24374}{24453}Dünyada çok ciddi sorunlar|olduðunun farkýndayým.
+{24462}{24515}Tamam. Teþekkür ederim.|- Yani Asya pazarýnda...
+{24522}{24599}...bir yayýmcým bile yok.|- Tamam.
+{24618}{24685}Dur de.|- Ne? Dur.
+{24693}{24781}Artýk daha bilinçliyiz.|Ýnsanlar karþý koyacaktýr.
+{24791}{24860}Dünya senin gibi eðitimli|ve fikrini söyleyen...
+{24865}{24904}...insanlar yüzünden daha|iyiye gidiyor olabilir.
+{24916}{24992}Konuþmamýzýn konusu olan|çevre meseleleri bile...
+{25002}{25057}...kýsa süre öncesinde kadar|kelime haznemizde yoktu.
+{25064}{25158}Giderek bir düstur oluyorlar|ve sonunda beklenen olabilir.
+{25167}{25234}Söylediklerine katýlýyorum|ama ayný zamanda tehlikeli.
+{25242}{25304}Emperyalist bir ülke|bu tür bir düþünceyi...
+{25309}{25359}...ekonomik açgözlülüðünü|haklý çýkarmak için kullanabilir.
+{25398}{25491}Aklýnda özel bir emperyalist|ülke var mý, Fransýz?
+{25496}{25549}Hayýr, yok.|- Hayýr mý?
+{25680}{25760}Oraya oturalým mý?|- Evet, burasý mükemmel.
+{25774}{25836}Vay canýna.|Belki de dünya...
+{25843}{25911}...ayný bir insan gibi|geliþerek evrim geçiriyordur.
+{25918}{25987}Örneði ben.|Daha kötüleþiyor muyum?
+{25997}{26093}Geliþiyor muyum? Bilmiyorum.|Daha gençken, daha saðlýklýydým...
+{26102}{26160}...ama güvensizlik beni|enkaz haline getiriyordu.
+{26177}{26225}Artýk daha yaþlýyým ve|sorunlarým daha ciddi...
+{26229}{26273}...ama onlarla baþ etmek|için daha donanýmlýyým.
+{26292}{26342}Ne sorunlarýn var?
+{26381}{26484}Þu anda hiç sorunum yok.|Sadece...
+{26493}{26534}...burada olduðum için|çok mutluyum.
+{26546}{26582}Ben de.
+{26656}{26707}Ne zamandýr Paris'tesin?
+{26714}{26793}Dün gece geldim.|12 günde 10 þehir dolaþtým.
+{26803}{26855}Çok yoruldum.|Bittiði için çok mutluyum.
+{26862}{26896}Seyyar satýcý|olmaktan sýkýldým.
+{26913}{26946}Selam.|- Merhaba.
+{26951}{26987}Ne istersin?
+{26994}{27040}Bir fincan kahve.
+{27131}{27217}Bu kafeyi sevdim. Keþke|Amerika'da da böyle yerler olsa.
+{27232}{27289}Evet, orada yaþarken|kafeleri ben de özlerdim.
+{27296}{27361}Hoþuma giden birkaç|yer buldum ama...
+{27368}{27462}Amerika'da mý yaþýyordun?|- Evet, 96'dan 99'a kadar.
+{27471}{27507}New York Üniversitesi'ndeydim.
+{27517}{27579}Tanrým, buna inanamýyorum,|Celine.
+{27587}{27632}Ne oldu?|- Hayýr, sadece...
+{27639}{27680}Hiçbir þey. Yani...|- Ne?
+{27685}{27764}98'den beri New York'tayým. Yani|ayný zamanlarda oradaymýþýz.
+{27769}{27805}New York'ta mý?|- Evet.
+{27812}{27920}Çok tuhaf. Aslýnda sana|rastlayabilirdim birkaç kez...
+{27929}{27982}...ama küçük bir|olasýlýk, deðil mi?
+{27999}{28042}Hangi þehirde olduðunu|bile bilmiyordum.
+{28049}{28128}Texas'ta bir yerde deðil miydin?|- Evet, kesinlikle. Ben...
+{28138}{28220}Uzun süre oradaydým.|New York'u denemek istedim.
+{28272}{28311}Seni buraya ne getirdi?
+{28318}{28363}Mastýrýmý bitirdim...
+{28368}{28419}...ve vizemin süresi doldu.
+{28426}{28526}Ve paranoyaklaþmaya baþlýyordum.|Medyadaki þiddet...
+{28536}{28610}Çete þiddeti, cinayetler,|özellikle seri katiller...
+{28651}{28689}Ama sabrýmý taþýran|son damla þey oldu...
+{28697}{28764}...bir gece yangýn çýkmadan|sesler geldiðini duydum...
+{28771}{28829}...911'i aradým ve sonunda |polisler geldi.
+{28838}{28920}Üç saat sonra falan.|- Tecavüze uðrayýp ölmemden sonra.
+{28936}{28994}Hayýr, bir erkek|bir de bayan memur geldi.
+{29001}{29047}Duyduðum þeyleri|anlatýyordum ki...
+{29054}{29107}...kadýn memur polis|arabasýný çekmeye gitti.
+{29114}{29152}Erkek polisle yalnýz|kalmýþtým.
+{29159}{29262}Bana hemen silahým olup olmadýðýný|sordu. "Tabii ki yok" dedim.
+{29272}{29337}"Bir tane alsan iyi olur" dedi.
+{29344}{29421}"Burasý Amerika,|Fransa deðil" dedi.
+{29430}{29502}Silah kullanmayý|bilmediðimi...
+{29509}{29567}...ve silahlara ilgim|olmadýðýný söyledim.
+{29574}{29660}O zaman silahýný|çýkardý ve þöyle dedi:
+{29670}{29797}"Bir gün böyle bir þeyi|yüzüne dayayacaklar...
+{29807}{29859}...ve uzun yaþamak|istiyorsan...
+{29876}{29963}...onlarla kendi aranda bir seçim|yapmak zorunda kalacaksýn."
+{29994}{30094}Ve gittiler. Ertesi sabah silah|ruhsatý için müracaat ettim.
+{30104}{30162}Ben ve silah. Yani bu|gerçekten ürkütücü.
+{30169}{30217}Ama sonra ters bir þey|olduðunu fark ettim.
+{30224}{30305}Polisin silahýný çýkarmasý|ve diðer þeyler...
+{30315}{30358}Böylece silah müracaatýmý|iptal ettim...
+{30363}{30435}...ve o polisi arayýp ondan|þikayetçi olmaya çalýþtým.
+{30442}{30502}Sonra ne oldu?|- Çok fazla evrak iþi vardý...
+{30507}{30574}...sonra da korktum,|boktan öðrenci vizemle...
+{30579}{30634}Sýnýr dýþý edileceðini düþündün.|- Kesinlikle. Vazgeçtim...
+{30641}{30682}...ve bütün olanlarý unuttum.
+{30689}{30773}Ama galiba hiç unutmayacaðým.|- Herhalde.
+{30783}{30840}Ama yine de orada|olmak hoþuma gitti.
+{30847}{30919}Amerika'da özlediðim çok þey var.|- Oyle mi? Ne gibi?
+{30970}{31006}Pekala...
+{31013}{31070}Ýnsanlarýn havasý|genel olarak iyi.
+{31077}{31125}Bazen sahte olsa da.
+{31133}{31195}Mesela, "Nasýlsýn?" "Harika."|"Sen nasýlsýn?" "Harika!"
+{31207}{31257}"Ýyi günler!"
+{31269}{31353}Bilmiyorum. Parisli'ler çok|aksi olabilir. Fark ettin mi?
+{31363}{31423}Hayýr, bana herkes|çok mutlu görünüyor.
+{31442}{31509}Mutlu deðiller. Hayýr.|- Mutlu deðiller mi?
+{31514}{31593}Bilmiyorum. Fransýz erkeklerini|kastediyorum. Beni delirtiyorlar.
+{31603}{31634}Ne olmuþ onlara?
+{31643}{31713}Çok tatlýlar. Harikalar,|etrafta takýlýrlar...
+{31720}{31766}...yemeði, þarabý severler,|çok iyi aþçýdýrlar.
+{31773}{31818}Ama onlarla þansým|pek yaver gitmedi.
+{31823}{31861}Niye? Nasýl yani?
+{31883}{31953}Bence pek de...|- Ne?
+{31960}{31996}Neydi o kelime?
+{32022}{32099}Þehvetli? Pek þehvetli deðiller.|- Þehvetli mi?
+{32108}{32207}Bu konuda Amerikalý olduðum|için gurur duyuyorum.
+{32212}{32257}Duymalýsýn.|Sadece o konuda.
+{32288}{32334}Hiç Doðu Avrupa'ya|gittin mi?
+{32348}{32406}Doðu... Hayýr, gitmedim.|Teþekkürler.
+{32432}{32490}Lisedeyken Varþova'ya|gitmiþtim...
+{32497}{32554}...o zamanlar sýký bir|komünist rejim vardý.
+{32562}{32617}Ki bunu hiç onaylamýyorum.|- Bundan eminim.
+{32624}{32669}Hayýr ciddiyim.|- Dalga geçiyorum.
+{32677}{32744}Neyse, orada|olmak çok ilginçti.
+{32753}{32828}Birkaç hafta sonra,|içimde bir þeyler deðiþti.
+{32833}{32907}Þehir oldukça kasvetli|ve sýkýntýlýydý...
+{32912}{32976}...ama bir süre sonra,|düþüncelerim daha netleþti.
+{32984}{33022}Günlüðüme daha çok|þey yazýyordum...
+{33027}{33101}...hiç düþünmediðim fikirler.|- Komünist fikirler mi?
+{33111}{33161}Bak, ben...|- Affedersin.
+{33168}{33207}Tamam.|- Devam et.
+{33211}{33271}Tamam, Daha sonra seni bir|iþçi kampýna göndereceðim.
+{33281}{33360}Niye öyle farklý hissettiðimi|anlamam biraz vakit aldý.
+{33367}{33427}Bir gün, Yahudi mezarlýðýnda|yürürken...
+{33434}{33477}...neden bilmiyorum ama|aklýma orada geldi...
+{33485}{33573}...son 2 haftamda alýþkanlýklarýmýn|çoðundan uzaklaþtýðýmý fark ettim.
+{33583}{33629}TV anlamadýðým|bir dildeydi...
+{33633}{33698}...satýn alacak hiçbir þey yoktu,|hiçbir yerde reklam yoktu...
+{33703}{33741}...tek yaptýðým...
+{33748}{33856}...yürümek, düþünmek ve yazmaktý.|Beynim dinleniyor gibiydi...
+{33866}{33950}...tüketim çýlgýnlýðýndan kurtulmuþtu.|Doðal bir sarhoþluk hissediyordum.
+{33957}{34060}Ýçim huzur doluydu. Baþka|bir yerde olma arzusu...
+{34070}{34101}...alýþveriþ isteði yoktu...
+{34108}{34156}Baþlarda sýkýlmýþ olabilirim...
+{34163}{34204}...ama sonra aþýrý|duygusal oldum.
+{34230}{34266}Çok ilginçti.
+{34271}{34348}9 yýl önce Viyana'da yürüdüðümüze|inanabiliyor musun?
+{34362}{34449}9 yýl mý? Hayýr, bu imkansýz.|- 9 yýl. Sanki iki ay önce gibi.
+{34458}{34501}Ama 94 yazýydý.
+{34556}{34609}Farklý görünüyor muyum?
+{34648}{34688}Farklý mýyým?
+{34707}{34736}Seni çýplak görmem|gerekir.
+{34748}{34794}Ne?|- Biliyorum, özür dilerim.
+{34801}{34856}Saçýn daha farklýydý.
+{34861}{34916}Ayný... Açýktý.|- Evet, açýktý.
+{34923}{34964}Tamam, açýktý.|Evet.
+{34971}{35022}Evet? Ýþte.
+{35029}{35062}Baþka?
+{35113}{35146}Hadi. Söyle.
+{35245}{35304}Daha incesin galiba.|Daha zayýfsýn.
+{35333}{35369}O zaman þiþman mýydým?
+{35376}{35444}Hayýr... - Evet, þiþman|olduðumu düþünüyordun.
+{35451}{35542}Evet öyle düþünmüyordun. Þiþman|bir Fransýz kýzýyla ilgili kitap yazdýn.
+{35551}{35595}Hayýr, dinle.|- Olamaz.
+{35599}{35650}Ciddiyim. Çok güzel|görünüyorsun.
+{35657}{35702}Ben farklý görünüyor muyum?
+{35712}{35794}Hayýr, hiç. Aslýnda|buranda bir çizgi var.
+{35803}{35858}Biliyorum.|- Bir yara izi gibi.
+{35866}{35969}Yara izi mi? Kurþun yara sý gibi mi?|- Hayýr, hoþuma gitti. Uzgünüm.
+{36005}{36115}Geçen gün tuhaf, korkunç|bir rüya gördüm.
+{36146}{36237}Bu korkunç kabusumda|32 yaþýmdaydým.
+{36244}{36319}Ve sonra uyandým,|23 yaþýmdaydým, çok rahatladým.
+{36328}{36386}Sonra gerçekten uyandým|ve 32 yaþýmdaydým.
+{36395}{36451}Vay canýna. Bazen olur.|- Urkütücü.
+{36458}{36520}Zaman hýzla akýp gidiyor.|Çünkü 20 yaþýndan sonra...
+{36525}{36604}...beynimiz yenilenmiyor, yani|ondan sonrasý bayýr aþaðý.
+{36638}{36707}Ben yaþlanmayý seviyorum.|Hayat daha...
+{36717}{36798}Hayatý aný anýna yaþýyorum. Bazý|þeylerin deðerini daha iyi biliyorum.
+{36822}{36880}Evet, ben de öyle.|Çok hoþuma gidiyor.
+{36896}{36937}Eskiden...
+{36942}{36973}...bir orkestrada bateristtim.
+{36980}{37040}Sahi mi?|- Evet. Aslýnda oldukça iyiydik.
+{37048}{37146}Ama solistimiz bize bir plak|anlaþmasý yapmaya çok hevesliydi.
+{37153}{37223}Sürekli daha büyük gösterilere|çýkmayý konuþuyorduk.
+{37230}{37309}Her zaman tamamen geleceðe|odaklanýyorduk. Ama þimdi...
+{37318}{37362}...artýk o orkestra yok.
+{37366}{37422}Geriye dönüp bakýnca,|çaldýðýmýz konserler...
+{37429}{37496}...hatta provalar bile|çok eðlenceliydi.
+{37501}{37599}Þimdi olsa her anýnýn tadýný|çýkarýrdým. Bir nefes alabilir miyim?
+{37609}{37678}Kitabýn yayýmlandý.|Bu da önemli bir geliþme.
+{37685}{37762}Tüm Avrupa'yý gezdin.|Her anýn tadýný çýkarýyor musun?
+{37781}{37824}Pek deðil.|- Pek deðil mi?
+{37832}{37865}Hayýr.
+{37877}{37937}Baþka sigaran var mý?|- Evet, tabii.
+{37990}{38026}Al.
+{38050}{38119}Benim iþimde, gördüðüm|insanlar... Afedersin.
+{38131}{38189}Ýnsanlar bu iþe idealist|düþüncelerle baþlýyor...
+{38196}{38258}...daha iyi bir dünya yaratma|fikrinin lideri olmak istiyorlar.
+{38263}{38313}Amaç hoþlarýna gidiyor,|süreç deðil.
+{38321}{38364}Doðru.|- Ama iþin gerçeði...
+{38369}{38448}...bazý þeyleri geliþtirmek|küçük baþarýlarla oluyor.
+{38455}{38524}Ýnsan asýl bundan keyif almalý.|- Tam olarak ne demek istiyorsun?
+{38534}{38616}Meksika'daki köylere yardým eden|bir organizasyonda çalýþýyordum.
+{38632}{38690}Kalemleri alýp, küçük|kasabalardaki çocuklara...
+{38700}{38755}...nasýl göndereceklerini|düþünüyorlardý.
+{38762}{38851}Konu büyük, devrim niteliðinde|fikirler deðildi. Olay kalemlerdi.
+{38860}{38939}Gerçek iþi yapan insanlar,|asýl üzücü tarafý da bu zaten...
+{38954}{39011}...kendinden en çok þey|veren, çok çalýþan...
+{39018}{39069}...dünyayý iyileþtirme|yeteneðine sahip insanlar...
+{39076}{39148}...genellikle bir lider olma|güvenine ve hýrsýna sahip deðiller.
+{39155}{39215}Yüzeysel ödüllerle|hiç ilgilenmiyorlar.
+{39225}{39294}Basýnda isimlerinin çýkmasý|umurlarýnda deðil.
+{39304}{39366}Asýl diðerlerine yardým etme|sürecinden keyif alýyorlar.
+{39373}{39436}O aný yaþýyorlar.|- Evet ama bu çok zor...
+{39443}{39510}...yani aný yaþamak,|bazen kendimi...
+{39519}{39611}...hiçbir þeyden memnun olmamak|için yaratýlmýþ gibi hissediyorum.
+{39618}{39673}Sanki sürekli durumumu|iyileþtirmeye çalýþýyor gibiyim.
+{39683}{39762}Bir arzumu tatmin ediyorum,|bu sefer baþka bir arzu doðuyor.
+{39769}{39850}Ama sonra "ne yapalým" diyorum.|Arzu, hayatýn yakýtýdýr.
+{39858}{39922}"Hiçbir þey istemeseydik,|asla mutsuz olmazdýk"...
+{39932}{39999}...sence bu doðru mu?
+{40006}{40124}Bilmiyorum. Hiçbir þey istememek,|bunalým belirtisi deðil midir?
+{40131}{40215}Evet, öyledir deðil mi? Yani|bir þeyler istemek saðlýklý bir þey.
+{40224}{40308}Evet. Bilmiyorum. Budistler|her zaman böyle diyor.
+{40316}{40371}Kendinizi isteklerinizden kurtarýn,|zaten ihtiyacýnýz olan...
+{40375}{40450}...her þeyiniz var.|- Ama temel ihtiyaçlarýn...
+{40459}{40524}...dýþýnda bir þey istediðimde|kendimi canlý hissediyorum.
+{40529}{40596}Ýstemek; ister baþka bir insana|yakýn olmayý istemek...
+{40603}{40642}...ister bir çift ayakkabý|istemek olsun, güzel bir þey.
+{40649}{40730}Hep yenilenen isteklerimiz|olmasýný seviyorum.
+{40740}{40781}Belki sadece bir ad|verme duygusudur.
+{40785}{40872}Hani yeni bir ayakkabýyý|hak ettiðini hissedersin ya?
+{40881}{40970}Alamadýðýn için kýzmadýðýn sürece,|bir þeyler istemekte sorun yok.
+{40980}{41023}Hayat zor.|Oyle olmalý zaten.
+{41030}{41097}Acý çekmeseydik,|hiçbir þey öðrenmezdik.
+{41133}{41176}Sen Budist misin?
+{41205}{41267}Hayýr.|- Hayýr mý? Niye?
+{41279}{41387}Bilmiyorum. Hiçbir dine mensup|olmamamla ayný þey yüzünden.
+{41402}{41481}Uzun süre önce her þeye|açýk olmaya karar verdim...
+{41488}{41543}...ama bir tek inanç sistemine|inanmayacaktým.
+{41586}{41658}Birkaç yýl önce Trap keþiþlerinin|manastýrýna gitmiþtim.
+{41677}{41766}Trap keþiþleri mi?|- Evet, Katolikler.
+{41773}{41857}Niye böyle bir þey yaptýn?|- Neden mi? Bazý þeyler okumuþtum.
+{41867}{41955}Ýlginç olacaðýný düþündüm. Keþiþlerle|ya da rahibelerle vakit geçirdin mi?
+{41967}{42044}Hayýr. Benim tarzým deðil.|- Oyle mi?
+{42066}{42159}Ters ve öfkeli insanlar olduklarýný|sanýyordum ama öyle deðilmiþ.
+{42169}{42226}Çok esprili ve|cana yakýn insanlar.
+{42234}{42303}Gerçekten, her þeye|uyum saðlýyorlar...
+{42315}{42370}Kimseyi zorlamýyorlar.
+{42377}{42435}Tanrýyla ya da neyin ebedi|olduðunu düþünüyorlarsa onunla...
+{42442}{42500}...barýþ içinde yaþamak|ve ölmek istiyorlar.
+{42507}{42552}Onlarla birlikte olmak|insana hayata veriyor.
+{42557}{42615}Tanýþtýðýn bir çok insanýn...
+{42622}{42663}...daha iyi bir yerlere varmaya|çalýþtýðýný anlýyorsun.
+{42670}{42742}Daha fazla para,|saygý kazanmaya...
+{42749}{42804}...insanlarýn onlara hayran olmasýna|çalýþýyorlar. Bu çok yorucu bir þey.
+{42814}{42883}Ciddiyim.|- Ýnsanýn kendi olmasý da yorucu.
+{42893}{42970}Ýþte ben burada daha|ruhani olmaya çalýþýyorum.
+{42979}{43061}"Daha iyi bir insan olmak|istiyorum." Kaçamýyorsun.
+{43068}{43209}Uzun yýllar önce Budist olmak|isteyen bir erkek arkadaþým vardý.
+{43224}{43284}O manastýrlardan birini|görmek için Asya'ya gitti.
+{43291}{43375}Bunu ben de düþündüm.|- Gitmelisin. Nedenini söyleyeyim.
+{43384}{43464}Yakýþýklý biriydi, ne zaman|o manastýrlardan birine gitse...
+{43468}{43531}...bir keþiþ ona oral seks|yapmayý teklif ederdi.
+{43540}{43579}Bu gerçek.
+{43588}{43655}Sonuçta her þey buna|geliyor, deðil mi?
+{43665}{43715}Bu yüzden yaptýðýn|þeye hayraným.
+{43723}{43773}Nasýl yani?|Oral seks mi?
+{43780}{43852}Hayýr.|- Hayýr. Yanlýþ cevap.
+{43859}{43946}Hayýr, hayattan kopuk|deðilsin diyecektim.
+{43955}{44010}Ýsteklerini eyleme geçiriyorsun.
+{44017}{44080}Deniyorum.
+{44097}{44173}Biliyor musun? 8 saat boyunca...
+{44183}{44236}...uçaklarda ve havaalanlarýnda|olacaðým.
+{44243}{44298}Paris'i biraz daha görmek istiyorum.
+{44308}{44341}Benimle yürümek ister misin?|- Evet.
+{44344}{44375}Olur mu?|- Harika olur.
+{44382}{44425}Ýster misin?|- Evet. Hadi gidelim.
+{44435}{44475}Borcumuz ne?|4 buçuk mu?
+{44483}{44543}Ben hallederim, günlük|masraflarýmý karþýlýyorlar.
+{44547}{44600}Bu kadar bahþiþ yeter mi?|- Evet, yeter.
+{44607}{44660}Fazla bile.|- Bunu da býrakayým.
+{44670}{44749}Buralarda gidecek bir yer var mý?|- Bugün indirim günü.
+{44756}{44823}O nedir?|- Paris'te her þey indirimde.
+{44840}{44873}Yýlda iki kez olur.
+{44933}{44969}Tamam, alýþveriþe gidelim.
+{44976}{45048}Hayýr. Kötü bir fikir.|Sana bunu yapamam.
+{45058}{45147}Bu delilik. Þurada bir yol var.|Çok güzeldir.
+{45159}{45214}Tamam. Alýþveriþten daha iyidir.
+{45221}{45269}Senin istediðini yapmak|istemediðimden deðil.
+{45276}{45346}Bazen bir þey almaya|ihtiyacým olmuyor.
+{45353}{45394}Bir þeylere denemekten ve|bakmaktan baþým dönüyor.
+{45398}{45439}Buraya mý gidiyoruz?
+{45446}{45497}Bir psikoterapist bunun|iyi olduðunu söyler.
+{45504}{45559}Sahi mi? Sen terapiye gittin mi?|- Hayýr.
+{45566}{45636}Terapide gibi mi görünüyorum?|- Þaka yapýyorum.
+{45650}{45739}Cinsel sorunlarýna iyi geliyor mu?|- Cinsel sorunlarým mý?
+{45744}{45780}Dalga geçiyorum.|- Bana gerçeði söyle.
+{45787}{45840}Bizim hiç sorunumuz yoktu.|- Hayýr, þaka yapýyorum.
+{45847}{45902}Biz seks bile yapmadýk.|- Bu bir espriydi tamam mý?
+{45909}{45971}Hayýr, yapmadýk. Bu yüzden|çok özel bir geceydi.
+{45979}{46024}Elbette yaptýk.|- Hayýr, yapmadýk.
+{46031}{46096}Senin prezervatifin yoktu|ben de o olmadan yapmam.
+{46103}{46147}Aþýrý paranoyaðýmdýr.|Ýmkansýz bir þey...
+{46154}{46211}Neler olduðunu hatýrlamaman|beni korkutuyor.
+{46218}{46250}Hayýr, dinle...
+{46257}{46319}...ben kitap yazmadým|ama günlük tuttum...
+{46326}{46417}...ve o bütün o geceyi yazdým. Bunu|kast etmiþtim, idealleþtiriyorsun.
+{46425}{46501}Pekala, kullandýðýmýz prezervatifin|markasýný bile hatýrlýyorum.
+{46506}{46549}Bu iðrenç bir þey.|Duymak istemiyorum.
+{46557}{46616}Ýðrenç falan deðil.|- Hayýr.
+{46624}{46727}Eve döndüðümde 94 günlüðümü kontrol|edeceðim ama haklýyým biliyorum.
+{46801}{46844}Dur bir dakika.|- Ne?
+{46851}{46914}Mezarlýkta mýydý?|- Hayýr.
+{46923}{46978}Hayýr, mezarlýða|akþamüstü gittik.
+{46986}{47053}Gece yarýsý parkta oldu.
+{47062}{47113}Parkta mý?|- Dur biraz.
+{47120}{47161}Ben...
+{47185}{47259}Bu unutulacak bir þey mi?|Parký hatýrlamýyor musun?
+{47269}{47333}Tamam, bir dakika.|Haklý olabilirsin...
+{47343}{47374}Benimle kafa buluyorsun.
+{47379}{47410}Hayýr.|- Benimle kafa mý buluyorsun?
+{47417}{47489}Hayýr. Üzgünüm. Galiba...|Sen iyisin, deðil mi?
+{47496}{47576}Bazen bazý þeyleri kafamdaki|çekmecelere koyar ve unuturum.
+{47585}{47647}Onlarla yaþamaktansa, bazý þeyleri|unutmak daha az acý veriyor.
+{47655}{47717}Yani o gece senin için|üzücü bir aný mýydý?
+{47724}{47765}Özellikle o geceyi|kast etmedim.
+{47772}{47820}Bazý þeylerin unutulmasý|daha iyidir dedim.
+{47827}{47885}O geceyi tüm yýllardan|daha iyi hatýrlýyorum.
+{47892}{47933}Ben de.|- Sahi mi?
+{47940}{47990}Hatýrladýðýmý sanýyordum.
+{48055}{48139}Belki de buluþacaðýmýz gün|büyükannemin cenazesi...
+{48149}{48220}...olduðu için aklýmdan|çýkarmýþýmdýr.
+{48228}{48295}Benim için zor bir gündü ama|senin için daha kötü olmalý.
+{48302}{48407}Ýnanýlmazdý. Tabuttaki ölü bedenine|baktýðýmý hatýrlýyorum...
+{48417}{48518}...o güzel elleri, beni tutan o|elleri o kadar sýcak ve hoþtu ki...
+{48535}{48609}...ama o tabuttaki þey, onu|hatýrladýðým gibi deðildi.
+{48618}{48654}Bütün sýcaklýðý gitmiþti.
+{48659}{48724}Aðlýyordum. Onu mu, seni mi,|hanginizi bir daha...
+{48734}{48861}...göremeyeceðim için|aðlýyordum bilmiyorum.
+{48870}{48959}Bu þekilde konuþtuðum için üzgünüm.|Bu hafta biraz moralim bozuktu.
+{48969}{49038}Neden?|- Bilmiyorum. Kötü bir þey deðil...
+{49045}{49091}Kitabýný okuduðum içindir belki.
+{49096}{49184}O yaz ve sonbaharda ne kadar|umut dolu olduðumu düþününce...
+{49194}{49244}...ve o zamandan beri de...
+{49261}{49295}Bilmiyorum.
+{49299}{49395}Geçmiþi yeniden yaþamak zorunda|deðilsen, hafýza harika bir þey.
+{49465}{49530}"Geçmiþi yeniden yaþamak zorunda|deðilsen, hafýza harika bir þey."
+{49534}{49573}Bunu arabamýn arkasýna|yazabilir miyim?
+{49580}{49642}O gecemiz hakkýnda bir kitap|yazsaydýn, bu iyi bir baþlýk olurdu.
+{49649}{49738}Ve tamamen farklý bir kitap olurdu.|- Evet, hiç seks sahnesi olmazdý.
+{49755}{49786}Ama biliyor musun?|- Ne?
+{49793}{49824}Artýk yeniden karþýlaþtýðýmýza |göre...
+{49829}{49892}...16 Aralýk anýmýzý|deðiþtirebiliriz.
+{49899}{49978}Artýk birbirimizi hiç görmediðimiz|o üzücü sonu yok.
+{49985}{50088}Doðru. Galiba yaþadýðýn|sürece bir aný asla bitmez.
+{50098}{50179}Evet, biliyorum. Çocukluðumdan|bir aným var...
+{50187}{50246}...hiç yaþanmadýðýný fark ettim.|- Neymiþ o?
+{50256}{50323}8 ya da 9 yaþýmdayken, geceleri|piyano dersimden eve gelirken...
+{50330}{50395}...annem o kadar|paranoyak olurdu ki...
+{50402}{50465}...beni pis adamlarýn|þeker vermesi...
+{50469}{50513}...ve pipilerini göstermeleri|hakkýnda uyarýrdý.
+{50520}{50589}Buna kafayý o kadar takmýþtý ki,|daha sonra hayatýmda...
+{50599}{50678}...bu görüntü gerçekten|yaþanmýþ gibi geldi.
+{50683}{50764}Eve yürürken seks|yaptýðýmý bile düþündüm.
+{50774}{50858}Bazen, hatta þimdi bile...
+{50882}{50973}...seks yaparken, kendimi|o sokakta yürürken görüyorum.
+{50980}{51026}Yemin ederim.|Çok tuhaf, deðil mi?
+{51030}{51129}Bu sokak yakýnlarda mý? Yani...|- Yapabilir miyiz? Hayýr.
+{51136}{51189}Çok uzakta.
+{51217}{51275}Çocukken günlük|tutar mýydýn?
+{51282}{51359}Evet, ara sýra.
+{51366}{51416}Tuhaf, geçen gün 83'teki |günlüklerimden...
+{51421}{51464}...birini okudum.|- Öyle mi?
+{51476}{51515}Ve beni þaþýrtan þey...
+{51520}{51587}...o zaman da hayatla ilgili|düþüncelerim aynýymýþ.
+{51596}{51642}Daha umut dolu ve|safmýþým...
+{51644}{51745}...ama özüm ve|hislerim tamamen ayný.
+{51752}{51805}Bu, hiç deðiþmediðimi|fark etmemi saðladý.
+{51812}{51848}Bence kimse deðiþmiyor.
+{51853}{51939}Ýnsanlar kabul etmek istemiyor ama|doðuþtan gelen bir kiþiliðimiz var...
+{51949}{52033}...ve olan þeyler hemen hemen|bu mizacýmýzý deðiþtirmiyor.
+{52040}{52073}Buna inanmýyor musun?|- Galiba.
+{52078}{52155}Piyango kazanan ve belden|aþaðýsý felç olan insanlarý...
+{52162}{52205}...inceledikleri bir|çalýþma okumuþtum.
+{52210}{52306}Birinde çok sevineceðini diðerinde|intihar edeceðini düþünürsün.
+{52316}{52378}Ama bu inceleme gösteriyor ki,|6 ay sonra...
+{52385}{52459}...insanlar yeni durumlarýný|alýþýr alýþmaz...
+{52469}{52522}...aþaðý yukarý ayný oluyorlar.|- Ayný mý?
+{52529}{52601}Evet. Yani iyimser,|sokulgan biriyse...
+{52608}{52673}...tekerlekli sandalyede de iyimser,|sokulgan bir insan oluyor.
+{52680}{52726}Eðer dar kafalý,|mutsuz bir herifse...
+{52733}{52824}...yeni Cadillac'ý, teknesi ve eviyle|de mutsuz bir dar kafalý oluyor.
+{52831}{52908}Yani hayatýmda harika þeyler olsa|da ben hep kederli mi olacaðým?
+{52915}{52946}Kesinlikle.|- Harika.
+{52953}{52992}Hayýr, yapma,|þu an kederli misin?
+{52999}{53052}Hayýr, kederli deðilim.
+{53056}{53119}Ama bazen endiþeleniyorum.|Ýstediðim her þeyi yapamadan...
+{53126}{53205}...hayatýmýn sonuna geleceðim.|- Ne yapmak istersin?
+{53212}{53253}Ben...
+{53258}{53327}Daha çok resim yapmak,|her gün gitar çalmak isterim.
+{53335}{53409}Ben Çince öðrenmek, daha|çok þarký yazmak isterim.
+{53416}{53517}Yapmak istediðim çok þey var ama|sonuçta pek bir þey yapmýyorum.
+{53543}{53677}Peki þunu sorayým: Hayaletlere|ruhlara falan inanýr mýsýn?
+{53685}{53718}Hayýr.
+{53723}{53754}Hayýr mý?|- Hayýr.
+{53761}{53848}Peki reenkarnasyon?|- Hiç inanmam.
+{53852}{53898}Tanrý?|- Hayýr.
+{53905}{53960}Peki.|- Kulaða korkunç geliyor. Hayýr.
+{53968}{54059}Ama hiçbir büyüye inanamayan|o insanlardan olmak istemiyorum.
+{54066}{54111}O zaman astroloji?|- Evet, elbette!
+{54116}{54159}Ýþte.|- Astroloji mantýklý deðil mi?
+{54167}{54243}Sen Akrepsin, ben Yay, uyumluyuz.
+{54267}{54310}Hayýr, hayýr.
+{54315}{54385}Einstein'ýn çok sevdiðim|bir sözü var.
+{54394}{54476}"Hiçbir büyü ya da gizeme|inanmýyorsan, aslýnda...
+{54481}{54548}...bir ölüsün demektir" demiþ.|- Bunu beðendim.
+{54553}{54629}Ben her zaman evrenin gizemli|bir özü olduðunu düþündüm.
+{54639}{54759}Ama kýsa süre önce,|benim, kiþiliðimin, neyse...
+{54766}{54838}Burada kalýcý bir|yerim yok biliyorsun.
+{54845}{54881}Ölümsüzlükte ya da|her neyse...
+{54888}{54977}Ve bunu düþündükçe, hayatýmý, hayat|önemli deðil diyerek geçiremiyorum.
+{54987}{55066}Hayat bu! Hayatýmý gerçekten|yaþýyorum. Sence ne ilginç?
+{55073}{55121}Ne komik? Ne önemli?
+{55130}{55183}Her gün, son günümüz.
+{55193}{55274}Böyle hissedince, genelde annemi|arayýp onu sevdiðimi söylerim.
+{55281}{55320}Sahi mi?|- Ve o da her zaman þöyledir:
+{55327}{55421}"Ýyimisin? Kanser mi oldun?|Ýntihar mý edeceksin?"
+{55428}{55488}Onu sevdiðimi söylemem|önemsizmiþ gibi.
+{55521}{55584}Peki ya biz?
+{55591}{55648}Ne olmuþ bize?|- Hayýr, demek istediðim...
+{55655}{55737}...ikimiz de bu gece öleceksek...|- Kýyamet günü mü geliyor?
+{55747}{55843}Hayýr, o çok dramatik. Ama|ya sadece ikimiz öleceksek?
+{55847}{55893}Sence kitabýn hakkýnda mý|konuþurduk?
+{55900}{55962}Çevre hakkýnda mý? Ya da...|- Bugün son günümüz olsa mý?
+{55972}{56032}Evet, ne hakkýnda konuþurduk?|Bana ne söylerdin?
+{56037}{56073}Pekala...|- Zor, deðil mi?
+{56077}{56109}Hayýr, söyleyeceðim.|- Tamam.
+{56113}{56171}Kesinlikle kitabýmdan|konuþmayý býrakýrdým.
+{56176}{56238}Çevre hakkýnda da konuþmazdým.|- Tamam.
+{56245}{56334}Ama evrendeki sihri|yine de konuþmak isterdim.
+{56344}{56418}Ama bunu bir...|- Ne?
+{56425}{56461}...otel odasýnda|yapmak isterdim...
+{56468}{56555}...ölene kadar vahþice|seviþmelerimiz arasýnda.
+{56564}{56629}Neden bir otel odasýyla|vakit kaybedelim?
+{56636}{56713}Neden burada bir|bankta yapmayalým?
+{56737}{56790}Buraya gel.
+{56797}{56852}Tamam. Bu gece ölmeyeceðiz.
+{56859}{56905}Evet. Çok kötü.|Ozür dilerim.
+{56912}{56948}Çok uç bir örnek oldu.
+{56950}{57008}Özür dilerim.|- Tamam.
+{57017}{57053}Aslýnda anlatmak|istediðim þey...
+{57058}{57123}...insanlarla gerçekten iletiþim|kurmanýn çok zor olmasý.
+{57130}{57195}Biliyorum, günlük|sohbetlerimizin çoðu...
+{57202}{57238}Hayýr, demek istediðim...
+{57243}{57303}...her þeyi sekse getirmek deðil.|- Neden?
+{57312}{57382}Hayýr, bu bir örnek. Bir arkadaþým|þeyden bahsediyordu...
+{57389}{57459}Erkek arkadaþýyla|yatakta sorunlarý varmýþ.
+{57466}{57547}Bir senedir falan çýkýyorlarmýþ.|Kýz ona, onu daha çok memnun...
+{57557}{57624}...etmek için neler yapabileceðini|söyleyince bu çocuðu çok üzmüþ.
+{57631}{57662}Niye?|- Kesinlikle.
+{57669}{57715}Çocuk yatakta kötü|olduðunu düþünmüþ olabilir.
+{57722}{57765}Belki de kýz bu kadar|beklememeliydi.
+{57768}{57823}Bir yýl sonra...|- Ama erkekler çok kolay alýnýyor.
+{57830}{57885}Kadýnlardan daha çok mu?|- Bu konuda kesinlikle öyle.
+{57895}{57926}Öyle mi dersin?|- Evet.
+{57945}{57993}Belki de bunun sebebi,|erkekleri memnun etmenin...
+{58000}{58091}...daha kolay olmasýdýr.|- Memnun etmek mi?
+{58101}{58171}Bilemiyorum.|- Evet, kesinlikle öyledir.
+{58178}{58228}Neyse bu arkadaþým,|bir daha biriyle çýktýðýnda...
+{58233}{58317}...nelerden hoþlanýp, nelerden|hoþlanmadýklarý hakkýnda...
+{58326}{58406}...bir anket yapacaðýný söylemiþti.|- Yazýlý mý, sözlü mü?
+{58413}{58451}Çoðunlukla yazýlý.
+{58458}{58542}Sadece evet ve hayýr olmayacak.|Bundan biraz daha karmaþýk olacak.
+{58552}{58633}Mesela soru: "Sadomazoþist|seksten hoþlanýr mýsýn? Gibiyse...
+{58638}{58748}Cevap: "Hayýr ama ara sýra|þaplatmak iyidir" olabilir.
+{58758}{58844}Ya da þöyle olabilir: "Yatakta açýk|saçýk konuþmayý sever misin?
+{58852}{58931}Böyle bir þey mi?|- Evet ama sorular genel deðil.
+{58938}{58993}Mesela "Özellikle hangi kelimeyi|duymaktan hoþlanýrsýn?"
+{59003}{59031}Ben mi?|- Evet.
+{59036}{59098}Mesela sen özellikle hangi|kelimeyi duymaktan hoþlanýrsýn?
+{59103}{59142}Bilmiyorum.
+{59180}{59240}"Vajina" kelimesi|sana ne hissettirir?
+{59245}{59309}Hoþuma gider.
+{59321}{59357}Ýyi.
+{59365}{59434}Son dokuz yýlda bu kadar|sapýk olmamýz inanýlmaz.
+{59441}{59516}En azýndan artýk her yeni seks|deneyimine hayatý deðiþtiren...
+{59523}{59561}...bir olay olarak|görmemize gerek yok.
+{59568}{59648}Þimdiye kadar þeyini eskimek üzere|olan birçok þeye sokmuþsundur.
+{59657}{59741}Tam bir fahiþe olduðunu|gerçekçi olarak düþünemem.
+{59748}{59827}Evet, teþekkür ederim.|- Hayýr, ben...
+{59847}{59914}Doðru. Ne yaparsýn?|- Ne yaparsýn?
+{59921}{60007}Ne tür þarkýlar yazýyorsun?|Bunu yaptýðýný bilmiyordum.
+{60017}{60043}Ne tür mü?|- Evet.
+{60048}{60086}Bilmiyorum, sadece þarkýlar.|- Mesela?
+{60093}{60153}Mesela, bazýlarý|insanlar hakkýnda.
+{60161}{60199}Ýliþkiler. Biri|arabam hakkýnda.
+{60206}{60261}Bir tane söylesene.|- Hayýr, yapamam. Gitarým yok.
+{60269}{60304}Hadi. Gitarsýz söyle.|- Hayýr.
+{60312}{60384}Gitar olmadan þarký söylemem.|Sen delisin.
+{60398}{60441}Neden olmasýn?
+{60448}{60506}Tamam. Þimdi deðil. Hayýr.|- Bir tane.
+{60511}{60587}Ne zaman söylersin? Altý ay sonra|bir gitarla tekrar buluþalým mý?
+{60595}{60631}Ben uçakla buraya gelirim.
+{60635}{60705}Sen metroya biner ya da binmezsin.|- Tamam, çok komik.
+{60717}{60762}Geri dönmeliyiz.|- Bir þey olmaz.
+{60770}{60815}Uçaðýný kaçýracaksýn.|- Tamam.
+{60822}{60863}Saint Nehri kýyýsýndan|yürüyelim. Çok güzeldir.
+{60870}{60906}Tamam.
+{60921}{61005}Demek New York'a dönüyorsun?|- Evet.
+{61057}{61146}O makalede evli ve bir çocuklu|olduðunu okumuþtum. Bu harika.
+{61153}{61211}Evet, 4 yaþýnda.
+{61220}{61271}Adý ne?|- Henry. Küçük Hank.
+{61278}{61340}Çok neþeli bir çocuk.|- Vay canýna, eminim.
+{61347}{61415}Karýn ne iþ yapýyor?|- Ýlkokul öðretmeni.
+{61431}{61489}Senin çocuðun var mý?|- Evet, iki tane. Kahretsin!
+{61496}{61530}Ne oldu?|- Onlarý arabada býraktým!
+{61537}{61597}Camlar kapalýydý. 6 ay önce!|Sence iyi midirler?
+{61604}{61664}Þaka yapýyorum. Ama bir|gün çocuðum olsun isterim.
+{61671}{61714}Þu an h azýr deðilim.|- Oyle mi?
+{61719}{61793}Ama güzel bir iliþkim var.|- Sahi mi? Ýyi.
+{61798}{61846}Ne iþ yapýyor?|- Fotoðrafçý gazeteci.
+{61853}{61894}Savaþ fotoðraflarý çekiyor.
+{61901}{61961}Çoðu zaman ülke dýþýnda, ki bu|iyi bir þey çünkü çok yoðunum.
+{61966}{62062}Ama bu tehlikeli deðil mi? Bugünlerde|ölümler çok arttý deðil mi?
+{62069}{62143}Tehlikeye girmeyeceðine söz veriyor|ama çoðu zaman endiþeleniyorum.
+{62153}{62211}Bir þeyin fotoðrafýný çekerken|sanki transa geçiyor.
+{62218}{62295}Nasýl yani?|- Bir keresinde Yeni Delhi'deydik...
+{62302}{62335}...ve bir þeyin yanýnda|geçiyorduk...
+{62342}{62393}Bomba mý?|- Dilenci. Evsiz biri.
+{62400}{62431}Tamam.
+{62434}{62522}Yardýma ihtiyacý vardý ama onun ilk|iþi adamýn fotoðrafýný çekmek oldu.
+{62532}{62597}Yüzüne iyice yaklaþtý,|renkleri ayarlýyordu...
+{62601}{62642}...o adam hiç umurunda|deðil gibiydi.
+{62649}{62712}Ama iþinde iyi olmak için|böyle yapman gerekmez mi?
+{62719}{62750}Evet ama ben yapmam...
+{62755}{62827}Onu yargýlamýyorum. Yaptýðý þey|çok önemli ve inanýlmaz.
+{62834}{62882}Ama ben kesinlikle yapamam.
+{62889}{62927}Hadi þu tekneye binelim.
+{62935}{62966}Hayýr!|- Hadi, eðlenceli olur.
+{62973}{63026}Vaktin yok!|- Kalkmak üzere.
+{63033}{63088}15 dakikam daha var.|Cep telefonun var mý?
+{63093}{63148}Evet.|- Þoförün numarasý var.
+{63153}{63203}Onu ararým ve bizi|bir sonraki iskeleden alýr.
+{63210}{63299}Bu tekneler hiç binmedim. Bunlar|turistler için, çok utanç verici.
+{63306}{63335}Tamam. Hadi.
+{63419}{63457}Tamam, ben veririm.
+{63477}{63536}Tamam, tamam.
+{63625}{63656}Teþekkür ederim.
+{63659}{63709}Peki o adama aþýk mýsýn?|- Hangi adama?
+{63716}{63793}Savaþ fotoðrafçýsýna.|- Evet, tabii ki.
+{63887}{63937}Cep telefonunu verir misin?
+{63944}{63982}Evet.
+{63990}{64033}Bir bakayým...|- Tamam.
+{64038}{64069}Ona ne diyeyim?
+{64074}{64124}Seni Quai Henri Quatre'den|almasýný söyle.
+{64131}{64193}Hay aksi. Quai...?
+{64203}{64268}Henri Quatre.|Quai Henri Quatre.
+{64273}{64320}Henri Quatre.
+{64328}{64395}Neyin var? Ben konuþayým mý?|Henri Quatre.
+{64402}{64433}Henry Dört mü?|- Evet!
+{64440}{64510}Niye öyle söylemedin?|- Ozür dilerim. Tamam.
+{64802}{64846}Evet, Philippe'le mi|görüþüyorum?
+{64853}{64915}Evet. Philippe, ben|Jesse Wallace.
+{64920}{64951}Evet.
+{64958}{65057}Ben bir turist|teknesindeyim.
+{65061}{65128}Ve Henry Dört'e gidiyoruz.
+{65138}{65215}Henry Dört Ýskelesine.|Biliyor musun?
+{65222}{65280}Tamam, harika.|Çantalarým sende, deðil mi?
+{65287}{65354}Orada olacaksýn...|Bilmiyorum, bir sonraki durak.
+{65363}{65416}Tamam. Au revoir.
+{65445}{65500}Tamam mý?|- Evet.
+{65507}{65553}Vay canýna.
+{65558}{65620}Notre Dame. Þuna bak!|- Vay.
+{65627}{65718}Bir hikaye duymuþtum.|Almanlar Paris'i iþgal ederken...
+{65728}{65766}...geri çekilmek zorunda kalmýþlar.
+{65771}{65817}Notre Dame'a dinamit döþemiþler...
+{65821}{65917}...ve düðmeye basacak bir asker |býrakmýþlar.
+{65927}{65999}Ve bu asker düðmeye basamamýþ.
+{66006}{66092}Orada oturmuþ, ve mekanýn|güzelliðinde büyülenmiþ.
+{66097}{66140}Ve müttefik birlikler geldiðinde...
+{66147}{66229}...patlayýcýlarý ve basýlmamýþ|düðmeyi bulmuþlar...
+{66236}{66320}...ve ayný þeyle Sacré-Coeur,|Eiffel Kulesi...
+{66327}{66380}...ve diðer güzel yerlerde de|karþýlaþmýþlar.
+{66387}{66430}Bu doðru mu?
+{66438}{66510}Bilmiyorum. Ama bu hikayeyi|hep çok sevmiþimdir.
+{66514}{66545}Evet, harika bir hikaye.
+{66553}{66620}Ama bir gün Notre Dame'ýn da yok|olacaðýný düþünmek zorundasýn.
+{66627}{66699}Saint'de eskiden baþka|bir kilise varmýþ, tam orada.
+{66706}{66771}Ayný noktada mý?|- Evet.
+{66809}{66864}Bu harika bir þey. Daha|önce hiç yapmamýþtým.
+{66872}{66932}Paris'in ne kadar güzel|olduðunu unutmuþum.
+{66941}{66977}Bir turist olmak o kadar da|kötü bir þey deðil.
+{66982}{67039}Beni tekneye bindirdiðin için sað ol.|- Onemli deðil.
+{67047}{67114}Galiba yazdýðým kitap,|bir þey inþa etmek gibiydi.
+{67128}{67224}Birlikte geçirdiðimiz zamanýn|ayrýntýlarýný unutmayacaktým.
+{67234}{67320}Geçmiþte gerçekten |karþýlaþtýðýmýzýn bir hatýrlatýcýsý.
+{67327}{67394}Yani bu gerçekti, gerçekten yaþandý.
+{67404}{67449}Bunu söylediðine sevindim|çünkü bir iliþkiyi bir anda...
+{67454}{67552}...unutamadýðým için kendimi|hep garip hissetmiþimdir.
+{67586}{67660}Ýnsanlarýn bir kaçamaklarý|ya da tam bir iliþkileri oluyor...
+{67668}{67723}...ayrýlýyorlar ve unutuyorlar.
+{67730}{67819}Mýsýr gevreðinin markasýný|deðiþtirmiþler gibi devam ediyorlar.
+{67838}{67912}Birlikte olduðum hiç kimseyi|unutamam gibi hissediyorum...
+{67919}{68046}...çünkü her insanýn kendine|has özellikleri vardýr.
+{68058}{68169}Kimseyi kimsenin yerine koyamazsýn.|Kaybedilen kaybedilmiþtir.
+{68202}{68298}Her iliþki bittiðinde, bana zarar|verir. Hiç tam olarak toparlanamam.
+{68305}{68380}Bu yüzden bir iliþkiye girerken|çok dikkat ediyorum...
+{68384}{68432}...çünkü beni çok incitiyor.
+{68437}{68512}Hatta seviþmek bile, |ki bunu yapmam...
+{68519}{68586}...çünkü o insanýn en olaðan |þeylerini özlerim.
+{68593}{68655}Küçük þeylere takýntý yaparým.
+{68665}{68718}Belki deliyim ama küçük bir kýzken...
+{68725}{68792}...annem okula hep geç kaldýðýmý |söylerdi.
+{68799}{68854}Bir gün nedenini öðrenmek|için beni takip etmiþ.
+{68864}{68962}Kestanelerin aðaçlardan düþüþünü,|kaldýrýmda yuvarlanmalarýný...
+{68967}{69101}...bir karýncanýn yolu geçmesini,|bir yapraðýn aðaçtaki...
+{69111}{69159}...gölgesini izlermiþim.|Böyle küçük þeyler.
+{69173}{69214}Bence insanlarda da ayný.
+{69228}{69296}Onlarda kendilerine has|küçük ayrýntýlarý görüyorum...
+{69303}{69396}...bu beni etkiliyor ve bunu|özlüyorum ve hep özleyeceðim.
+{69406}{69439}Kimsenin yerine|baþkasýný koyamazsýn...
+{69447}{69538}...çünkü herkes, güzel ve|özel ayrýntýlardan oluþur.
+{69624}{69698}Mesela kasalýnda kýzýllar|olduðunu hatýrlýyorum...
+{69720}{69780}...ve güneþte parýldýyordu...
+{69787}{69852}...gitmeden önceki sabah.
+{69878}{69969}Onu hatýrladým ve özledim.
+{69976}{70008}Gerçekten delilik, deðil mi?
+{70022}{70113}Artýk eminim. O aptal kitabý|niye yazdým biliyor musun?
+{70123}{70190}Niye?|- Senin Paris'te bir okuma...
+{70197}{70293}...toplantýsýna gelmen ve sana|"Neredeydin?" diyebilmek için.
+{70307}{70358}O zaman buraya gelir miydim|sanýyorsun?
+{70362}{70468}Ciddiyim. O kitabý galiba bir|bakýma seni bulmak için yazdým.
+{70478}{70526}Bunun doðru olmadýðýný|biliyorum...
+{70533}{70585}...ama çok tatlýsýn.|- Bence doðru.
+{70593}{70650}Bir daha karþýlaþma ihtimalimiz |neydi sence?
+{70672}{70746}O Aralýk'tan sonra, bence sýfýrdý.
+{70758}{70806}Ama zaten gerçek deðiliz, deðil mi?
+{70811}{70885}Sadece o yaþlý bayanýn|hayalindeki karakterleriz.
+{70892}{70948}Kadýn ölüm yataðýnda,|gençliðine dalýp gidiyor.
+{70952}{71000}Yani elbette tekrar karþýlaþmak |zorundaydýk.
+{71007}{71099}Tanrým! Neden Viyana'da deðildin?
+{71130}{71216}Nedenini söyledim.|- Biliyorum, sadece...
+{71223}{71276}Keþke orada olsaydýn.
+{71283}{71334}Hayatlarýmýz çok farklý|olabilirdi.
+{71341}{71391}Öyle mi düþünüyorsun?
+{71398}{71434}Evet.
+{71441}{71513}Belki de farklý olmazdý. Belki|birbirimizden nefret ederdik.
+{71521}{71588}Niye, þimdi birbirimizden|nefret mi ediyoruz?
+{71614}{71717}Belki de sadece|kýsa rastlaþmalarda...
+{71724}{71823}...sýcak iklimde Avrupa|þehirlerinde dolaþmakta iyiyizdir.
+{71839}{71909}Tanrým. Neden telefon|numaralarýmýzý falan almadýk ki?
+{71916}{71967}Bunu neden yapmadýk?
+{71974}{72026}Çünkü genç ve aptaldýk.
+{72034}{72086}Sen hâlâ öyle miyiz?
+{72094}{72142}Galiba insan gençken...
+{72149}{72206}...baðlanacaðý birçok insan|olduðuna inanýyor.
+{72223}{72285}Ama daha sonra bunun sadece|birkaç kez olduðunu anlýyorsun.
+{72290}{72374}O fýrsatý da kaçýrabiliyorsun.|Temas kuramýyorsun.
+{72384}{72439}Geçmiþ, geçmiþtir.|Oyle olmasý gerekiyordu.
+{72446}{72506}Buna gerçekten inanýyor musun?|Her þeyin kader olduðuna?
+{72513}{72604}Dünya sandýðýmýzdan|daha özgür olabilirdi.
+{72614}{72652}Öyle mi?
+{72662}{72751}Aynen þu þartlarda,|her seferinde ayný þey olur.
+{72758}{72827}Ýki parça hidrojen, bir parça|oksijenle her seferinde su olur.
+{72837}{72916}Ya büyükannen bir hafta|daha uzun yaþasaydý?
+{72921}{72981}Ya da bir hafta erken ölseydi?|Hatta birkaç gün?
+{72988}{73024}Her þey farklý olabilirdi.
+{73031}{73127}Böyle düþünemezsin.|- Çoðu þeyde düþünmemelisin ama...
+{73137}{73256}Ama bu olayda, yanlýþ olan|bir þey vardý sanki.
+{73273}{73360}Evlenmeden birkaç ay önce,|sürekli seni düþünüyordum.
+{73367}{73455}Düðüne giderken bile. Arabadayým|beni bir arkadaþým götürüyor...
+{73463}{73525}...pencereden dýþarý bakýyorum|ve seni gördüðümü sanýyorum...
+{73535}{73583}...kiliseye çok az kalmýþ...
+{73590}{73647}...þemsiyeni katlayýp bir|þarküteriye giriyorsun...
+{73654}{73736}...13. caddeyle Broadway'in|köþesinde.
+{73743}{73822}Delirdiðimi sandým. Ama þimdi|düþünüyorum da, muhtemelen sendin.
+{73849}{73909}11. caddeyle Broadway'in|köþesinde oturuyordum.
+{73928}{73971}Gördün mü?
+{74007}{74093}Evli olmak nasýl bir þey?|Bundan pek bahsetmedin.
+{74117}{74196}Bahsetmedim mi?|Ne garip.
+{74211}{74302}Bilmiyorum.|Universitedeyken tanýþtýk.
+{74311}{74458}Ayrýldýk ve birkaç yýl sonra|yine beraber olduk ve sonra...
+{74479}{74578}Yine birlikte sayýlýrdýk,|hamile kaldý...
+{74597}{74633}...ve evlendik.
+{74640}{74685}Nasýl biri?
+{74690}{74760}Harika bir öðretmen,|iyi bir anne.
+{74769}{74839}Akýllý, güzel.
+{74846}{74892}O zamanlar þöyle|düþündüðümü hatýrlýyorum...
+{74899}{74954}...hayran olduðum|adamlarýn çoðu...
+{74961}{75071}...hayatlarýný kendilerinden|daha büyük þeylere adamýþtý.
+{75093}{75155}Yani hayran olduðun adamlar|evli olduðu için mi evlendin?
+{75165}{75309}Hayýr, baþka bir þey...|En iyi yanýmýn bir fikriydi.
+{75316}{75357}Ve o fikri izlemek istedim...
+{75364}{75426}...dürüst yanýmý|bastýrsa bile.
+{75433}{75465}Anlýyor musun?
+{75472}{75577}O anda kim olduðumun önemli|olmadýðýný düþünüyordum.
+{75587}{75642}Kimse senin için|her þey olamaz...
+{75649}{75716}...ve önemli olan sadece kendini|bir taahhüt altýna sokma eylemi...
+{75721}{75803}...sorumluluklarýnla|yüzleþme eylemidir.
+{75812}{75894}Yani, saygý, güven, hayranlýk|deðilse, aþk nedir?
+{75901}{75973}Bunlarý hissettim iþte.
+{75980}{76047}Þimdiki zaman geçersek,|eskiden çýktýðým biriyle...
+{76052}{76114}...bir anaokulu|iþletiyor gibiyim.
+{76122}{76162}Bir keþiþ gibiyim.
+{76170}{76282}Son 4 yýlda 10 defadan|az seks yaptým.
+{76297}{76357}Ne? Bana mý gülüyorsun?|- Hayýr.
+{76364}{76428}Acýklý bir durum deðil mi?|- Hangi manastýrda keþiþler seks...
+{76436}{76512}Haklýsýn. Durumum|çoðu keþiþten daha iyi.
+{76520}{76577}Ama biri bana|dokunursa...
+{76584}{76635}...moleküllerime ayrýlacaðým|gibi geliyor.
+{76642}{76704}Geldik. Gitmeliyiz.|Hadi.
+{76711}{76755}Lanet olsun.
+{77057}{77124}Bunu duyduðuma üzüldüm.|- Neyi?
+{77131}{77201}Evliliðinden o kadar|memnun olmadýðýna.
+{77210}{77270}- Psikolog bir arkadaþým var...|- Durumu nasýl?
+{77277}{77313}Berbat ama...
+{77320}{77395}Ayný sebepten dolayý|ayrýlan çiftlerle...
+{77402}{77450}...ilgilendiðini söylemiþti.|- Hangi sebepmiþ o?
+{77457}{77519}Birkaç yýl birlikte|yaþadýktan sonra...
+{77527}{77579}...tutkunun, arzunun ayný|olmasýný bekliyorlar.
+{77587}{77620}Evet.|- Bu mümkün deðil.
+{77627}{77656}Bunun için þükretmeli.
+{77661}{77747}Yoksa sürekli ayný heyecaný|yaþasaydýk sonunda anevrizma olurdu.
+{77757}{77798}Hayatta hiçbir þey|yapamazdýk.
+{77802}{77884}Her 5 dakikada bir birini becersen,|kitabýný bitirebilir miydin?
+{77891}{77949}Bunu denemek|hoþuma gidebilirdi.
+{77956}{78021}Karýnýn oðlunu doðurduktan|sonra bütün sevgisini...
+{78028}{78090}...bebeðe vermesi doðal.|- Elbette.
+{78095}{78169}Sekse takýntýlý olsaydý|seni sürekli tahrik etseydi...
+{78174}{78215}Bu hiç mantýklý|olmazdý deðil mi?
+{78222}{78303}Söylediklerinin hepsi mantýklý.|Konu seks deðil.
+{78313}{78363}Biliyorum. Belli oluyor.
+{78366}{78404}Ben...
+{78433}{78507}Son zamanlarda|çiftlerin kafasý karýþýk.
+{78514}{78567}Bence erkekler kendilerini|gerekli hissetmeli...
+{78572}{78663}...ama artýk böyle|hissetmiyorlar.
+{78673}{78730}Bir þeyler saðlayýcý|olmak...
+{78737}{78776}...yýllardýr kafalarýnda|yer etmiþ.
+{78783}{78867}Mesela ben iþ hayatýmda|güçlü ve baðýmsýz bir kadýným.
+{78874}{78910}Bir erkeðin beni beslemesine|ihtiyacým yok ama yine de...
+{78915}{78992}...sevebileceðim ve beni sevebilecek|bir erkeðe ihtiyacým var.
+{79028}{79090}Þoförün gelmiþ.|- Evet.
+{79097}{79135}Galiba vedalaþmalýyýz.
+{79143}{79179}Bana telefonunu...|- Hayýr, hayýr.
+{79183}{79234}Seni eve býrakalým.
+{79241}{79294}Metroya binebilirim.|- Hayýr, ben...
+{79303}{79370}Uçaðým saat 10'da.|Ýki saat erken gitmiþ olacaðým.
+{79378}{79411}Böylece konuþmaya|devam edebiliriz.
+{79414}{79464}Bayým, acaba...?|- Evim yolunuzun üstünde deðil.
+{79819}{79862}Ona nerede oturduðunu mu|söyledin?
+{79869}{79907}Evet.
+{79989}{80044}Nereye gideceðini biliyor mu?|- Evet.
+{80051}{80094}Birinin bilmesine sevindim.
+{80102}{80195}Bu metrodan daha iyi deðil mi?|- Kesinlikle.
+{80257}{80361}Artýk bazý þeyleri|romantikleþtirmesem daha iyi olacak.
+{80368}{80411}Sürekli çok acý çekiyordum.
+{80418}{80500}Hâlâ bir sürü hayalim var|ama aþk hayatýmla ilgili deðil.
+{80507}{80560}Bu beni üzmüyor,|olaylarýn gidiþatý böyle.
+{80567}{80663}Bu yüzden mi hiç buralarda|olmayan biriyle iliþkin var?
+{80672}{80761}Evet, belli ki bir iliþkinin günlük|yaþamýyla baþ edemiyorum.
+{80771}{80819}Evet, birlikte heyecanlý|anlar geçiriyoruz...
+{80823}{80902}...o gidiyor, onu özlüyorum ama en|azýndan içten içe ölüp bitmiyorum.
+{80907}{80962}Biri sürekli etrafýmda|olunca, boðuluyorum.
+{80972}{81037}Sevmeye ve sevilmeye ihtiyacýn|olduðunu söylemiþtin.
+{81044}{81109}Evet ama birini sevince, bu|beni hemen hasta ediyor.
+{81118}{81152}Bu bir felaket.
+{81157}{81217}Sadece kendi baþýmayken|gerçekten mutlu oluyorum.
+{81224}{81336}Yalnýz olmak, sevgilinin yanýnda|kendini yalnýz hissetmekten daha iyi.
+{81358}{81401}Romantik olmak|benim için kolay deðil.
+{81408}{81490}Romantik olmak için baþlýyorsun|ama birkaç kez çuvallayýnca...
+{81495}{81595}...gerçekçi olmayan fikirlerini|unutup, olanlarý kabul ediyorsun.
+{81615}{81672}Bu doðru bile deðil.|Ben hiç çuvallamadým...
+{81679}{81734}...sadece çok fazla|sýkýcý iliþkim oldu.
+{81742}{81782}Kötü deðillerdi,|bana deðer verdiler...
+{81790}{81869}...ama gerçek bir bað|ya da heyecan yoktu.
+{81878}{81929}En azýndan benim açýmdan.
+{81933}{81996}Tanrým, üzgünüm, gerçekten|o kadar kötü mü?
+{82003}{82049}O kadar kötü deðil, deðil mi?
+{82080}{82144}Aslýnda konu o da deðil.
+{82149}{82224}Lanet olasý kitabýný|okuyana kadar iyiydim.
+{82238}{82276}Beni çok üzdü.
+{82288}{82348}Bana, aslýnda ne kadar|romantik olduðumu...
+{82355}{82403}...nasýl umut dolu|olduðumu hatýrlattý...
+{82411}{82492}...ve þimdi aþkla ilgili neredeyse|hiçbir þeye inanmýyorum.
+{82499}{82545}Artýk insanlar için bir þey|hissetmiyorum.
+{82576}{82660}Bir bakýma bütün romantizmimi|o geceye sýðdýrdým...
+{82667}{82722}...ve bir daha o þekilde|hissedemedim.
+{82729}{82789}O gece bir þekilde benden|bazý þeyleri alýp götürdü...
+{82794}{82849}...duygularýmý sana anlattým|ve sen de onlarý alýp götürdün.
+{82857}{82900}Kendimi duygusuz, sanki aþk|bana göre deðilmiþ gibi hissettim.
+{82907}{82969}Buna inanmýyorum.
+{83003}{83101}Gerçeklik ve aþk benim|için sanki bir çeliþki.
+{83108}{83209}Garip, eski erkek arkadaþlarýmýn|hepsi artýk evli.
+{83216}{83283}Erkekler benimle çýkýyor,|ayrýlýyoruz ve sonra evleniyorlar.
+{83290}{83370}Ve sonra beni arayýp onlara|aþký, kadýnlara saygý duymayý...
+{83377}{83434}...öðrettiðim için|teþekkür ediyorlar.
+{83442}{83494}Galiba ben de onlardan biriyim.|- Onlarý öldürmek istiyorum!
+{83501}{83585}Neden bana evlenme teklif|etmiyorlar? Hayýr diyebilirdim...
+{83595}{83681}...ama sormuþ olurlardý. Hata|benim biliyorum çünkü asla...
+{83691}{83765}...doðru adamý bulamadým. Ama doðru|adam, hayatýnýn aþký mý demek?
+{83772}{83849}Bu görüþ saçma. Yalnýzca|baþka bir insanla bir bütün...
+{83859}{83911}...olabileceðimiz fikri berbat.|- Konuþabilir miyim?
+{83919}{83998}Kalbim çok kýrýldý ve|sonra toparlandým.
+{84003}{84065}Bu yüzden artýk baþlangýçlarda|hiç çaba sarf etmiyorum.
+{84070}{84134}Çünkü iþe yaramayacaðýný biliyorum.|- Böyle yapamazsýn.
+{84142}{84185}Acýdan kaçarak|yaþamaya çalýþamazsýn...
+{84192}{84233}Bunlar sadece laf.
+{84240}{84273}Senden uzaklaþmalýyým.
+{84281}{84329}Durun, inmek istiyorum.|- Hayýr, yapma...
+{84336}{84379}Konuþalým.|- Konu senin etrafýnda dönüyor.
+{84386}{84441}Bana dokunma.|Taksiye bineceðim.
+{84508}{84564}Hayýr, durma. Devam et.
+{84568}{84652}Bak, çok mutluyum.|Teþekkür ederim, devam et.
+{84657}{84698}Tamam.
+{84734}{84820}Seninle birlikte olmaktan|çok mutluyum.
+{84825}{84902}Gerçekten. Beni unutmadýðýn|için çok mutluyum.
+{84911}{84974}Hayýr, unutmadým. Ve bu|beni kýzdýrýyor, tamam mý?
+{84981}{85065}Buraya Paris'e geliyorsun,|çok romantiksin, ve evlisin.
+{85072}{85105}Canýn cehenneme.
+{85127}{85182}Beni yanlýþ anlama, seni|elde etmeye çalýþmýyorum.
+{85187}{85245}Yani tek ihtiyacým,|evli bir erkek.
+{85264}{85340}Köprünün altýndan çok su aktý,|konu sen bile deðilsin.
+{85348}{85403}Olay, artýk sonsuza|kadar yok olan o an.
+{85410}{85477}Böyle söylüyorsun ama seks|yaptýðýmýzý bile hatýrlamadýn.
+{85484}{85549}Tabii ki hatýrladým.
+{85580}{85635}Öyle mi?|- Evet.
+{85643}{85719}Kadýnlar anlamamazlýktan gelir.|- Oyle mi?
+{85729}{85820}Ne diyecektim yani? Parkta þarap|içtiðimizi, güneþ doðarken...
+{85827}{85909}...yýldýzlarýn kaybolduðunu|hatýrladýðýmý mý?
+{85916}{85993}Ýki kere seviþtik,|seni aptal!
+{86031}{86117}Bak, seni gördüðüme|çok sevindim.
+{86124}{86204}Sinirli manik-depresif|bir çevreci olsan bile...
+{86213}{86292}...seninle vakit geçirmek|hâlâ hoþuma gidiyor.
+{86314}{86415}Ben de böyle hissediyorum. Özür|dilerim, ne olduðunu bilmiyorum...
+{86422}{86479}Ýçimi dökmem gerekiyordu.|- Hiç sorun deðil.
+{86484}{86546}Aþk hayatýmda iliþkimde|o kadar mutsuzum ki.
+{86551}{86626}Her zaman duygusal olarak uzak|biriymiþim gibi rol yapýyorum.
+{86630}{86705}Ama içten içe ölüyorum.|Olüyorum çünkü çok duygusuzum.
+{86709}{86796}Bir nebze bile olsun acý|ya da heyecan hissetmiyorum.
+{86805}{86865}Bir tek sen mi içten içe|ölüyorsun sanýyorsun?
+{86873}{86968}Benim hayatým daima kötü.
+{86978}{87009}Üzgünüm.|- Hayýr.
+{87014}{87081}Sadece oðlumla birlikte olduðum|zaman mutlu oluyorum.
+{87088}{87127}Evlilik danýþmanýna gittim...
+{87134}{87194}...yapacaðýmý hiç düþünmediðim|þeyler yaptým.
+{87199}{87268}Mumlar yaktým, "kendine yardým et"|kitaplarý, iç çamaþýrlarý aldým.
+{87273}{87328}Mumlar iþe yaradý mý?|- Hayýr.
+{87335}{87393}Onun sevilmeye ihtiyacý|olma þeklini bile sevmiyorum...
+{87398}{87501}...bizim için bir gelecek görmüyorum|ama sonra küçük oðluma bakýnca...
+{87510}{87587}...karþýmda oturuyor, ve hayatý|boyunca her an onunla olmak için...
+{87597}{87652}...her türlü iþkenceye|katlanýrým diye düþünüyorum.
+{87657}{87700}Bir saniyesini bile|kaçýrmak istemiyorum.
+{87707}{87805}Ama evimde hiç neþe|ya da kahkaha olmuyor.
+{87812}{87896}Onun böyle büyümesini istemiyorum.|- Kahkaha yok mu? Bu korkunç.
+{87906}{87949}Annemle babam|35 yýldýr beraber...
+{87956}{88009}...ve kavga ettiklerinde bile|sonunda gülüyorlar.
+{88016}{88103}52 yaþýnda boþanan, gözyaþlarýna|boðulan, eþlerini hiç...
+{88110}{88210}...sevmediklerini kabul eden ve|yaþamlarý bir elektrik...
+{88220}{88337}...süpürgesiyle yutulmuþ gibi olan|insanlardan biri olmak istemiyorum.
+{88349}{88431}Çok güzel bir hayat istiyorum.|Onun da güzel bir hayatý...
+{88438}{88489}...olmasýný istiyorum,|bunu hak ediyor.
+{88496}{88572}Ama biz evlilik bahanesiyle,|sorumluluðuyla, insanlarýn...
+{88577}{88671}...nasýl yaþamasý gerektiðine|dair fikirlerle yaþýyoruz.
+{88716}{88805}Ama sonra, bazý rüyalar görüyorum...
+{88846}{88877}Nasýl rüyalar?
+{88884}{88963}Rüyamda...
+{88978}{89023}...bir setin üzerinde|duruyorum...
+{89057}{89129}...sen trenin içinde sürekli|geçip duruyorsun...
+{89136}{89237}...geçip gidiyorsun,|sürekli geçip gidiyorsun...
+{89246}{89289}Ve ter içinde uyanýyorum.
+{89294}{89347}Baþka bir rüyam daha var...
+{89354}{89443}...yatakta benim yanýmda|çýplaksýn ve hamilesin...
+{89450}{89536}...sana dokumak istiyorum ama sen|hayýr deyip baþýný çeviriyorsun.
+{89546}{89649}Ama ben yine de dokunuyorum...
+{89659}{89762}...bileðine dokunuyorum. Tenin öyle|yumuþak ki... Aðlayarak uyanýyorum.
+{89783}{89862}Karým oturmuþ bana bakýyor|ve kendimi ondan milyonlarca...
+{89872}{89965}...kilometre uzakta hissediyorum.|Yanlýþ bir þey olduðunu biliyorum...
+{89970}{90016}Bu þekilde yaþayamayacaðým,|bir baðlýlýktan baþka...
+{90023}{90081}...sevecek baþka bir þey|olmalý diyorum.
+{90088}{90152}Ama sonra romantik aþk düþüncesinden...
+{90162}{90205}...tamamen vazgeçmiþ|olabileceðimi düþünüyorum.
+{90210}{90284}Bundan ebediyen|vazgeçmiþ olabilirim...
+{90294}{90356}Senin gelmediðin o gün.
+{90363}{90426}Gerçekten bunu|yapmýþ olabilirim.
+{90459}{90512}Bunlarý bana niye|anlatýyorsun?
+{90534}{90630}Özür dilerim. Bilmiyorum.|Ben...
+{90663}{90706}Anlatmamalýydým.
+{90714}{90749}Bu çok tuhaf.
+{90757}{90850}Ýnsanlar sadece kendilerinin|zor zamanlar geçirdiðini sanýyor.
+{90860}{90958}Makaleyi okuduðumda hayatýnýn|mükemmel olduðunu düþündüm.
+{90968}{91056}Bir eþ, bir çocuk, kitabý|yayýmlanmýþ bir yazar.
+{91076}{91152}Ama özel hayatýndan|benimkinden bile kötü.
+{91162}{91215}Üzgünüm.
+{91222}{91294}Bir iþe yaradýðýna sevindim.
+{91361}{91435}Burada mý oturuyorsun?|- Evet.
+{91462}{91557}Senden daha sýkýntýlý|olduðum için rahatladýn mý?
+{91567}{91610}Evet, kendimi|daha iyi hissettim.
+{91615}{91665}Ýyi, sevindim.
+{91670}{91725}Hayýr, senin için hep|en iyisini dilerim.
+{91735}{91819}Herkesin kaderinin benim gibi|kötü olmasýný istemem...
+{91826}{91874}...iyi bir iliþkim ya da ailem|olmadýðý için deðil.
+{91881}{91936}Bence bir gün harika|bir anne olacaksýn.
+{91941}{91977}Öyle mi düþünüyorsun?|- Evet...
+{91982}{92054}...birkaç anti-depresanla,|harika olursun.
+{92075}{92140}Tamam, dur de.|- Dur.
+{92154}{92217}Tamam.|- Hazýr mýsýn? Tamam.
+{92464}{92560}Bir þey denemek istiyorum.|- Ne?
+{92624}{92723}Bakalým tek parça mý kalacaksýn,|moleküllerine mi ayrýlacaksýn.
+{92751}{92797}Nasýlým?
+{92804}{92847}Hâlâ buradasýn.
+{92855}{92903}Ýyi. Burada olmayý|seviyorum.
+{92998}{93034}Bu senin apartmanýn mý?
+{93039}{93080}Hayýr, orada oturuyorum.
+{93085}{93138}Orada mý?|- Evet.
+{93145}{93200}Bayým, bayaný kapýya|kadar býrakacaðým.
+{93418}{93449}Ýnanýlmaz bir yer.
+{93456}{93519}Burada mý oturuyorsun?|- Evet.
+{93524}{93598}Ne zamandýr buradasýn?|- 4 yýldýr.
+{93639}{93689}Söylesene...|- Ne?
+{93694}{93732}Rüyalarýn gerçek mi...
+{93739}{93802}...yoksa benimle yatmak|için mi söyledin?
+{93809}{93845}Seninle yatmak için söyledim.
+{93852}{93910}Bunu hep kullanýrým.|- Ýþe yarar mý?
+{93917}{93981}Bazen.
+{94015}{94094}Bak benim kedim. Çok þirin.|Þuna bak.
+{94101}{94142}Bu kedinin neyini seviyorum|biliyor musun?
+{94149}{94202}Onu her sabah avluya getiririm...
+{94209}{94317}...ve her sabah, her þeye ilk|kez görüyormuþ gibi bakar.
+{94327}{94420}Her köþeye, her aðaca, her bitkiye.
+{94430}{94485}Minicik burnuyla her þeyi koklar.
+{94492}{94586}Güzel kedim benim.|Kedimi çok seviyorum.
+{94619}{94662}Adý ne?|- Che.
+{94679}{94722}Che mi?
+{94765}{94821}Ne?|- Komünist mi?
+{94859}{94926}Hayýr, "che" Arjantin"de|"hey" demek.
+{94933}{94988}Tamam.|- Evet.
+{94996}{95082}Bebeðim. Evet, evet, evet.
+{95166}{95255}Küçük bir parti veriyoruz.|Çok eðlenceli.
+{95502}{95545}Evet...|- Evet.
+{95936}{96039}Bana þarkýlarýndan birini |çalar mýsýn?
+{96043}{96094}Uçaðýný kaçýracaksýn.|- Kaçýrmam.
+{96101}{96168}Bir saat boyunca havaalanýnda|olacaðým, bir þeyler okuyup...
+{96175}{96242}...keþke bana bir þarkýsýný|söyleseydi diyeceðim.
+{96250}{96302}Bir þarký?|Tamam ama çabucak.
+{96307}{96348}Tamam.
+{96480}{96552}Bu eski merdivenleri|çok seviyorum.
+{97475}{97528}Þunu tut.|- Bana mý?
+{97532}{97580}Gel bakalým dostum.
+{97607}{97655}Che.
+{97933}{98019}Çay ister misin?|- Evet, olur.
+{98036}{98074}Vay canýna.
+{98101}{98180}Papatya çayý olur mu?|- Evet, Harika.
+{98187}{98237}Merci.|- Daðýnýk mý?
+{98244}{98331}Sence dairem daðýnýk mý?|- Hayýr. Merci dedim.
+{98340}{98419}Merci beaucoup.|- Ah, merci.
+{98427}{98513}Fransýzcan epey|ilerlemiþ.
+{98523}{98554}Gerçekten mi?|- Evet.
+{98559}{98618}Evet, lisana hakim|olmuþsun.
+{98640}{98710}Pekala, bana hangi|þarkýyý çalacaksýn?
+{98767}{98834}Çalamam. Çok utanýyorum.
+{98839}{98925}Olmaz. Buraya kadar geldim,|þimdi beni ekemezsin.
+{98935}{98981}Bir þarký. Ne olursa.
+{98988}{99028}Ama bana gülmeyeceksin.
+{99036}{99069}Güler miyim sanýyorsun?|- Evet.
+{99074}{99120}Hiç sanmam.
+{99189}{99223}Tamam.
+{99227}{99283}Ne istersin?
+{99290}{99343}Ýngilizce üç þarkým var.
+{99350}{99381}Biri kedim hakkýnda...
+{99386}{99482}...biri eski erkek|arkadaþýmla ilgili...
+{99486}{99544}...diðeri de...
+{99558}{99635}Küçük bir vals.
+{99642}{99690}Vals mi? Evet.
+{99697}{99748}Vals çal.|- Tamam.
+{99755}{99810}Uzun süredir çalmadým.|Emin misin?
+{99892}{99928}Tamam.
+{99947}{99999}Pekala, vals.
+{100294}{100398}Sana bir vals söyleyeyim.
+{100407}{100515}Birden bire aklýma geliverdi.
+{100525}{100630}Sana bir vals söyleyeyim
+{100637}{100726}Bir gecelik bir iliþki hakkýnda
+{100757}{100887}O gece benim için|Yaratýlmýþ gibiydin
+{100899}{101035}Hayatta hayalini kurduðum|Her þeydin
+{101045}{101124}Ama artýk yoksun
+{101134}{101232}Çok uzaktasýn
+{101261}{101366}Yaðmur adana gelen kadar
+{101376}{101510}Senin için sadece|bir gecelik bir þeydi
+{101520}{101587}Ama benim için çok daha önemliydin
+{101596}{101659}Bunu bilesin
+{101685}{101755}Ne dedikleri umurumda deðil
+{101762}{101874}O gün benim için|Yaratýldýðýný biliyorum
+{101886}{101997}Bir daha denemek istiyorum
+{102006}{102121}Bir gece daha istiyorum
+{102155}{102292}Pek doðru görünmese de
+{102304}{102397}Benim için çok önemliydin
+{102402}{102503}Daha önce tanýþtýklarýmýn|Hepsinden daha önemli
+{102510}{102656}Seninle bir tek gece küçük Jesse
+{102668}{102786}Baþka biriyle geçen Binlerce |geceye bedel
+{102814}{102891}Ýçimde acýlýk yok, tatlým
+{102905}{103021}O bir gecelik þeyi hiç |unutmayacaðým
+{103030}{103172}Yarýn baþkasýnýn kollarýnda|Olsam bile
+{103181}{103320}Kalbim ölene kadar senin olacak
+{103426}{103536}Sana bir vals söyleyeyim
+{103546}{103661}Hiç beklenmedik bir anda|Aklýma geliverdi
+{103670}{103785}Sana bir vals söyleyeyim
+{103793}{103912}Harika bir|Bir gecelik iliþki hakkýnda
+{104327}{104411}Bir tane daha. Lütfen.|- Hayýr. Anlaþmamýz böyleydi.
+{104421}{104478}Bir þarký. Hayýr, hayýr.
+{104485}{104543}Çayýný içtikten sonra...
+{104675}{104730}Sana bir soru soracaðým.|- Ne?
+{104735}{104812}Buraya gelen her erkek için|þarkýdaki ismi deðiþtiriyor musun?
+{104831}{104859}Evet, elbette.
+{104867}{104960}Bu þarkýyý senin için yazdýðýmý mý|sandýn? Deli misin sen?
+{105068}{105123}Bu sen misin?|Küçük, þaþý Celine?
+{105130}{105188}Evet. Çok komik.|- Þirin.
+{105226}{105303}Bu büyükannen mi?|- Evet.
+{105349}{105397}Vay canýna.
+{105409}{105478}Bal ister misin?|- Evet.
+{106674}{106727}Nina Simone'u konserde|dinledin mi hiç?
+{106734}{106792}Hayýr. Öldüðüne|inanamýyorum.
+{106802}{106838}Evet, çok üzücü.
+{106866}{106900}Teþekkür ederim.
+{106905}{106950}Sýcak.
+{107001}{107068}Ben iki kere konserine|gittim.
+{107087}{107140}Çok güzeldi.
+{107147}{107214}Bu, en sevdiðim|þarkýlarýndan biridir.
+{107595}{107626}Müthiþ biriydi.
+{107677}{107729}Konserlerinde de çok komikti.
+{107734}{107830}Bir þarkýnýn tam|ortasýndayken...
+{107840}{107883}...durur ve...
+{107885}{107981}...piyanonun oradan sahnenin|ucuna kadar yürürdü.
+{107988}{108041}Çok yavaþ adýmlarla.
+{108115}{108190}Ve izleyicilerin arasýndan|biriyle konuþmaya baþlardý.
+{108199}{108276}"Oh, evet bebeðim.|Oh, evet.
+{108298}{108348}Ben de seni seviyorum."
+{108362}{108466}Ve sonra geri dönerdi. Hiç|acele etmeden, yavaþ yavaþ.
+{108473}{108552}Kocaman, güzel bir poposu vardý.
+{108561}{108597}Böyle sallanýrdý.
+{108638}{108748}Sonra piyanosuna gider|ve biraz daha çalardý.
+{108792}{108830}Sonra da, ne bileyim...
+{108837}{108892}...bir þarkýnýn ortasýnda,|baþka bir þarkýya baþlardý.
+{108899}{108986}Yine durur ve böyle yapardý...
+{108993}{109086}"Sen, oradaki, klimayý|açabilir misin?"
+{109110}{109161}"Çok tatlýsýn."
+{109667}{109712}"Oh, evet."
+{109801}{109899}Bebeðim, uçaðýný kaçýracaksýn.
+{109930}{109978}Biliyorum.
+{110391}{110527}Turkish
+{110552}{110702}www.OpenSubtitles.org adresinden tüm reklamlarý kaldýrmak için bizi destekleyin ve VIP üye olun.

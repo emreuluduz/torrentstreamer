@@ -1,0 +1,1714 @@
+{25}{175}www.OpenSubtitles.org ile bugün baðlantý kurun ve ürününüzün ya da markanýzýn reklamýný burada yapýn.
+{1278}{1357}Ulusal Silah Organizasyonu sizin için,
+{1366}{1419}ilginç bulabileceðiniz bir film yaptý:
+{1426}{1449}Ýzleyelim..
+{1517}{1667}20 Nisan 1999 sabahý Amerika'da herhangi bir sabah gibiydi..
+{1695}{1748}Çiftçiler tarlalarýna gidiyor,
+{1782}{1833}Sütçü sütlerini daðýtýyordu..
+{1858}{1951}Baþkan, yine ismini söylemeye iznimiz olmayan bir ülkeyi bombalýyordu..
+{1973}{2062}Fargo, Kuzey Dakota'da Kerry McWilliams sabah gezmesine çýkýyordu..
+{2088}{2183}Michigan'da bayan Hughes çocuklarý yeni bir okul gününe hazýrlýyordu..
+{2225}{2345}Ve küçük bir þehir olan Colorado'da iki genç saat 6'da bowling oynamaya gidiyordu..
+{2361}{2478}Evet, gerçekten Birleþik Devletler için oldukça sýradan bir gündü..
+{2602}{2660}size yardýmcý olabilir miyim?|-Evet, ben bir hesap açtýrmak istiyorum..
+{2675}{2700}Nasýl bir hesap?
+{2706}{2821}Eh, yanýnda hediye silah verilen hesaplardan..|-Tamam.
+{2832}{2933}Michigan yerel gazetesinde yer alan bir reklamda, North Country Bank'te hesap açtýran
+{2933}{3008}herkese bir silah verileceðine dair bir promosyon yer alýyordu..
+{3008}{3121}Yalnýzca bir ön ödemeye ihtiyacýmýz var.|Broþürlerimize bakalabilirsiniz..
+{3145}{3220}Bilgilerinizi alýr almaz,|istediðiniz silah sizin olacak..
+{3253}{3315}Evet, ben de böyle bir hesap istiyordum.
+{3315}{3373}Vitrin odamýzda her zaman..
+{3388}{3489}..en az 500 çeþit silah bulunur..|-500? Vitrin odanýzda mý?
+{3517}{3571}Silahlarýn geçmiþini göstermeyi istedik..|-Burada, bankada mý?
+{3576}{3640}Evet. Biz lisanslý silah satýcýsýyýz..
+{3644}{3707}Gerçekten mi?|Banka ve silah satýcýsý bir arada?
+{3707}{3766}"Irk" kýsmýna ne yazacaðým?|Beyaz mý, kafkasyalý mý?
+{3766}{3792}Kafkasyalý..
+{3794}{3939}Ben de bundan korkuyordum,|Nasýl yazýlýyor.. Kaf-kas-yalý,
+{3947}{3976}deðil mi?|-Evet.
+{4011}{4062}Bu o kadar da önemli deðil..
+{4069}{4212}"Ruhsal bir hastalýðýnýz var mý|ya da hiç ruhsal tedavi gördünüz mü?"
+{4218}{4342}Ruhsal tedavi hiç görmedim, ama|"Ruhsal hastalýk" ne demek?
+{4342}{4391}Soygun meselesi ile ilgili..
+{4400}{4503}Anladým.. Yani rusal açýdan hasta|olsam da..
+{4511}{4564}Buyur, Mike.|-Teþekkür ederim.
+{4591}{4657}Bende de bundan bir tane var..|-Güzel..
+{4665}{4735}Bu bir keskin niþancý silahý,|söylüyorum size..
+{4814}{4861}Hey.. Harika..
+{4865}{4960}Bankada silah bulundurmayý biraz|tehlikeli bulmuyor musunuz?
+{6169}{6267}Her silah çok fazla gürültü yapar..|Tetiðe dokun ve kendin dinle!
+{6313}{6358}Çatýþma sesleri gibi geliyor..
+{6358}{6419}Gerçek mi bu?|-Gerçek görünüyor..
+{6448}{6487}Ve gerçek ses çýkarýyor..
+{6499}{6609}Hem de nasýl! Marx'ýn batý ve ordu|silahlarýnýn sesi!
+{6637}{6673}Bu benim ilk silahýmdý..
+{6705}{6770}Dýþarý çýkýp, etrafa ateþ etmek için|sabýrsýzlanýyordum..
+{6781}{6836}Geçmiþ güzel zamanlar..
+{7067}{7183}Küçükken o kadar isabetli atýþlar yapabiliyordum ki,|Ulusal Silah Organizasyonu'nun..
+{7183}{7234}atýþ ödüllerinde birincilik almýþtým.
+{7234}{7309}Ben Michigan'da büyüdüm,|Silah severler için tam bir cennet..
+{7336}{7444}Ayný bu adam gibi..|Sinema oyuncusu, Oskar sahibi..
+{7444}{7538}ve Ulusal Silah Organizasyonu baþkaný:|Bay Charlton Heston
+{7636}{7714}Bizim civarda herkes ava gitmekten hoþlanýr..
+{7771}{7799}Köpekler bile.
+{7802}{7865}Çadýr alanýnda iki avcý..
+{7865}{8008}köpeklerine avcý kýyafeti giydirip,|eðlence için fotoðraf çekmek istemiþler..
+{8014}{8113}Avcýlardan biri, köpeðin üzerine|bir tüfek baðlamayý düþünmüþ..
+{8121}{8189}çekeceði resimleri daha gerçekçi yapmak için.
+{8193}{8293}Kurban, köpeðin önünde tam diz üstü oturacakken,|tüfek köpeðin sýrtýndan kaymýþ ve..
+{8316}{8434}..bir saçma adamýn üst bacak|kemiðine girmiþ..
+{8437}{8479}ve arkadan çýkmýþ..
+{8487}{8558}Köpek, polis tarafýndan gözaltýna|alýndý mý?
+{8561}{8591}Hayýr.
+{8631}{8771}Michigan kanunlarý insanlarýn suç iþleyebileceðini|söylüyor ama.. hayvanlarýn deðil..
+{8774}{8880}yani onlar.. onlar zaten|suç iþleyemezler..
+{8890}{8961}Yani bir hayvanla ilgili bir|þikayette bulunulamaz? -Evet.
+{8964}{9053}Sizce köpeðin ne yaptýðýný biliyor|olmasý mümkün mü?
+{9068}{9153}Bilmiyorum,|bu konuda birþey diyemem.
+{9158}{9230}Köpek avcý kýyafetinin içerisinde,|gayet masum ve saf görünüyordu..
+{9230}{9299}Fotoðraf gayet eðlenceliydi.
+{9317}{9373}Gerçekten güzeldi.
+{9428}{9511}Evet, iþte böyle bir yer benim geldiðim yer..
+{9521}{9571}Bir kutu 270lik.|-Hemen geliyor..
+{9658}{9694}Buyrun!|-Harika.
+{9833}{9857}Üzgünüm..
+{9906}{9934}..sonuçta gitmedi ya..
+{9942}{10036}Aslýnda silah kontrolüne ihtiyacýmýz yok,|bizim cephane kontrolüne ihtiyacýmýz var..
+{10059}{10130}Cephaneleri kontrol altýna almalýyýz,|inanýn bana..
+{10134}{10200}Her mermi 5000 dolar olmalý..
+{10215}{10284}Mermi baþýna 5.000 dolar.|Neden mi?
+{10287}{10415}Çünkü eðer bir mermi 5000 dolar olursa,|bir daha hiç "faili meçhul"ler olmaz..
+{10477}{10576}Ve eðer biri vuruluyorsa,|"Kesinlikle bunu hakedecek birþeyler yapmýþ olmalý..
+{10603}{10681}yoksa 50.000 dolarý onun k.çýna boþaltmazlardý."
+{10761}{10871}Ýnsanlar birini öldürmeden önce|artýk düþüneceklerdir:
+{10871}{10972}"Eðer yeterli param olsaydý,|senin kafatasýný daðýtýrdým..
+{11050}{11136}Kendime ikinci bir iþ arayýp,|biraz para biriktireceðim,
+{11144}{11190}ve sonra sen ölü olacaksýn..
+{11194}{11268}Hele bir de mermiler için|kredi alabilirsem.."
+{11341}{11479}Charlton Heston ve benim yaþadýðýmýz yerlerin yakýnýnda|Michigan Miliz'lerinin çalýþma alaný bulunur..
+{11496}{11529}Neden labut kullanýyorsunuz?
+{11529}{11641}Aslýna bakýlýrsa küçük hedefler olduðundan..
+{11641}{11759}..ve uzaktan insan gibi göründüklerinden..|..sanki gerçekten birine ateþ ediyormuþ gibi.
+{11823}{12038}Michigan Miliz'leri tüm dünyaca tanýnýr..|.. çünkü sýk sýk onlarla olan iki adam..
+{12042}{12094}Timothy McVeigh ve Terry Nichols,  19 Nisan 1995'te
+{12111}{12242}Oklahoma þehrinin bir devlet binasýný havaya uçurmuþ|ve 168 insaný öldürmüþlerdi.
+{12265}{12385}Michigan Miliz'leri kendilerinin asla|McVeigh ve Nichols gibi olmadýðýný savunuyor.
+{12396}{12494}Silahlý olmak tamamen bir Amerikalý|olma geleneðidir..
+{12500}{12558}Silahsýz adam, sorumsuz adam demektir..
+{12569}{12650}Çocuklarýný kim koruyacak?|Aynasýzlar mý? Devlet mi?
+{12662}{12701}Hiçbiri..
+{12701}{12767}Kendi kendine baþadebilmek,|senin görevin..
+{12767}{12878}Bunu yapmayan kiþi,|vatandaþlýk görevini yerine getirmiyor demektir..
+{12878}{12950}Ýnsanlar þunu bilmeli,|bizler onlara yardým ediyoruz..
+{12950}{13052}..biz "karanlýk adamlar" deðiliz,|halkýn koruyucularýyýz..
+{13052}{13129}Sizin gibi insanlarý komþu olarak|görmeyi herkes istiyor olmalý..
+{13129}{13188}Nerede hareket, siz oradasýnýz..
+{13188}{13322}Evet, ve biz normal iþleri olan insanlarýz..|Bunu boþ zamanlarýmýzda yapýyoruz..
+{13322}{13370}Senin iþin ne?|-Proje çizimcisi..
+{13370}{13413}Ya sen?|-Ýþsiz.
+{13427}{13530}Sen, Frank?|-Bir ýsýtma firmasý için týr þöförlüðü yapýyorum..
+{13545}{13675}Ya sen?|-Emlakçý..
+{13694}{13751}Emlakçý?|-Tertemiz bir masa baþý iþi..
+{13751}{13827}Ama bunlarý yanýna almýyorsun,|deðil mi?
+{13827}{13861}Hayýr.
+{13861}{13919}Nerede oturuyorsun?|-Westland.
+{13919}{13993}Evde neyin var?|-Smith & Wesson, 9mm.
+{14033}{14110}Ya sen?|-12 Gauge.
+{14110}{14162}Ve sen?|-Bir  M-16
+{14162}{14185}Evde?
+{14217}{14253}Direkt kullanýma hazýr..
+{14253}{14350}Silahlarýný nereye koyacaðýný|biliyorsun, deðil mi?
+{14350}{14404}Ateþ ederken nereye koymam gerektiðini|biliyorum.
+{14404}{14440}Bu takvim kimin fikriydi?
+{14453}{14543}Sanýrým Kristen.|-Bir resim binlerce kelimeden çok þey anlatýr.
+{14564}{14675}Öncelikle Miliz'lerden beklenmeyen|birþeyi gösteriyor bu takvim..
+{14688}{14765}Ýkincisi de.. Biz de sadece insanýz..
+{14785}{14899}Bu hoþumuza gitti..|-Ayrýca para kazandýrdý ve bizim..
+{14899}{14958}..o kadar da katý olmadýðýmýzý gösterdi.
+{14958}{15066}Biz sonsuza dek bu þekilde yaþayacak,|halk adamlarý deðiliz sonuçta..
+{15066}{15138}Yalnýzca eðlenceydi.
+{15138}{15165}Yaþým yettiðinden beri..
+{15198}{15270}..silahlarým oldu..
+{15283}{15337}Onlarla ne yapýlmasý gerektiðini|öðrendim..
+{15363}{15412}"Uslu dur biraz.."
+{15426}{15482}Ayrýca bir bayan olarak..
+{15482}{15570}kendimi mümkün olduðunca|korumak istedim..
+{15581}{15633}Ve insan bunu bir silahla yapabilir..
+{15633}{15714}Eðer biri evine girmeye kalkarsa,|önce kimi ararsýn?
+{15725}{15800}Çoðu insan öncelikle polisleri arar,|çünkü onlarýn silahlarý vardýr.
+{15827}{15940}Aradaki adamý boþver!|Aileni kendin koru.
+{15951}{16029}Eðer sen kendi aileni korumazsan,|kim koruyacak?
+{16049}{16138}Bizler ýrkçý deðiliz,|................., ..........................,
+{16138}{16230}Terörist, Milis ya da|bunun gibi saçmalýklar..
+{16230}{16386}Bizler Amerikalý vatandaþlar olarak|sorumluluklarýmýzý yerine getiren insanlarýz.
+{16390}{16450}Ve bu sorumluluða silahýmýz da dahil..
+{16640}{16773}Ne yetiþtiriyorsunuz?|-Bu aralar Tofu. Soya fasulyesi..
+{16773}{16852}Siz Tofu yetiþtiricisi misiniz?|-Evet, ben yemelik þeyler yetiþtiririm.
+{16852}{16946}Yemek olsun diye, anlýyor musun?
+{16946}{16995}Tamamen katkýsýz olarak.
+{17018}{17074}Anladým. Doðal þeyler.
+{17083}{17132}Daha iyi..|-Biyolojik olarak..
+{17134}{17199}Daha saðlýklý.. ayrýca..
+{17224}{17293}Bu, James Nichols|Terry Nichols'ün kardeþi..
+{17308}{17417}James de benim liseyi bitirdiðim yýl|komþu liseden mezun olmuþ..
+{17429}{17576}Decker - Michigan'daki bu tarlada McVeigh ve kardeþleri|Oklahoma için test bombalarý yapmýþlar..
+{17601}{17683}Terry ve James bombalama olayýndan|sonra tutuklandýlar.
+{17689}{17736}Þehir savcýsý Nichols kardeþler ile
+{17736}{17824}McVeigh arasýndaki baðlantýyý görmüþtü..
+{17824}{17924}Hemen yakýnda oturan James ve|o sýrada orada olmayan Terry
+{17924}{18003}küçük bombalar yaparlarken|þikayet edildiler..
+{18007}{18082}Terry Nichols suçlu bulundu ve|ömür boyu hapse mahkum oldu.
+{18091}{18146}Timothy McVeigh idam edildi.
+{18162}{18250}James'e karþý birþey bulamadýklarýndan,|delil yetersizliðinden beraat etti.
+{18253}{18371}Özgür olduðum ve yaþamýmý yaþayabileceðim|için çok mutluyum.
+{18371}{18426}Timothy McVeigh burada mý oturuyordu?|-Evet.
+{18449}{18559}Birkaç kez.. En uzunu 3 aydý ya da onun gibi birþey..
+{18559}{18599}Ýyi bir herifti..
+{18599}{18629}Uyumlu?
+{18637}{18708}Polis hiçbir þey bulamadý mý?|-Ne gibi?
+{18711}{18749}Bomba malzemesi gibi?|-Patlayýcý.
+{18760}{18894}Eh iþte.. Dinamit ateþleyiciler,|Dinamit malzemesi, Siyah kükürt..
+{18894}{19041}..öndeki depo için, dizel,  ..........,|ama bunlar normal çiftlik malzemesi.
+{19041}{19186}Oklahoma'daki bombalamayla hiçbir|ilgisi yok bunlarýn..
+{19186}{19248}Kanun kaçaklarý, tabi onlara böyle|denebilirse, buradalarken..
+{19285}{19348}çok korktular..
+{19358}{19443}..yalvardýlar.. Çok korkuyorlardý.
+{19443}{19466}Neden?
+{19466}{19572}Onlar bunun tam bir son olduðunu düþündüler..|Çünkü bazý çok bilmiþler..
+{19618}{19693}..eski eþim, diðer insanlar..
+{19696}{19813}benim her kolunun altýnda bir silahý olan|kural tanýmayan biri olduðumu söylüyorlardý..
+{19813}{19886}..bacaðýmda, ayakkabýmýn altýnda,|her köþede bir silah..
+{19892}{19944}..
+{19968}{20035}Nasýl yanýldýklarýný da gördüklerinde..
+{20035}{20153}..ve yönetimin onlarý nasýl köleleþtirdiðini..
+{20153}{20209}..yetkililerin..
+{20280}{20375}..iþte ondan sonra büyük bir öfke..
+{20389}{20488}ile uyanacaklar|ve çok kan akacak..
+{20488}{20612}Eðer yönetenler böyle taraflý ise,|onlarý yerlerinden etme hakkýmýz vardýr..
+{20612}{20751}Neden Gandi'ler gitmedi? Çünkü|onlar Ýngilizlere silahlar olmadan karþý durdular.
+{20751}{20830}Bunu bilmiyordum..
+{20879}{20975}Oscoda'nýn buraya psikopatlarý|getirme gibi bir alýþkanlýðý vardý.
+{20979}{21008}Bu Brent..
+{21008}{21068}Bu da onun sýký dostu "DJ".
+{21081}{21182}Oscoda-Michigan'da yaþýyorlar,|Nichol'ün çiftliðinin yakýnýnda.
+{21189}{21370}Colorado'daki Columbine lisesini kundaklamakla suçlanan Eric Harris|çocukluðunun bir bölümünü burada geçirmiþti.
+{21392}{21552}Eric, Körfez Savaþý sýrasýnda babasýnýn pilot olarak görevlendirdiði ve|þimdilerde füzelerin test edildiði Oscado bölgesinde yaþýyordu..
+{21555}{21677}Savaþta atýlan bombalarýn %20'si Oscado'daki hava|alanýndan kalkan uçaklarca atýlmýþtý..
+{21705}{21774}Brent'e, Eric'i tanýyýp tanýmadýðýný sordum.
+{21774}{21863}Onu kiþisel olarak tanýmýyordum.|Ben buraya takýlmadan önce gitmiþ.
+{21863}{21927}Ben daha yedi yýldýr buradayým.
+{21927}{21986}Onu tanýyanlardan bildiklerin var mý?
+{21986}{22096}Evet, benim bir arkadaþým tanýrdý onu,|onun sýnýfýndaydý.
+{22096}{22188}Olanlarý duyduðumda, þok olmuþtum.
+{22188}{22305}Herþeyden önce, buradan birinin|böyle birþey yapmýþ olmasý..
+{22305}{22398}Ben çok erken,|lisede buraya geldim.
+{22398}{22429}Neden?
+{22429}{22521}Sýnýfýmdakilerle kavga etmiþtim|ve birine silah doðrultunca..
+{22521}{22584}Nasýl birþey?|-Bir 9mm.
+{22583}{22639}Çok bela olabilirdi.|-Çok mu kötü?
+{22639}{22715}Çok kötü..|-Yani sen Eric Harris olabilirdin..
+{22715}{22794}Ve sonra buraya gönderildin..|-Evet, 380 günlüðüne..
+{22794}{22882}ya da  165..|Bir okul yýlý iþte..
+{22902}{23004}Ben de hep Colorado'ya gitmek|istemiþtim.
+{23004}{23098}Colorado'ya?|-Orada akrabalarým var.
+{23098}{23199}Dayým Columbine lisesinde çalýþýyor.
+{23199}{23275}Gerçekten mi? Columbine nasýldý|Oscoda ile karþýlaþtýrýrsan?
+{23275}{23417}Bombacý listesinde ikinci sýradaydým..|Buradaki arayanlar yüzünden.
+{23420}{23482}Nasýl? Yani bombacý olabileceklerle ilgili..
+{23482}{23529}Þüpheliler..
+{23529}{23632}Columbine'a bombalý saldýrý yapma|ihtimali bulunan öðrenciler?
+{23632}{23714}Ve sen listede 2. sýradaydýn.|-Evet, iki ya da üç numara..
+{23714}{23747}Peki neden?
+{23747}{23874}Aslýnda sadece..|..bu þehir insanlarý mahvediyor..
+{23874}{23930}Ama nasýl oldu da senden þüphelenildi?
+{23930}{23971}Ben problem çocuktum..
+{23996}{24042}Okulda hýr gür mü?|-Evet.
+{24042}{24151}Ama yine de neden listenin|ikinci sýrasýndaydýn?
+{24151}{24205}Potansiyel tehlikeli öðrenci?
+{24229}{24311}Hadi, bir nedeni olmalý bunun.|-Ya tamam..
+{24311}{24379}Bende þu þeyden vardý,|hani "Anarþistler için Yemek Tarifleri".
+{24379}{24437}Orada, nasýl bomba yapýldýðý yazar.
+{24437}{24538}Ve ne zaman birþey olsa, hep beni|suçlarlardý.. Halbuki buna ihtiyacým yok..
+{24538}{24589}Sadece, bu kitap sende olduðu için..
+{24589}{24669}Hiç bir bomba yaptýn mý?|-Hayýr.. ..evet, bir kere..
+{24708}{24787}Pek büyük birþey deðil,|boru tipi..
+{24797}{24872}Küçük tenis topu bombasý gibi..
+{24933}{25063}Kitaptan son yaptýðým þey ise..
+{25063}{25147}sanýrým, 20 litrelik bir Napalm'di..
+{25184}{25237}El yapýmý Napalm..
+{25240}{25289}Okul arkadaþlarýn bunu biliyor muydu?
+{25289}{25378}Ve sen ikinci sýradaydýn..|Birinci kimdi?
+{25395}{25509}Adýný bana hiç söylemediler,|ve buna çok koydu..
+{25509}{25620}Çünkü sen bir numara deðildin..|-Evet, biliyorum, berbat birþey..
+{25620}{25727}Ama bu Ego'yla ilgili birþey..
+{25727}{25839}Oscoda'da kalsaydým bir numara olurdum,|ve bomba listesinde de bir numara..
+{25858}{25943}Oklahoma'daki bombalama doðru muydu?
+{25943}{25996}Ben siz olduðunuzu söylemiyorum..|-Hayýr, Hayýr..
+{25996}{26089}Neden o bina yerle bir edildi?|Bu, iyi bir soru.
+{26089}{26121}Ve kim tarafýndan?
+{26121}{26178}Kim olursa olsun, yanlýþtý?
+{26181}{26307}Ýnsanlarý öldürmek yanlýþtý?
+{26313}{26421}Ben kalemin kýlýçtan daha keskin|olduðuna inanýrým..
+{26421}{26538}Ama kalemin iþe yaramadýðý durumlar için,|yanýnda her zaman bir kýlýç olmalý.
+{26538}{26620}Yastýðýmýn alrýndan ben 44lük|bir Magnum bulundururum.
+{26624}{26691}Hadi caným, herkes öyle der.
+{26691}{26753}Gerçek mi bu?|-Evet.
+{26753}{26801}Tüm dünya bunu bilir.
+{26801}{26901}Þu anda Magnum yastýðýnýzýn|altýnda mý?
+{26901}{26989}Gerçekten?|Bize gösterebilir misiniz?
+{26989}{27068}Beni yatak odasýna götürdü, ama|kameraman dýþarýda kalacaktý.
+{27084}{27168}Gerçekten yastýðýnýn altýnda 44lük bir Magnum var.
+{27181}{27255}Ýþte bu.|Dolu mu?
+{27317}{27383}NICHOLS SILAHI ELINE ALDI VE|ÞAKAÐINA DAYADI.
+{27383}{27453}Kafanýza silah dayýyorsunuz?
+{27453}{27575}Bana birþey olmaz.|-Ama o dolu!
+{27575}{27610}Ama zararsýz.
+{27610}{27691}Korumayý kaldýr,|Tetiði çek ve areþ et..
+{27691}{27725}Býrakýn tetiði.
+{27725}{27843}Bunu benden kimse alamaz!|Þartnamede bunlarýn hepsi yazýlý.
+{27850}{27887}Tabancalar mý?
+{27887}{27968}Hayýr, silahlar..|-Burada "Tabancalar" yazmýyor.
+{27968}{28034}Burada "silahlar" yazýyor.|-Silahlar nedir ki?
+{28034}{28106}Örneðin nükleer silahlar..|-Evet!
+{28106}{28202}Sizce, tarlanýzda plutonyum bulundurma|hakkýna sahip misiniz?
+{28202}{28271}Silahlar için plutonyum?|-Ýstemezdim.
+{28271}{28343}Ama hakkýnýz olmalý mý buna?
+{28343}{28378}Sýnýrlandýrýlmýþ olmalý.
+{28378}{28436}Yani sýnýrlara inanýyorsunuz?
+{28436}{28520}Dýþarýda bir sürü manyak dolanýyor.
+{28658}{28744}Utah'taki Virgin bölgesi kanunlarýna göre..
+{28744}{28818}..bölgede yaþayan herkesin|bir tabanca bulundurma hakký var.
+{28834}{28900}TAM ON IKIDEN VURUN!
+{29189}{29302}Kerry McWilliams atýþ talim sonuçlarýný|gururla gösteriyor.
+{29316}{29403}Bu sýrada hiçbir þey görmüyor..|..çünkü kendisi görme özürlü..
+{29422}{29546}Kerry çocukluðunda eline bir M-16 aldýðý|günden beri silahlarý çok seviyor..
+{29555}{29632}Kendimi seri atan silahlarla|çok daha iyi hissediyorum.
+{30118}{30224}Burasý çocuk büyütmek için|harika bir yer.. Gerçekten harika..
+{30241}{30313}Biz burada samimi bir topluluðuz..
+{30316}{30415}Herkes herkese dikkat ediyor..|-Ýyi insanlar?
+{30418}{30472}Burasý iki genç adamýn..
+{30472}{30573}..kötü kararlar alýp, yaptýklarýndan sonra..
+{30573}{30644}uluslararasý tanýndýklarý bir yer.
+{30652}{30803}Bunun dýþýnda Littleton'un diðer|yerlerden pek bir farký yok.
+{31014}{31102}Sizlere firmamýzýn merkezi olmak için..
+{31102}{31173}..harika bir yer bulduðumuzu söylemek istiyorum:|Güney Metro Denver.
+{31189}{31248}Görüyorsunuz, buna burada ihtiyacým yok..
+{31248}{31363}çünkü Güney Metro Denver'da týpký|Güney Kaliforniya'daki kadar güneþ..
+{31363}{31413}..ve sýcaklýk var.
+{31421}{31485}Ýnanýlmaz.|Kendiniz görün.
+{31485}{31547}Bu hoþunuza gitti mi, Bay Edwards?
+{31760}{31868}Denver'ýn güneyinde, Littleton|adýnda bir yerdeyiz.
+{31868}{32005}Burasý orta karar insanlarýn|yaþadýðý bir yer.
+{32005}{32083}Hýrsýz ya da benzeri birþey hiç|olmadý buralarda.
+{32095}{32188}Bazen görevliler gelip soruyorlar..
+{32188}{32283}..hýrsýzlar nerede diye.
+{32295}{32346}Eðer size birþey saplamak istesem..
+{32349}{32432}..buraya çok yakýn duruyor olmanýz gerekir?
+{32432}{32516}Evet.. Sonuçta..|-Peki ya bende daha fazlasý varsa?
+{32516}{32597}Aþaðýda bir panik odasý var.
+{32597}{32670}Bu masif bir kapý..|..oldukça aðýr.
+{32670}{32793}Ýçeri giren kiþi önce bu kapýyý kýrmak zorunda..|Çok aðýr..
+{32797}{32848}Ama bir baltayla yapabilir..|-Doðru.
+{32852}{32934}Bence Columbine'da iki þey deðiþti:
+{32934}{33027}Birincisi, artýk birbirimizle konuþuyoruz.
+{33041}{33064}Neden?
+{33064}{33136}Eðer "Columbine" dersem,|herkes ne demek istediðimi bilir.
+{33136}{33218}Kimselere olanlarýn Columbine'da..
+{33297}{33370}Evet?|-Hiç..
+{33370}{33404}Ne oldu?
+{33404}{33479}Bazen Columbine'da bulunmak..
+{33479}{33542}Tamam, hallolur þimdi..|-Sorun deðil.
+{33674}{33758}Bu þey gibi..
+{33781}{33894}..birþeyler çok fazla..
+{33908}{34025}Acýmasýzlýk,|bu inanýlmaz nefret,
+{34025}{34102}bu elde olmayan..
+{34102}{34145}..öldürme duygusu.
+{34191}{34250}Dünyanýn en büyük silah üreticisi
+{34250}{34309}Buradaki bu fabrika
+{34317}{34399}ve arkadaþlarýmýzýn da çalýþtýðý|diðer ikisi
+{34399}{34470}hep Littleton çevresindeler.
+{34482}{34571}Bu fabrikalarda 5000'den fazla|çalýþanýmýz var.
+{34571}{34625}Bunlardan çoðu Littleton'da yaþýyor
+{34625}{34706}ve çocuklarý da|Columbine Lisesi'ne gidiyor.
+{34706}{34843}Columbine'da olan olaylar|genelin küçük bir örneði galiba
+{34843}{34911}dünya genelinin
+{34924}{35014}Burada her yerde bu amblemi görüyoruz.|"Biz Columbine'nýz".
+{35014}{35132}Lockheed Martin, kendini|en büyük iþveren olarak mý görüyor
+{35132}{35198}En büyük silah üreticisi ve böylece:|"Biz Columbine'nýz"?
+{35198}{35312}Biz bu ruhu canlý tutuyoruz:|"Hepimiz bu yerin birer parçasýyýz".
+{35331}{35416}Ve bu bizi|birbirimize baðlýyor.
+{35430}{35535}Burada Littleton'da kimsenin,|hatta Lockheed yöneticilerinin de,
+{35535}{35627}Columbine'daki gençlerin neden saldýrganlaþtýðýný|anlamadýklarýný söyledi.
+{35632}{35730}Neden gençler bunu yapýyor?
+{35736}{35860}Bunun içlerinde onlara herþeyi yaptýran|kýzgýnlýkla ilgisi var.
+{35870}{35966}Þiddeti kontrol eðitimi, kavramýný|ilk duyduðumuzda,
+{35970}{36056}100.000 Dolar bütçe ayýrdýk..
+{36056}{36153}böylece buradaki okullar bu|eðitimi öðrencilere verebilecekti.
+{36153}{36226}Biz bu yolla öðrenci ve öðretmenlere,|sinirleri ile
+{36226}{36325}baþ etmenin yollarýný göstermek istedik.
+{36331}{36390}Sizce çocuklarýmýz þöyle|demiyor mudur:
+{36390}{36446}"Babam her gün bu fabrikaya geliyor.
+{36446}{36555}ve roketler ve|insan yokedici mühimmat üretiyor.."
+{36555}{36703}Sonuçta bu yoketme güdüsü ile|Columbine'daki bu öfke ayný þey deðil mi?
+{36718}{36811}Ben burada bir baðlantý göremiyorum,
+{36811}{36910}Çünkü buradaki roketler bizi diðer
+{36910}{37014}düþmanlara karþý korumak için|üretiliyor.
+{37014}{37103}Topluluklar, ülkeler ve yönetimler|karþýlýklý olarak birbirlerini kýþkýrtýyor..
+{37103}{37157}ama biz bu öfkemizi
+{37157}{37285}kontrol etmeyi öðrenmeliyiz..
+{37301}{37378}Birisi bizi kýzdýrýyor diye,|ya da sinirlendiðimiz için,
+{37378}{37461}kimseyi öldürmüyor ya da ona|bombalar atmýyoruz..
+{37552}{37663}1953: Ýran Baþbakaný Mossadeq, ABD tarafýndan|görevinden edildi.
+{37677}{37775}ABD Þah'ý diktatör olarak baþa getirdi..
+{37800}{37865}1954: ABD, Guatemala'da demokratik olarak seçilen|Baþkan Arbenz'i devirdi.
+{37865}{37913}200.000 sivil öldü.
+{37936}{38038}1963: ABD, Güney Vietnam baþkaný|Diem'i öldürttü.
+{38078}{38174}1963-1975: ABD ordusu, Güney Asya'da7|4 milyon sivili öldürdü.
+{38193}{38252}11 Eylül 1973:|ABD, Putþ'u Þili'de baþa geçirdi.
+{38252}{38337}Demokratik olarak seçilen baþkan|Allende öldürüldü.
+{38337}{38403}ve DiktatÖr Pinochet yerine getirildi.
+{38425}{38474}5.000 Þili'li öldürüldü.
+{38492}{38562}1977: ABD, El Salvador'daki askeri|yönetimi devirdi.
+{38588}{38681}70.000 Salvadorlu ve 4 Amerikan hayat kadýný|öldürüldü.
+{38737}{38840}1980'den itibaren: ABD, Bin Laden ile Sovyet'leri vurmak|için teröristler yetiþtirmeye baþladý.
+{38840}{38924}CIA onlara 3 Milyar Dolar verdi.
+{38942}{39002}1981: Reagen-yönetimi "Kontra"lara|para yardýmý yaptý.
+{39002}{39072}30.000 Nikaragualý öldü.
+{39125}{39188}1982: ABD, Saddam Hüseyin'e milyarlýk|silah yardýmýnda bulundu..
+{39188}{39240}..Ýran'lýlarý öldürmesi için..
+{39267}{39360}1983: Beyaz Saray Iraklýlarý öldürmeleri için|gizli biçimde Ýran'a silah sattý.
+{39422}{39489}1989: Manual Noriega,|CIA-ajaný ve Panama baþkaný..
+{39489}{39525}..Washington'un emirlerine karþý geldi.
+{39556}{39652}ABD, Panama'ya girdi|ve Noriega'yý devirdi.
+{39682}{39762}3.000 panamalý sivil öldü.
+{39781}{39867}1990: Irak, ABD'den aldýðý silahlarla|Kuveyt'i iþgal etti.
+{39876}{39938}1991: ABD, Irak'ý vurdu.
+{39938}{40008}Bush, Kuveytli diktatörü yeniden|baþa geçirdi.
+{40027}{40111}1998: Clinton, Sudan'da bir "Silah fabrikasýný"|bombaladý..
+{40145}{40209}Fabrikada "Aspirin" üretiliyordu.
+{40224}{40312}1991'den bugüne: ABD uçaklarý|haftanýn her günü Irak'ý bombalýyor.
+{40329}{40372}BM, ölen bomba ve etkilerinden ölen
+{40372}{40446}Iraklý çocuk sayýsýnýn 500.000 civarý|olacaðýný tahmin ediyor.
+{40457}{40597}2000-2002: ABD, Afganistan'da Taliban yönetimine|245 Milyon Dolar yardýmda bulundu.
+{40616}{40774}11 Eylül 2001: Bin Laden, CIA'de gördüðü eðitimi|3.000 insaný öldürmek için kullandý.
+{41097}{41265}Denver'ýn güneyinde, Littleton'da ABD Hava Silahlarý Akademisi'nde|orjinal bir B-52 bombardýman uçaðý var.
+{41269}{41453}Tabelasýnda gururla, bu uçaðýn 1972 Noel'inde|Viyetnamlýlarý öldürdüðü yazýyor.
+{41460}{41554}Viyetnam savaþýnýn en büyük bombardýmanýydý.
+{41563}{41701}Þehrin hemen dýþýnda dünyanýn en büyük|Plutonyum Bomba Üreticisi Roky Flats bulunmaktadýr.
+{41701}{41768}Dev gibi, radyoaktif bir çöplük.
+{41768}{41923}Buradan birkaç mil ötede Norad bulunuyor.|Nükleer füzelerimiz için kontrol merkezi.
+{41923}{41995}Tümü Colorado'nun her yanýna yerleþtirilmiþ..
+{42085}{42203}Ve ayda bir kere Lockheed, Pentagon emri ile|roketleri transfer ediyor..
+{42203}{42408}.. Columbine Lisesi'nin yanýndan Littleton yollarý üzerinden,|Denver'ýn sonundaki fýrlatma rampalarýna..
+{42421}{42564}Roketler geceleri transfer ediliyor..|Columbine'ýn çocuklarý uyurken.
+{42824}{42899}ABD'nin Kosova'daki bir günlük yoðun bombardýmanýnda..
+{42931}{43045}..Bogutovac þehri üzerine 22 Nato füzesi|atýldý..
+{43049}{43141}Saldýrýnýn hedefi, sivil yerleþimlerdi.
+{43141}{43225}Bizler Sýrp savaþçýlarýn karþýsýnda savaþýyoruz.
+{43225}{43328}ve ayný zamanda sivil halký da korumaya çalýþýyoruz.
+{43328}{43418}Bir hastane ve bir ilkokul da vurulan hedefler|arasýndaydý.
+{43438}{43477}..Bir saat sonra..
+{43482}{43532}Hepimizin bildiði gibi Littleton, Colorado'da..
+{43532}{43608}..bir lisede, korkunç bir katliam yaþanmýþtýr.
+{43608}{43731}Umuyorum ki þu anda tüm Amerikalýlar, öðrenciler,|veliler ve öðretmenler için dua ediyordur.
+{43755}{43855}Daha fazla birþey söylemeden önce|geliþmeleri bekleyeceðiz..
+{43883}{43971}Jefferson Polisi, 911.|-Burada, Columbine'da biri ateþ ediyor.
+{43971}{44010}Yaralý var mý?|-Evet
+{44010}{44103}Boru tipi bombalarý var, Uzi'ler,|herþeyleri var!
+{44103}{44139}Benimle dalga mý geçiyorsunuz?|-Hayýr.
+{44139}{44198}Bir öðrenci sýrtýndan vuruldu.
+{44198}{44285}Bir diðeri de kafasýndan..|-Kafasýndan?
+{44290}{44360}Þerifin bürosu.|-Elimizde otomatik silahlar var.
+{44384}{44452}Bir sürü ambulans gönderin.
+{44452}{44531}Ateþ halen sürüyor mu?|-Evet.
+{44531}{44590}Vurulan öðrencilerle ilgilenmeye|çalýþýyoruz.
+{44590}{44703}Ýçeri kimseyi almayýn.
+{44703}{44783}Jefferson Polisi, 911.|-Merhaba, ben Izzy Povich, NBC'den.
+{44783}{44891}Okuldaki silahlý eylemle ilgili..|MSNBC'de canlý yayýndayýz.
+{44891}{45045}Birþeyler anlatabilir misiniz...|yani.. burada, canlý olarak..
+{45045}{45114}Sizi hemen yayýna alabilirim.|-Demek istediðinizi anladým.
+{45114}{45207}Þimdi kütüphaneye|girdi.
+{45207}{45276}Yani adam þimdi kütüphanede mi?
+{45276}{45326}Stephanie Phillips, "Dateline"dan,|nasýlsýnýz?
+{45326}{45386}Saðolun,|Þovunuzu çok beðeniyorum!
+{45386}{45439}Sevindim.|-Sizi hiç kaçýrmýyorum!
+{45439}{45473}Teþekkürler.|-Rica ederim.
+{45473}{45504}Jefferson Polisi, 911.
+{45504}{45635}Ben lisede öðretmenim.|Bir öðrenci pencereyi darmadaðýn etti.
+{45635}{45696}Yaralý var mý?|-Evet!
+{45696}{45797}Burada herkes panikte...|Ben kütüphanedeyim...
+{45797}{45876}Çocuklar, masalarýn altýna girin!
+{45876}{45917}Kafanýzý aþaðý indirin!
+{45917}{45987}Bir öðrenci dýþarýdaydý...|Aman Tanrým!
+{45987}{46074}Elindeki silahý gördüm ve dedim ki:
+{46074}{46136}"Burada ne oluyor?"|Hemen üzerimize ateþ etti.
+{46136}{46245}Pencere paramparça oldu... Sanýrým,|yanýmdaki bir öðrenci de vuruldu.
+{46245}{46272}Yardým geliyor, bayan.
+{46272}{46340}Aman Tanrým!|-Hatta kalýn.
+{46405}{46482}Kütüphanede ateþ ediyor.
+{46482}{46529}Sürekli ateþ ediyor.
+{46536}{46607}Dýþarý çýkmalý mýyýz?|-Bir saniye...
+{46650}{46794}Þimdi kafeteryadan silah sesleri geliyor.|Buradan çýkmalýyým, sizi tekrar ararým.
+{46794}{46902}Bu kamera nereye gidecek?|Burada beklemekten aðaç oldum.
+{46902}{46943}Merhaba, burasý CNN, ben Wendy.
+{46943}{47012}Merhaba, Wendy.|Basýn'ý daha sonra arayacaðýz.
+{47012}{47128}Ama Fox birilerini bulmuþ..|Neden birileri Fox'a konuþuyor?
+{47128}{47246}Biliyorum ama çok fazla arama var.|Herkesle birden konuþamayýz.
+{47246}{47356}Ben kýzýmla konuþmalýyým.|Bir saattir bunun için uðraþýyorum.
+{47356}{47420}Bayým, sakin olun.
+{47420}{47511}Çocuklarýmýzýn nerede olduðunu|öðrenmek hakkýmýz!
+{47511}{47567}Herþey kontrol altýnda.
+{47567}{47660}Kimseye ulaþamýyorum!|Kýzýmla konuþmalýyým!
+{47660}{47709}Onunla ilgili kimden birþey öðrenebilirim?
+{47709}{47794}Hiçbir þey bilmiyorum?
+{47794}{47842}Neden, kahretsin?
+{47842}{47953}Sanýrým oðlum Eric Harris'in bu|olayla bir ilgisi var.
+{47953}{47991}ve ne?
+{47991}{48074}"Trenchcoat Mafyasý" denilen bir|grubun üyesi.
+{48074}{48179}Onunla bugün hiç konuþtunuz mu?|-Hayýr. Siz birini bulabildiniz mi?
+{48193}{48301}Halen þüphelileri arýyoruz.|Oðlunuz hangi grubun üyesi dediniz?
+{48301}{48398}Onlara "Trenchcoat Mafyasý" diyorlar.|Ýsimlerini televizyonda duymuþtum.
+{48398}{48481}Yerde kalýn. Vurulmanýzý istemiyorum.
+{48481}{48600}Yerde kalýn ve sessiz olun!
+{49030}{49116}Tüm bu saldýrý sona erdiðinde|Eric Harris ve Dylan Klebold
+{49116}{49185}12 öðrenci ve bir öðretmeni öldürmüþlerdi.
+{49208}{49316}Düzinelercesi, ateþlenen 900 mermi|yüzünden yaralanmýþtý.
+{49323}{49456}Kullandýklarý silahlarýn hepsini, silah satan|dükkanlardan almýþ ya da çalmýþlardý.
+{49456}{49555}Ve ateþlenen mermilerin çoðu, Littleton'da|yolun aþaðýsýndaki K-Markt'tan satýn alýnmýþtý.
+{49560}{49625}Ve Harris'in günlüðünde bunun dýþýnda..
+{49625}{49707}..bir uçak kaçýrma ve New York'un|üzerine düþürmekten söz eden satýrlar vardý.
+{49707}{49777}Bazýlarý bunu sadece bir fantezi olarak görebilir.
+{49785}{49877}Ve en sonunda, silahlarýný kendilerine çevirdiler.
+{49906}{50012}Kütüphaneye geldi ve|etrafýmdaki herkese ateþ etti.
+{50012}{50119}Kafama bir silah dayadý ve|ölmek isteyip istemediðimizi sordu.
+{50119}{50181}Koridorda ateþ sesleri duyduk..
+{50181}{50297}..ve sonra içeri girdiler..|..ve herkese masalarýn altýna girmesini söylediler..
+{50307}{50397}Sonra da kütüphaneyi ateþe|verdiler.
+{50397}{50491}Onlara yalvardým ve beni|öldürmemelerini söyledim.
+{50491}{50612}Sonra önümdeki kýzýn kafasýna|ateþ etti.
+{50612}{50695}Ve sonra zenci çocuðun..|..zenci olduðu için..
+{50785}{50836}Sizlere yalnýzca 5 sözcük söyleyeceðim:
+{50836}{50946}Benim soðuk ve ölü ellerimin altýnda!
+{50967}{51030}Columbine katliamýndan sadece 10 gün sonra..
+{51030}{51150}..tüm karþý çýkanlara raðmen, Charlton Heston|Denver'a geldi..
+{51150}{51272}Ve Ulusal Silah Organizasyonu için|bir yardým kampanyasý baþlattý.
+{51276}{51336}Günaydýn!
+{51353}{51465}Teþekkürler, geldiðiniz ve|organizasyonumuzu desteklediðiniz için..
+{51486}{51550}Bugün buraya gelmede gösterdiðiniz..
+{51550}{51654}cesaretinizi alkýþlýyorum.|Elime bir haber geldi:
+{51654}{51769}Denver valisi Bay Wellington Webb'den..
+{51819}{51868}Bana diyor ki:
+{51886}{52000}"Buraya gelmeyin.|Sizi burada istemiyoruz."
+{52048}{52134}Ben de ona diyorum ki:|Burasý bizim ülkemiz.
+{52134}{52265}Amerikalýlar olarak, ülkemizin her köþesine|istediðimiz gibi gitme hakkýmýz var.
+{52492}{52603}"Buraya gelmeyin, ha"?|Çoktan buradayýz!
+{52750}{52788}Bugün buradayým,
+{52810}{52909}..çünkü oðlum Daniel de burada olurdu.
+{53168}{53245}Eðer Daniel kurbanlardan biri olmasaydý..
+{53245}{53317}..bugün benimle burada olurdu.
+{53419}{53488}Bu ülkede birþeyler ters gidiyor.
+{53521}{53567}Eðer bir çocuk
+{53584}{53688}bu kadar kolay bir silah edinebiliyorsa..
+{53688}{53803}ve bir mermiyi..
+{53822}{53962}..oðlumun yüzünün ortasýna ateþleyebiliyorsa..
+{53982}{54134}..burada birþey ters gidiyor demektir.|Þunu anlamamýzýn zamaný geldi:
+{54134}{54270}Benim oðlumu öldüren, 30 atýþlýk bir Tech-9-Tüfek
+{54270}{54370}..av için kullanýlmaz..
+{54370}{54464}Bunun hiçbir anlamý yok..
+{54464}{54555}Bu sorunu konuþmanýn zamaný geldi.
+{54614}{54677}Çok sýký çalýþmalý ve|yüreðimizi koymalý..
+{54677}{54763}ve bu ülkeyi kötü olandan|temizlemeliyiz..
+{54763}{54802}Farklarýmýz ve ayrýlýklarýmýz olabilir..
+{54802}{54907}..ve geleneklerimiz de farklý olabilir..
+{54907}{55015}..ama eðer burada Denver'da|güneþ batacaksa..
+{55015}{55121}..bizim için, halk için batmalý..
+{55121}{55212}..ve biz güvenli topraklarda yaþýyor|olduðumuzu bilebilmeliyiz..
+{55212}{55339}Ben kendime düþeni yapacaðým.|Teþekkür ederim.
+{55411}{55477}Colorado'daki konferansý|yaptýðýnýzda..
+{55477}{55532}..Columbine olayýndan bir hafta sonra..|-Ulusal Silah Organizasyonu?
+{55532}{55631}Evet. Bu çok aptalcaydý.|Tabii ki buna "haklarý" vardý..
+{55631}{55722}ama neden tüm bir þehri|karþýnýza alýrsýnýz ki..
+{55732}{55781}Bu Matt Stone.
+{55781}{55878}Littleton'da büyümüþ ve|Columbine'ný severek hatýrlýyor.
+{55965}{56043}Littleton'dan Matt ve arkadaþý Trey Parker..
+{56043}{56184}..deðiþik olmakla ilgili hayallerini|bir kan havuzunu doldurmak yerine..
+{56184}{56243}..bir çizgi film üreterek giderdiler.
+{56260}{56338}Yine bildik bir Pazar sabahý..
+{56338}{56466}..benim dað eteklerindeki þehrimde.
+{56541}{56641}Nefesimiz havanýn içinde yokolur,|serseriler umrumuzda olmaz..
+{56641}{56733}..bu gülücükler havuzunda|boðulmak ister insan..
+{56733}{56849}..daðlarýn eteðindeki sessiz|þehrimizin bildik Pazar sabahýnda..
+{56849}{56954}Columbine normal bir yerin|tamamen normal bir lisesi..
+{56954}{57020}O kadar sýradan ki, insan üzülüyor..
+{57020}{57088}Tamamen üzücü ve düþündürücü..
+{57088}{57142}Littleton geneli..
+{57162}{57264}Halen hatýrlýyorum, altýncý sýnýfýn sonunda..
+{57264}{57365}..yedinci sýnýfa geçmek için bir|Matematik sýnavýný geçmem gerekiyordu.
+{57365}{57459}Bana dediler ki: "Bu þansýný sakýn|harcama. Yoksa kalýrsýn.
+{57459}{57541}..yedinciye geçemezsen,|sekizinciye de geçemezsin,
+{57541}{57633}..sonra dokuzuncu, onuncu ve on birinci,|ve sonra yapayalnýz ve yoksul ölürsün..
+{57633}{57660}Ve bu böyleydi."
+{57685}{57801}Lisene inanýrsýn, sýnýf arkadaþlarýna|inanýrsýn,
+{57801}{57875}ama öðretmenler ve rektörler|hiçbir iþe yaramaz.
+{57875}{57989}Seni daha iyi olman ve uyum|saðlaman için korkuturlar.
+{57989}{58085}Derler ki: "Eðer þimdi boþverirsen,|bundan sonra hep boþverirsin."
+{58085}{58152}Eric ve Dylan|serseriler diye biliniyordu.
+{58152}{58213}Akýllarýnda bir þey vardý:|"O zaman ben hep bir serseri kalacaðým."
+{58213}{58278}Keþke insanlar onlara þunu söyleyebilselerdi:
+{58278}{58424}"Lisenin sonu herþeyin sonu deðildir.|Bir yýl daha ve sonra herþey bitecek..."
+{58424}{58508}Ýki haftacýklarý daha vardý!
+{58508}{58608}Evet. Ve ondan sonra bir daha|o insanlarý görmek zorunda deðillerdi.
+{58608}{58704}Ama kafana daha en baþta sokuyorlar:
+{58704}{58785}"Bu þansýný kaçýrma,|yoksa yapayalnýz ve yoksul ölürsün."
+{58785}{58856}Ve sen de diyorsun ki: "Kahretsin,|þimdi ne isem hep öyle kalacaðým!"
+{58856}{58948}Burada uymayan birþey var.. Sýnýf arkadaþlarýn|daha sonra harika iþler baþarýrlar..
+{58948}{59030}Ve cool tipler ileride Littleton'daki|sigorta firmalarýnda çalýþmaya baþlar..
+{59030}{59122}Bu hemen herkesin baþýna gelir!
+{59135}{59251}Belki onlara biri bunu söylemiþ olsaydý,|böyle birþey yapmamýþ olacaklardý.
+{59251}{59290}Bunu neden yaptýklarýný asla öðrenemeyeceðiz.
+{59290}{59407}Ama yetiþkinler birþeyi hiçbir zaman unutmamalý:|Teenage olmak her zaman can sýkýcýdýr.
+{59407}{59462}Ve okula gitmek, daha da can sýkýcýdýr.
+{59462}{59498}Liseden beklentilerin nedir?
+{59501}{59582}Ortamý seviyorum. Öðreniyorum,
+{59582}{59656}..benden nefret edenler beni|sinir ediyor,
+{59656}{59712}..ve rektör g.tün teki.
+{59720}{59779}Sence okullardaki þiddetin|sebebi nedir?
+{59801}{59859}O, oradaki.
+{59897}{60035}Evet, ve Columbine'dan sonra Amerika'da|öðrenci olmak da sinir bozucu birþey..
+{60049}{60105}Columbine'daki olaydan sonra..
+{60105}{60186}..sýfýr tolerans politikasýný|baþlattýlar..
+{60186}{60274}ve garip davranan ya da farklý|öðrencilerden..
+{60274}{60365}..olasý þiddet hareketlerinde|hep þüphelenildi.
+{60365}{60487}Bu çocuk yanýnda bir iðne tutucu|okula getirdiði için uzaklaþtýrma aldý,
+{60487}{60532}..okula göre bir silah..
+{60532}{60586}Bu birinci sýnýf öðrencisi
+{60586}{60664}..öðretmenine bir tavuk parçasý|doðrulttuðu için ceza aldý..
+{60664}{60737}8 yaþýndaki çocuk, öðle yemeðinde takýlýrken,|Þnitzel'i öðretmenine doðrultup..
+{60737}{60832}.."Dan!" sesi çýkarmýþtý..
+{60832}{60899}Bu ise silah þeklinde kývrýlmýþ|bir kaðýt parçasýný
+{60899}{61002}arkadaþlarýna doðrultup, gizlenmezlerse|onlarý vuracaðýný söylemiþti.
+{61002}{61079}Bu bir ön uyarý deðilse,|nedir peki?
+{61079}{61159}Virjinya'dan bu öðrenci, bir ay|sýnýfa girmeme cezasý aldý..
+{61159}{61223}..sadece saçlarýný maviye boyadýðý için.
+{61226}{61328}Michigan'dan bu elite öðrenci ise|bugün suçlanýyordu..
+{61328}{61451}17 yaþýndaki Jeremy Hicks okul|balosuna geleneksel Ýskoç kýyafetiyle gitmiþti..
+{61451}{61531}..kýyafetin aksesuarlarý arasýnda..
+{61531}{61607}..bir de küçük býçak bulunuyordu..
+{61607}{61671}Bu t-shirt öðrencileri mahkemeye|götürdü..
+{61671}{61726}Anarþist bir kulüp kurmak|istedikleri söylendi.
+{61726}{61819}Burada her an patlayabilecek|saatli bombalar týklýyor..
+{61819}{61872}Her ortamda birçok kiþi..
+{61872}{61970}ve yedi eyalette bir çok öðrenci,|planladýklarý eylemler yüzünden
+{61970}{62044}göz altýna alýndý ya da suçlandý.
+{62044}{62105}Bu bir gerilla savaþý gibi..
+{62105}{62206}düþmanýn nereden geleceðini asla|bilemezsiniz.
+{62215}{62294}Klasik ve standart bir giyim ile..
+{62294}{62361}okullardaki güvenliði|arttýrabiliriz..
+{62361}{62441}ve herkes için pozitif bir|öprenme ortamý yaratabiliriz..
+{62441}{62498}Bu öðrencini kýyafetlerinden|görebileceðiniz gibi..
+{62498}{62622}böyle bol kýyafetlerin içine birçok|silah saklanabilir..
+{62622}{62715}ve bunu dýþarýdan anlamak|neredeyse imkansýz..
+{62715}{62782}Zorunlu kýyafet,|silah taþýma ihtimalini azaltýr,
+{62782}{62833}gruplar arasýndaki gerilimi azaltýr,
+{62833}{62961}disiplin bozulmalarýný azaltýr ve|iyi bir okul atmosferi saðlar.
+{62961}{63043}Biz pantolona sokulan tipte|gömlekleri savunuyoruz,
+{63043}{63112}böylece kemer bölgesi açýkça|görülebilir..
+{63112}{63171}Öðrencilerimiz bol pantolonlar|ya da..
+{63171}{63290}..gruplarla ilgili iþaret be|boyalarý taþýyamayacaklar..
+{63290}{63352}Bu halkýn istediði bir düzen..
+{63362}{63436}Evet, gerçekten çocuklarýmýz|korkulmasý gereken þeylerdi..
+{63488}{63560}Küçük birer canavar olmuþlardý.
+{63580}{63619}Ama suçlu kimdi?
+{63619}{63665}Her uzmanýn bir cevabý var.
+{63665}{63755}Þiddet dolu Heavy-Metal kültürü..
+{63755}{63813}Veliler.|-Þiddet filmleri.
+{63813}{63860}South Park.|-Video oyunlarý.
+{63860}{63895}Televizyon.|-Eðlence.
+{63895}{63933}Þeytan.|-Çizgi filmler.
+{63933}{63972}Toplum.|-Haplar.
+{63972}{64040}Rock'cý Marilyn Manson.
+{64112}{64214}Marilyn Manson Littleton'daki|olaylar nedeniyle,
+{64214}{64261}ABD'deki turnesinin|beþ konseri iptal etti.
+{64261}{64364}Þarkýcý, kendisi gibi sanatçýlarýn|bir suçu olmadýðýný söyledi.
+{64364}{64471}Bu grup, þu ana kadar bir plak firmasýnca|albümü yapýlan..
+{64471}{64526}..en berbat ve korkunç grup.
+{64533}{64589}Ben bir köle deðilim..
+{64589}{64695}..olmayan bir tanrýnýn kölesi.
+{64695}{64790}Columbine'daki olaylarla ilgili herkesin|tek bir açýklamasý vardý:
+{64790}{64896}Katiller Marilyn Manson dinliyorlardý.
+{64896}{64989}Columbine olaylarýndan iki yýl sonra|Manson bir kez daha Denver'a geldi.
+{64989}{65093}Kutlamalar, Rock'cý Manson'u bir|kez daha Denver'a getirdi.
+{65111}{65171}Muhafazakar kesimin protestolarý var.
+{65188}{65257}Ama gidip onunla kendim konuþmak istedim.
+{65257}{65328}Çocukken müzik benim için bir kaçýþ yoluydu.
+{65328}{65410}Taraflardan uzak olan|tek þeydi benim için..
+{65410}{65510}Komik giyindiðin için, dinlediðin|bir plak seni asla suçlamaz.
+{65510}{65559}O, seni olduðun gibi kabullenir.
+{65585}{65653}Bazýlarý provoke edercesine..
+{65653}{65763}tüm Manson konserine gidenlerin|sonraki gün ortalýðý kana bulayacaðýný söylüyorlardý..
+{65763}{65812}Cevabým: HAYIR!
+{65812}{65921}Her reklamýný gören, gördüðü|þeyi gidip satýn alýyor mu?
+{65921}{65972}Hayýr.|Ama bazýlarý alýyor.
+{65972}{66055}Beni neden kurban seçtiklerini|biliyorum..
+{66055}{66140}Benim yüzümü televizyona|çýkarmak daha kolay..
+{66140}{66253}..çünkü ben korkuyu temsil|eden biriyim..
+{66253}{66390}Ben herkesin korktuðu þeyi yapýyorum|ve söylemek istediðimi söylüyorum.
+{66390}{66490}Marilyn Manson þehrimize|nefret ve þiddet..
+{66490}{66584}ihtahar, ölüm ve uyuþturucu getirecek|ve Columbine olayýný yaygýnlaþtýracak..
+{66584}{66660}Önce bizi çiðnemesi gerekiyor!
+{66660}{66798}Bu trajedinin geitrdiði|iki þey vardý..
+{66798}{66867}Eðlencede silah kullanma|ve silah kontrolü..
+{66867}{66995}Bu ikisinin seçim malzemesi|olmasý ne kadar ilginç..
+{66995}{67056}Monica Lewinsky'yi unuturlar..
+{67056}{67154}ve baþkanýn baþka ülkeleri|bombaladýðýný unuturlar..
+{67172}{67304}Ama ben kötü çocuðum..|çünkü Rock'n Roll parçalarý söylüyorum.
+{67304}{67374}Kimi daha çok etkisi var,|baþkanýn mý, Marilyn Manson'ýn mý?
+{67374}{67444}Ben olmak isterdim ama|baþkanýn daha çok etkisi var.
+{67444}{67494}Columbine'daki olaylarýn olduðu|gün, ABD'nin Kosova'ya en çok..
+{67494}{67608}bomba attýðý gün olduðunu|biliyor muydun?
+{67608}{67675}Biliyordum|ve bunu çok ironik buluyorum..
+{67675}{67810}kimse "baþkan bu þiddet olaylarýna|sebep oluyor" demiyor.
+{67810}{67895}Medya da bunu bu þekilde sunmak istemiyor.
+{67895}{67994}Çünkü televizyonda ve haberlerde..
+{67994}{68103}..insanlara korku pompalanmalý:|Seller, AIDS, ölüm..
+{68103}{68205}Reklam arasý.|"Acura alýn, Colgate alýn."
+{68205}{68255}"Aðzýný kokarsa kimse sizinle konuþmaz."
+{68255}{68324}"Sivilcelerin olursa hiçbir kýz sana vermez."
+{68324}{68434}Bu korkunun bir|kampanyasý..
+{68434}{68521}Tüm bu düþünce insanlarý korkar..
+{68521}{68591}ve panik halinde tutmak için|çabalýyor..
+{68591}{68687}Bence bunu bu yolla azaltabiliriz..
+{68687}{68781}Eðer Columbine'daki insalarla|konuþacak olsan,
+{68781}{68840}onlara ne söylemek isterdin?
+{68840}{68929}Hiçbirþey söylemez,|onlarýn söyleyeceklerini dinlerdim.
+{68929}{68992}Ve bunu kimse yapmadý.
+{69017}{69091}Ben Nicole Schlieve.|-Ben de Amanda Lamontaigne.
+{69091}{69132}Columbine Lisesi'nden mi?
+{69132}{69182}Eric ve Dylan'la birlikteydiniz?
+{69203}{69251}Ayný sýnýfta?|-Evet, Bowling-Sýnýfý'nda.
+{69251}{69335}Bowling-Sýnýfý?|Nedir bu?
+{69335}{69451}Bunu bir spor dalý olarak görebiliriz.
+{69451}{69527}Zihinsel deðeri nedir bunun?
+{69573}{69685}Yok ki..|-Hayýr.
+{69685}{69760}Þimdi daha iyi bowling oynuyorum,|bundan eminim..
+{69760}{69847}Eric ve Dylan nasýllardý?|-Acýnacak durumda.
+{69847}{69964}Pek ortama takýlmazlardý.|-Onlarý pek tanýmýyorum.
+{69964}{70036}Çok çekingenlerdi.
+{70036}{70106}Ýyi bowlingciler miydi?
+{70106}{70231}Onlarýn topu nasýl deli gibi|fýrlattýklarýný hatýrlýyorum..
+{70231}{70312}..sanki parçalamak istercesine..
+{70312}{70410}Onlar için nasýl oynadýklarý önemli deðildi.|-Sonuç, umurlarýnda deðildi.
+{70410}{70468}Olayýn olduðu sabah nasýllardý?
+{70468}{70541}Onlarýn bowlingde olduklarýný biliyordum.
+{70558}{70706}Dylan ve Eric her sabah gibi, etrafa ateþ ettikleri sabah da|okula gelmeden önce iki oyun oynamýþlardý..
+{70715}{70821}Ve topu parçalamak istercesine atýyorlardý?|Bu bir anlama mý geliyordu?
+{70821}{70917}Onlar en sevdikleri sýnýftaydýlar.
+{70917}{71064}Eric ve Dylan'ýn böyle bir olaya karýþmalarýnda|bowling'in neden bir suçu olamýyordu?
+{71078}{71174}Bu da Marilyn Manson'ý suçlamak kadar|anlamsýz olmaz mýydý?
+{71197}{71300}Sonuçta katliamdan önce yaptýklarý|en son þey bu deðil miydi?
+{71331}{71365}Bir dakika..
+{71365}{71435}Baþka ülkelerde de bowling oynanýyor.
+{71473}{71616}Ve þeytan müziðinin doðduðu ülke Almanya'da da|Marilyn Manson dinlenmiyor mu?
+{71665}{71763}Ayný þiddet filmleri Fransa'da da izlenmiyor mu?
+{71851}{71939}En þiddet dolu video oyunlarý Japonya'dan gelmiyor mu?
+{71947}{72057}Birçok Amerika'lý ailelerin parçalanmasýnýn,|gençler üzerinde þiddet ve öfkeyi..
+{72057}{72103}..arttýrýcý etkisi olduðunu düþünür.
+{72103}{72229}Ben de kendimi öldürürüm! Bunu nasýl buluyorsun?|Ama burada kalmayacaðým!
+{72237}{72359}Ama istatistiklere göre Ýngiltere'de, ABD'den daha|fazla parçalanmýþ aile var..
+{72359}{72441}Resmileþti!|Fergies çiftinin sonu geldi!
+{72441}{72568}Liberaller, Amerika'daki þiddet ve öfkenin|sebebinin yoksulluk olduðunu düþünüyor..
+{72577}{72673}Ama Kanada'daki iþsizlik bizdekinden iki kat daha fazla.
+{72673}{72806}Çoðu insan bu þiddetin, Amerika'nýn kanlý ve öfke|dolu tarihinden geldiðini söyler..
+{72806}{72951}Kovboylar ve Kýzýlderililer, Vahþi Batý,|ve ölümlerle dolu kanlý bir geçmiþ..
+{72951}{73072}Ve eðer bu bizim ülkemizdeki þiddet ve öfkeyi|açýklayabiliyorsa..
+{73072}{73124}..bunun açýklamasý ne olabilir?
+{73124}{73165}ALMANLAR 12 MÝLYON ÝNSANI ÖLDÜRDÜ..
+{73236}{73275}JAPONLAR ÇÝN'E GÝRDÝ..
+{73362}{73430}CEZAYÝR'DE FRANSIZLARIN KATLÝAMI..
+{73503}{73568}HÝNDÝSTAN'DA ÝNGÝLÝZ VAHÞETÝ..
+{73626}{73731}Ve bunlara raðmen: Her yýl kaç|kiþi silahlý saldýrý ile öldürülüyor?
+{73731}{73803}Almanya'da: 381
+{73846}{73922}Fransa'da: 255
+{73965}{74050}Kanada'da: 165
+{74070}{74148}Ýngiltere'de: 68
+{74200}{74285}Avustralya'da: 65
+{74296}{74376}Japonya'da: 39
+{74408}{74547}ABD'de: 11.127
+{74567}{74643}Burada kendime|sorasým geliyor..
+{74643}{74701}Biz Amerika'lýlarýn farký ne?
+{74730}{74793}Biz doðamýzdan mý böyle öldürme meraklýsýyýz?
+{74793}{74877}Çünkü Avrupa ve Avustralya'da,
+{74877}{75005}ve diðer birçok özgür ülkede,|insanlar delirip silahlanmýþ bir þekilde..
+{75005}{75054}ortalýkta dolaþmýyorlar.
+{75054}{75143}Onlar bizden farklý deðil,|sadece onlar cephanelik gibi dolaþmýyor.
+{75143}{75214}Ýngiliz holiganlarý hep|katil olmuyorlar..
+{75214}{75327}Ne zaman diðer ülkelerle bir karþýlaþtýrma|yapýlacak olsa, þunu derler:
+{75327}{75396}"Bizim kültürümüz çok farklý."
+{75396}{75466}Ama o ülkeklerde de|þiddet dolu Video oyunlarý, filmler..
+{75466}{75600}..yabancýlaþmýþ gençler|ve kuralsýz okullar var..
+{75600}{75662}Peki bizim bu kadar radikal farkýmýz nedir?
+{75662}{75762}Nedir?|-Nedir?
+{75795}{75832}Bilmiyorum.
+{75897}{75972}Ýþte Amerika tarihinin|kýsa bir hikayesi.
+{75972}{76023}Merhaba baylar ve bayanlar!|Hazýr mýsýnýz?
+{76023}{76094}Bir zamanlar Avrupa'da, Pilgrim'ler|denilen insanlar yaþardý.
+{76094}{76143}Yok edilmekten korkarlardý.
+{76203}{76307}Bu yüzden bir gemiye atlayýp,|kimsenin bilmediði yeni dünyaya yola çýktýlar..
+{76307}{76365}Çok heyecanlýyým!|Burada kendimi güvende hissediyorum!
+{76365}{76473}Ama yerliler tarafýndan karþýlandýlar|ve yeniden korkmaya baþladýlar.
+{76486}{76519}Ayrýca onlarý öldürdüler.
+{76533}{76613}Ama bu katliam da onlarý|sakinleþtirmeye yetmedi.
+{76613}{76668}Bunun yerine birbirlerinden|korkmaya baþladýlar.
+{76668}{76732}Cadý!|-Ayrýca Cadýlarý da yaktýlar.
+{76732}{76836}1775 'de özgür olmak için|Ýngilizleri öldürdüler.
+{76836}{76900}Bu da oldu ama kendilerini|yine de güvende hissetmediler.
+{76900}{76984}Ýkinci anayasa ile her beyazýn|kendi silahýna sahip olmasý saðlandý.
+{76984}{77031}Tüfeðimi çok seviyorum..
+{77031}{77102}Bu bizi kölelik fikrine|getirdi.
+{77102}{77185}Gördüðünüz gibi, o zamanlar|beyazlar çalýþmaktan korkuyordu.
+{77185}{77275}Afrikaya gittiler ve oradan birçok|siyah köle getirdiler..
+{77275}{77368}ve onlarý para almadan çalýþmaya|zorladýlar. Bilemiyorum.
+{77368}{77416}Hiç durmadan çalýþýyorum ama|hiç param yok.
+{77416}{77489}Demek istediðim: Sýfýr Dolar, sýfýr!
+{77489}{77562}Bu þekilde ABD dünyanýn en|zengin ülkesi oluverdi!
+{77562}{77639}Zenginlik ve köleleri beyazlarý|sakinleþtirmiþ miydi?
+{77639}{77697}Hayýr!|Daha da çok korkmaya baþladýlar.
+{77697}{77811}Çünkü kölelikten 200 yýl sonra güneyde,|beyazdan çok siyah insan yaþamaya baþlamýþtý..
+{77811}{77866}Tabii ki tahmin edebileceðiniz gibi oldu.
+{77866}{77955}Köleler ayaklandý|ve bir sahip öldürüldü.
+{77955}{78021}Beyazlar bu olanlarý duyduklarýnda:
+{78021}{78093}"Beni öldürme,|yüce siyah adam!" dediler..
+{78093}{78161}Ýþte tam bu sýrada Samuel Colt geldi,
+{78161}{78226}ve 1836'da tabancayý icat etti,
+{78226}{78296}Bunu defalarca doldurmak gerekmiyordu.
+{78296}{78368}Güneyde tüm beyazlar baðýrdý:|Yee-ha!
+{78368}{78425}Ama artýk çok geçti.|Kuzeyde savaþ baþlamýþtý.
+{78425}{78549}ve köleler serbest kaldý.|Özgürlük, tüm sahipleri öldürün.
+{78549}{78606}Haykýrdýlar:|Hayýýýr! Hepimiz öleceðiz!
+{78606}{78700}Ama özgürlüðüne kavuþanlarýn tek istediði|barýþ içinde yaþamaktý.
+{78700}{78767}Beyazlar bunu pek ilgi çekici bulmadý.
+{78767}{78827}Ku-Klux-Klan'ýný kurdular.
+{78827}{78944}1871'de KKK yasadýþý bir|grup olarak kabul edildiðinde,
+{78944}{79020}yeni bir grup kuruldu:|"Ulusal Silah Organizasyonu (USO)"
+{79020}{79081}Politikacýlar bir silah yasasý|çýkardýlar..
+{79081}{79148}ve siyahlar için silah taþýmak|yasadýþý hale geldi.
+{79148}{79245}Amerika için büyük bir yýldý,|KKK ve USO..
+{79245}{79318}Tabii ki iki grubun birbiriyle ilgisi yoktu.|Tamamen tesadüf.
+{79318}{79375}Bir grup silah bulundurmayý|savunuyordu..
+{79375}{79423}..diðer grup ise siyahlarý linç edip,|öldürüyordu.
+{79423}{79500}Bu 1955'e kadar böyle gitti,
+{79500}{79573}..ta ki siyah bir kadýn otobüsün arkasýnda|oturmayý reddedinceye kadar..
+{79573}{79610}Beyazlar bunu kaldýramazdý!
+{79610}{79666}Nedir bu?|-Ne demek oluyor bu?
+{79666}{79759}Birden balon patladý ve|siyahlar haklarýný istediler.
+{79759}{79838}ve beyazlarýn müthiþ korkusu yine|ortaya çýktý:
+{79838}{79891}Kaçmalýyýz!
+{79891}{80003}Ve onlar büyük þehirlere, herþeyin|temiz ve güvenli olduðu yerlere taþýndýlar.
+{80003}{80066}250 Milyon silah satýn aldýlar..
+{80066}{80163}Güvenlik kilitleri, alarm sistemleri,|ve komþularla aralarýna dikenli tel gerdiler.
+{80163}{80257}Sonunda kendilerini güvende|ve iyi hissediyorlardý.
+{80410}{80518}Ve yaþamlarýnýn sonuna|kadar mutlu ve mesut yaþadýlar.
+{80613}{80683}Öyle mi? Gerçekten?
+{80751}{80810}Akþam haberlerine bakarsan..
+{80810}{80894}..Amerika halen daha yaþanýr bir|yer gibi görünmüyor..
+{80894}{80971}Tehlikeli mi?|Aklýnda ne var?
+{80971}{81013}Bu ne demek oluyor?
+{81013}{81053}Neden insanlar sürekli korkuyor?
+{81053}{81116}2000 yýlý ile ilgili panik neydi öyle?
+{81125}{81235}Tüm toplum parçalanacak ve|herþey deðiþecekti..
+{81235}{81290}..sadece birileri bilgisayara birkaç hane girmedi diye?
+{81290}{81348}Tamamen bir kaos olacaktý.
+{81348}{81395}Geri sayým bu akþam baþlýyor..
+{81395}{81507}Dükkan sahipleri 2000'in geliþini|bire bir yaþýyorlardý.
+{81507}{81603}Piller, lamba yaðlarý ve jeneratörler|daha çok satýlýyor.
+{81608}{81708}Tüm ülke panik olduktan sonra,|gece yarýsý geldi..
+{81708}{81742}..ve hiçbirþey olmadý.
+{81778}{81874}Þu öldürücü arýlar vardý bir zamanlar,|hani tüm Amerika'yý kaplayacaklardý?
+{81874}{81923}Bu yýl özellikle gelecekler.
+{81923}{82015}Afrika arýlarý bu ay|Teksas'a ulaþacaklar..
+{82015}{82072}ve iki üç yýl içinde de Arizona'ya.
+{82072}{82153}Dert etmeye deðer, ne de olsa|bu arýlar öldürücü..
+{82153}{82221}Sizi yarým mil boyunca takip edebilirler..
+{82231}{82281}Ama arýlar asla gelmedi..
+{82299}{82415}Ya da þu olay, hani birisi cadýlar bayramýnda|bir elmanýn içine jilet koymuþtu sözde..
+{82415}{82571}Uzun zaman çocuklar dýþarý çýkamadýlar ve|yabancýlardan þeker toplayamadýlar..
+{82571}{82687}Çoðu insan artýk cadýlar bayramýnda|þeker vermiyor. Korku artýyordu.
+{82687}{82783}Ve gerçek neydi? Asla elmanýn içine bir jilet konmamýþtý.
+{82794}{82904}Ve son 40 yýl içinde sadece iki çocuk|bu þekerler yüzünden hayatýný kaybetti..
+{82904}{82988}Ve ikisi de akrabalarýnca zehirlenmiþti.
+{83014}{83065}Týpký bir korku filminde gibiydi.
+{83065}{83212}Bu adam çimleri biçerken, ormandan çýkan|bir tilki tarafýndan ýsýrýldý.
+{83212}{83330}Zayýflatýcý haplar konusunda sizleri uyarýyoruz.|Bilmediðiniz þey sizi öldürebilir.
+{83330}{83448}Hergün kullanýyoruz belki ama|yürüyen merdiven bizi paramparça edebilir..
+{83448}{83542}Size kullandýðýnýz yürüyen merdivenin|tehlikeli olup olmadýðýný göstereceðiz..
+{83542}{83623}Önlemlerinizi alýn ve|dikkatli olun,
+{83623}{83698}ve Amerika'lýlarla sokakta|dans etmeyin.
+{83698}{83804}Ve sakýn ola ki Amerikalý olduðunuzu|belli etmeyin.
+{83804}{83927}Her beþ Amerikalýdan biri psikolojik|rahatsýzlýðý olduðunu bildirdi.
+{83927}{84016}Saðlýk bakaný, hemen herkesin|bir doktor kontrolünden geçmesini önerdi..
+{84022}{84118}Medya, kýþkýrtanlar, politikacýlar..
+{84118}{84250}Hepsi toplumu o kadar korku içinde býraktý ki,|þimdi bulunduklarý noktada söyledikleri için..
+{84250}{84317}..herhangi bir sebep bulmalarý da gerekmiyor.
+{84326}{84410}Justiz'lerin sözcüleri bugün bir ..
+{84410}{84488}açýklama ile uyarýda bulundular.
+{84526}{84607}Açlýk sýnýrýnda olabileceðimiz|konusunda uyarýlýyor.
+{84641}{84726}Bu, bu topluluðun yaptýðý ilk|böyle açýklama deðil..
+{84747}{84801}Ama umarým bu sonucusu olur..
+{84801}{84885}Ama bu insanlarýn|ne yapacaðý hiç belli olmuyor..
+{85026}{85149}Bu caddeleri seviyorum.|Bunlarý L.A.'de göremiyorsun.
+{85168}{85254}Ama ne zaman burada olsam,|haberlerde hep ayný þeyi duyuyorum:
+{85254}{85319}"Güney Central'da araç içinde|vurulma vakasý."
+{85319}{85392}ya da  "Güney Central'de þu.. bu.. ".
+{85478}{85576}Siz bunu böyle görmüyorsunuz, deðil mi?|-Hayýr, ama haberler için olaylarý seçiyorlar.
+{85583}{85640}Ýnsan televizyonda haberleri açtýðýnda..
+{85640}{85759}..hep kötü birþeyler yapan zenciler görüyor, deðil mi?
+{85759}{85800}Ýsimsiz bir zenci..
+{85800}{85880}..birþeylere karýþmýþ..
+{85894}{86029}Biz hep kötü birþeyler yapmýþ olan|zencileri görüyor ya da hikayelerini duyuyoruz.
+{86029}{86067}Tüm yaþamýmýz boyunca.
+{86067}{86150}Þüheli 20 yaþlarýnda|bir zenci..
+{86150}{86229}Gümüþ kolyeli ve|takýlarý olan bir zenci..
+{86229}{86352}Polis 1,80 boyunda bir|adamý arýyor.
+{86352}{86390}hemen hemen 80 kilo,|ve 35 yaþlarýnda..
+{86390}{86458}Þüpheli zenci..|16-18 yaþlarýnda.
+{86458}{86512}Þüpheli kiþi bir Afro-amerikalý.
+{86756}{86866}Susan Smith iki çocuðunu boðduktan sonra,|herkese bunu yapanýn zenci bir adam olduðunu..
+{86866}{86973}..arabasýný ve çocuklarýný kaçýrdýðýný söyledi..|Ve herkes ona inandý.
+{86973}{87088}Bir adam, trafik lambalarýnda arabaya atlýyor|ve çocuklarla birlikte kaçýrýyor.
+{87088}{87146}Zenciydi.
+{87146}{87185}Zenci bir adam?|-Evet.
+{87185}{87264}Onlara doðru baðýrýp,|onlarý çok sevdiðimi söyledim.
+{87264}{87313}Bu korkunç.
+{87313}{87439}"Anonim bir söz:|Zenci adam..
+{87439}{87512}yaptý bunu"|Herþey için ayný söz.
+{87512}{87599}Charles Stuart, Boston'lu bir avukat,|hamile eþini öldürdü..
+{87599}{87659}ve bunu bir zencinin yaptýðýný söyledi.|Herkes ona inandý.
+{87659}{87738}Suçlanan zenci yaklaþýk 1.80 boylarýnda..
+{87831}{87933}veli toplantýsýnýn sonrasýnda|Stuart erkekleri saldýrýya uðradý.
+{87933}{87983}Bir kent kabusu.
+{87982}{88068}Bu ülkede neyi seviyorum biliyor musun?
+{88068}{88166}Psikopat bir katil ya da baþkan adayý|da olsan
+{88166}{88295}her zaman bir þeye güvenebilirsin:|Beyazýn siyaha duyduðu korku.
+{88295}{88396}Bu televizyonda seyrettik ve|gazetede okuduk.
+{88396}{88428}onlar ölümlere neden oldu:
+{88428}{88502}katil arýlar: afrika kökenli|arýlar olarak da adlandýrýlýr.
+{88502}{88547}Çok korkuyorum.
+{88547}{88653}Rosemary Shibley asla bu arýlarýn|saldýrýsýna uðrayacaðýný,
+{88653}{88699}kovan kurmak için yakýnýna geleceðini|düþünemezdi.
+{88699}{88764}Benim arýlara ciddi anlamda|alerjim var. Amcamýn da..
+{88764}{88822}Onlar Güney-Doðu Afrikadan geldiler
+{88822}{88913}Doktor Warrick Care 1956'da bazý|örneklerini Brezilya'ya
+{88913}{89009}getirdi. Amacý Avrupa türleriyle|karþýlaþtýrmalarýný yapmaktý.
+{89009}{89117}Ancak kaçtýlar ve USA'nýn güneyine doðru|yol aldýlar.
+{89117}{89234}Afrika kökenli arýlar|bizim bildiklerimizden daha saldýrgan.
+{89234}{89299}bunlar Afrika kökenli arý olsaydý
+{89299}{89381}þu an yüzlercesi beni sokmuþ olurdu.
+{89381}{89505}Danny Avrupa kökenli arý yetiþtiriyor.|ve kendini güvende hissediyor.
+{89505}{89596}Bazý detaylarýn haricinde iki tür|arýnýn arasýnda büyük bir fark yok.
+{89596}{89734}Siyah ýrk diðerleri için|eðlence aracý olmaya baþladý.
+{89734}{89758}Nasýl?
+{89758}{89843}Medya þiddeti "kan, paradýr" düþüncesiyle|destekliyor
+{89843}{89950}ana haber yapýlmýþ oluyor.
+{89950}{90065}ve bu olay genel toplumda genel|bir bakýþ açýsý oluþturmuþ.
+{90065}{90137}Bence bu, kesinlikle gerçeklikten çok uzak.
+{90137}{90203}Aslýnda,
+{90203}{90316}Afro-Amerikan'larýn  büyük çoðunluðunun|silaha karþý insanlar olduðu anlaþýldý.
+{90316}{90411}Varoþlarla ilgili þu düþünce kalýplaþmýþ:
+{90411}{90509}Saldýrganlarýn büyük çoðunluðu, topluma|zarar vermek ,
+{90509}{90626}nerede olduðunu bile|bilmediðimiz yerlerden geliyorlar.
+{90626}{90711}Ben bunu sadece aptalca deðil,
+{90711}{90816}ayný zamanda tamamen asýlsýz|ve kasýtlý buluyorum.
+{90816}{90953}Þehrin merkezindeki gençlerin silah kullanýmý
+{90953}{91082}varoþlardakilere göre daha az görülüyor.
+{91125}{91247}Yani siz silahlananlarýn merkezdeki
+{91247}{91276}genç Siyahlar da olmadýðýný söylüyorsunuz?
+{91276}{91331}Ben tam olarak bunu söylemedim…
+{91348}{91522}Þehirde silahlarla ilgili gerçek|problemlerimiz hiç olmadý.
+{91522}{91594}Doðrusu bazýlarý var tabii ki ama|bu asla problem olmadý.
+{91594}{91647}Temel problem, silahlarýn
+{91647}{91718}varoþlarýn gençlerince bulundurulmasý.
+{91754}{91801}silahýna nasýl sahip oldun?|- Çaldým.
+{91801}{91852}Kimden?|- Bir arkadaþtan.
+{91852}{91937}Babasýnýnkilerden.|- Ve onunla ne yaptýn?
+{91937}{91988}Detroit'de sattým.
+{91988}{92061}Bir 9 mm için 150$ aldým.
+{92061}{92137}Gerçekten mi?|Kime sattýn?
+{92137}{92234}Kime olduðunun önemi yok.|Genel olarak çeteler.
+{92234}{92285}Detroit çeteleri?|Siyahlar?
+{92285}{92326}Genellikle.
+{92354}{92437}Ve sen buna son verdin?|-Evet, artýk temizim.
+{92437}{92542}Hala silah satýyor musun?|- Hayýr, çok riskli oldu.
+{92542}{92572}Burada tanýnýyorum.
+{92572}{92632}insanlar silah,hap|ve içki için artýk bana geliyor.
+{92632}{92719}bu böyle gitmez.|- Çok fazla bela...
+{92767}{92863}yapýlan araþtýrmalara göre.|çýkan istatistikler sonucunda:
+{92863}{92936}Cinayetlerin sayýsý %20 düþtüðünü,
+{92936}{93047}oysa televisyonda gösterilen cinayetlerin|sayýsýnýn
+{93047}{93116}%600 arttýðýný bulduk.
+{93116}{93216}Amerikan halkýnýn çoðunluðu inandýðý|televizyon,
+{93216}{93311}ve güvendiði yerel gazeteler tarafýndan,
+{93311}{93380}sokaklarýn gerçekte olduðundan daha|fazla tehlikeli olduðuna þartlandýrýldý.
+{93380}{93527}Örneðin, suç oranýnýn her yýl|azalmasýna raðmen,
+{93527}{93643}silah sayýsý artýyor.
+{93643}{93703}Güvensizlik hissinin azalmasý durdurulmuyor,
+{93703}{93796}Güvensizlik duygusu artmayý sürdürüyor.
+{93796}{93843}Bu mantýksýz ve saçma deðil mi?
+{93843}{93913}Aslýnda bu televizyon haberleri ya da|bir polisin konusmasý izlenildiðinde
+{93913}{94013}kolayca açýklanabilir.
+{94013}{94103}olay Florance- Normandy meydanýndaydý.
+{94126}{94195}Baþlangýç noktasý Los Angeles.
+{94250}{94335}Ýki beyaz Central South'da yürüyordu.
+{94335}{94418}Öldürüldüler. Size bu gibi olaylarýn|çok sýk olduðunu söyleyebilirim.
+{94418}{94524}aslýnda bu durum riskli deðil.
+{94524}{94549}Küçük??.
+{94565}{94708}aslýnda baska bir olay daha var:|Insanlar için farklý anlamlara gelen
+{94708}{94821}Hollywood tepesi.
+{94821}{94883}Göz alýcýdýr, gizemlidir, ama biz göremeyiz.
+{94883}{94949}Ben göremedim.|Nerede ?
+{94949}{95097}Daha tehlikeli þeyler nedeniyle görülmüyor.
+{95097}{95138}nefes aldýðýmýz hava.
+{95138}{95209}Kirlilik katmaný tepeyi gizliyor..
+{95209}{95311}Bu olay medyanýn yarattýðý korkudan|ve her seyden daha tehlikeli.
+{95320}{95472}orayý býraktýk, yola devam ettik|helikopterler göründü.
+{95483}{95562}1 dakika sonra medya oradaydý.
+{95562}{95633}Ne oluyor?|- bunu sizin bileceðinizi düþündüm.
+{95633}{95753}Ben bu konu hakkýnda bir þey bilmiyorum.|- silahlý'lý birisi.
+{95753}{95861}Emin deðilim.|Ama aksiyon yoksa kamera da yok.
+{95861}{95936}Bir baþka konu üzerindeyiz.|- O neydi?
+{95936}{95985}Boðulma.|- Boðulma?
+{95985}{96020}Evet.
+{96020}{96129}Hollywood'u görmemizi engelleyen|kirliliði neden ele almýyorsunuz?
+{96140}{96206}iyi bir konu olabilir.|- Kirlilik hakkýnda? yapýlabilir.
+{96226}{96322}kimsenin gerçekten hiç bir sey görmediði doðru.
+{96322}{96400}Bir çatýþma veya boðulan bir bebek arasýnda|seçim yapmak zorunda kalsan
+{96400}{96501}hangisini seçerdin?|- Çatýþmayý.
+{96533}{96613}Bitti mi?
+{96613}{96663}Henüz deðil.
+{96663}{96789}Orada çavuþu beklersen, sana her þeyi anlatacak.
+{96789}{96905}Ben L.A. geldim fakat|Hollywood  tepesini göremedim.
+{96905}{96992}Kirlilik yüzünden.
+{96992}{97102}Hava kirliliði sebebiyle kimseyi|tutuklayamaz mýsýnýz?
+{97102}{97144}Kesinlikle hayýr.|- Kimseyi mi?
+{97144}{97198}Kimseyi.|- Niçin?
+{97226}{97297}Neden, Bayým ?
+{97490}{97623}10 yýlý aþkýn süredir, beyaz ve siyah|çeþitliliðimizi kutlamak ve korkularýmýzla mücadele için
+{97623}{97759}tüm medya elinden geleni yapýyor!?
+{97789}{97839}bu þovun adý "Cops".
+{97931}{98060}"Cops"ýn yardýmcý prodükörü ve|"Dünyanýn En Vahþi Organize Videolarý"nýn
+{98060}{98098}prodüktörünü görmeye gittim.|Bay Dick Hurland.
+{98098}{98178}sözlükte liberale baktým|ve resmimi orada gördüm
+{98178}{98330}Niçin suçtan uzaklaþtýrmaya|yönelik bir þov deðil de
+{98330}{98434}suçlularýn takip edilmesi üzerine
+{98434}{98483}bir þov yapýyosunuz
+{98483}{98595}Çünkü bunun yapýlmasý daha zor.|Ayrýca bunun ne kazandýracaðýný bilmiyorum.
+{98595}{98667}Þiddet, kýzgýnlýk, nefret iyi satýyor.
+{98667}{98786}Oysa tolerans, anlayýþ, uyum daha az satýyor.
+{98786}{98835}Seyirci bakýmýndan mý?|- Evet.
+{98835}{98898}sanýrým sizce TV koþullarý bunu gerektiriyor
+{98898}{99000}belki de siyah beyaz ayrýmýný|büyüten bizleriz,
+{99000}{99095}Televizyon seyircileri kendi kendine þunu söylüyor:|"Ben bu insanlara yardým etmek istemiyorum!
+{99095}{99189}Onlardan nefret ediyorum,|çünkü onlar beni kötü hale getirebilirler."
+{99189}{99246}Anladýn mý?
+{99246}{99308}Evet, ama bunu bizim yaptýðýmýza inanmýyorum.
+{99329}{99446}Siyah ve Beyaz ayrýmýný kýþkýrttýðýmýzý|inanmýyorum
+{99505}{99617}Gerçekte olduklarýndan daha fazla|suçlu gösterildiklerini düþünmüyorum.
+{99648}{99747}Hatta þüphesiz biraz daha fazlalar.
+{99787}{99882}Ama biz kesinlikle siyah ve ispanyol|ýrklarýný yargýlamýyoruz.
+{99882}{99944}Televizyondaki endiþeli insanlara .
+{99944}{100020}korkunç insanlar gösteriyoruz
+{100038}{100176}Evet. Mesela ben de bu eðilimin mümkün|olduðunca hýzlý tersine dönmesini istiyorum.
+{100183}{100240}Ben…
+{100240}{100276}Bu akþam baþla!
+{100276}{100383}Problem ben bunun nasýl terine döndürülceðini|bilmiyorum.
+{100383}{100470}Eðer yeterince zeki olsaydým...|- Ben sana yardým edeceðim.
+{100520}{100638}"Beyaz Yakanýn Polis Kuvvetleri" adlý bir|þov yap.
+{100876}{100975}Bu fikri sevdim, ama bu insanlar|arabalarýna atlarken
+{100975}{101073}ve herhangi bir hýzda polisden kaçarken|görülmediði sürece,
+{101073}{101146}bu TV-Realite için iyi bir þov olmaz.
+{101146}{101252}Ancak basit bir meslek sahibi|herhangi bir Amerikalý,
+{101252}{101356}mal sahiplerinin aynasýzlarca|takip edildiðini, arandýðýný
+{101356}{101454}ve yere yatýrýldýðýný görmekten mutlu olur.|sonuçta rating artar.
+{101454}{101529}Bana beyaz yakada suçlularýn izini süren
+{101529}{101636}bir polis kuvvet birimi bul
+{101636}{101694}ve gerçekte olduklarý gibi taslak hazýrla.
+{101694}{101800}Kýsaca eðer biri fakir insanlarla beraber|85 milyon $ çalan biriyle,
+{101800}{101911}yaþlý bir bayanla 85$ çalan birine
+{101911}{102003}ayný muameleyi yapýyorsa birileri bunu
+{102003}{102059}Bunu çok açýk bir þekilde film edebilirdik.
+{102059}{102139}Ama polis bu parayý çalaný takip etse,
+{102139}{102231}Buna bir belediye tavsiyesi gibi|muamele etse...
+{102231}{102309}aslýnda bu gerilimli bir olay olmaz.
+{102318}{102392}size gömleðini çýkardýðý ve cep telefonunu
+{102429}{102513}polisin arkasýndan attýðý
+{102513}{102581}ve pencereden atladýðý söylense,|iþte ancak o zaman bir þey elde|edilebilir.
+{102581}{102701}Kanada'daki iktidar televizyonda görünse,
+{102701}{102777}bilinmelidir ki bu aslýnda|orada olmuyor.
+{102812}{102978}Farkýn ne olduðunu bilmiyorum.|- Niçin bu Kanada'da olmuyor?
+{102978}{103074}Niçin orada da senede 10000 kiþi ölmüyor?
+{103074}{103197}Hiç bir fikrim yok ama yaþlýlýðýmý Kanada'da|geçirmek isterdim.
+{103197}{103271}Çünkü benim idealim bu.|Gerçekten farkýn ne olduðunu bilmek isterdim.|Siz istemez miydiniz?
+{103279}{103331}Aksýne ben de bunu öðrenmek istiyorum.
+{103509}{103547}þimdi nerede olmanýz gerekiyordu?
+{103547}{103586}Okulda.
+{103617}{103740}Dersler konusunda bir þey kaçýrmaktan|korkmuyor musunuz?|- Hayýr ben her zaman diðerlerine yardým ederim.
+{103740}{103790}Hemen hemen her zaman kendi iþime bakarým.
+{103790}{103882}Gelecekteki eðitimin hakkýnda hiç endiþen|yok mu?
+{103882}{103978}Benim kitaplarým var ya dostum..
+{103978}{104094}Hiç þüphem yok. Onlarýn kýskanmasý lazým.
+{104094}{104139}Kanadalýlar deðil miydi o lanet herifler?
+{104139}{104248}Kesinlikle. Ama biz, bizi ele verecek birini|hiç bir zaman öldürmedik.
+{104248}{104320}Peki ne yaparsýnýz o zaman?|- Onu kýzdýrýrýz..
+{104320}{104416}Ve onunla dalga geçeriz.
+{104416}{104478}Bu yýl Sarnia'da kaç ölü vardý?
+{104478}{104537}Sýfýr.|- Peki geçen yýl?
+{104558}{104616}Sanýrým 1 tane.
+{104616}{104705}Ya ondan önceki yýl?|- Hatýrlamýyorum.
+{104705}{104775}Peki son 3 yýlda?|- Bilemiyorum yaa.
+{104786}{104861}Bu þehir için çok az.
+{104871}{104969}Tabi 70.000 kiþiden baska hiç kimseyi öldürmediniz!
+{104969}{105033}Ve tabi burasý da dünya barýþýnýn baþkenti?!
+{105033}{105190}Yani Sarnia'dan 5 kez daha büyük bir Kanada|þehrine gidiyorum: Ontario'daki Windsor.
+{105190}{105262}Tam Detroid'in karþýsýnda, nehrin öbür kýyýsýnda.
+{105262}{105320}Orada kesinlikle daha fazla ölü vardýr.
+{105320}{105381}Yoksa Windsor'dan bir silahlý baskýn haberi mi aldýn?
+{105446}{105487}ölmüþ olan var mý?
+{105487}{105576}Uzun zamandan beri 1 tane.
+{105579}{105610}Ne zamandýr?
+{105660}{105780}Bizim zamanýmýzda mý?|- Evet. 15-20 yýl önce birisi ölmüþtü.
+{105791}{105925}Windsor'dan bir polis söyledi, onun hatýrlayabildiði kadarýyla|son 3 yýldýr sadece 1 kisi ölmüþ.
+{105925}{106063}bunu yapan Detroit'den bir herifti. silahý|Minnesota'dan çalmýþ.
+{106063}{106239}Windsor'un 400000 sakininden hiçbir Kanadalý baþka|bir Kanadalýyý vurmamýþ.
+{106283}{106370}Kanada üzerinde güncelleþen birkaç faktörün|zamanýnýn geldiðini anladým.
+{106387}{106492}New-York'a oradaki sýradan insanlarýn,|bizim kuzeydeki komþularýmýz hakkýnda
+{106492}{106536}ne düþündüklerini araþtýrmaya gittim
+{106536}{106653}Kanadalýlar Amerikalýlar kadar çok þiddet filmi izlemiyor.
+{106798}{106818}Yanlýþ.
+{106818}{106956}Tüm ülkede birçok genç, Hollywood'un bir sonraki|kan banyosunu heyecanla bekliyor.
+{106956}{107053}Örnek yeterince etkileyici deðil.|- Ama bir çok genç kýz da var.
+{107053}{107154}Bununla birlikte: Sadece geceleri.|- Sadece þehvetten.
+{107158}{107221}Siz hangi filmi izlediniz?|- "6. Gün."
+{107221}{107278}Arnold Schwarzenegger'in oynadýðý mý?
+{107299}{107378}Siz bu yüzden mi bu olayla ilgili bu kadar|hassassýnýz?
+{107378}{107445}Evet, evet.. sanýrým..
+{107453}{107536}Orda bu kadar çok yoksulluk yok.
+{107545}{107585}Amerika'daki gibi..
+{107585}{107614}Tekrar yanlýþ..
+{107614}{107677}Bizim oldukça yüksek issizlik oranýmýz var.
+{107677}{107758}Michigan'da %4 olduðu gibi bizde de, %9|iþsizlik var.
+{107758}{107817}Kontenjanýmýz sýnýrlý.
+{107817}{107872}Kanada'da yasayanlarýn büyük çoðunluðu|sanýrým ki beyaz.
+{107872}{107914}Hmm, ilginç..
+{107914}{107993}Kanada'dayken her yerde zencileri gördüm.
+{107993}{108118}Ve sarýlarý, kahverengileri..|Halkýn %13'ü beyaz deðil.
+{108118}{108194}Yani Kanadalýlar bize oldukça benziyorlar.
+{108194}{108290}Bu yüzden sizde daha az ölü olmasýnýn sebebi,
+{108290}{108355}daha az silah olmasý.
+{108467}{108543}Ne tür silahlarýn var.|- Ben avcýyým.
+{108543}{108609}Tabancalar, tüfekler, pompalý tüfekler,..
+{108623}{108711}Toplam kaç silah?|- yaklaþýk 7 tane.
+{108711}{108772}Senin bir silahýn var mý?|- bir çok.
+{108772}{108840}Kaç tane?|- 6.
+{108840}{108919}tanýdýklarýndan kaç kiþinin silahý var?
+{108919}{108990}iki, üç, bir düzine..|- Daha fazla?
+{108990}{109068}Buradaki bir çok insan evinde silah bulundurur..
+{109068}{109160}Burasý çok büyük bir ülke, avlanmak ve|balýða çýkmak burada bir gelenektir.
+{109160}{109239}Kanada'da yasayan yaklaþýk 30 milyon insanda,
+{109239}{109291}..ki bu yaklaþýk 10 milyon aile eder.
+{109291}{109364}aþaðý yukarý 7 milyon silah olduðu tahmin ediliyor.
+{109386}{109533}Wow.. Kanada silah aþýðý, silah hayraný,|silah müptelasý bir ülke..
+{109558}{109645}Burada nerede silahlar var?|- Þehirdeki her yerde.
+{109645}{109735}Hepsinde birer glock marka silah var.|Böyle bir tanesini Kanada'da nerde bulabilirim?
+{109757}{109849}Lisansýnýz olduðu sürece, silah dükkanlarýnýn|çoðunda..
+{109849}{109998}Ve þimdi biz, katý silah yasalarýna raðmen,
+{109998}{110062}sokaklardaki ufak dükkanlarda bile|yabancýlarýn silah sattýðýný görüyoruz.
+{110062}{110163}Peki mühimmat nerede?|- Mühimmat?.. Burada..
+{110245}{110328}Neye ihtiyacýnýz var?|- Kurþuna.
+{110382}{110403}Kesinlikle!
+{110403}{110508}Kanada'da istediðim kadar çok mühimmat bulabilirim.
+{110508}{110548}Amerikan dolarý kullanýr mýsýnýz?
+{110548}{110611}Evin kapýsýný kapattýnýz mý?|- Hayýr.
+{110611}{110657}herhangi bir þeyden korkunuz var mý?
+{110666}{110711}Aslýnda yok.
+{110711}{110750}Peki geceleri kapatýr mýsýnýz?
+{110765}{110825}Gerçekten kapatmýyor musunuz?
+{110825}{110906}hiçbir þeyden korkmaz mýsýnýz?|- Hayýr, hiç bir þeyden.
+{110906}{110972}Daha önce hiç vuruldunuz mu?|- Evet.
+{110991}{111042}Peki ne oldu?
+{111042}{111118}O an evde deðildim.
+{111118}{111191}Biraz alkol ve sigara çaldýnýz, ve kaçtýnýz?
+{111191}{111300}Sanýrým birazcýk heyecan isteyen delikanlýlardý.
+{111300}{111363}hepsi bu.|alkol ve sigara..
+{111363}{111415}Peki hiç bir kundaklama yaþadýnýz mý?
+{111419}{111470}Nasýl bir kundaklama?
+{111470}{111539}Ben uyurken lanet herifler içeriye girdi..
+{111539}{111603}Evimi altüst edip eþyalarýmý çaldýlar.
+{111603}{111681}Ve buna raðmen siz kapýyý sürgülemiyorsunuz?
+{111737}{111858}Bir Amerikalý olarak, 3 kilitli bir kapý|görünce biraz þaþýrdým.
+{111858}{111966}Koskoca Toronto þehrinde insanlar kapýlarýný|hiç mi kilitlemez?
+{111966}{112052}Neden kapýlarý bizlerin yaptýðý gibi kilitlemiyorsunuz?
+{112052}{112120}Demek ki siz, komþularýnýzdan korkuyorsunuz.
+{112120}{112187}Geceleri kapýnýzý kilitlemeden mi býrakýyorsunuz?
+{112240}{112269}Siz nerede yaþýyorsunuz?
+{112269}{112315}Tam burada.|- Toronto'da mý?
+{112315}{112357}Ve siz kapý kilitlemiyorsunuz?
+{112357}{112412}Amerikalýlar düþüncesine göre,
+{112412}{112497}Kilitler baþkalarýnýn içeri girmesini engeller..
+{112497}{112618}Biz Kanadalýlar kapýlarý kilitlediðimiz zaman
+{112618}{112680}kendimizi hapis olmuþ gibi hissederiz.
+{112680}{112707}Ve siz bunu istemiyorsunuz?|- Hayýr.
+{112707}{112842}biz istemiyoruz...|Hayýr.
+{112849}{113020}Bunlarýn gerçek olduðunu anlayabilmek için, habersizce|Toronto'daki bir semte gittim..
+{113020}{113088}Özür dilerim, bir kez görmek istiyordum.
+{113441}{113476}Hiç kimse kilitlemez..
+{113476}{113563}Bu sehirde hiç kimse mi kilitlemez?|- Kilitlemem mi gerekiyordu?
+{113563}{113607}Hayýr, hayýr..
+{113607}{113658}Burada severek mi yaþýyorsunuz?|- Tabii ki..
+{113658}{113714}Ve bu t-shirt?|- O da çok iyi..
+{113714}{113788}kapýn ardýna kadar açýktý.|korkmuyor musun?
+{113788}{113833}neyin korkusu?|- korkacak ne var ki.
+{113833}{113882}hayýr korkmuyorum.
+{113882}{113933}çok teþekkür ederim.|- problem deðil.
+{113933}{113980}pardon içeri dalýverdim.|- önemli deðil.
+{113980}{114047}beni vurmadýðýn için teþekkürler.
+{114076}{114168}ABD'li olarak söylemeliyim ki,|olan biten bana tuhaf geliyor.
+{114168}{114316}sonra barda otururken gazete ve TV'de,|haberleri gördüm.
+{114316}{114417}onlar arkadaþlarýmýz,|onlarý dikkatle ve merakla dinledik,
+{114417}{114516}birkaç kelime için savaþ çýkarmýyoruz|birilerinin dediði gibi.
+{114516}{114607}Kanadalýlar korku ile yaþamýyorlar.
+{114607}{114692}ve politikacýlarý bizim için biraz komik konuþuyor.
+{114692}{114825}Ýyi bir toplum oluþturmak için ne gerekir
+{114825}{114874}saðlýk sigortalarý var,
+{114874}{114975}iþ güvenceleri var
+{114974}{115009}saðlýk sorunlarýna baðlý olarak evlerini|satmak zorunda kalmýyorlar.
+{115009}{115109}birisi kazanmýyorsa hiç kimse kazanmaz.
+{115109}{115214}ABD'de ise yanlýþ noktadan baþlanmýþ.
+{115214}{115285}yük zayýf olanlarýn üstüne yýkýlmýþ
+{115285}{115430}insanlar sahip olamýyorlar|yalnýzca vergi veriyorlar.
+{115430}{115508}bu þehirde fakir insanlar nerede yaþýyorlar?
+{115508}{115590}fakir insanlar mý…
+{115590}{115642}bu kelimeyi biliyor musun?
+{115642}{115726}gerçek anlamda böyle bir problem yok.
+{115726}{115823}kanadanýn fakir bölgelerini|bana gösterebilir misin diye sordum.
+{115823}{115910}gittiðimiz yer bildiðimiz varoþlara|pek benzemiyordu.
+{115910}{116041}kanadalý mentalitesinde saðlýk|yardýmlarý da önemli
+{116041}{116145}hasta birine kesinlikle yardým edilir?|-kesinlikle.
+{116186}{116211}neden?
+{116211}{116304}çünkü!|- herkesin yaþamaya hakký vardýr.
+{116304}{116363}acilden mi çýktýnýz?|- evet.
+{116363}{116424}bu ne kadara maloldu?
+{116424}{116523}bilemiyorum, masrafým karþýlandý.
+{116523}{116582}ödemeye gücünüz yetmez miydi?|- yetmezdi
+{116582}{116639}birleþik devletlerde akrabalarým var.
+{116639}{116698}kanadadan oraya gittiler.
+{116698}{116786}orada durum çok garip.|- insanlar kolay ürküyorlar.
+{116786}{116893}neden bu .
+{116893}{116993}en küçük durumda büyük tepki veriyorlar.
+{116993}{117048}düþünmeden davranýyorlar.|refleks davranýþlar oluyor :
+{117048}{117139}önce silahý çekiyorlar|"çýk dýþarý ,yaþam alanýmdasýn!"
+{117234}{117311}bilemiyorum .|burada çok farklý.
+{117311}{117373}nerede yaþýyorsun?|-detroit ?
+{117373}{117435}akþamý geçirmek için mi kanada'dasýn?|evet
+{117435}{117523}burada insanlar daha açýk,|arkadaþça.
+{117523}{117616}burayý farklý mý buluyorsun?|dürüst ol.
+{117616}{117646}daha keyifli, rahat.
+{117646}{117766}ABD'de çok fazla ayrýmcýlýk var.
+{117797}{117838}surekli bunu hissediyorsun.
+{117838}{117940}burada kendin oluyorsun.|- iþte bu kanada?
+{117940}{118092}ABD TV lerinde her zaman þiddet var.
+{118092}{118225}sanýrým ABD dengeleri þiddet ile koruyor.
+{118225}{118357}ülkede bir problem olduðunda hemen silahlý|kuvvetler devreye giriyor.
+{118357}{118482}Kanadalýlar uzlaþmayý tercih ediyor.
+{118482}{118560}ABD'de öldürüyorsun sorun çözülüyor|barýþ geliyor.
+{118604}{118693}silahlar güvenliði saðlýyor olsaydý,
+{118693}{118780}ABD dünyada en güvenli yer olurdu.
+{118780}{118818}fakat gerçekte olay tam tersi.
+{118883}{118926}Genesee eyaleti.
+{118926}{119029}"Buell okulundayým ve vurulmuþ|bir öðrencim var.
+{119029}{119084}acil ambulans gerekli.
+{119084}{119122}vurulan kiþi nerede
+{119122}{119274}sýnýfýmda yerde yatýyor|kanamasý var
+{119274}{119310}kanamasý mý var?
+{119310}{119367}küçük kýz bembeyaz oldu!
+{119367}{119400}nefes almaya devam ediyor mu?
+{119400}{119444}hayýr!
+{119444}{119517}vuran çocuk nerede?
+{119517}{119553}ofiste.
+{119593}{119626}kýz neresinden vuruldu?
+{119626}{119700}bilmiyorum, dokunamýyorum.
+{119700}{119859}aman tanrým! aman tanrým! aman tanrým!"
+{119859}{119961}TV'de acil yardým çaðrýsýný duydum.|korkunçtu
+{119993}{120072}kulaklarýmdan gitmiyor:|"ölecek lütfen yardým edin!"
+{120072}{120174}küçük bir kýzdý deðil mi?|- evet, yerde yatýyordu.
+{120174}{120275}polis ve yardým geldiðinde?
+{120275}{120380}hemen ilgilendiler.
+{120380}{120423}dýþarý çýkmamýzý söylediler.
+{120423}{120548}gelir gelmez kontrolü,|ele aldýlar.
+{120548}{120660}yaþýyor muydu?|- üstünü örtüp götürdüler.
+{120703}{120915}doðum yerim Flint, Michigan,|6 yaþýnda bir çocuk amcasýnýn silahýný aldý,
+{120915}{121006}annesinden ayrý orada yaþýyordu.
+{121006}{121090}silahý okula getirdi ve|arkadaslarýndan birini öldürdü,
+{121090}{121167}Kayla Roland, 6 yasýnda.
+{121167}{121359}kurþun vücudunun içinden geçip yere düsürdü|öðretmenleri 911'i arayýp yardým istedi.
+{121359}{121468}küçük çocuðun kýzý neden öldürdüðünü|kimse bilmiyor.
+{121468}{121587}þehir 20 yýllýk trajedi ve korku|sürecini yaþadý,
+{121587}{121747}ve þimdi yeni bir kayýt,|ABD'nin en genç katilleri.
+{121747}{121952}Helikopter ve medya yalnýz 30 dakika sonra|sabah vakti olay yerindeydi.
+{122062}{122179}pek çok insan akþam TV'de|ölümü izlemeyi bekledi.
+{122179}{122228}küçük Kayla için aðladýlar,
+{122228}{122303}pizza ve ayýcýklarý seven kayla,
+{122303}{122373}için erken bir ayrýlýþ oldu.
+{122373}{122502}cenaze töreninde bu kurdelelerden yüzlerce daðýtýldý,
+{122502}{122565}destek amacýyla.
+{122565}{122656}bu sabah burada Kaylayý andýk.
+{122656}{122710}Jeff Rossen, Fox TV 2.
+{122756}{122786}iyi iþ.
+{122829}{122903}biliyorum ama neden teknik|problem var!
+{122903}{122973}bu konu ile ilgili beni uðraþtýrma|merkezi ara!
+{123005}{123056}oh kuaföre ihtiyacým var aslýnda.|domuza benziyorum
+{123056}{123108}baþlýyoruz.
+{123269}{123398}doðru kelimeleri bulmakta zorlanýyoruz.|cenaze saat 19:00 da
+{123398}{123503}Flint, Michigan,den canlý yayýnda|Jeff Rossen,
+{123610}{123643}teþekkürler
+{123649}{123727}saç spreyi istermisin?|- yardýmý olur mu.
+{123727}{123808}bende biraz var…|- bende de az var.
+{123808}{123875}bende ultra-fixing saç jölesi var.
+{123880}{123956}bu adam balonu aldý ve kayla için|salýverdiðini söyledi.
+{123970}{124027}bizde renkli fotoðraf var|o siyah beyaz fotoðraf ile …
+{124040}{124093}Columbine de benzer tekniklerden|faydalanýrdýk.
+{124093}{124231}belli döngüler vardýr|iki trajedi arasýndaki akýp gidenler.
+{124231}{124319}sonuçta yalnýz trajedi görürler.
+{124319}{124396}o trajediler.
+{124442}{124518}saat 17'deki haberler için|hazýr olmaya uðraþýyoruz.
+{124552}{124619}CNN ve Fox TV'lerine haber geçiyoruz.
+{124641}{124801}ulusal medya buell okuluna veya yakýnýna|hiçbir zaman gelmedi
+{124801}{124871}Flint sýnýrlarýnda bile bulunmadýlar.
+{124871}{125011}yalnýzca bir iki basýn çalýþaný okulu|ve okul etrafýndaki durumla ilgilendi.
+{125011}{125144}bir kaç blok öteye gitme giriþimini göstereselerdi|olayý çok daha iyi anlarlardý.
+{125144}{125289}farklý trajedileri görebilir ve|cinayetlerin nedenlerine ulaþabilirlerdi.
+{125337}{125472}son 20 yýl içinde burada bulunan|büyük þirketler tarafýndan kullanýldý
+{125472}{125564}sonrasýnda görmezden gelindi|boþaltýldý.
+{125564}{125663}nüfusun %87'si refah seviyesinin|altýnda koþullarda yaþýyor.
+{125663}{125887}Buell, Beecher and Flint okullarý amerikan|medyasýnýn çizdiði profili temsil etmiyor.
+{125939}{126049}büyük ABD ve görünmeyen ekonomik deðerler.
+{126168}{126294}genç nüfusa moral ve umut veren|koþullar burada yok.
+{126294}{126407}futbol sahasýný bir cenaze evi|sponse ediyor.
+{126451}{126562}genç çocuklarýn pek çok baþarýlarý var.
+{126562}{126746}ama çok kötü koþullarda çamur içinde|çalýþýyorlar.
+{126816}{126993}ilk yýllarda bu sokaklara büyük|üniversitelerin adý verilmiþ.
+{126993}{127128}daha iyi bir hayat özleminin|göstergesi.
+{127308}{127365}bu çocuklar iyi iþler yapmak istiyor.
+{127365}{127451}öðretmenlerde.|ama unutamýyoruz.
+{127451}{127501}unutamýyoruz.
+{127537}{127653}ayný þeyleri tekrar yaþamak istemiyoruz
+{127653}{127705}biliyorum.
+{127705}{127798}ben de baþkasý böyle þeyler yaþamasýn|istiyorum.
+{127843}{127904}anlýyorum, anlýyorum.
+{128097}{128132}üzgünüm.
+{128132}{128208}tamam iyiyim.
+{128233}{128335}soðuk cesetimin üstünden geçmeliler!
+{128364}{128430}Columbine olayýnda olduðu gibi,
+{128430}{128554}Charlton Heston Flint'e|silah kongresine geldi.
+{128554}{128683}özgürlüðümüz tehdit altýnda.
+{128683}{128749}hep beraber savunmamýz gerekli.
+{128749}{128868}Heston Flint'e gelmeden önce muhabirler|Kayla'nýn ölümü ile ilgili soru sordu.
+{128868}{128934}hatta NRA resmi sitesi konu ile|ilgili açýklamada bulundu.
+{128934}{129041}biz NRA'nýn Kayla'yý unutmadýðýmýzý|bilmesini istiyoruz.
+{129041}{129102}gelmeye nasýl cüret edebildiler?
+{129122}{129194}çok sinirliyim.
+{129194}{129338}yerel bir muhabir Heston'a Buell dramý|sonrasýnda neden Flint'e geldiðini sordu.
+{129338}{129465}ve NRA 6 yaþýnda eli silahlý bir çocuk|ile ilgili ne dedi.
+{129465}{129552}her yýl 21 milyon dolar harcýyoruz.
+{129552}{129629}yalnýzca çocuklarý bilgilendirmek için
+{129629}{129710}"eðer bir silah görürlerse dokunkayýn.
+{129710}{129764}uzaklaþýn ve bir yetiþkin çaðýrýn diyoruz."
+{129779}{129846}þov yapýlmýþtý.
+{129863}{129927}burada Flint'te?|- evet Flint'te.
+{129927}{130036}6 yaþýndaki çocuðu mahkemeye çýkarmak|isteyenler mi oldu.
+{130068}{130238}evet telefonlar mektuplar|ABD'nin her tarafýndan.
+{130238}{130303}inanýlmaz geliyor deðil mi?
+{130303}{130382}NRA sempatizanlarý çoðunlukta idi.
+{130382}{130486}ben onlarý silah manyaklarý|olarak tanýmlýyorum.
+{130486}{130572}bu insanlar ayný yerde yaþamaktan|utandýklarýný söylüyorlardý
+{130572}{130724}önlemlerin alýnmasýný ve|ceza verilmesini istiyorlardý.
+{130724}{130837}o çocuðu en yüksek aðaçta|asýlmýþ görmek istiyorlardý.
+{130837}{131004}katýksýz saf nefret.
+{131004}{131039}sinir bozucu idi.
+{131039}{131198}bu resimi silahý kullanan çocuk|ofisimde çizdi.
+{131198}{131263}olaydan 15 dakika sonra.
+{131263}{131339}ona kalem ve kaðýt verdim.
+{131339}{131404}ve bunu benim için çizdi.
+{131404}{131492}duvarda çocuklarýmýn resimlerini|gördü.
+{131492}{131542}ve o da bir tane yapmak istedi.
+{131542}{131607}ne anlatmak istemiþ?
+{131607}{131700}bu onun eviymiþ.|- evi ve o muymuþ?
+{131700}{131771}neden astýn bu resmi?
+{131805}{131857}durumun baskýsý.
+{131857}{131934}ve o asmamý istedi.
+{131934}{132019}çerçeveledim astým iste duruyor
+{132066}{132151}Tamarla Owens küçük çocuðun annesi.
+{132151}{132222}çocuðunun bakýmýný ve giderlerini|karþýlamak için.
+{132222}{132362}Michigan'daki "Welfare-to-work" adýnda|sosyal bir programda çalýþýyor.
+{132379}{132479}bu program fakir kesime yemek|saðlamakta çok baþarýlý oldu.
+{132479}{132596}o kadar ki bu sistemi bulan Gerald Miller,|daha sonra büyük bir þirketle anlaþtý.
+{132596}{132698}özelleþtirme ve sosyal yapý üzerinde.
+{132698}{132775}bu þirket Lockheed Martin.
+{132790}{132878}soðuk savaþýn bitmesi ile|korkacak düþman kalmamýþtý.
+{132878}{133028}Lockheed korku oluþturmak için yeni|kaynaklar aradý.
+{133028}{133085}bize çok yakýn düþmanlar.
+{133085}{133176}Tamarla Owens gibi fakir siyah anneler.
+{133179}{133365}çocuðuna bakabilmek için ise bir buçuk|saatte giden bir buçuk saatte gelen biri.
+{133365}{133421}þirketin özel ilgi alaný
+{133421}{133543}bu durumun aileyi daha sorunlu yaptýðý|söyleniyor
+{133543}{133648}"Welfare-to-work".|bu program durdurulmalý.
+{133648}{133717}hiç bir pozitif etkisi yok.
+{133738}{133827}olaylarý kötüye götürmekten baþka ise|yaramýyor. - gerçekten mi?
+{133827}{133908}Þerif olarak fikriniz bu mu?|- evet.
+{133908}{134019}ben ebeveynleri bir arada çocuklarýn yanýnda|tutmak isterim ama yapamýyorum.
+{134060}{134133}biri insanlarý otobüse bindirmekten baþka|iþ yapmýyor.
+{134133}{134222}sonuçta her yerde kazanabileceði|5,50 $ kazanýyor.
+{134254}{134411}otobüsü her sabah iþe götürmek ve sosyal güvenlik|ödemelerini yapabilmek olay bu.
+{134472}{134538}Flint'te yaþayan pek çok fakir|insan için durum bu
+{134538}{134755}her gün 130 km yol ile Oakland'a gidiliyor,|en zengin bölgelerden birine.
+{134797}{134884}Tamarla sabahlarý çok erken çýkýyor ve|geceleri çok geç gelebiliyor.
+{134884}{134952}çocuðuna vakit ayýramýyor.
+{134963}{135016}bu iþin neresi karlý?
+{135016}{135123}ülkeye veya Flint'e ne getiriyor?
+{135123}{135233}bir çocuk öldü problem burada.
+{135233}{135302}birisi anneyi çocuktan uzaklaþtýrdý.
+{135337}{135418}birisi bunun toplum yararýna olduðunu,
+{135418}{135494}nasýl iddia edebilir
+{135494}{135569}buna inanabilir misin.
+{135597}{135647}ne zamandýr otobüsü kullanýyorsun?
+{135647}{135727}hemen hemen 3 yýldýr.
+{135760}{135870}abim ve komþular da bu iþte çalýþýyor.
+{135870}{135951}tanýdýðým neredeyse herkes|bu iþi yapýyor.
+{135951}{136049}Flint'te , iþsizlik yardýmý ile ayný|miktarda para alýyoruz.
+{136049}{136144}3 $ kazanmak için 60 km gidiyorum
+{136144}{136230}saatte ne kadar kazanýyorsun?|-8,50 $.
+{136230}{136305}yaþamana yetiyor mu?|- hayýr.
+{136305}{136424}Tamarla'yý tanýyor musun?,Kayla'yý|öldüren çocuðun annesi?
+{136424}{136504}otobüsleri kullanýyor.|- çok az,
+{136504}{136563}gerçekten deðil.|- iyi biriydi?
+{136563}{136677}geçimini saðlamak için iki iþte|çalýþýyordu
+{136677}{136766}iki is|- evet her gün iki iþte..
+{136850}{136992}Dick Clark'ýn restoraný|veya Tamarla'nýn ikinci iþi.
+{137031}{137120}barmaid olarak çalýþýyordu.
+{137120}{137227}içki hazýrlýyordu|tatlýlar hazýrlýyordu.
+{137227}{137286}iyi bir çalýþan mýydý?|- evet.
+{137286}{137365}pek çok iþte yardýmcý olurdu.
+{137365}{137422}devletin ayarlamasý sonucu ise girmiþti.
+{137422}{137474}Dick Clark Amerikanýn simgelerinden.
+{137474}{137599}Rock'n'roll'u her hafta evlerimize|getiren kiþi.
+{137599}{137679}hayatýmýzýn her aný müzik ile dolu.
+{137679}{137791}Dick'in dediði gibi:|"muzik hayatýmýzýn ana bileþeni"
+{137791}{137924}restaurantý ve pastanesi Beverly Hills|vergi indiriminden faydalanýyor.
+{137924}{137997}sosyal destek programýnda iþçileri|çalýþtýrmasýnýn avantajý.
+{138011}{138118}iki iþte çalýþmasýna raðmen ve|haftada 70 saat çalýsmasýna raðmen
+{138118}{138186}Tamarla kirasýný ödeyemiyordu.
+{138186}{138330}olaydan bir hafta önce iþten|çýkarýlacaðý haberini aldý.
+{138330}{138440}çocuklarýnýn okuldan uzak kalmalarýný|istemediði için.
+{138440}{138532}abisinden bir iki hafta çocuklara|bakmasýný istedi.
+{138532}{138680}ve çocuðu okula getirdiði silahý|bu sekilde buldu.
+{138696}{138767}Tamarla çocuðun silahý aldýðýný görmedi.
+{138767}{138901}çünkü zengin insanlara yemek|hazýrlamaya gitmiþti.
+{139011}{139099}California'ya giderek Dick Clark|ile görüþmeye karar verdim.
+{139099}{139223}fakir siyahlarýn yaþayabilmek için|iki düþük ücretli
+{139223}{139258}iþte çalýþmasý hakkýndaki fikrini|sormak istedim.
+{139263}{139393}bir belgesel hazýrlýyorum okullardaki|cinayetler, silahlar ve genel konular.
+{139432}{139516}bende Flint, Michigan, doðumluyum|biliyor muydun?
+{139516}{139574}6 yaþýnda bir çocuk|bir baþka çocuðu öldürdü.
+{139574}{139638}gel, Dave!|dikkat!
+{139666}{139707}üzgünüm, çok geç kaldýk.
+{139707}{139794}cinayeti iþleyen çocuðun annesi
+{139794}{139908}Dick Clark restaurant'larýnda.|- anlýyorum kapýyý kapatýn.
+{139908}{139964}sosyal destek programýnda çalýþýyor|- kapý!
+{139964}{140029}bu insanlar bu koþullarda çalýþmaya|zorlanýyor Dick!   - Bye.
+{140029}{140094}Michigan valisi ile konuþalým
+{140094}{140182}bu program…|bu insanlar zor durumda…
+{140182}{140276}evde bekleyen çocuklarý var…|Dick!
+{140292}{140393}George Bush'un amerikasýnda,|fakirler öncelikli konu deðil.
+{140393}{140524}ve 11 eylül 2001'den sonra|önemleri daha da azaldý
+{140524}{140658}baþka önceliklerin korku ve|paniðiyle.
+{140658}{140711}birimlerimizi göstermek için þans tanýyýn.
+{140711}{140802}kongreden askeri harcamalarý
+{140802}{140901}birinci dereceden önemli olduðu
+{140901}{140976}kabul edildi. benim çabalarýmla
+{141088}{141183}kimyasal saldýrý korunma elbiseleri|eldivenleri.
+{141183}{141233}gaz maskeleri en çok sattýðýmýz þeyler.
+{141233}{141295}kendim ve köpeðim için aldým.
+{141295}{141377}Dennis Marks ve karýsý.
+{141377}{141424}yeni silahlar ve mühimmat alýyor.
+{141424}{141531}11 eylül olayýndan sonra ,|silah satýþlarý %70 arttý
+{141531}{141582}ve mermi satýþý %140.
+{141582}{141681}Dallas'ta , Ben Laden|hedef olarak kullanýlmaya baþlandý.
+{141681}{141802}11 Eylül'ü izleyen aylarda hepimiz korku içinde yaþýyorduk
+{141802}{141908}Þeytan'ýn bir hizmetkarý tarafýndan öldürülüp öldürülmeyeceðimizi kimse|bilmiyordu
+{141908}{142002}Ya da etrafa ateþ eden çýlgýn biri tarafýndan vurulmayacaðýmýzý
+{142001}{142067}Tehdit gerçek gibiydi
+{142079}{142164}Belki paranoyaklýk gibi görünebilir ama bunu þansa býrakamam
+{142164}{142218}Sadece kendimi ve ailemi korumaya çalýþýyorum
+{142218}{142315}Gittikçe büyüyen korku bazýlarýnýn kar etmesini de saðlýyordu
+{142315}{142438}Mike Blake geçen ay %30 daha fazla alarm taktý
+{142438}{142555}Konuþtuðu insanlarýn coðu hala 11 Eylül'deki terörist saldýrýnýn etkisi|altýnda olduðunu söylüyor
+{142555}{142667}Bütün bu þeylerden niye bu denli korkuyoruz?|Çünkü bircok insan bundan para kazanýyor
+{142667}{142718}ve kariyerlerini buna borçlular
+{142718}{142783}Ýnsanlar bizi korkutmayý sürdürmek için
+{142783}{142849}uðraþýyorlar ve bununla her geçen gün daha çok ilgileniyorlar
+{142849}{142950}Kesici aletlerle donatýlmýþ bir teröristle savasmanýn en iyi yolu nedir?
+{142950}{142998}Lockeed Martin'den ýsmarlanacak bir dizi savaþ uçaðý
+{142998}{143140}Evet herkes kenidini daha güvende hissedecek.Özelikle de Park Avenue'de çöp|toplayan askeri bir birlik olursa!
+{143140}{143232}Ama terörize olmuþ bir toplumun en büyük yararý
+{143232}{143348}Yaptýklarý yanýna kar kalan politikacýlarla þýk iliþkiker içinde olmasýdýr
+{143348}{143401}Bush'un Enron'daki yöneticiliði
+{143401}{143453}ve hükümetin bu davadaki tutumundan
+{143453}{143579}daha iyi bir örnek olamaz diye düþünüyorum
+{143579}{143670}Dünta Ticaret Merkezi'e yapýlan saldýrýdan sonra|bilmediðimiz çok þey vardý
+{143670}{143796}Fakat açýk olan birþey var:|11 Eylül'den önce yada sonra
+{143796}{143974}Korkudan kontrolünü kaybetmiþ olan bu toplum|bu denli silahlanmamalýydý
+{144013}{144099}Ben bir Tech 9 ile vuruldum
+{144099}{144144}9mm?
+{144241}{144385}Yarý-otomatik bir silahtý ama|otomatik gibiydi
+{144385}{144435}Bu Richard Castaldo.
+{144435}{144485}ve bu da Mark Taylor.
+{144485}{144582}Ýkisi de Columbine'daki katliamda vuruldular
+{144582}{144679}Richard hayatýný tekerlekli sandalyede sürdürecek
+{144679}{144777}Mark ise geçirdiði sayýsýz ameliyattan sonra|ancak ayakta durabiliyor
+{144777}{144838}Cezayi çekenler Columbine'daki gençler oldu
+{144838}{144941}O gün,bütün bu ulus için|biz bedel ödedik
+{144941}{145009}Mark ve Richard hala vücutlarýnda bulunan
+{145009}{145130}17 cent'lik K-Mart kurþunlarý yüzünden|özürlüler ve acý çekiyorlar
+{145130}{145277}Vücutlarýndaki kurþun izlerini gösterdiklerinde|aklýma piyasadaki silahlarý ve cephanelerin
+{145277}{145325}sayýsýný azaltmak icin bir fikir geldi.
+{145325}{145448}Çocuklara,mallarýný iade etmek için K-Mart'a gitmek|isteyip istemediklerini sordum
+{145499}{145521}Hazýr mýsýn?
+{145521}{145597}Hadi git.|- Ben mi?
+{146515}{146555}Kamerayý kapatýr mýsýnýz lütfen!
+{146555}{146604}Mr. Conaway ile konuþmak istiyoruz.
+{146604}{146684}Öncelikle kamera için izin almak|zorundayým
+{146696}{146748}Tamam.Kamerayý kapa.
+{146764}{146802}Bir saat sonra
+{146802}{146896}Merhaba ben Mary Lorencz,|K-Mart'ýn halkla iliþkiler sorumlusuyum.
+{146903}{146988}Size nasýl yardýmcý olabilirim?|- Bu Richard Castaldo.
+{146988}{147036}Merhaba Richard,|Tanýþtýðýma sevindim
+{147036}{147095}Ve bu da Mark Taylor.
+{147095}{147168}Columbine Lisesi'den gelen gençler
+{147168}{147302}Columbine kaliamýnda K-Mart'tan alýnmýþ|olan kurþunlarla vuruldular
+{147302}{147376}Oldukça uzun bir yoldan gelmiþsiniz
+{147376}{147513}Düþünüyordum da,|artýk silah satmadýðýnýza göre
+{147513}{147607}Bunlar için cephane satmamaniz da|mantýklý olurdu.
+{147607}{147734}Bizim istediðimiz,9mm'likler icin|mermi satmayý durdurmanýz
+{147734}{147868}K-Mart'ý biliyorsunuz,ve umuyorum ki bizim|maðazalarýmýzdan alýþveriþ yapýyorsunuzdur
+{147868}{147958}Biz spor amaçlý silahlar ve
+{147958}{148068}avlanma aksesuarlarý dýþýnda silah satmýyoruz
+{148068}{148193}Mesajýnýzý baskanýmýz Chuck Conaway'e|ileteceðim.
+{148193}{148250}O,bugün burada deðil|- Burada deðil mi?
+{148250}{148331}Bütün bir hafta yok.
+{148331}{148440}Bir insanýn satýn alabileceði mermi|sayýsýyla ilgili bir sýnýrlama var mý acaba?
+{148440}{148550}Ben bunu cevaplayamam.Ben satýþlarla ilglenmiyorum|Satýþlarla ilgilenen kiþiyle konuþmalýsýnýz
+{148550}{148587}O kiþi burada mý?
+{148587}{148717}Eðer kartýnýzý býrakýrsanýz,bu sorularýnýzýn|cevaplarýný bulabilirim,size bilgi verebilirim
+{148717}{148813}Hayýr size bir kart býrakmayacaðýz.|Burada olmamýzýn nedenini size açýklayayým:
+{148813}{148964}Mark'ýn aortunun 2,5 santim|içinde bir K-Mart mermisi var
+{148964}{149045}Belkemiði ile aort arasýnda
+{149045}{149115}Tekrar yürüyebildiðinize|çok sevindim
+{149115}{149191}Ben,onlara burada birilerinin|onlarý dinleyebleceðini söyledim
+{149191}{149300}birilerinin onlarýn isteklerini|ciddiye alacaðýný
+{149300}{149378}Halkla iliþkilerden sorumlu biri deðil,|Onlarýn sorularýný cevaplayabilecek
+{149378}{149464}yetkili ve sorumlu bir kiþi
+{149464}{149558}K-Mart bunlarý ciddiye alýr.|Fakat þu an bundan daha fazla birþey yapamam.
+{149558}{149618}En azýndan bir telefon konuþmasý yapana kadar..
+{149618}{149700}Gidip þatýþlardan sorumlu biri var mý|diye bir bakar mýsýnýz?
+{149700}{149747}Mary gitti,
+{149747}{149896}ve iki saat sonra, görevi K-Mart'a mermi almak|olan bu adamla birlikte geri döndü
+{149896}{149940}Belaya karýþmamanýzý öneririm
+{149964}{150015}Biz bela için burada deðiliz.
+{150022}{150080}Mark vücudundaki kurþun izlerini gösterdi.
+{150080}{150165}Bunlar kurþun delikleri
+{150165}{150229}K-Mart kursunlarý böyle geri dönüyor
+{150256}{150291}Kendinize iyi bakýn
+{150291}{150363}Aþaðý biri gelecek mi?
+{150363}{150408}Aþaðýya biri gelecek mi?
+{150408}{150458}Bir bakayým.|- Tamam,teþekkürler.
+{150462}{150571}Birkaç saat daha bekledik.|Ama kimse gelmedi.
+{150571}{150656}Binadan ayrýlýrken,|Mark'ýn aklýna bir fikir geldi.
+{150656}{150737}Oraya en yakýn K-Mart'a gidip
+{150737}{150796}bütün mermileri satýn almak
+{150836}{150888}Alabildiðiniz kadar çok alýn
+{150888}{150951}Ýste burda
+{150951}{150999}Baþka ne alacaðýz
+{150999}{151083}357 için merminiz var mý?|Hepsini alacaðým.
+{151083}{151162}Siz 17 yaþýndasýnýz.Ya siz?|-16.
+{151162}{151223}Kahretsin!
+{151290}{151358}Mark K-Mart'ýn bütün cephaneliðini boþalttý!?
+{151358}{151475}Sonraki gün topladýðýmýz cephane ile K-Mart'ýn|merkez binasýna gitmeye karar verdik,
+{151475}{151554}ve medya.
+{151554}{151654}Güney doðu Michigan dan|haberler gelmeye devam ediyor
+{151654}{151758}Yazýn gelmesiyle yýlanlarýn oluþturduðu tehlike
+{151758}{151832}ve çýngýraklýyýlan tarafýndan ýssýrýlan bir anne
+{151832}{151934}Ve Columbine katliyamýndan ayakta kalanlar
+{151934}{151982}Sehrin merkezine yürüyorlar,ve K-Mart'a karþý tepkililer!
+{151982}{152047}K-Mart 'ýn baþkaný|ile görüþmek istiyoruz.
+{152047}{152116}Ne için??|- Tekrar gözden geçirelim.
+{152289}{152332}Ýþte burda 9mm mermileri
+{152332}{152414}Bu mermiler halen,
+{152414}{152483}Mark ve Richardýn vucudlarýnda bulunan mermilerden.
+{152520}{152586}...
+{152658}{152739}Dýþarý çýkýn,5 dakika içinde görüþmeye gelecekler
+{152739}{152799}Lütfen kapý giriþini kapamayýn
+{152799}{152855}Dýþarý görüþmeye biri gelecek mi?
+{152855}{152962}Ben Laurie McTavish,K-mart halkla iliþkiler|bölümü baþkan yardýmcýsýyým.
+{152962}{153029}Þirketim adýna size bir bildirim olacak
+{153029}{153150}Columbine de olanlar gerçek bir trajediydi|ve bütün amerikalýlarý derinden etkiledi.
+{153150}{153268}Yanýmýzdaki Genç adam için üzgünüz.
+{153268}{153346}K-Mart cephane þatýþlarýndan vazgeçme|kararý aldý
+{153346}{153427}ve yavaþ yavaþ satýþý bitirecek.
+{153427}{153515}90 gün içerisinde satýþlar bitecek.
+{153515}{153582}K-mart temsilcileri dün|Bay Moore ve,
+{153582}{153654}Columbine öðrencileri ile bir görüþme yaptý
+{153654}{153780}Ve K-Mart da satýlanlar ile|ilgili sorunlarý dinlediler
+{153780}{153846}Bu görüþmenin ardýndan,K-Mart
+{153846}{153943}Bir Hafta içinde bu soruna çözüm|bulmak için söz verdi
+{153943}{154007}Öncelikle size teþekkür etmek istiyorum,
+{154007}{154138}bundan sonra silah ve cephane satmayacaðýnýzdan dolayý.
+{154138}{154215}Ve 90 gün içerisinde...|-...90 gün içinde bitecek.
+{154215}{154338}Ve 90 gün sonunda bir daha marketlerinizde|cephane veya silah satmayacaksýnýz?
+{154338}{154453}90 gün sonunda birdaha|marketlerimizde cephane ve silah satýlmayacak.
+{154453}{154504}Teþekkürler.
+{154504}{154580}Çok teþekkürler,Teþekkürler,..
+{154674}{154764}Bu bizim beklediðimizden daha fazla.
+{154764}{154810}Bu gerçekten þaþýrtýcý.
+{154833}{154897}Buna inana biliyor musun ?|- Hayýr!.
+{154897}{155013}...
+{155031}{155130}Bu Columbine öðrencilerinin K-Mart'a karþý|kazandýklarý parlak bir zaferdi.
+{155130}{155236}Ve Bu olay beni yapmam gereken|þeyler için cesaretlendirdi.
+{155246}{155339}Benim için gerekli olan tek þey|bir yýldýz haritasýydý
+{155834}{155897}Bay Heston?|Ben Michael Moore.
+{155915}{155960}Film yapýmcýsý|- evet ,elbette.
+{155960}{156009}Nasýlsýnýz?|- Ýyiyim, Teþekkürler.
+{156009}{156081}Sizinle bir görüþme yapabilir miyiz?
+{156081}{156128}Bir belgesel hazýrlýyorum
+{156128}{156227}Silahlar hakkýnda.|Ben bir NRA üyesiyim.
+{156227}{156293}Bu konu hakkýnda sizinle görüþmek istiyorum.
+{156293}{156352}Ýzin verirseniz randevu defterime bir bakim,
+{156352}{156439}Belki size yarýn zaman ayýrabilirim,|Bugün görüþmem var.
+{156439}{156497}ve nasýl...|?
+{156497}{156554}Hatta kalýn lütfen.|- Teþekkürler.
+{156554}{156671}Yarýn sabah müsaitim size zaman|ayýrabilirim,Perþembe uygunum
+{156671}{156735}8:30'da|- 8:30 Sabah mý?
+{156747}{156769}Sadece buraya gelmem yeterli mi?
+{156804}{156849}Ok.
+{156849}{156916}Ertesi Sabah.
+{156968}{157028}Ben Michael Moore,|Charlton Heston ile randevum vardý.
+{157730}{157774}Nasýlsýnýz?
+{157774}{157848}Beni kabul ettiðiniz için teþekkürler.
+{158033}{158134}Sohbet edebilmemiz için ,|beni içeri davet etti.
+{158150}{158273}NRA üyesi olduðumu söyledim ve|ona üyelik kartýmý gösterdim
+{158273}{158321}Güzel.
+{158321}{158379}Evinizde silah bulunduruyormusunuz?|- Tabiki de.
+{158379}{158449}"kötü adamlar dikkatli olun!".
+{158449}{158516}Bu sizin güvenliðiniz için mi?|- Evet.
+{158516}{158584}Hiç saldýrýya uðradýnýz mý?|- Hayýr.
+{158584}{158658}Hiç saldýrýlmadý?
+{158658}{158732}O halde,niçin evinizde silah bulunduruyorsunuz?
+{158732}{158780}dolu.|- dolu ve hazýr?
+{158804}{158916}savunma amaçlý bir silah|dolu ve hazýr olmalý
+{158916}{158992}Niçin savunma amaçlý silaha ihtiyaç duyuyorsunuz?|- doðru aslýnda ihtiyacým yok.
+{158992}{159085}Hiçbir zaman saldýrýya uðramamýþ olmanýza raðmen...|- Evet.
+{159085}{159187}O zaman silahlarýnýzý boþaltmamanýzýn|nedeni nedir?
+{159187}{159299}çünkü ruhsatým var ve doldurma|hakkým bulunmakta.
+{159299}{159351}Size katýlýyorum.
+{159351}{159476}sormak istediðim bu hakký neden kullanýyorsunuz|- konfor hissi diyelim o zaman.
+{159476}{159547}dolu bir silahýn konforu mu?
+{159547}{159626}konforla kastedilen tam olarak...
+{159626}{159672}kastettiðiniz..|- güvenlilik hissi?
+{159672}{159732}böylelikle korkmuyorum
+{159732}{159817}çalýþmalar yapýyorum
+{159817}{159938}bu ülkeyi yaratan beyaz bilge insanlar|gibi davranýyorum.
+{159938}{159991}onlar için iyi olan benim için de iyidir.
+{159991}{160089}doðru çalýþmalarýnýzý silah|olmadan yapamaz mýsýnýz.
+{160089}{160132}ben dolu silahý tercih ettim.
+{160132}{160225}Asýl benim ilgimi çeken konu,|diðer ülkelerde,
+{160225}{160302}buradaki kadar çok cinayet olayý olmuyor,
+{160302}{160413}birçok insan bunun oralarda silah|bulunmamasýndan dolayý olduðunu söylüyor
+{160413}{160487}Ýngiltere de veya Almanya da,|Silah bulmak zor olabilir.
+{160487}{160598}Fakat Kanada'da ,10 milyon evde 7 milyon silah var
+{160598}{160632}Çok fazla deðil.
+{160632}{160716}Halen,|Kanada avcýlarýn ülkesi olarak bilinir,
+{160716}{160842}ve milyonlarca silaha sahip olmalarýna raðmen,|geçen yýl sadece birkaç cinayet olayý olmuþ!
+{160842}{160907}Benim sorum ise:|30 milyon insanýn yaþadýðý bir ülkede,
+{160907}{161002}Nasýl oluyorda bu kadar çok silah varken,
+{161002}{161087}bizim gibi birbirlerini öldürmüyorlar?
+{161087}{161163}Bence Amerika Tarih'i
+{161163}{161236}çok kanlý bir geçmiþe sahip
+{161236}{161303}Peki ya Almanlarýn Tarih'i ,|ya da Ýngilizlerin Tarih'i?
+{161303}{161351}Çok Deðil.
+{161351}{161424}Almanlar'ýn elleri daha az kana mý bulandý?
+{161424}{161456}Evet onlarda biraz!...
+{161456}{161540}Ýngilizler 300 yýldýr sömürgeler ile yaþýyorlar
+{161540}{161690}Diðer ülkelerde de þiddete baþvuran insanlar var!|Onlarda da suçlular ,silahlar... var!
+{161690}{161799}Evet gerçekten de analiz edilmesi gereken,|ilginç bir konu,
+{161799}{161870}ve sizde bu konu hakkýnda iyi bir araþtýrma yapmýþsýnýz,
+{161870}{161947}Fakat benim söyliyebilecðim birþey yok.
+{161947}{162057}Yani ,bizim niçin birbirini öldüren tek ulus|olduðumuz hakkýnda hiçbir fikriniz yok
+{162057}{162125}Birbirini öldüren silah seven?
+{162125}{162250}Büyük olasýlýkla önemli olan|ülkemizdeki etnik yetiþtirme tarzý
+{162250}{162326}diðer ülkelerdeki gibi.
+{162326}{162443}Yani size göre bu etnik bir sorun?
+{162443}{162566}tam olarak deðil bizim insan haklarý|ile baþlayan yeterince problemimiz var.
+{162566}{162641}Verebileceðim bir yanýt yok.
+{162641}{162743}"Etnik yetiþtirme" ile ne demek istediniz?|Anlayamadým?
+{162743}{162903}Siz bana, Amerikalýlar niçin|birbirlerini öldürüyorlar diye sordunuz?
+{162903}{162946}Bence bu doðru deðil...
+{162946}{163101}Ama sizde biliyorsunuz ki,ülkemizde|diðer ülkelere göre çok daha fazla cinayet vakasý var.
+{163101}{163164}Size verebileceðim tek cevabý|biraz önce verdim.
+{163164}{163195}Hangisi?
+{163195}{163264}Bizim tarihimizin...
+{163264}{163403}diger ülkelerden daha þiddetli olmasý...
+{163403}{163492}Tabi Rusyadan ve Japonyadan deðil|- Ve Almanyadan
+{163492}{163595}Ve Almanyadan,|Ama Kanadadan daha þiddetli...
+{163595}{163641}Buraya Flint,Michigan 'dan geldim.
+{163641}{163798}Geçen sene ,6 yaþýnda bir oðlan|okulda sýnýflarýnda küçük bir kýzý öldürdü.
+{163798}{163906}Bir trajedi.|- Onlar çocuktu.
+{163906}{163970}Evet , ikiside 6 yaþýndaydý|Bunu biliyor muydunuz?
+{164015}{164103}Benim sorum;|Bu olaydan sonra
+{164103}{164198}Flint'e kongre için geldiðinizde
+{164263}{164321}Baþkanýn yardýmcýsý da
+{164321}{164437}Sizce bu olay orda yaþayan insanlar için|ince bir davranýþ mýydý
+{164437}{164562}Konu hakkýnda bilgilendirilmemiþtim|Sabah erken bir zamanda gelmiþtik
+{164562}{164661}birisi toplantýyý organize etti diðeri gitti.
+{164661}{164732}olan olaylardan haberdar olmadýðýnýzý|mý söylüyorsunuz
+{164732}{164824}Eger haberiniz olsaydý…|-… Erteleye bilirdim?
+{164824}{164960}Ben... gerçekten bilmiyorum.|- Ama gelmemeyi düþünmediniz.
+{164960}{165063}Bu kötü olaydan sonra buraya gelmeyi tercih ettiniz
+{165063}{165147}Eðer bilseydiniz gelir miydiniz?
+{165147}{165216}Bilmiyorum.|Bir fikrim yok.
+{165216}{165276}Belki hayýr?
+{165295}{165432}burada Flint sakinlerine özür|borcunuzu konuþmak istermisiniz
+{165432}{165525}benden özür dilememi mi bekliyorsunuz?
+{165525}{165612}benzer bir durum Columbine olaylarý|sonrasýnda da olmuþtu?
+{165612}{165690}Niçin böyle trajedilerin ardýndan|bu þehirlere gidiyordunuz?
+{165690}{165763}þunu hatýrlatayým ki|ben de size üyeyim
+{165763}{165832}korkarým ayný fikirde deðiliz.
+{165832}{165923}Kendinizi orda göstermeniz sizce|normal bir davranýþ mýydý??
+{165948}{166022}Bu sizce normal miydi?
+{166269}{166328}Bay Heston, son bir þey daha.
+{166328}{166366}Ýste bu o kýz.
+{166366}{166406}Yada , oydu.
+{166418}{166485}Bay Heston,|Lütfen gitmeyin.
+{166485}{166599}Þuraya bir bakýn lütfen|Ýþte o küçük kýz
+{167868}{167984}Beverly Hills'deki Heton residence'dan ayrýldým ,|Ve gerçek dünyaya doðru yol aldým,
+{167984}{168055}Korku içinde yaþayan,ve korkuyu|hisseden Amerika da ...
+{168055}{168096}Düþünün bir insan ,
+{168096}{168182}size ve ailenize kötülük yapacak birisi;
+{168182}{168261}Sizce bu insan kime benzeyebilir?
+{168261}{168401}Size ,ona ,buna,Kameramana|belki kamerada silah vardir?,herkes olabilir?
+{168401}{168468}Silahlar her zamankinden daha fazla satýlýrken
+{168468}{168548}Bu silah , yari otomatik ,hem de güçlü.
+{168548}{168670}Ve bütün yollarýn Bowling For Columbine çýktýðý yerde
+{168670}{168789}Broadway Merkez Bowling salonunda ,üç çalýþan öldürüldü!.
+{168789}{168853}Bu konu hakkýnda gerçekten birþey bilmiyorum.
+{168853}{168966}Sadece ,Littleton da üç kiþi öldü?Bowling salonunda.
+{168966}{169036}Baþýnýz saðolsun|- Ýyi Günler.
+{169037}{169182}Evet ,Gerçektende Amerikalý olmak için mühteþem bir zaman.
+{169207}{169357}www.OpenSubtitles.org adresinden tüm reklamlarý kaldýrmak için bizi destekleyin ve VIP üye olun.

@@ -1,0 +1,777 @@
+{100}{159}Ödünç sandalye alamazsýn.
+{163}{222}Sadece bir tane kaldý.
+{223}{258}Ne?
+{258}{293}Oh.
+{316}{350}Kusura bakma.
+{370}{422}Sen Kimsin?
+{422}{481}Benim adým Lowry.|Sam Lowry.
+{481}{578}Oh, evet. Yan odaya taþýnan |yeni kiþi.
+{579}{615}Benim adým Lime.
+{615}{650}Harvey Lime.
+{651}{709}Sevkiyat bölümüne hoþgeldin.
+{709}{779}Bilgisayar konsolunu|ödünç alabilir miyim?
+{783}{818}Ne?
+{819}{854}10 Dakikalýðýna.
+{855}{937}Benim bilgisayarimi |ofisine mi götürmek istiyorsun?
+{937}{996}Evet, sadece bir kaç dakikalýðýna.
+{996}{1047}Bak ne diycem.
+{1048}{1106}Bana ne istediðini söyle.
+{1107}{1166}Ben senin için yaparým.
+{1166}{1259}Bu þeyi Çok iyi kullanýrým.
+{1264}{1299}Pekala.
+{1300}{1341}Layton adýnda bir kadýn hakkýnda,
+{1346}{1400}Bazý bilgilere ihtiyacým var.
+{1405}{1439}Bir kadýn, öyle mi?
+{1441}{1475}Anlýyorum.
+{1476}{1534}Evet. Yaþýný biliyorum.
+{1534}{1570}ve ayýrt edici iþaretlerinide.
+{1570}{1628}fakat adresine ihtiyacým var.
+{1633}{1667}Hayallerinin kadýný mý?
+{1668}{1703}Ne?
+{1704}{1763}Bilgisayarýný kullanmama izin ver.
+{1763}{1810}Þaka yapýyor olmalýsýn.
+{1810}{1868}Ýþin içinde bir kadýn varsa,
+{1872}{1919}hiç bir þey beni durduramaz.
+{1921}{1973}Þu sayfaya bir bakalým.
+{1998}{2148}www.OpenSubtitles.org ile bugün baðlantý kurun ve ürününüzün ya da markanýzýn reklamýný burada yapýn.
+{2200}{2235}Kahretsin! Bozulmuþ!
+{2236}{2295}Daha açmamýþsýn. 
+{2319}{2358}Oh, evet.
+{2448}{2494}Kafamý karýþtýrýyorsun.
+{2494}{2553}Ofisine geri dön.
+{2557}{2615}Ýþim bittiðinde duvara vururum.
+{2616}{2699}Merak etme,|onunla kaçýcak deðilim.
+{2699}{2738}Pekala.
+{3593}{3629}Sam!
+{4169}{4204}Sam.
+{4280}{4319}Gitme.
+{4361}{4403}lütfen.
+{4432}{4508}
+{4594}{4643}
+{4713}{4748}Ne oldu?
+{4753}{4812}Bilgisayarlar uzmanlýk alanýmdýr.
+{4817}{4851}Ver bakayým.
+{4853}{4887}Gillian Layton.
+{4900}{4947}Beyaz...Sarýþýn...|Göz rengi: Mavi. 1.60  boyunda
+{4988}{5023}Solda yara izi.
+{5023}{5086}Bütün öðrenebildiklerin|bunlar mý?
+{5087}{5140}Kadýnlar söz konusu olduðunda,
+{5140}{5193}iþleri yavaþtan almak|en iyisidir.
+{5197}{5234}Çekil bakayým.
+{5257}{5298}Hey! O bana ait!
+{5321}{5391}''Layton. Kamyon þöförü.
+{5392}{5497}tüm soruþturma bilgileri|için görevli kiþi 412 L 
+{5501}{5538}oda 5001.''
+{5620}{5679}Lowry, seni gördüðüme Çok sevindim|Þunu geri gönder.
+{5684}{5731}Yeni ofisine alýþtýn mý |Emri iptal et.
+{5735}{5807}Almýþ olduðun personel taþýma aracý|hakkýnda sorgulama var.
+{5807}{5848}Hayýr Evet.
+{5848}{5930}Yoksa nakliyat bölümünden |kiþisel taþýma aracý mýydý aldýðýn?
+{5930}{5977}Herneyse bu iþi hallet, Lowry.
+{5981}{6035}Iþte iyi bir eleman,|ve yeni bir takým elbise al.
+{6036}{6083}Asansör lazým mý?
+{6287}{6338}
+{6491}{6563}
+{6614}{6744}
+{7118}{7189}
+{7938}{8007}- Aman Tanrým! Yardým edin!|- Yardým edebilir miyim?
+{8008}{8067}Oh, hayýr! Hayýr!
+{8072}{8108}Ben, þey...
+{8113}{8190}Görevli 412 L2'yi arýyorum.
+{8194}{8272}- Hayýr! Yardým edin!|- Ýþi fazla sürmez.
+{8277}{8311}
+{8313}{8360}Dediðim gibi.
+{8524}{8588}Þimdi içeri girebilirsiniz.
+{8687}{8746}Orasý deðil þu taraftaki.
+{8764}{8793}Evet.
+{8978}{9050}Özür dilerim|Görevli 412-L siz misiniz?
+{9074}{9138}
+{9190}{9226}Afedersiniz!
+{9296}{9325}Jack!
+{9325}{9355}Sam!
+{9407}{9477}Göreve baþladýðýný duymuþtum
+{9478}{9542}Tebrikler!|D-Z-015.
+{9546}{9595}Görevli 412-L sen misin?
+{9595}{9640}Evet o benim.
+{9642}{9712}Oh, ve, Sam.|Mutlu yýllar.
+{9712}{9747}Teþekkürler, Jack.
+{9747}{9792}Yerleþmen nasýl gidiyor
+{9794}{9816}Ýyi.
+{9817}{9864}Bilgiye ihtiyacým var.
+{9869}{9911}Burasý Haber Alma Teþkilatý,
+{9911}{9946}Haber Verme deðil.
+{9950}{10034}Amy, topu bu tarafa atma
+{10040}{10086}Ben Amy deðilim.|Holly'im.
+{10086}{10138}Sana Amy mi dedim?
+{10139}{10163}Üçüzlerden biri mi?
+{10163}{10197}Evet onlardan bir tanesi
+{10198}{10256}Barbara diðerlerini alýþveriþe götürdü
+{10260}{10303}Ona hala |Barbara mý diyorsun?
+{10332}{10385}Niye olmasýn?|Barbara güzel bir isim deðil mi
+{10385}{10420}Beðenmedin mi?
+{10461}{10514}Yo hayýr... güzel.
+{10531}{10584}Hadi þunlarý toplayalým.
+{10607}{10654}- Jack.|- Þu mavi olaný ver.
+{10654}{10701}Bir kadýn hakkýnda bilgiye ihtiyacým var
+{10701}{10806}Chloe,  Sammy amcana|kediyi nasýl hecelediðini göster
+{10806}{10842}Ben Holly'im.
+{10842}{10900}Üzgünüm tatlým|Evet öylesin.
+{10905}{10951}Bu o.
+{10952}{10975}Layton.
+{10976}{11023}Kahretsin
+{11028}{11105}Bununla ilgili neler biliyorsun?
+{11105}{11128}Çok fazla deðil.
+{11132}{11191}Sence B58-732 ne anlama geliyor?
+{11192}{11228}Buttle.
+{11233}{11268}Biliyordum.
+{11269}{11327}Her zaman çok hýzlýydýn.
+{11327}{11362}Baþka kim biliyor?
+{11366}{11392}Warrenn?
+{11397}{11421}Helpmann?|Bilmiyorum.
+{11426}{11524}Tek bildiðim|yanlýþ adamý tutukladýnýz.
+{11526}{11591}Haber Ýletme Teþkilatý|yanlýþ kiþiyi tutukladý.
+{11591}{11702}Ben onlara güvenerek|doðru kiþi olarak kabul ettim.
+{11706}{11742}Haksýz mýyým?
+{11743}{11789}Buttle`ý sen öldürdün.
+{11790}{11860}Sam, bu tür olaylarýn olmasýný|engellemek için
+{11866}{11935}oluþturulmuþ oldukça saðlam|bir mekanizma vardýr.
+{11936}{11983}Buttle`ýn dosyasýnda |Tuttle`ýn kalp durumuyla ilgili
+{11983}{12059}bilgi bulunmamasý |benim suçum deðildi.
+{12059}{12159}Jack, gerçekten oðrenmeliyim---
+{12159}{12182}Tuttle?
+{12187}{12233}Bay Tuttle`ý  buraya getirip
+{12235}{12317}Buttle ile ayný voltajda |sorgulamamýz gerekecek.
+{12317}{12375}Sonra evraklarý ayarlarýz.
+{12375}{12410}Tuttle ne yapmýþtý?
+{12414}{12475}Kendi baþýna çalýþan |bir düzen bozucu olduðunu sanýyoruz.
+{12475}{12526}Kendi baþýna çalýþan|düzen bozucu mu?
+{12527}{12632}Son olarak tüm dosyayý kapatabilmek için|þu Layton denilen kadýný bulmam gerekiyor.
+{12633}{12644}Onun suçu ne?
+{12648}{12719}Tuttle--- Buttle `ýn tutuklanýþýna|þahit oldu.
+{12720}{12777}Tehlikeli iddialarda |bulunuyor.
+{12779}{12837}Durumu cýkarlarý gereði|büyütmeye çalýsýyor.
+{12838}{12931}Birileri için çalýþtýðý kesin.|Ve o kiþiler biz deðiliz.
+{12935}{12955}Terorist?
+{12959}{12984}
+{13031}{13078}Sýradaki müþteri getirildi efendim.
+{13078}{13119}Teþekkürler, Myrtle.
+{13119}{13148}Ona ne yapýcaksýnýz?
+{13148}{13194}Tutuklama listesine koyacaðým.
+{13195}{13246}Güvenlik onu saat 6:00`ya kadar|buraya getirmiþ olur.
+{13276}{13310}Buraya mý?
+{13311}{13376}Ve tüm bildiklerini departman`ýn içinde|yaysýn diye mi?
+{13380}{13417}Yapma þunu.
+{13417}{13511}Býrak onu senin için bulayým.
+{13511}{13574}Ben,...|Onu etkisiz hale getirebilirim.
+{13575}{13679}Bu da ne demek Sam? |Hoþ olmayan bir duruma bulaþmak istemem.
+{13680}{13739}Güven bana, Jack.
+{13739}{13774}Tatlým, þunlari kaldýralým olur mu?
+{13774}{13862}Onun dosyasýný bana ver Jack.
+{13862}{13925}Güven bana, Jack.
+{13950}{13983}Pekala.
+{13985}{14026}Gel bakalým.
+{14026}{14061}Pekala,
+{14066}{14147}fakat, tanrý aþkýna,|sakýn kaybedeyim deme.
+{14149}{14212}Sen burda otur, tatlým.
+{14213}{14242}Sam?
+{14242}{14289}Merak etme, onu bulucam.
+{14294}{14389}Bu kýyafetle hiçbir yere giremezsin.
+{14389}{14424}Ýþte,
+{14457}{14500}Sunu dene.
+{14504}{14539}Hoþçakalýn.
+{14541}{14570}Güle güle.
+{14616}{14676}Jack, ben--
+{14676}{14717}Burda giyinebilirsin büyük adam.
+{14720}{14775}Merak etme sana bakmam.
+{15048}{15107}Býrak gitsin.
+{15165}{15242}
+{15301}{15349}Vazgeçmiyenlerden deðil mi?
+{16191}{16226}Sadece...
+{16227}{16330}Ýþ bölümü`ne gittim.
+{16759}{16806}Buna daha önce pul yapýþtýrmýþtýnýz.
+{16811}{16881}Þimdi neden pul yapýþtýrmýyorsunuz?
+{16882}{16946}Çünkü, zaten pul yapýþtýrdýk.
+{17152}{17187}Hayýr! Hayýr!
+{17222}{17261}Yukarý! Yukarý! Yukarý!
+{17356}{17408}Oh, Tanrým!
+{17409}{17450}Hadi!
+{17543}{17573}Kahretsin!
+{17948}{18000}Ordan çýk.
+{18004}{18053}Bu sayýn baþkanýn özel asansörüdür.
+{18058}{18110}Üzgünüm ama acelem var.
+{18112}{18147}Bekle! Buraya gel.
+{18147}{18205}Kimliðini bir görelim.
+{18209}{18240}Kimliðim mi?
+{18244}{18338}Oh, Tanrým!|Bu benim kýyafetim deðil.
+{18339}{18393}Benim adým Lowry.|Sam Lowry?
+{18396}{18445}Bunu daha sonra yapamaz mýyýz?
+{18445}{18480}Hayýr, efendim.
+{18485}{18555}Bununla ilgili |rapor vermem gerek.
+{18556}{18621}Þimdi bakalým, bugünün tarihi neydi?
+{18621}{18679}Bugün--|Oh, Tanrým, rapor beklemek zorunda.
+{18679}{18725}Hey, sen! Dur!
+{18726}{18754}Geri dön!
+{18779}{18826}Siz ikiniz, peþinden gidin!
+{18830}{18878}Hemen! Evet, efendim.
+{19312}{19346}Kýpýrdama!
+{19347}{19380}Niþan al!
+{19491}{19511}Durun!
+{19515}{19546}Ateþ etmeyin-- Oh!
+{19551}{19575}Durun!
+{19856}{19891}Çok iyi.
+{19895}{19937}Hýzlý davrandýnýz.
+{19938}{19989}Çok iyi iþ çýkardýnýz.
+{19991}{20073}Burdan sonrasý benim sorumluluðum.
+{20073}{20102}Ýyi.
+{20107}{20141}Gayet iyi.
+{20143}{20207}Um, Tamam. Uh...
+{20242}{20272}Bu...
+{20275}{20330}Gizli bir durum.
+{20330}{20365}Ve...
+{20369}{20469}Raporumda durumu ne kadar |iyi idare ettiðinizi
+{20471}{20506}belirteceðim.
+{20506}{20547}Çok iyi.
+{20582}{20650}Ýyi Noeller, Dawson.
+{20651}{20699}Benimle gelin lütfen.
+{20699}{20734}Tamam. Teþekkürler.
+{20734}{20769}Ýyi iþ çýkardýnýz.
+{20769}{20804}Harika.
+{20804}{20833}Çok iyi.
+{20833}{20874}Teþekkürler.
+{20892}{20927}Burdan lütfen.
+{20931}{20990}Düz devam edicez.
+{21173}{21254}Ofisime gitsek iyi olur.
+{21354}{21390}Yürümeye devam et.
+{21390}{21446}Hey! Dur!
+{21477}{21522}Geri dön!
+{21524}{21563}Þunlarý topla!
+{21565}{21645}Hadi!|Topla þunlarý!
+{21647}{21706}Utanç verici!
+{21706}{21756}Okuman yok mu?
+{21758}{21810}Seni cahil domuz.
+{21811}{21874}Buraya kendi ülkelerinizden gelip
+{21934}{21987}caddelerimizi mahvedebileceðinizi|sanýyorsunuz.
+{22004}{22033}Oh, Tanrým!
+{22096}{22131}Dur!
+{22401}{22472}Çok iyi!|Ýþte bu! Hadi gidelim!
+{22571}{22619}Ne yapýyorsun?
+{22623}{22670}Sürmeye devam et!
+{22671}{22729}Kamyonumdan in.
+{22730}{22769}Ne? Sadece sürmeye devam et.
+{22806}{22876}Bana dokundun.|Kimse bana dokunamaz.
+{22876}{22911}Ne yapýyorsun.
+{22915}{22958}lütfen, lütfen.|Sürmeye devam et.
+{22963}{23009}Sürer misin?|Oh, kahretsin.
+{23011}{23057}Kenara çekil.|Ben kullanayým.
+{23058}{23097}Hiç bir þeye dokunma.
+{23187}{23226}Her þey yolunda, memur bey.
+{23227}{23297}Her þey kontrol altýnda.|Teþekkürler.
+{23298}{23333}Oh, kahretsin!
+{23333}{23366}Dinle, lütfen.
+{23367}{23401}Sür. Güven bana.
+{23403}{23444}Çok büyük bir tehlikedesin.
+{23448}{23502}Dediðimi yap.
+{23503}{23549}lütfen sür.|Güven bana.
+{23553}{23613}Sürersen sana herþeyi anlatýrým.
+{23614}{23641}lütfen.
+{23661}{23719}Kamyonumdan dýþarý çýk.
+{23723}{23758}Üzgünüm, ben---
+{23759}{23830}Pekala! Pekala!|Bunu sen istedin!
+{23830}{23889}Ben Haber Alma Görevlisi  D---
+{23889}{23936}D-ZED-105!
+{23940}{23971}Seni tutukluyorum.
+{23975}{24086}Sür yoksa |kafaný havaya uçururum.
+{24135}{24164}Gidelim!
+{24631}{24678}Bak, özür dilerim.
+{24679}{24749}Yani, sana izinsiz dokunduðum için.
+{24749}{24778}Fakat--
+{24779}{24826}Merhaba. Benim adým Lowry.
+{24826}{24861}Sam Lowry.
+{24861}{24930}Ben...
+{25019}{25066}Buna inanmýyacaksýn.
+{25066}{25124}Kulaða inanýlmaz geleceðini biliyorum.
+{25124}{25218}fakat seni rüyalarýmda görüyordum.
+{25223}{25259}O þekilde deðil.
+{25259}{25323}Yani demek istediðim,|sana aþýðým.
+{25328}{25399}Ruyalarýmda sana aþýðým.
+{25403}{25473}Sýradýþý deðil mi?
+{25580}{25639}Herneyse, ...
+{25644}{25715}Sen--
+{25719}{25803}Bana inanmýyorsun deðil mi?
+{25808}{25926}Muhtemelen kafamýn iyi olduðunu |düþünüyorsundur. Deðil mi?
+{25926}{25967}Deli ya da çýldýrmýþ olduðumu.
+{26001}{26096}Hayýr. Bence|sen Çok çekicisin.
+{26131}{26158}Ne?
+{26159}{26195}Evet. Arkana yaslan.
+{26195}{26259}Sana bir bakayým.
+{26447}{26498}Oh, evet. Evet.
+{26500}{26586}Ýyi görünüþlü, Seksi.|Tam benim tipim.
+{26632}{26693}Sana inanmýyorum.
+{26693}{26733}Nedenmiþ?
+{26734}{26831}Böylesine harika bir þansý|hakketmiyorum iþte.
+{26863}{26908}Çok haklýsýn.
+{26995}{27030}Aah!
+{29479}{29553}Bana güvenmiyorsun, |öyle deðil mi?
+{30363}{30422}Buraya gelmemeliydik.
+{30426}{30492}Yapýlacak iþlerim var!
+{30496}{30550}Fakat bizi bekliyor olabilirler.
+{30554}{30589}Sen paranoyaksýn.
+{30591}{30636}Biraz gerçekçi ol.
+{30638}{30679}Bekle, bekle, bekle!
+{30749}{30831}Lorry`i alýp burdan ayrýlmalýyýz.
+{30835}{30870}Öyle mi? Nereye peki?
+{30871}{30906}Herhangi bir yere. Olabildiðince uzaða.
+{30907}{30942}Öyle bir yer yok.
+{30942}{30978}Sadece uzaklara!
+{30978}{31024}Bu yeteri kadar uzak deðil.
+{31024}{31065}Bekle!
+{31421}{31450}Jill!
+{32722}{32784}Paketin içinde ne var?
+{32786}{32827}Noel hediyesi.
+{32827}{32867}Oh.
+{33037}{33071}Aðýrmýþ.
+{33073}{33107}Agýr bir Noel hediyesi.
+{33108}{33143}Oh.
+{33143}{33214}Bana güvenmiyorsan aç.
+{33218}{33272}Hayýr, hayýr. Sorun deðil.
+{33277}{33323}Ambalajýný bozmak istemem.
+{33325}{33395}Herneyse, eðer bana güveniceksen,
+{33395}{33454}bende sana güvenmeliyim.|deðil mi?
+{33618}{33664}Haber Alma Teþkilatýnda
+{33664}{33735}yaptýklarýnýz seni rahatsýz etmiyor mu?
+{33735}{33776}Ne?
+{33776}{33852}Teroristleri mi tercih ederdin peki?
+{33875}{33916}Bir tane geliyor.
+{33945}{34027}Kaç teröristle karþýlaþtýn Sam?
+{34031}{34068}Gerçek terörist?
+{34115}{34156}Gerçek terörist mi?
+{34156}{34197}Evet!
+{34238}{34272}Þey, ben...
+{34273}{34330}Bu benim ilk günüm.
+{34618}{34642}Uh-oh.
+{34647}{34682}Yolu kapatmýþlar.
+{34739}{34786}Ne yapýcaz?
+{34787}{34822}Sakin ol.
+{34823}{34858}Yavaþlama!|Durma!
+{34858}{34917}lütfen, söylediðimi yap.
+{34917}{34958}Düz devam et.
+{34958}{35046}Ne yapýyorsun|seni aptal--
+{35163}{35203}Ooh!
+{35326}{35361}Baþardýk!
+{35362}{35408}Delip geçtik!
+{35409}{35485}Baþardýk! Oowee!
+{35485}{35537}
+{35608}{35637}Daha hýzlý!
+{35637}{35682}Çekil üzerimden!
+{35748}{35818}Sürmeye devam et. Daha hýzlý!
+{35823}{35854}Gaza bas.
+{35854}{35906}Býrak beni!
+{36099}{36140}Hayýr!
+{36215}{36263}
+{36708}{36755}Daha hýzlý git. Daha hýzlý!
+{36896}{36936}Evi serbest býrakalým.
+{36940}{36977}Hiçbirþeye dokunma.
+{37007}{37042}Ona dokunma!
+{37562}{37632}Baþardýk! |Baþardýk!
+{37633}{37707}Baþardýk!|Baþardýk!
+{37842}{37879}Oh, hayýr.
+{38218}{38300}Noel için ne istersin?
+{38300}{38352}Bana ait bir kredi kartý.
+{38464}{38504}Hmm.
+{38587}{38633}Neden buraya geldik?
+{38634}{38667}Baþýmdan git!
+{38669}{38739}Bak, neden benim daireme gitmiyoruz.
+{38739}{38786}Bana güvenmiyor musun?
+{38790}{38833}Sana güvenmek mi?|kamyonumu kaçýran,
+{38838}{38927}iþimi kaybetmeme sebep olan |þehirdeki tüm güvenliðin aradýðý kiþiye mi?
+{38927}{38967}Tabi sana güveniyorum.
+{38968}{38991}Sadece yardým ediyordum.
+{38991}{39038}Pekala, sen bana güvenmiyorsan|bende sana güvenmiyorum.
+{39038}{39085}Bu paketin içinde ne var?
+{39085}{39159}Böyle koruduðuna göre|özel bir þey olmalý
+{39160}{39231}sen özel deðilsin ama|senide korudum 
+{39231}{39266}Açýyorum.
+{39266}{39301}Ona dokunma.
+{39301}{39341}Ooh! Ah!
+{39530}{39565}Sam!
+{39569}{39604}Benim!
+{39606}{39652}Ve Shirley!
+{39705}{39746}Bayan. Terrain.
+{39834}{39879}Böyle iyi!
+{39881}{39908}Sam.
+{39910}{39945}Merhaba, Shirley.
+{39985}{40039}Oh, tanrým.
+{40039}{40101}Sana ne oldu böyle?
+{40103}{40166}Sorunlarýmda bazý pürüzler ortaya çýktý.
+{40167}{40273}Fakat Doktor. Chapman|yakýnda ayaða kaldýp 
+{40273}{40320}Bir ceylan gibi|sekeceðimi söylüyor.
+{40320}{40408}Annen için noel hediyesi mi|alýyorsun?
+{40412}{40447}Ne?
+{40448}{40525}Oh, evet,|küçük bir þeyler.
+{40530}{40618}Shirley ve ben|buraya sýkça geliriz.
+{40642}{40694}Romantik iç çamaþýrlarýný|çok seviyoruz.
+{40694}{40724}Gerçekten mi?
+{40751}{40782}Sam...
+{40782}{40834}Beni bunlarýn içinde hayal etsene.
+{40940}{40998}Oh, tanrým.
+{40999}{41062}Sam, nereye gidiyorsun?
+{41063}{41097}Sam!
+{41485}{41520}Jill!
+{41941}{41998}Ýyi misin?
+{42058}{42105}Haketmiyorsun.
+{42105}{42164}Ne kadar aptalmýþým.
+{42169}{42205}Nasýl yapabildin?
+{42205}{42263}Þu insanlarýn haline bak.
+{42263}{42314}Bombaymýþ.
+{42315}{42363}Önceden açmalýydým.
+{42363}{42433}Yanýmda duruyordu.
+{42433}{42497}Al sana bomba, aþaðýlýk herif.
+{42597}{42655}Senin gibi resmi maymunlar için.
+{42655}{42696}bir rüþvet.
+{42696}{42737}Oh, tanrým.
+{42778}{42824}Kalkta bir iþe yara.
+{42947}{42999}Ýþte.
+{43077}{43135}
+{43139}{43192}Ona dokunmayýn.|O yaralý.
+{43239}{43270}Lanet olsun.
+{43270}{43305}Ona dokunma!
+{43309}{43346}Hayýr!
+{43410}{43440}Dur!
+{43631}{43662}Sam, hayýr!
+{43666}{43703}Sam, arkanda!
+{43961}{44058}Bu kasklar |insanýn kafasýný kaþýndýrýyor.
+{44059}{44094}Evet,
+{44095}{44154}ve insaný terletiyor.
+{44154}{44223}Gözüme giren terden
+{44224}{44317}nereye gittiðimi göremiyorum.
+{44318}{44347}Ben þanslýyým, 
+{44352}{44398}kaþlarým çok kalýn.
+{44399}{44498}Akan ter kulaðýma doðru gidiyor.
+{44499}{44528}Jill!
+{44532}{44564}Bu kim?
+{44568}{44616}Haber Alma'dan biri.
+{44621}{44669}Hep etrafta gezinirler.
+{44673}{44728}Nerde o?
+{44767}{44815}Jill, sen misin?
+{44815}{44850}Afedersiniz, efendim.
+{44854}{44919}Bu devlet malýdýr.
+{44950}{44990}Jill.
+{45018}{45072}Jill. Cevap ver.
+{45102}{45161}Bir kýz'ý arýyorum.
+{45161}{45231}Sarý saçlý, |orta boylu, yeþil gözlü.
+{45235}{45317}Bütün bunlarý depoya vardýðýmýzda|kontrol ederler.
+{45319}{45366}Buna izin veremeyýiz.
+{45366}{45436}Bu bizim iþimiz deðil.
+{45436}{45498}Jill, burda olmalýsýn.
+{45499}{45557}Eðer bir yakýnýysanýz,You can complete an application
+{45559}{45605}bir dilekçe yazabilirsiniz.
+{45606}{45641}Artýk durun lütfen, efendim.
+{45641}{45676}Jill! Jill.
+{45676}{45723}Oh, tanrým, oh, tanrým.
+{45727}{45764}Hayýr!
+{45816}{45863}Bunun için üzgünüm efendim.
+{45881}{45920}Kurallar.
+{46091}{46179}Kayýtlar bölümünde l don't care|nasýl çalýþtýðýnýzý bilmiyorum fakat,
+{46184}{46249}Haber Alma Teþkilatý |idari bir bölümdür.
+{46249}{46302}Sahip olduðumuz |ünden gurur duyarýz.
+{46302}{46349}Onu koruruz.|Lanet olsun, Lowry!
+{46353}{46443}Þu kiþisel taþýma aracý meselesini|hala çözmemiþsin.
+{46447}{46489}Ve bu daðýnýklýk nedir?
+{46489}{46571}Boþ bir masa |verim oraný yüksek masadýr.
+{46575}{46606}Güvenlikten soruþturma kayýtlarý.
+{46610}{46657}Merkezi Banka araþtýrmalarý.
+{46659}{46706}Geri dönmemiþ makbuzlarla ilgili 
+{46706}{46741}açýklama bildirileri.
+{46741}{46782}Bulmam gereken---
+{46782}{46817}Kapa çeneni!
+{46821}{46887}Burda neler dönüyor bilmiyorum,
+{46892}{46987}fakat bizi, yüksek mevkilerdeki|arkadaþlarýn ve yakýnlarýnla
+{46987}{47046}korkutabileceðini sanma.
+{47049}{47081}Þimdi kendine çeki düzen ver.
+{47085}{47145}Bay. Warrenn, bu konuda ne yapýcaz?
+{47145}{47174}Lime...
+{47174}{47243}Bilgisayarýný kullanmam lazým.
+{47245}{47315}Üzgünüm. Þu an biraz meþgulum.
+{47320}{47367}Seninde yapacak iþlerin vardýr sanýrým.
+{47549}{47582}Kahretsin!
+{47583}{47643}Hadi jack, 
+{47646}{47713}tabi ki tutuklanýp tutuklanmadýðýný |öðrenebilirsin.
+{47717}{47823}Korkarým bu durum|son konuþtuðumuzdan bu yana
+{47824}{47871}oldukça karýþýk bir hale geldi.
+{47871}{47906}Fakat o masum Jack.|O yanlýþ bir þey yapmadý.
+{47910}{48040}Bunu bugün ölen güvenlik görevlilerinin|karýlarýna anlat.
+{48041}{48076}Bu iþte yalnýz deðil.
+{48076}{48146}Aldýðým bir habere göre Tuttle|bir daireyi harap etmiþ.
+{48146}{48193}ve Merkezi Hizmetlere |sabotajda bulunmuþ.
+{48193}{48256}Aslýna bakarsan burasý senin|bulunduðun blokta.
+{48257}{48322}Senin yerinde olsam|gözlerimi açýk tutardým.
+{48326}{48351}Hoþçakal.
+{48355}{48460}Jack, Tuttle ile Jill"in ortak |olduðunu düþünmüyorsun deðil mi?
+{48462}{48490}Düþünüyorum.
+{48491}{48543}Herþey birbirine baðlýEverything's connected.
+{48544}{48602}Neden ve sonuç,|bu iþin güzel yaný bu.
+{48603}{48671}Biz baðlantýlarý takip edip|ortaya çýkarýrýz.
+{48731}{48766}Bu Buttle-Tuttle karmaþasý
+{48766}{48813}açýkça içerden planlanmýþ.
+{48817}{48848}Hoþçakal.
+{48853}{48888}Oh, fakat, Jack!
+{48889}{48928}O masum, Jack.
+{48930}{49030}Sam, her zaman birbirimize |yakýndýk, öyle deðil mi?
+{49030}{49063}Evet, Jack.
+{49065}{49135}Bu iþ patlak verene kadar,
+{49135}{49194}sadece bende uzak dur.
+{49194}{49229}Fakat--
+{50482}{50522}Aah!
+{52185}{52232}Oh, tanrým!
+{52259}{52290}Sen.
+{52295}{52331}Sen.
+{52331}{52366}Bu sensin.
+{52366}{52401}Neler oluyor?
+{52405}{52460}Neler oluyor?
+{52465}{52536}Termostatýn bozulmuþ,|sonrada baþka þeyler.
+{52541}{52583}- baþka þeyler!
+{52587}{52641}- Daireme ne oldu?|- Alo.
+{52646}{52712}Ne? Telefon sana.
+{52712}{52762}Fakat, artýk burda oturmadýðýna göre.
+{52763}{52810}- Ne?|- Tam olarak öyle.
+{52811}{52858}Bunun ne olduðunu biliyor musun?
+{52858}{52917}Bu bir H2206,
+{52922}{53004}Bu dairenin mecburi |tamir iþleri için
+{53004}{53063}yetkili makamdan geçici |resmi emir.
+{53069}{53116}- Tamir iþleri!|- Ne?
+{53180}{53227}Makbuzunuzu unutmayýn!
+{53227}{53279}Makbuzunuzu unutmayýn!
+{53280}{53350}Üzgünüm,|gerekli evraklar konusunda titizimdir.
+{53355}{53414}Gerekli evraklar!
+{53443}{53483}Aþaðýlýk herifler!
+{53730}{53759}Tuttle.
+{53777}{53824}Ne yapýyorsun?
+{53824}{53853}Shh.
+{54087}{54122}Tanrým.
+{54275}{54304}Oohwee.
+{54975}{55034}Burasý soðumaya baþladý.
+{55035}{55082}Pantalonuna bak.
+{55082}{55118}Oh, tanrým.
+{55121}{55170}Çok kötü kokuyor.
+{55209}{55270}Bokla doluyoruz.
+{55293}{55352}Oh, tanrým!
+{55393}{55457}Oh, tanrým.
+{55531}{55568}Oh.
+{55568}{55597}Oh.
+{55650}{55691}Oh, kahretsin!
+{55742}{55814}Bu iþte hep beraberiz evlat.
+{56094}{56122}Jill!
+{56123}{56154}Jill!
+{56177}{56206}Jill.
+{56228}{56280}Oh, tanrým.|Ýyi misin?
+{56282}{56341}Sana birþey oldu mu?
+{56341}{56404}Yüzün--|yaralandýn mý?
+{56434}{56476}Um...|Hayýr.Ben iyiyim.
+{56479}{56505}Bu...
+{56505}{56534}Þey...
+{56581}{56657}Senin için çok endiþelendim.
+{56745}{56778}Ahem.
+{56959}{56991}Kimdi o?
+{56995}{57026}Bir dost.
+{57031}{57066}
+{57067}{57160}Bir an önce burdan gidelim.
+{57165}{57213}Hadi. Çabuk.
+{57728}{57762}Burdan.
+{57810}{57857}Çabuk!
+{58694}{58776}Bunun güvenli |olduðuna emin misin?
+{58776}{58811}Evet. Evet, kesinlikle.
+{58811}{58870}Annem dýþarda,
+{58870}{58975}Noel'i estetik uzmanlarýyla geçiriyor.
+{59034}{59098}Sargýlarý yarýn açýlacak.
+{60052}{60111}Arkamdan kapýyý kilitle.
+{60111}{60157}Telefonlara cevap verme.
+{60162}{60210}Ýþim uzun sürmez.
+{60238}{60269}Nereye gidiyorsun?
+{60273}{60319}Seni kurtarabilirim.
+{60321}{60355}Güven bana.
+{60356}{60402}Bensiz gidemezsin.
+{60403}{60442}
+{61229}{61322}Bay. Helpmann'ýn ofisini tarif edebilir misin?
+{61327}{61420}Uygun makamlar aracýlýðý ile gitmeniz gerekir.
+{61422}{61515}Ve sen bana bu makamlarý |söyliyemezsin.
+{61515}{61562}çünkü bu gizli bir bilgidir.
+{61566}{61648}Hükümetin en parlak ve baþarýlý |kiþileri seçtiðini görmek
+{61650}{61709}memnuniyet verici, efendim.
+{61709}{61748}Teþekkürler, Dawson.
+{61812}{61861}
+{61865}{61908}
+{61925}{61995}- Ýyi geceler, Bay. Lime.|- Ýyi geceler, Dawson.
+{62329}{62410}Ýlk noelde 
+{62411}{62487}Melekler dedi ki 
+{62491}{62574}fakir çobanlar 
+{62575}{62651}tarlalarda uzanýp yattýðýnda 
+{62651}{62739}uzandýklarý tarlalarda 
+{62744}{62791}Hayýr. hayýr. hayýr, Arthur.
+{62791}{62856}Sol notasýný tiz söylüyorsun.|Nefes alýþýnla ilgili.
+{62860}{62920}"Noel" dedikten sonra derin bir nefes al.
+{62920}{62973}Hazýr!|Bir, iki, üç.
+{62978}{63061}Ýlk noelde
+{63065}{63131}Melekler dedi ki.
+{63242}{63348}'Ere l am, J.H.
+{63348}{63406}Makinedeki hayalet.
+{63410}{63505}E, l, A, M, J, H.
+{64049}{64085}Bay. Helpmann?
+{64313}{64352}Bay. Helpmann?
+{64990}{65028}Bay. Helpmann?
+{67028}{67058}Jill?
+{67135}{67164}Jill?
+{67521}{67550}Jill?
+{68282}{68321}Kim var orda?
+{68538}{68581}Ne düþünüyorsun?
+{68585}{68622}Bu ben miyim?
+{68797}{68826}Evet?
+{68961}{69008}Artýk varolmuyorsun.
+{69031}{69066}Seni öldürdüm.
+{69183}{69230}Jill Layton öldü.
+{69435}{69486}Ölülere ilgi duyar mýsýn?
+{69488}{69527}Hmm?
+{71010}{71049}Ahem. Mutlu noeller.
+{71390}{71442}Yöneticiye göre bir þey?
+{71882}{71917}O öldü.
+{71917}{71987}Bu bir arkadaþým.
+{72040}{72073}Hayýr!
+{72075}{72099}Hayýr!
+{72099}{72127}Hayýr!
+{72128}{72163}
+{72290}{72368}93-HS-608, aþaðýda sayýlan suçlardan|yargýlanýyorsunuz.
+{72373}{72443}Toplumun düþmanlariyla iþbirliði yapmak.
+{72444}{72491}Bir kaçaðý adaletten gizlemek.
+{72496}{72579}Gizli dökümanlarý yetkisi bulunmayan|kiþilere sýzdýrmak.
+{72583}{72620}Hükümet malýna verilen zararlar: 
+{72620}{72666}belirsiz sayýda kiþisel taþýma aracýný |zimmetine geçirmek.
+{72671}{72719}söz konusu araçlarý kiþisel |çýkarlarý doðrultusunda kullanma.
+{72724}{72794}Kayýtlar Bölümü müdürünün |imzasini taklit etmek.
+{72795}{72883}Hükümetin sermayesini|Resmi olmayan kanallar yoluyla
+{72887}{72930}Buttle adýna bir çek düzenliyerek|kullanmaya çalýþmak.
+{72935}{72982}Merkezi Hizmetlerin borularýna zarar vermek.
+{72982}{73053}Ýþlerini yapmakta olan güvenlik|görevlilerine engel olmak.
+{73057}{73105}Hükümetin ve|Haber Alma Teþkilatý'nýn
+{73105}{73152}þerefli adýna|leke sürmek.
+{73156}{73210}Haber Alma Teþkilatý'nýn|iç haberleþme sistemini
+{73211}{73275}engellemeye çalýþmak.
+{73275}{73334}Hükümetin zamanýný ve kaðýtlarýný|boþa harcamak.
+{73355}{73439}Ya burda sözü geçen suçlarýn|yedi veya sekizini kabul ederek
+{73439}{73509}masraflarýnýzý azaltabilirsiniz,
+{73514}{73595}ya da |size sunduðumuz
+{73597}{73631}makul faizli kredi imkanlarindan yararlanabilirsiniz.
+{73644}{73714}Size 30 yýl süreyle yüzde 2'lik |bir anlaþma sunabiliriz.
+{73714}{73784}fakat bunun için ayrýca bir poliçe|satýn almanýz gerekebilir.
+{73796}{73911}Eðer kendi belirlediðiniz bir þey seçerseniz,|mesela elektrik masraflarý gibi,
+{73917}{73987}Tüm yapmanýz gereken bu formu|doldurmak.
+{73993}{74030}Ýyi düþünün.
+{74035}{74112}Finansal konularda her zaman|dikkatli karar vermek gerek.
+{74118}{74188}Suçunuzu seçin.|Herkes için daha kolay ve ucuz.
+{74305}{74393}Sam, seninle ne yapýcaz|bilemiyorum.
+{74452}{74487}Jill nerde?
+{74528}{74610}Onu bulmam lazým. Lütfen.
+{74610}{74666}Beni burdan çýkarmalýsýn.
+{74667}{74738}Sam, neler hissettiðini çok iyi biliyorum.
+{74743}{74814}sana bir þiþe|arpa suyu getirdim.
+{74838}{74897}Oh, lütfen, bana yardým et.
+{74897}{74983}Emin ol elimden gelen |herþeyi yapýyorum.
+{74984}{75060}fakat oyunun kurallarý|çoktan koyuldu.
+{75065}{75131}Hepimiz bu kurallara uymalýyýz.|Ben bile.
+{75177}{75259}Hepsi bir hata.|Bunu anlamalýsýn.
+{75263}{75388}Evet, departmanýn bakýþ açýsýna göre...sen bir...
+{75388}{75447}Ben terörist deðilim.
+{75447}{75528}Bunu bilmen gerekir.|Lütfen burdan çýkar beni.
+{75529}{75609}Sam, Haber Alma Teþkilatý'nýn|masraflarý yüksektir
+{75611}{75686}ve sen iþbirliði yapmayarak |bize çok pahalýya mal oluyorsun.
+{75687}{75721}Lütfen.
+{75745}{75796}Lütfen, Bay Helpmann.
+{75815}{75862}Jill'i bulmama yardým et.
+{75896}{75960}Jill. evet.
+{75995}{76056}Sam, sanýrým sana|söylemem gereken bir þey var.
+{76079}{76160}Korkarým o uzun bir yolculuða |çýktý
+{76231}{76278}Ve dönmeyecek.
+{76311}{76353}Öldü mü?
+{76354}{76389}Evet.
+{76413}{76481}Tüm bu olanlar biraz karýþýk gelebilir fakat,
+{76483}{76530}görünüþe göre tutuklamaya karþý gelirken|öldürülmüþ.
+{76605}{76640}Hayýr.
+{76641}{76710}Evet tamam,|bunu ben yaptým.
+{76781}{76846}Garip olan þey ise|iki kere ölmüþ görünmesi
+{76846}{76910}Sanýrým bir karýþýklýk olmuþ
+{76979}{77021}Ýki kere mi?
+{77021}{77066}Hepsi bu.
+{77067}{77138}Tüm söyliyebileceðim,|son düzlükte tökezleme 
+{77143}{77220}Bitiþ çizgisine yaklaþtýn|diðer tarafta görüþürüz.
+{77220}{77291}Anneni düþün,|iþbirliði yap.
+{77296}{77354}Ýyi þanslar.|Gözün topta olsun.
+{77355}{77425}Gitmeliyim,|Yetimleri bekletmesem iyi olur.
+{77617}{77683}
+{78116}{78209}Boþuna direnme evlat.|Çabuk itiraf et.
+{78239}{78313}Eðer uzun süre direnirsen|güvenilirliðin azalýr.
+{79549}{79579}Jack?
+{79707}{79749}Jack!
+{79749}{79777}Jack!
+{79778}{79806}Jack!
+{79807}{79841}Kes sesini!
+{79843}{79889}Jack.
+{79890}{79925}Jack, Ben masumum.
+{79925}{79960}Lütfen bana yardým et.
+{79960}{79993}Aþaðýlýk herif!
+{80013}{80046}Jack.
+{80047}{80100}Tüm bunlar bir hata.
+{80100}{80153}Maskeni çýkar.
+{80288}{80334}Seni aptal herif!
+{80352}{80381}Jack.
+{80381}{80452}Bana bunu nasýl yapabildin?
+{80455}{80533}- Korkuyorum.|- Sence ben nasýl hissediyorum?
+{80533}{80580}Seni pislik|kapa çeneni!
+{80692}{80732}Bu...
+{80732}{80790}profesyonel bir iliþki.
+{80814}{80844}Jack.
+{80885}{80937}Jack, hayýr, yapamazsýn.
+{80972}{81019}Hayýr, Jack. Lütfen.
+{81019}{81071}Jack, hayýr! Yapma.
+{81072}{81119}Lütfen, Jack. Hayýr!
+{81510}{81538}Sam.
+{81563}{81593}Sam!
+{82202}{82236}Ýyi misin?
+{82237}{82265}Tuttle!
+{82266}{82301}Bana Harry de.
+{83460}{83495}Gidelim!
+{89061}{89091}Harry!
+{90939}{90976}Ah, Bay. Lowry.
+{90976}{91033}Gelebilmenize çok sevindim.
+{91035}{91085}Burdan lütfen.
+{91215}{91251}Acý bir kayýp.
+{91269}{91316}Anneniz son anlarýnda onunlaydý.
+{91421}{91473}Bayan. Terrain hediyelerin 
+{91474}{91515}en güzeline sahip oldu.
+{91550}{91606}Aramýza fiziksel olarak yepyeni gelmiþti.
+{91607}{91701}Bizden ayrýlýrken o kadarda yeni deðildi.
+{91702}{91753}Fakat ruhlarýmýz asla yaþlanmaz.
+{91772}{91830}Ahem. Bayan Lowry.
+{91936}{91981}Anne?
+{92005}{92035}Oh, Sam.
+{92077}{92118}Anne? Anne?
+{92164}{92217}Beni böyle çaðýrmayý kes.
+{92262}{92297}Anne!
+{92298}{92332}Anne, lütfen!
+{92334}{92415}- Bu adam sizi rahatsýz mý ediyor?|- Tsk, tsk, tsk.
+{92416}{92450}Anne!
+{92486}{92574}Git baþýmdan.|Bu çok kutsal bir an.
+{97184}{97186}Artýk aramýzda deðil  Jack.
+{97187}{97257}Korkarým haklýsýnýz Bay. Helpmann.
+{97261}{97310}Gitmiþ.
+{97420}{98163}.Altyazýlar.|.:Savas Oguz:.|savas@gitarci.com
+{98170}{98240}Then
+{98240}{98374}Tomorrow was another day 
+{98375}{98498} The morning found me miles away 
+{98498}{98626} With still a million things|to say 
+{98685}{98755} Now 
+{98760}{98884} As twilight beams|the sky above 
+{98884}{99013} Recalling thrills|of our love 
+{99013}{99124} There's one thing|l'm certain of 
+{99128}{99198} Return 
+{99199}{99269} l will 
+{99271}{99353} To old 
+{99353}{99458} Brazil 
+{99483}{99633}www.OpenSubtitles.org adresinden tüm reklamlarý kaldýrmak için bizi destekleyin ve VIP üye olun.
